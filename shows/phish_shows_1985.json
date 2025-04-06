@@ -1,0 +1,743 @@
+[
+  {
+    "showdate": "1985-03-04",
+    "venue": "Hunt's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was an African Relief benefit for OXFAM.Â Fire Up the Ganja (which is the song Fire on the Mountain with different lyrics) featured Bobby Hackney and Jah RoyÂ of the band Lambsbread on vocals. This setlist is incomplete and featured the first known version of Anarchy and first known Phish version of Fire Up the Ganja. This is the first known version of Skippy to have McGrupp lyrics. (This song was called Skippy by the band at this time, even though it eventually became McGrupp.)",
+    "tour_name": "1985 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Anarchy",
+          "transition": true,
+          "footnote": "First known version."
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Fire Up the Ganja",
+          "transition": true,
+          "footnote": "First known Phish version; Bobby Hackney and Jah Roy on vocals."
+        },
+        {
+          "song": "Skippy the Wondermouse",
+          "transition": true,
+          "footnote": "With McGrupp lyrics."
+        },
+        {
+          "song": "In the Midnight Hour",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1985-02-01",
+    "venue": "Doolin's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "It is unconfirmed if this setlist is correct for this date, as it is identical to the first set of 2/3/86. If the setlist is correct, this show marked the first known performances of Mike's Song, Dave's Energy Guide, You Enjoy Myself, Alumni Blues, Letter to Jimmy Page, Prep School Hippie, and Run Like an Antelope.",
+    "tour_name": "1985 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Prep School Hippie",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1985-03-08",
+    "venue": "Doolin's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show featured the first known performance of Sneakin' Sally through the Alley.",
+    "tour_name": "1985 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1985-03-16",
+    "venue": "Doolin's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "During the jam, cartoons were shown behind the band on six television screens. The cartoons got faster and faster while the band did the same. If the 2/1/85 setlist is not correct for that date, then this show featured the first known performances of Alumni Blues and Mike's Song.",
+    "tour_name": "1985 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Alumni Blues",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Skippy the Wondermouse",
+          "transition": true
+        },
+        {
+          "song": "Bertha",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false,
+          "footnote": "First known performance."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1985-04-06",
+    "venue": "Finbar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was a benefit for Tools for Peace and Justice in Central America and featured the first known performances of Hydrogen, Revolution, and McGrupp and the first known Phish performances of Big Leg Emma and Quinn the Eskimo. The jam after Slave may have been Back Porch Boogie Blues. The end of Mike's Song contained a vocal section with lyrics to the effect of \"Life is not what it seems.\"&nbsp;Revolution was dedicated to Anne Labrusciano and Trey explained it used to be entitled \"Leunig&rsquo;s Sucks\" but now it&rsquo;s entitled &ldquo;Revolution&rdquo;. Run Like An Antelope was introduced by Trey as &ldquo;Run Like an Antelope Out of Control&rdquo;. McGrupp And The Watchful Hosemasters was narrated rather than sung.&nbsp;If the 2/1/85 setlist is not correct for that date, then this show featured the first known performances of Letter to Jimmy Page, Dave's Energy Guide, and Run Like an Antelope.",
+    "tour_name": "1985 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "I Am Hydrogen",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Don't Want You No More",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Wild Child",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false,
+          "footnote": "Vocal section at the end with lyrics to the effect of \"Life is not what it seems.\""
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Big Leg Emma",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Revolution",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Anarchy",
+          "transition": true
+        },
+        {
+          "song": "I Wish",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "First known performance."
+        }
+      ],
+      "2": [
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false,
+          "footnote": "First known performance. Narrated rather than sung."
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1985-05-03",
+    "venue": "University of Vermont",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was performed at the Last Day Party on UVM&rsquo;s Redstone campus. It marked Page&rsquo;s debut with the band, as he sat in during portions of the third set. In fact, Big Leg Emma was preceded by an announcement from Trey that &ldquo;our friend Page, from Goddard, will sit in later.&rdquo; Bring it On Home featured Bobby Brown on harmonica and Whipping Post featured Jeff on vocals. McGrupp was dedicated to Fish. Makisupa featured a reggae jam. This show featured the only known Phish performances of Bring It On Home and The Other One.",
+    "tour_name": "1985 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": true
+        },
+        {
+          "song": "Big Leg Emma",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Wild Child",
+          "transition": true
+        },
+        {
+          "song": "Can't You Hear Me Knocking",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Bring It On Home",
+          "transition": false,
+          "footnote": "First known Phish performance; Bobby Brown on harmonica."
+        }
+      ],
+      "3": [
+        {
+          "song": "Scarlet Begonias",
+          "transition": false
+        },
+        {
+          "song": "Eyes of the World",
+          "transition": false
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false,
+          "footnote": "Jeff on vocals."
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Reggae jam."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "The Other One",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        }
+      ],
+      "e": [
+        {
+          "song": "Anarchy",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1985-05-31",
+    "venue": "Slade Hall, University of Vermont",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was a benefit for the Union of Concerned Students (UCS), a group that worked with anti-Apartheid forces to help pull UVM investments out of South Africa. Herbal Tea also played at this show. It appears that Big Leg Emma may have been played, but the setlist is unknown.",
+    "tour_name": "1985 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Big Leg Emma",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1985-09-26",
+    "venue": "WRUV Radio",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This was an in-studio set that was aired live on the WRUV &ldquo;Exposure&rdquo; radio show. Before Antelope, the band invited fans to the Slade Hall gig on the following night. Prep School Hippie was introduced as &ldquo;Trust Fund Baby.&rdquo; This performance was the band&rsquo;s first with Page as an official member and featured the first known versions of Dog Log and Prep School Hippie.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Dog Log",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Prep School Hippie",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1985-09-27",
+    "venue": "Slade Hall, University of Vermont",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was performed on the Redstone campus,&nbsp;is likely incomplete based on song and tape cuts, and may have been two sets instead of three. This show featured the first known performances of Possum,&nbsp;Melt the Guns, and T.V. Theme&nbsp;and the first known public performance of Prep School Hippie. Boxes of macaroni and cheese were passed out to the audience to&nbsp;shake along with the band during Melt the Guns, T.V. Theme, and Sneakin&#39; Sally. Melt the Guns included a macaroni and cheese vocal&nbsp;jam.&nbsp;Anarchy and Revolution were performed twice with the second versions being sung as &quot;Sex Mob&quot; and &quot;Dead Cops&quot; respectively. Trey jokingly introduced McGrupp as &quot;Love the One You&#39;re With.&quot; The segue between McGrupp and Cities included a jam that would eventually become the end of David Bowie. The band handed out boxes of macaroni and cheese during Melt the Guns for the audience to use as shakers. The source of this setlist is phish.com.",
+    "tour_name": "1985 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Low Rider",
+          "transition": false,
+          "jam": true
+        },
+        {
+          "song": "Big Leg Emma",
+          "transition": true
+        },
+        {
+          "song": "Wild Child",
+          "transition": true
+        },
+        {
+          "song": "Back Porch Boogie Blues",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true,
+          "footnote": "First known version."
+        },
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "In the Midnight Hour",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Melt the Guns",
+          "transition": false,
+          "footnote": "First known version; with a macaroni and cheese vocal jam. Audience shook boxes of macaroni and cheese."
+        },
+        {
+          "song": "T.V. Theme",
+          "transition": true,
+          "footnote": "First known version. Audience shook boxes of macaroni and cheese."
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true,
+          "footnote": "Audience shook boxes of macaroni and cheese."
+        },
+        {
+          "song": "Prep School Hippie",
+          "transition": false,
+          "footnote": "First known public performance."
+        }
+      ],
+      "3": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Anarchy",
+          "transition": true
+        },
+        {
+          "song": "Revolution",
+          "transition": true
+        },
+        {
+          "song": "Anarchy",
+          "transition": true,
+          "footnote": "Sung as \"Sex Mob\""
+        },
+        {
+          "song": "Revolution",
+          "transition": true,
+          "footnote": "Sung as \"Dead Cops\""
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1985-10-17",
+    "venue": "Finbar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Some fans have labeled the show-opening jam a &ldquo;<em>Star Trek</em> Jam.&rdquo;",
+    "tour_name": "1985 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "T.V. Theme",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": true
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": true
+        },
+        {
+          "song": "Revolution",
+          "transition": true
+        },
+        {
+          "song": "Anarchy",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1985-10-30",
+    "venue": "Hunt's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show contained the first known version&nbsp;of Harry Hood&nbsp;and the first known public version of Dog Log. Trey remarked during the intro to Hood that &quot;this one is a story of the man who lives directly across the street from us right now.&quot; (The house on King Street where Trey, Fish, and Brian Long lived was across the street from the Hood factory.) Slave was dedicated to &ldquo;Brickle.&rdquo; Trey&rsquo;s humorous comments about being &ldquo;back on Planet Earth&rdquo; were in reference to the events at Goddard on October 26. Alumni had a reference to pumpkin pie. This setlist is likely incomplete.",
+    "tour_name": "1985 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Harry Hood",
+          "transition": true,
+          "footnote": "First known version."
+        },
+        {
+          "song": "Dog Log",
+          "transition": false,
+          "footnote": "First known public version."
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "I Wish",
+          "transition": true
+        },
+        {
+          "song": "Revival",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false,
+          "footnote": "Lyric referenced pumpkin pie."
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Prep School Hippie",
+          "transition": true
+        },
+        {
+          "song": "Skippy the Wondermouse",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1985-11-14",
+    "venue": "Memorial Auditorium Basement",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was an acoustic benefit that also featured performances by The Joneses and The Visions. Fish played percussion instead of a drumkit. Slave appeared to have a female vocalist accompanying Trey. This show also featured the first known version of Dear Mrs. Reagan and the first known&nbsp;Phish versions of Hurricane and Piggies. Makisupa included additional impromptu verses regarding Mike, Fish and their &quot;new friend, Page.&quot; Piggies was dedicated to Harry Mitiguy, then president of the Howard Bank (referred to by Trey as &quot;Howard Mitiguy&quot;). The drum jam out of Makisupa may have included Marc Daubert, at least one member of The Joneses, and possibly others. Phish&#39;s archivist, Kevin Shapiro, played the Makisupa &gt; Piggies -&gt; Makisupa portion of this show on From the Archives on 10/30/09 at Festival 8. The date of this show may be 11/19/85.",
+    "tour_name": "1985 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true,
+          "footnote": "Acoustic. Possible female vocalist accompaniment."
+        },
+        {
+          "song": "Hurricane",
+          "transition": true,
+          "footnote": "First known Phish version; acoustic."
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Acoustic."
+        },
+        {
+          "song": "Piggies",
+          "transition": false,
+          "footnote": "First known Phish version; acoustic."
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Acoustic."
+        },
+        {
+          "song": "Drums",
+          "transition": false,
+          "footnote": "Possible guest appearance by Marc Daubert, at least one member of The Joneses, and possibly others."
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false,
+          "footnote": "Acoustic."
+        },
+        {
+          "song": "Dear Mrs. Reagan",
+          "transition": false,
+          "footnote": "First known version; acoustic."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1985-11-23",
+    "venue": "Goddard College",
+    "city": "Plainfield",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This list for Set II is likely incomplete, as the only recording that circulates fades in and out at points. The âWhipping Post Jamâ fades in after Mikeâs Song on the recording that circulates. This âJamâ contained a jam reminiscent of Dark Star. It also featured Norwegian Wood teases from Mike, a Slave to the Traffic Light tease from Trey, and a jam reminiscent of the early intro to Harry Hood. Antelope fades in after the âWhipping Post Jamâ fades out. The complete lists for Sets I (featuring the first known Phish performance of Wild Thing) and II are not known, although Mike has referenced the first set Wild Thing in interviews and in <em>The Phish Book</em>.",
+    "tour_name": "1985 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wild Thing",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": true
+        },
+        {
+          "song": "Whipping Post",
+          "transition": true,
+          "jam": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1985-12-13",
+    "venue": "The Little Red House",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was a private party and is sometimes noted as the âRed House Party.â  The Jam contained Night Fever quotes. This setlist is incomplete.",
+    "tour_name": "1985 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jam",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

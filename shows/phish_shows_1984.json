@@ -1,0 +1,184 @@
+[
+  {
+    "showdate": "1984-10-23",
+    "venue": "69 Grant Street",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show, played in the garage of a house on Grant Street, is believed to be the bandâs first show after Treyâs return to the University of Vermont. It is known that Makisupa (first known performance) was played but the rest of the setlist is unknown. The date is believed to be correct but may have been a few days earlier or later.",
+    "tour_name": "1984 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "First known performance."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1984-11-03",
+    "venue": "Slade Hall, University of Vermont",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "The setlist for this show might be incomplete, as the recordings that circulate cut during Drums. Marc Daubert made a guest appearance on percussion. This show featured the first known performance of Camel Walk and the first known Phish performances of Wild Child, Bertha, Can&#39;t You Hear Me Knocking, Eyes of the World, and Whipping Post (which featured Jeff on vocals). CYHMK included a St. Stephen tease. Copies of this performance often circulate with the incorrect date of November 3, 1983. Also, it is possible that this show was actually on Friday, November 2, 1984, as a photo of a flyer for a show on &ldquo;11/2&rdquo; was printed in <em>The Phish Book</em>.",
+    "tour_name": "1984 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "In the Midnight Hour",
+          "transition": true
+        },
+        {
+          "song": "Wild Child",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Bertha",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Can't You Hear Me Knocking",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "St. Stephen",
+          "transition": false,
+          "jam": true
+        },
+        {
+          "song": "Can't You Hear Me Knocking",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true,
+          "footnote": "First known performance"
+        },
+        {
+          "song": "Eyes of the World",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false,
+          "footnote": "First known Phish performance; Jeff on vocals."
+        },
+        {
+          "song": "Drums",
+          "transition": false,
+          "footnote": "Marc Daubert on percussion."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1984-12-01",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Skippy and Fluffhead featured The Dude of Life on vocals. The jam after Camel Walk may have been Back Porch Boogie Blues. Spanish Flea included an introduction of the band members. Don&rsquo;t Want You No More was not performed in its entirety, as it lacked the final lyrics. The lengthy percussion jam featured a guest appearance from Marc Daubert. Mike recalls that there were approximately 200 people in the audience. This gig featured the first known version of Slave to the Traffic Light and Fluffhead, the first known Phish versions of Fire, Don&#39;t Want You No More, Cities, and Skippy the Wondermouse, and the only known Phish version of Spanish Flea. This performance was on the upstairs level of Nectar&#39;s.",
+    "tour_name": "1984 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Wild Child",
+          "transition": false
+        },
+        {
+          "song": "Bertha",
+          "transition": true
+        },
+        {
+          "song": "Can't You Hear Me Knocking",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "In the Midnight Hour",
+          "transition": true
+        },
+        {
+          "song": "Scarlet Begonias",
+          "transition": false
+        },
+        {
+          "song": "Fire",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Fire on the Mountain",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Spanish Flea",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Don't Want You No More",
+          "transition": false,
+          "footnote": "First known Phish performance; missing final lyrics."
+        },
+        {
+          "song": "Cities",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Drums",
+          "transition": false,
+          "footnote": "Marc Daubert."
+        },
+        {
+          "song": "Skippy the Wondermouse",
+          "transition": true,
+          "footnote": "First known Phish performance; Dude of Life on vocals."
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false,
+          "footnote": "First known performance; Dude of Life on vocals."
+        }
+      ],
+      "e": [
+        {
+          "song": "Eyes of the World",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

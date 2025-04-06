@@ -1,0 +1,89 @@
+### Phish.net API v5 Requests
+# Documentation: https://api.phish.net/v5/doc/
+
+### Environment Variables
+@baseUrl = {{$dotenv BASE_URL}}
+@apikey = {{$dotenv API_KEY}}
+
+### Default Values (used if environment variables are not set)
+# @baseUrl = https://api.phish.net/v5
+# @apikey = C8024E01341F70ECA7DE
+
+# Phish.net API v5 Collection
+# Base URL: https://api.phish.net/v5
+
+## Artists
+### GET all artists
+GET {{baseUrl}}/artists.json?apikey={{apikey}} HTTP/1.1
+
+### GET artist by ID (example: ID 1)
+GET {{baseUrl}}/artists/1.json?apikey={{apikey}} HTTP/1.1
+
+## Shows
+### GET shows by year (example: 2019)
+GET {{baseUrl}}/shows/showyear/2019.json?apikey={{apikey}} HTTP/1.1
+
+### GET show by ID (example: showid 1252683584)
+GET {{baseUrl}}/shows/1252683584.json?apikey={{apikey}} HTTP/1.1
+
+### GET shows by artist name (example: "Phish")
+GET {{baseUrl}}/shows/artist/phish.json?apikey={{apikey}} HTTP/1.1
+
+## Setlists
+### GET setlist by show date (example: 1997-11-22)
+GET {{baseUrl}}/setlists/showdate/1997-11-22.json?apikey={{apikey}} HTTP/1.1
+
+### GET all setlists in a year (example: 2019)
+GET {{baseUrl}}/setlists/showyear/2019.json?apikey={{apikey}} HTTP/1.1
+
+### GET setlists containing a song (example song: "Tweezer")
+GET {{baseUrl}}/setlists/slug/tweezer.json?apikey={{apikey}} HTTP/1.1
+
+## Songs
+### GET all songs
+GET {{baseUrl}}/songs.json?apikey={{apikey}} HTTP/1.1
+
+### GET song by slug (example: "tweezer")
+GET {{baseUrl}}/songs/slug/tweezer.json?apikey={{apikey}} HTTP/1.1
+
+## Song Data (Extended info)
+### GET song data by slug (example: "tweezer")
+GET {{baseUrl}}/songdata/slug/tweezer.json?apikey={{apikey}} HTTP/1.1
+
+## Venues
+### GET all venues
+GET {{baseUrl}}/venues.json?apikey={{apikey}} HTTP/1.1
+
+### GET venues by state (example: CT)
+GET {{baseUrl}}/venues/state/CT.json?apikey={{apikey}} HTTP/1.1
+
+## Jamcharts
+### GET all jamcharts
+GET {{baseUrl}}/jamcharts.json?apikey={{apikey}} HTTP/1.1
+
+### GET jamcharts for a song (example song slug: "makisupa-policeman")
+GET {{baseUrl}}/jamcharts/slug/makisupa-policeman.json?apikey={{apikey}} HTTP/1.1
+
+### GET jamcharts by year (example: 1997)
+GET {{baseUrl}}/jamcharts/showyear/1997.json?apikey={{apikey}} HTTP/1.1
+
+## Attendance (special method - requires filter)
+### GET attendance for a show (example showid: 1252683584)
+GET {{baseUrl}}/attendance/showid/1252683584.json?apikey={{apikey}} HTTP/1.1
+
+### GET attendance for a user (example uid: 2)
+GET {{baseUrl}}/attendance/uid/2.json?apikey={{apikey}} HTTP/1.1
+
+## Reviews (special method - requires filter)
+### GET reviews for a show (example showid: 1252683361)
+GET {{baseUrl}}/reviews/showid/1252683361.json?apikey={{apikey}} HTTP/1.1
+
+### GET reviews by user (example uid: 2)
+GET {{baseUrl}}/reviews/uid/2.json?apikey={{apikey}} HTTP/1.1
+
+## Users (special method - requires filter)
+### GET user by ID (example uid: 1)
+GET {{baseUrl}}/users/uid/1.json?apikey={{apikey}} HTTP/1.1
+
+### GET user by username (example: someUsername)
+GET {{baseUrl}}/users/username/someUsername.json?apikey={{apikey}} HTTP/1.1
