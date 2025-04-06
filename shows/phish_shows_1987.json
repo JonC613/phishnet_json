@@ -1,0 +1,2073 @@
+[
+  {
+    "showdate": "1987-01-21",
+    "venue": "Hunt's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "It is possible this setlist may belong to 1/19/87 or both shows may have  happened with this list properly attributed to 1/21/1987. The source of this setlist is phish.com.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "I Am Hydrogen",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Swing Low, Sweet Chariot",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Skin It Back",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-02-13",
+    "venue": "Johnson State College",
+    "city": "Johnson",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "The Dude of Life made a guest appearance on vocals during Suzy (first known version), Sanity, Fluffhead, and Hood. There were no vocals in Slave or on the return to Alumni Blues after Letter to Jimmy Page.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false,
+          "footnote": "No vocals."
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true,
+          "footnote": "No vocals."
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true,
+          "footnote": "First known version; Dude of Life on vocals."
+        },
+        {
+          "song": "Sanity",
+          "transition": true,
+          "footnote": "Dude of Life on vocals."
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Melt the Guns",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true,
+          "footnote": "Dude of Life on vocals."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Dude of Life on vocals."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-02-21",
+    "venue": "Slade Hall, University of Vermont",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "While this show may have taken place six nights later, this date is believed to be correct. This setlist is incomplete. The show contained the first known Phish performances of Why Don&#39;t You Love Me?, Blue Monk, Boogie On Reggae Woman, Ya Mar, and Corinna. In the intro to Blue Monk, Trey said &ldquo;Ladies and gentlemen, three quarters of the Bob Dylan Band.&rdquo; Blue Monk subsequently contained an &#39;A&#39; Train tease from Page.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Why Don't You Love Me?",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        }
+      ],
+      "2": [
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Dear Mrs. Reagan",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Back Porch Boogie Blues",
+          "transition": true
+        },
+        {
+          "song": "Blue Monk",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Clod",
+          "transition": true
+        },
+        {
+          "song": "Lushington",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Swing Low, Sweet Chariot",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Corinna",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Dog Log",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-03-06",
+    "venue": "Goddard College",
+    "city": "Plainfield",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Free Bird was an actual attempt at the song and not an <em>a cappella</em> version, but was performed quite mockingly and not in its entirety. It did, however, feature Ninja Mike on vocals. Happy Birthday was sung to &ldquo;Sue and Debra&rdquo; and was a long, reggae-influenced version. Tell Me Something Good featured an unidentified female lead vocalist. Jim Pollock offered vocals for the only known performance of Freeworld.&nbsp;This show featured the first known Phish performances of Free Bird, Tell Me Something Good, and Freeworld.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Free Bird",
+          "transition": true,
+          "footnote": "First known Phish performance; Ninja Mike on vocals and played with full instrumentation, as opposed to the usual a cappella arrangement."
+        },
+        {
+          "song": "Happy Birthday to You",
+          "transition": false,
+          "footnote": "To \"Sue and Debra.\" Long, reggae-influenced version."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Tell Me Something Good",
+          "transition": false,
+          "footnote": "First known Phish performance; unidentified female lead vocalist."
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Freeworld",
+          "transition": true,
+          "footnote": "First known Phish performance; Jim Pollock on vocals."
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-03-23",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Based on comments made by the band during the show, it appears that there may have been a third set. However, only the first two sets are known to circulate. This gig featured the first known performances of Ride Captain Ride and Sparks. YEM contained Wot (Captain Sensible) and John Jacob Jingleheimer Schmidt quotes.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Sparks",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        }
+      ],
+      "2": [
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Ride Captain Ride",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Why Don't You Love Me?",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Swing Low, Sweet Chariot",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-04-24",
+    "venue": "Billings Lounge, University of Vermont",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Phish played this show at the conclusion of &ldquo;Earth Week.&rdquo; This gig featured the only known performance of Punch Me in the Eye and the first known performance of Who Do? We Do!",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": true
+        },
+        {
+          "song": "Punch Me in the Eye",
+          "transition": false,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Who Do? We Do!",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Dear Mrs. Reagan",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-04-29",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show featured the debut of Fuck Your Face and the first known Phish performances of Take the &lsquo;A&rsquo; Train, Timber (Jerry), The Ballad of Curtis Loew, and Come On (Part One). &#39;A&#39; Train featured Jeff Friedberg on saxophone. The Fuck Your Face debut was in dispute for many years, though the <a href=\"http://Phish.com/\">Phish.com</a> setlist file seems to confirm that the song was indeed performed on this date.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "She Caught the Katy and Left Me a Mule to Ride",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Swing Low, Sweet Chariot",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "Skin It Back",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Lushington",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Dog Log",
+          "transition": true
+        },
+        {
+          "song": "Melt the Guns",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true,
+          "footnote": "First known Phish performance; Jeff Friedberg on saxophone."
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": true
+        },
+        {
+          "song": "Anarchy",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Sparks",
+          "transition": false
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Come On (Part One)",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Who Do? We Do!",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fuck Your Face",
+          "transition": false,
+          "footnote": "Debut."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-05-11",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show included some funny stage banter, including Treyâs announcement after TMWSIY: âThat was called âThe Man Who Stepped Into Yesterday... and Iâm going to get my head sharpened.â Lushington did not contain any lyrics. A set break was announced after Ya Mar, so this is the complete first set. The songs listed as in the second set are believed to have been performed in that set, though it is unknown whether more songs were also performed in the second set, and if there was a third set as well. This show featured the first known performances of The Man Who Stepped Into Yesterday, Divided Sky, Harpua, and Bundle of Joy,Â as well as the first known Phish performance of Avenu Malkenu.Â The keyword for Makisupa was \"Woke up in the morning, dioxin on my head / Woke up in the afternoon Gaddafi in my bed.\"",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Lushington",
+          "transition": false,
+          "footnote": "No lyrics."
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Clod",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true,
+          "footnote": "Keyword referenced dioxin and Gaddafi."
+        },
+        {
+          "song": "Ya Mar",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Divided Sky",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Bundle of Joy",
+          "transition": false,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Harpua",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-05-20",
+    "venue": "The Ranch",
+    "city": "South Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was a co-bill with The Joneses. This setlist may be incomplete, as it was taken from a video that circulates. Lushington did not contain any lyrics. Alumni featured guests from local bands The Joneses and Mental Floss on rhythm guitar and saxophone.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Back Porch Boogie Blues",
+          "transition": false
+        },
+        {
+          "song": "Lushington",
+          "transition": false,
+          "footnote": "No lyrics."
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false,
+          "footnote": "Guests from The Joneses and Mental Floss on rhythm guitar and saxophone."
+        }
+      ],
+      "2": [
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-08-09",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show marked the first known performances of The Curtain With, The Sloth, Fee, and Flat Fee, as well as the first known Phish performance of La Grange. Lushington did not contain any lyrics.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "La Grange",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Lushington",
+          "transition": false,
+          "footnote": "No lyrics."
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Shaggy Dog",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Curtain With",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "The Sloth",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": false
+        },
+        {
+          "song": "Skin It Back",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Flat Fee",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-08-10",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Icculus was dedicated to Paul Languedoc&rsquo;s mother on her birthday. This show featured the first known Phish performance of Jesus Just Left Chicago.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "I Know a Little",
+          "transition": true
+        },
+        {
+          "song": "Mustang Sally",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "La Grange",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Icculus",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Whipping Post",
+          "transition": true
+        },
+        {
+          "song": "Anarchy",
+          "transition": true
+        },
+        {
+          "song": "Tush",
+          "transition": true
+        },
+        {
+          "song": "Dear Mrs. Reagan",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-08-21",
+    "venue": "Ian McLean's Farm",
+    "city": "Hebron",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show is mislabeled on many recordings as 8/27/87. Teases were everywhere, including a Trench Town Rock quote from Trey before Hood, a Whipping Post tease from Fish and a Jingle Jangle Jingle tease from Trey after HYHU,&nbsp;a full band Sneakin&#39; Sally tease before Golgi, a Smoke on the Water tease after Sparks, La Bamba lyrics in the Low Rider Jam, as well as a full band HYHU tease and a Slipknot! tease from Trey before McGrupp. Harpua was played by request and was restarted after the opening lyric, which was repeated. The intro to Sparks was extended while Fish&nbsp;relieved himself. McGrupp was introduced as &quot;The Gala Event.&quot; The third set was heavy on jamming and light on lyrics. Trey delivered some freestyle reggae rapping before and during the Makisupa Jam that some fans have labeled the &ldquo;Mouse House Rap.&rdquo; Mike&#39;s included a DEG tease from Trey.&nbsp;David Bowie contained a Tom Sawyer tease and was unfinished. This show contained the first known performance&nbsp;of BBFCFM and the first known Phish performance of HYHU.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Dog Log",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Clod",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": true
+        },
+        {
+          "song": "Shaggy Dog",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "Restarted after the opening lyric."
+        },
+        {
+          "song": "Bundle of Joy",
+          "transition": false
+        },
+        {
+          "song": "Harpua",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Sparks",
+          "transition": true,
+          "footnote": "Extended intro."
+        },
+        {
+          "song": "Flat Fee",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Skin It Back",
+          "transition": false
+        },
+        {
+          "song": "Low Rider",
+          "transition": false,
+          "jam": true
+        },
+        {
+          "song": "Back Porch Boogie Blues",
+          "transition": false
+        },
+        {
+          "song": "The Sloth",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Stir It Up",
+          "transition": true,
+          "jam": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "jam": true,
+          "footnote": "Freestyle reggae rapping from Trey."
+        },
+        {
+          "song": "David Bowie",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Sanity",
+          "transition": true
+        },
+        {
+          "song": "Swing Low, Sweet Chariot",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-08-29",
+    "venue": "The Ranch",
+    "city": "South Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was dedicated to Eric Larson, who took care of Trey&rsquo;s dog Marley over the summer. Alumni contained a Wilson tease. HYHU was teased before Suzy. Suzy contained HYHU teases and a Sussudio quote from Trey. Surfin&#39; Bird was teased after Mustang Sally. Ya Mar was dedicated to Marley and included a Call to the Post tease by Trey. This show featured the first known Hydrogen to contain the lyrics &quot;I walk awakening on the misty fields of forever.&quot; Bowie contained a Streets of Cairo tease from Trey and was unfinished.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Flat Fee",
+          "transition": true
+        },
+        {
+          "song": "Lushington",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Mustang Sally",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Clod",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Swing Low, Sweet Chariot",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": false
+        },
+        {
+          "song": "Bundle of Joy",
+          "transition": false
+        },
+        {
+          "song": "Harpua",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false,
+          "footnote": "First known \"I walk awakening on the misty fields of forever\" lyrics."
+        },
+        {
+          "song": "Who Do? We Do!",
+          "transition": true
+        },
+        {
+          "song": "Shaggy Dog",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "She Caught the Katy and Left Me a Mule to Ride",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-09-02",
+    "venue": "Hunt's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Lushington did not contain any lyrics. Makisupa included the band playing with varied special effects. This setlist is likely incomplete.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Lushington",
+          "transition": false,
+          "footnote": "No lyrics."
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Shaggy Dog",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-09-21",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "The listed setbreaks may be incorrect. Happy Birthday, played in a decidedly &#39;dub&#39; style, was dedicated to &ldquo;Spup.&rdquo; This show marked the first known Phish performances of Rocky Top and Terrapin. Flat Fee was teased after Antelope.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": true
+        },
+        {
+          "song": "Clod",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Dear Mrs. Reagan",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Happy Birthday to You",
+          "transition": true,
+          "footnote": "\"The Birthday Dub\""
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Dog Log",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Flat Fee",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "Terrapin",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-10-10",
+    "venue": "The Ranch",
+    "city": "Shelburne",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was Wayne Stout's birthday party at Eric Larsonâs house. The band played two sets and there are no recordings in circulation. Eric requested Prep School Hippie, which the band aborted, going into Â Divided Sky. The source of this setlist is phish.com.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "2": [
+        {
+          "song": "Prep School Hippie",
+          "transition": true,
+          "footnote": "Aborted."
+        },
+        {
+          "song": "Divided Sky",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-10-14",
+    "venue": "Hunt's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show marked the first known performance of The Chase outside of Lushington. This setlist is likely incomplete.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "The Chase",
+          "transition": false,
+          "footnote": "First known performance outside of Lushington."
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": false
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Clod",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-10-31",
+    "venue": "Sculpture Room, Goddard College",
+    "city": "Plainfield",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was a double bill with The Joneses, and featured the first known performance of Love You. The jam before Whipping Post included Low Rider teases. Whipping Post had a lyric changed to &quot;slice my nipple.&quot; It has been reported that Fish&nbsp;shaved his entire body for this show!",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Whipping Post",
+          "transition": true,
+          "footnote": "\"Slice my nipple\" lyric."
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Back Porch Boogie Blues",
+          "transition": false
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": true
+        },
+        {
+          "song": "Love You",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "The Chase",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Who Do? We Do!",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": false
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Who Do? We Do!",
+          "transition": false
+        },
+        {
+          "song": "Clod",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-11-18",
+    "venue": "Hunt's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "The second set listing is incomplete, as the recordings that circulate cut during Bag. The first known performance of I Didn&rsquo;t Know was dedicated to Brian Long.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": true
+        },
+        {
+          "song": "Flat Fee",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-11-19",
+    "venue": "Hunt's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Divided Sky was botched badly, leading Trey to launch humorously into BBFCFM. This show contained the first known performance of Dinner and a Movie, the first known Phish performance of Bike, and was the last known show at Hunt&rsquo;s.&nbsp; Trey introduced &lsquo;A&rsquo; Train as Fuck Your Face.",
+    "tour_name": "1987 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Sparks",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Whipping Post",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Bike",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1987-09-26",
+    "venue": "Odd Fellows Hall",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This performance was for the wedding of Teri and John Paluska. Aside from Possum, which apparently accompanied the cake cutting, the rest of this setlist is unknown. Pounding System opened. This information is from Phish.com",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

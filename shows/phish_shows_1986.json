@@ -1,0 +1,734 @@
+[
+  {
+    "showdate": "1986-02-03",
+    "venue": "Hunt's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was an African National Congress Benefit featuring Phish and South African dub poet ZenzilÃ© Madikinea. Antelope featured Jeff Holdsworth on slide guitar. Russ Flanigan sat in on fiddle for parts of this show. Alumni was played by request. Letter to Jimmy Page contained quotes from Trey of \"It's alright\" before eventually returning to Alumni. Some recordings erroneously note that this show was a double-bill with The Joneses. This show contained the first known version of You Enjoy Myself, although it is possible that the correct debut was on 2/1/85, and theÂ first known performances of ZenzilÃ©'s pieces (all with Phish) Tonight, The Pendulum, Babylon is Burning, and Dec 1661. The first set of this show is identical to what is listed for 2/1/85. The setlist for 2/1/85 is possibly incorrect.",
+    "tour_name": "1986 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true,
+          "footnote": "First known version."
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false,
+          "footnote": "\"It's alright\" quotes from Trey."
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Prep School Hippie",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Jeff Holdsworth on slide guitar."
+        }
+      ],
+      "2": [
+        {
+          "song": "Tonight",
+          "transition": true,
+          "footnote": "First known Phish performance. With ZenzilÃ© Madikinea."
+        },
+        {
+          "song": "The Pendulum",
+          "transition": true,
+          "footnote": "First known Phish performance. With ZenzilÃ© Madikinea."
+        },
+        {
+          "song": "Babylon is Burning",
+          "transition": true,
+          "footnote": "First known Phish performance. With ZenzilÃ© Madikinea."
+        },
+        {
+          "song": "Dec 1661",
+          "transition": false,
+          "footnote": "First known Phish performance. With ZenzilÃ© Madikinea."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1986-04-01",
+    "venue": "Hunt's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "<p>This show was billed as Huntâs Festival of Fools. Phish and The Joneses switched off for 45-minute sets; the two bands performed the encore together. The Pendulum, which was a recital of revolutionary poetry, featured guest ZenzilÃ© Madikinea. This gig contained the first known versions of AC/DC Bag and Icculus, the first known Phish version of Have Mercy, and the only known Phish performances of Help on the Way, Slipknot and Not Fade Away. McGrupp was spoken in a Dylan-esque fashion, in keeping with Treyâs jokes about Phish being the âDylan Band.â Free Bird was teased before Not Fade Away.</p>\r\n",
+    "tour_name": "1986 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        },
+        {
+          "song": "Have Mercy",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "The Pendulum",
+          "transition": false,
+          "footnote": "With ZenzilÃ© Madikinea. Madikinea recited revolutionary poetry."
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": true
+        },
+        {
+          "song": "Icculus",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Help on the Way",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Slipknot!",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false,
+          "footnote": "Spoken in Dylan-esque fashion."
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Dear Mrs. Reagan",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Not Fade Away",
+          "transition": false,
+          "footnote": "First known Phish performance;  with The Joneses."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1986-05-17",
+    "venue": "Goddard College",
+    "city": "Plainfield",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "While a complete setlist for this &ldquo;Springfest&rdquo; performance at Goddard is not known, it has been confirmed that Halley&rsquo;s debuted at this show with Richard Wright on vocals. Back Porch Boogie Blues also made its first known Phish performance. This is the last known Phish show with Jeff Holdsworth as an official member of the band.",
+    "tour_name": "1986 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Halley's Comet",
+          "transition": false,
+          "footnote": "Debut; Richard Wright on vocals."
+        },
+        {
+          "song": "Back Porch Boogie Blues",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1986-05-24",
+    "venue": "Hunt's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This setlist is incomplete. Richard Wright provided vocals for Halley&rsquo;s Comet. This was the first Phish show without Jeff Holdsworth.",
+    "tour_name": "1986 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Dog Log",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false,
+          "footnote": "Richard Wright on vocals."
+        },
+        {
+          "song": "Back Porch Boogie Blues",
+          "transition": false
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1986-10-12",
+    "venue": "Haybarn Theater, Goddard College",
+    "city": "Plainfield",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show featured the first known performances of Golgi Apparatus and Wilson.",
+    "tour_name": "1986 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": false,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1986-10-15",
+    "venue": "Hunt's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "<p>This show contained the first known versions of many Phish songs, including Lushington, Shaggy Dog, Roll Like a Cantaloupe, Sanity, and Clod, as well as the first known Phish versions of Skin It Back, Peaches, Swing Low, and Mustang Sally. Shaggy Dog ended with a Magic quote. Before YEM, Page played cocktail-style jazz, including snippets of Misty while Trey tuned up. Trey teased The Gumbo Variations in Mike's Song. The third set listing is incomplete; recordings that circulate have cuts before Cantaloupe. The Clod encore began with an impromptu kazoo solo from Mike. This was Paul Languedocâs first show as soundman.</p>\r\n",
+    "tour_name": "1986 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Skin It Back",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Lushington",
+          "transition": false,
+          "footnote": "First known performance."
+        }
+      ],
+      "2": [
+        {
+          "song": "Peaches en Regalia",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Swing Low, Sweet Chariot",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Shaggy Dog",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Mustang Sally",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": true
+        },
+        {
+          "song": "Have Mercy",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Roll Like a Cantaloupe",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Sanity",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Anarchy",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Clod",
+          "transition": false,
+          "footnote": "First known performance."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1986-10-31",
+    "venue": "Sculpture Room, Goddard College",
+    "city": "Plainfield",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was a co-bill with The Joneses. Trey and Mike quoted Fuck Your Face and Minkin during the Melt the Guns intro. Halleyâs Comet featured Richard Wright on vocals. Have Mercy featured Jah Roy on vocals. This show contained the first known version of David Bowie.",
+    "tour_name": "1986 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mustang Sally",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Melt the Guns",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false,
+          "footnote": "Richard Wright on vocals."
+        },
+        {
+          "song": "Back Porch Boogie Blues",
+          "transition": false
+        },
+        {
+          "song": "Shaggy Dog",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Swing Low, Sweet Chariot",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true,
+          "footnote": "First known version."
+        },
+        {
+          "song": "Have Mercy",
+          "transition": false,
+          "footnote": "Jah Roy on vocals."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Sanity",
+          "transition": true
+        },
+        {
+          "song": "Skin It Back",
+          "transition": false
+        },
+        {
+          "song": "Icculus",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1986-12-06",
+    "venue": "The Ranch",
+    "city": "Shelburne",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "The jam before Swing Low Sweet Chariot contained a tease&nbsp;of Ramblin&#39; Man (Allman Brothers). Icculus featured Steve Drebber on vocals. David Bowie&rsquo;s hi-hat intro section included a Streets of Cairo tease from Trey. This show included the first known Phish performances of Funky Bitch, I Know a Little, Light Up or Leave Me Alone, Good Times Bad Times, Little Drummer Boy, She Caught The Katy, and Tush.",
+    "tour_name": "1986 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "I Know a Little",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Shaggy Dog",
+          "transition": false
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Swing Low, Sweet Chariot",
+          "transition": true
+        },
+        {
+          "song": "Back Porch Boogie Blues",
+          "transition": true
+        },
+        {
+          "song": "Icculus",
+          "transition": true,
+          "footnote": "Steve Drebber on vocals."
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Skin It Back",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "The Little Drummer Boy",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Whipping Post",
+          "transition": true
+        },
+        {
+          "song": "She Caught the Katy and Left Me a Mule to Ride",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        },
+        {
+          "song": "Clod",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Dog Log",
+          "transition": true
+        },
+        {
+          "song": "Tush",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Prep School Hippie",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1986-04-25",
+    "venue": "University of Vermont",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was an Earth Day concert at UVM and took place outside the&nbsp;Bailey Howe Library on the Green. This performance previously&nbsp;circulated with the dates April 15 and April 29, 1986. Trey introduced the band as&nbsp;the &ldquo;Bob Dylan Band&rdquo; before they began a jam that led into&nbsp;a short All Blues (the first known Phish performance; it was only&nbsp;about a minute long). Dog Log was dedicated to all of the dogs that&nbsp;were running around, including Marley the Wonder Dog (Trey&#39;s dog). Possum included&nbsp;a Help on the Way tease.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Dear Mrs. Reagan",
+          "transition": true
+        },
+        {
+          "song": "Prep School Hippie",
+          "transition": true
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Have Mercy",
+          "transition": true
+        },
+        {
+          "song": "All Blues",
+          "transition": false,
+          "footnote": "First known Phish performance; approximately one minute long."
+        },
+        {
+          "song": "Dog Log",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Anarchy",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

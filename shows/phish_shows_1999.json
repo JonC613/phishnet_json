@@ -1,0 +1,6373 @@
+[
+  {
+    "showdate": "1999-05-17",
+    "venue": "The Flynn Theatre",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Following a performance by Trey Anastasio&rsquo;s ensemble, all the members of Phish along with Dave Grippo, Russ Lawton, and Tony Markellis performed Further On Up the Road. Voodoo Child featured Phish, Lawton, and Markellis.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Further On Up the Road",
+          "transition": true,
+          "footnote": "Dave Grippo, Russ Lawton, and Tony Markellis."
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true,
+          "footnote": "Trey solo acoustic."
+        },
+        {
+          "song": "Voodoo Child (Slight Return)",
+          "transition": false,
+          "footnote": "Russ Lawton and Tony Markellis."
+        },
+        {
+          "song": "Snowflakes in the Sand",
+          "transition": true,
+          "footnote": "Trey solo acoustic."
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true,
+          "footnote": "Trey solo acoustic."
+        },
+        {
+          "song": "Driver",
+          "transition": true,
+          "footnote": "Trey solo acoustic."
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true,
+          "footnote": "Trey solo acoustic."
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true,
+          "footnote": "Trey solo acoustic."
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true,
+          "footnote": "Trey solo acoustic."
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": false,
+          "footnote": "Trey on piano."
+        }
+      ],
+      "2": [
+        {
+          "song": "The Wind Cries Mary",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "O-o-h Child",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Drums",
+          "transition": true
+        },
+        {
+          "song": "I Can See Clearly Now",
+          "transition": true
+        },
+        {
+          "song": "Aqui Como Alla",
+          "transition": true
+        },
+        {
+          "song": "Come on Baby Let's Go Downtown",
+          "transition": true
+        },
+        {
+          "song": "Mozambique",
+          "transition": true
+        },
+        {
+          "song": "Then Came You",
+          "transition": true,
+          "footnote": "With the Frederick Tuttle Middle School Jazz Band."
+        },
+        {
+          "song": "Last Tube",
+          "transition": false,
+          "footnote": "With the Frederick Tuttle Middle School Jazz Band."
+        }
+      ],
+      "e": [
+        {
+          "song": "Further On Up the Road",
+          "transition": true,
+          "footnote": "With Mike, Page, Fish, and Dave Grippo."
+        },
+        {
+          "song": "Voodoo Child (Slight Return)",
+          "transition": false,
+          "footnote": "With Mike, Page, and Fish."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-06-24",
+    "venue": "The Barn",
+    "city": "Outer Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "The 5th Ball, a.k.a. \"Carreystock\" This private show at Trey&rsquo;s barn was a tune-up for the summer tour, played for some members of the Phish organization and members of the crew of the Jim Carrey movie <em>Me, Myself and Irene</em>, which was being filmed nearby. Carrey joined in on vocals for Hey You and Come Together.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Hey You",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Come Together",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Windora Bug",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Rock A William",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-06-30",
+    "venue": "Sandstone Amphitheatre",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "country": "USA",
+    "setlist_notes": "<p>This gig featured the Phish debuts of Back on the Train and Bug as well as the debut of My Left Toe. Trey teased Super Bad in Tube. Maze contained an I Can't Turn You Loose tease from Page, a Bathtub Gin tease from Trey, and ended with several reprises of the songâs signature lick in a mock duel fashion between Trey and Page. A revised stage setup debuted at this show with Page, Mike, and Trey aligned from front left to right and FishÂ to rear center.</p>\r\n",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Maze",
+          "transition": true,
+          "footnote": "Ended with several reprises of the song's signature lick in a mock duel fashion between Trey and Page."
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "My Left Toe",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-01",
+    "venue": "First American Music Center",
+    "city": "Antioch",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "Wolfman&rsquo;s featured Jerry Douglas on dobro; Beauty of My Dreams through Back on the Train featured Jerry Douglas on dobro, Ronnie McCoury on mandolin and Tim O&rsquo;Brien on fiddle. Gary Gazaway, on trumpet, joined the other three guests during Poor Heart. Doin&rsquo; My Time also featured O&rsquo;Brien on lead vocals. The song was last performed when O&rsquo;Brien joined the band onstage at Red Rocks on August 7, 1996 (192 shows).&nbsp;YEM contained Super Bad teases from Trey.&nbsp;The second set may have been cut short by a huge thunderstorm that worsened during YEM.&nbsp;",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true,
+          "footnote": "Jerry Douglas on dobro."
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true,
+          "footnote": "Jerry Douglas on dobro, Ronnie McCoury on mandolin, and Tim O'Brien on fiddle."
+        },
+        {
+          "song": "Doin' My Time",
+          "transition": true,
+          "footnote": "Jerry Douglas on dobro, Ronnie McCoury on mandolin, and Tim O'Brien on fiddle and lead vocals."
+        },
+        {
+          "song": "Roggae",
+          "transition": true,
+          "footnote": "Jerry Douglas on dobro, Ronnie McCoury on mandolin, and Tim O'Brien on fiddle."
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true,
+          "footnote": "Jerry Douglas on dobro, Ronnie McCoury on mandolin, and Tim O'Brien on fiddle."
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true,
+          "footnote": "Jerry Douglas on dobro, Ronnie McCoury on mandolin, and Tim O'Brien on fiddle."
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false,
+          "footnote": "Jerry Douglas on dobro, Ronnie McCoury on mandolin, Tim O'Brien on fiddle, and Gary Gazaway on trumpet."
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-03",
+    "venue": "Lakewood Amphitheatre",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "This show featured the Phish debut of Mountains in the Mist. Meatstick was played for the first time since June 25, 1997 (124 shows). Trey teased Dueling Banjos in Taste. Twist contained an Oye Como Va tease from Trey. Little Drummer Boy was played for the first time since December 6, 1986 (1,195Â shows). It was performed a second time in the encoreÂ byÂ FishÂ solo on the snare drum, with alternate lyrics. Bill Bailey (first since November 18, 1995, or 243 shows) featured Pageâs father, Dr. Jack McConnell, on vocals and kazoo.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "The Little Drummer Boy",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Little Drummer Boy",
+          "transition": true,
+          "footnote": "Performed by Fish solo on the snare drum, with alternate lyrics."
+        },
+        {
+          "song": "Bill Bailey, Won't You Please Come Home?",
+          "transition": false,
+          "footnote": "Dr. Jack McConnell on vocals and kazoo."
+        }
+      ],
+      "e2": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-04",
+    "venue": "Lakewood Amphitheatre",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "Fish, introduced as &ldquo;Flagina Fishman,&rdquo; took a vacuum solo during I Didn&rsquo;t Know wearing only stars and stripes boxers. This show featured the debut of&nbsp;What&rsquo;s the Use?. Trey teased Pictures of Matchstick Men in Wilson. After Carini, the band reprised the chorus of Meatstick while part of the crew and a few fans did the Meatstick Dance. The band performed the second encore in stars and stripes outfits. The show was followed by a fireworks display.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        }
+      ],
+      "e2": [
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-07",
+    "venue": "Blockbuster Pavilion",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "Sneakin' Sally included a Super Bad tease from Trey and did not contain a vocal jam. The encore featured Derek Trucks on slide guitar.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Axilla",
+          "transition": false,
+          "footnote": "Contained Axilla II ending.\t"
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "My Left Toe",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "My Left Toe",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "Derek Trucks on slide guitar."
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false,
+          "footnote": "Derek Trucks on slide guitar."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-08",
+    "venue": "GTE Virginia Beach Amphitheater",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "Birds included several If I Only Had a Brain teases from Trey and Fish improvising lyrics to the tune of If I Only Had A Brain.Â During Meatstick, Trey and Mike put down their instruments, came to the front of the stage and taught the crowd The Meatstick Dance. Simple ended akin to Coil, with each member of the band leaving the stage until only Page was left. At the beginning of the encore, FishÂ came out holding the Electrolux vacuum and the band launched into Terrapin (first since July 11, 1996, or 212 shows).",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": false,
+          "footnote": "Strange lyrics from Mike and Trey, including an Uno reference."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Sleep",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false,
+          "footnote": "Ended akin to Coil, with each member of the band leaving the stage until only Page was left."
+        }
+      ],
+      "e": [
+        {
+          "song": "Terrapin",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-09",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist_notes": "Trey teased Super Bad in PYITE. Sofi Dillof made a guest appearance during the Meatstick dance. Mike's Song contained Sweet Emotion quotes and Weekapaug included Macarena teases and quotes. The Hood encore closed with a Meatstick tease.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-10",
+    "venue": "E Centre",
+    "city": "Camden",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Chalk Dust contained an In Memory of Elizabeth Reed tease from Trey and&nbsp;was unfinished. Gin included an I&rsquo;m a Man (Spencer Davis Group) jam. Tweezer included a What&#39;s the Use? tease by Trey. Trey played the show wearing a Mia Hamm soccer jersey (United States, #9). This was likely in honor of the U.S. Women&rsquo;s Soccer team beating China to win the World Cup earlier in the day. This show was officially released as <em>Live Phish 08</em>.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "Back at the Chicken Shack",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-12",
+    "venue": "Tweeter Center",
+    "city": "Mansfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "Foreplay/Long Time was played for the first time since December 9, 1994 (310 shows) and was the first time Phish had ever performed it electric. Guyute was followed by band introductions, including Mike as &quot;Michael Jordan&quot; and &quot;Air Jordan.&quot;",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Foreplay/Long Time",
+          "transition": false,
+          "footnote": "First Phish electric version."
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-13",
+    "venue": "Tweeter Center",
+    "city": "Mansfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "NO2 was played for the first time since July 16, 1994 (357 shows) and, for the first known time, included the instrumental ending originally included on <em>The White Tape</em>. Reba did not have the whistling ending. Antelope included Meatstick teases and Trey acknowledging his friends Dave and Luann Abrahams, who were in the crowd. Possum and the Phish debut of Tuesdayâs Gone featured Scott Murawski on guitar. Possum contained a Lazy (Deep Purple) tease.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "NO2",
+          "transition": true,
+          "footnote": "For the first known time, NO2 included the instrumental ending originally included on The White Tape."
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": false,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "Scott Murawski on guitar."
+        }
+      ],
+      "e": [
+        {
+          "song": "Tuesday's Gone",
+          "transition": false,
+          "footnote": "Phish debut; Scott Murawski on guitar."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-15",
+    "venue": "PNC Bank Arts Center",
+    "city": "Holmdel",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "This show was webcast live by the House of Blues. During I Didnât Know, Trey noted that Mr. \"The G is soft\" Michael Jordan would be turning the mic over to âvajonnaâ Fishman, who then took a vacuum solo. During Meatstick, Trey noted that the band was going to try to get into the <em>Guinness Book of World Records</em> by having the most people perform the dance simultaneously. Trey, Mike and Sofi Dillof then taught the crowd how to do the dance. Split Open and Melt began as 2001 and was unfinished; the ensuing Kung launched into a dissonant jam. The jam subsequently contained Shine (Collective Soul), Meatstick,Â and Melt teases from Mike.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": false,
+          "footnote": "Contained Axilla II ending.\t"
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Kung",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-16",
+    "venue": "PNC Bank Arts Center",
+    "city": "Holmdel",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Trey teased Super Bad in 2001. Weekapaug included a 2001 tease. The encore was preceded by a story from Trey about how he and Page grew up &ldquo;around here&rdquo; in Jersey. Trey then referenced &ldquo;the greatest songwriter of all time&rdquo; and said that he, too, grew up in the area. While some in the crowd expected Bruce Springsteen (who was in the middle of a run of 15 sold-out dates at New Jersey&rsquo;s Continental Airlines Arena), Trey produced Tom Marshall. Tom appeared in the classic <em>Born in the U.S.A</em>.-era Springsteen outfit, complete with red bandana. He subsequently sang the Phish debut of Born to Run. As the song concluded, Tom mocked a bunch of Springsteen-esque arena-rock clich&eacute;s, such as throwing his bandana into the crowd and jogging offstage to a handler who threw a towel around his shoulders. During the song he even aped some dance moves from the Dancing in the Dark video.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Born to Run",
+          "transition": false,
+          "footnote": "Phish debut; Tom Marshall on vocals."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-17",
+    "venue": "Oswego County Airport",
+    "city": "Volney",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This was the first show of the Camp Oswego festival. Have Mercy was played for the first time since November 12, 1994 (336 shows). Son Seals sat in on guitar and vocals for his own composition, Funky Bitch, as well as the Phish debut of On My Knees. Afterwards, a brief blues jam was played as Son left the stage. DWD included a You Better Believe It Baby tease from Mike.Â Sneakin' Sally did not contain a vocal jam.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Have Mercy",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Funky Bitch",
+          "transition": true,
+          "footnote": "Son Seals on guitar and vocals."
+        },
+        {
+          "song": "On My Knees",
+          "transition": true,
+          "footnote": "Phish debut; Son Seals on guitar and vocals."
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-18",
+    "venue": "Oswego County Airport",
+    "city": "Volney",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This was the second show of the Camp Oswego festival. Back on the Train through Beauty of My Dreams featured a guest appearance by the Del McCoury Band, who had played on the venue&rsquo;s side stage. During I&rsquo;m Blue I&rsquo;m Lonesome, Del McCoury broke a string, and a bluegrass breakdown ensued while the string was changed. Runaway Jim contained Super Bad teases from Trey. During Meatstick, the crowd tried to break the world record for most people dancing at one time. Trey explained the record that the band was trying to break while Sofi Dillof danced on stage and the <em>Guinness</em> staff videotaped the crowd. Part of the Piper intro was used on the studio Piper released on <em>Farmhouse</em>. Some musical chaos ensued between Catapult and Icculus (first since October 31, 1995, or 262 shows), where Trey rambled about the negative aspects of television and the positive aspects of books and Mike teased Meatstick. The ensuing Smoke on the Water Jam included Cat Scratch Fever teases. Subsequently, Icculus was followed by more narration and a tease of Miss You. The show closed with fireworks during Hood.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true,
+          "footnote": "Del McCoury Band."
+        },
+        {
+          "song": "If You Need a Fool",
+          "transition": true,
+          "footnote": "Del McCoury Band."
+        },
+        {
+          "song": "I'm Blue, I'm Lonesome",
+          "transition": true,
+          "footnote": "Del McCoury Band."
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true,
+          "footnote": "Del McCoury Band."
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "My Soul",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Catapult",
+          "transition": false
+        },
+        {
+          "song": "Icculus",
+          "transition": false,
+          "footnote": "Narration featured Trey rambling about the negative aspects of television and the positive aspects of books."
+        },
+        {
+          "song": "Smoke on the Water",
+          "transition": false,
+          "jam": true
+        },
+        {
+          "song": "Icculus",
+          "transition": true
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Accompanied by fireworks."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-20",
+    "venue": "Molson Amphitheatre",
+    "city": "Toronto, Ontario",
+    "state": "",
+    "country": "Canada",
+    "setlist_notes": "This show featured the Phish debut of Misty Mountain Hop. 2001 included a Super Bad tease from Trey.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Train Song",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Misty Mountain Hop",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ],
+      "e": [
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-21",
+    "venue": "Star Lake Amphitheatre",
+    "city": "Burgettstown",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "This show marked the Phish debut of Gold Soundz (Pavement). Trey forgot some of the lyrics, and Mike subsequently flubbed some of the lyrics to Ginseng. Before Limb By Limb, Trey remarked that they would try to get all the verses correct on the next song. Simple contained a Magilla tease and Weekapaug included Super Bad teases.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Gold Soundz",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Bittersweet Motel",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "My Left Toe",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-23",
+    "venue": "Polaris Amphitheater",
+    "city": "Columbus",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "<p>Trey played keys for part of PYITE. During Meatstick, Trey talked about the band&rsquo;s desire to teach fans the Meatstick Dance and break the world record. He then informed the crowd that the New Year&rsquo;s Eve concert would be played in Florida. Fire&#39;s lyrics were changed to &quot;Move over, Rover, and let the Bad Lieutenant take over.&quot; This show is available as an archival release on LivePhish.com.</p>\r\n",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Back at the Chicken Shack",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true,
+          "footnote": "Trey played keys for part of PYITE."
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-24",
+    "venue": "Alpine Valley Music Theatre",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist_notes": "Fluffhead was unfinished and ended in a jam that wasÂ over fifteen minutes long. Trey and Mike sang Catapult in harmony over the top of Tweezer. Camel Walk contained a Happy Coffee Song tease from Trey. Alumni was played for the first time since December 3, 1994 (324 shows) and in its entirety for the first time since April 15, 1994 (428 shows). The Happy Whip and Dung Song made its concert debut.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Catapult",
+          "transition": false,
+          "footnote": "Trey and Mike sang Catapult in harmony over the top of Tweezer."
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "The Happy Whip and Dung Song",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Glide",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-25",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "My Friend's ending did not contain the \"Myfe\" lyric. Whipping Post was played for the first time since August 10, 1996 (208 shows) and featured Trey on vocals for the first time since September 21, 1990 (846 shows). The Makisupa key words were \"gooballs, brownies, stink, kind nugs... keef!\" Happy Birthday was performed for the first time since September 30, 1991 (717 shows) and was first played by Trey instrumentally over Makisupa before he announced Chris Kuroda's birthday and asked the crowd to join in as he sang the song \"rasta style\" (with a \"We're gonna get you so wasted tonight after the show\" lyric). Mike subsequently took a bass solo and FishÂ sung a verse solo in a mock Jamaican accent (with a \"You roll up a big spliff and you don't pass it to no one!\" lyric). Chris took a silent light board solo (see also April 18, 1990) at Trey's request before Makisupa resumed. The second set featured multiple teases and jams, including Antelope (Stash tease), Suzy (I Wish teases and a syncopated jam based around Page), and YEM (Boogie On Reggae Woman jam). In Purple Rain, played for the first time since August 6, 1996 (210 shows), FishÂ forgot the words and subsequently thanked the crowd for supporting his vacuum cleaner habit.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "My Left Toe",
+          "transition": false
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Key words were \"gooballs, brownies, stink, kind nugs... keef!\""
+        },
+        {
+          "song": "Happy Birthday to You",
+          "transition": true,
+          "footnote": "Instrumental from Trey and then \"rasta style\" sung (with a We're gonna get you so wasted tonight after the show\" lyric), Mike took a bass solo, Fish also sung a verse in a mock Jamaican accent (with a \"you roll up a big spleef and you don't pass it with no one\" lyric). Kuroda then took a one-minute light solo."
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false,
+          "footnote": "Syncopated jam based around Page."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Purple Rain",
+          "transition": false,
+          "footnote": "Fish forgot the words and subsequently thanked the crowd for supporting his vacuum cleaner habit."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-26",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "Disease was followed by a feedback-enhanced jam before Mike redirected the band into SOAM; FishÂ continued playing the 2001 drumbeat underneath parts of SOAM. The end of Melt contained a speech from Trey that mentioned how happy the band was to be playing for their audience. Trey also spoke of the damage wrought at Woodstock 1999. He subsequently quoted Turning Japanese when mentioning the upcoming trip to Japan. Woodstock, which made its Phish debut at this show, was unfinished.",
+    "tour_name": "1999 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Sleep",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false,
+          "footnote": "Contained Axilla II ending.\t"
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false,
+          "footnote": "Speech from Trey."
+        }
+      ],
+      "e": [
+        {
+          "song": "Woodstock",
+          "transition": false,
+          "footnote": "Phish debut; unfinished."
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-30",
+    "venue": "Naeba Ski Resort",
+    "city": "Niigata",
+    "state": "",
+    "country": "Japan",
+    "setlist_notes": "This early afternoon set took place on the Green Stage of the Fuji Rock Festival that also included Blur, Catatonia, Chemical Brothers, Fountains of Wayne, Underworld, and ZZ Top. The set was webcast live. Before PYITE, Trey apologized for not speaking the language and brought out a translator who addressed the crowd in Japanese.",
+    "tour_name": "1999 Summer Japan Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Bike",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-30",
+    "venue": "Naeba Ski Resort",
+    "city": "Niigata",
+    "state": "",
+    "country": "Japan",
+    "setlist_notes": "This early afternoon set took place on the Green Stage of the Fuji Rock Festival that also included Blur, Catatonia, Chemical Brothers, Fountains of Wayne, Underworld, and ZZ Top. The set was webcast live. Before PYITE, Trey apologized for not speaking the language and brought out a translator who addressed the crowd in Japanese.",
+    "tour_name": "1999 Summer Japan Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Bike",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-31",
+    "venue": "Naeba Ski Resort",
+    "city": "Niigata",
+    "state": "",
+    "country": "Japan",
+    "setlist_notes": "This showÂ was part of the Fuji Rock Festival and took place on the Field of Heaven stage. Mike teased Split Open and Melt before 2001.Â The encore began with Tibetan monk Nawang Khechog discussing the then-current situation in Tibet. The ensuing jam featured FishÂ on vacuum and Khechog on horn. Subsequently, Brian and Robert featured Khechog on wooden flute. This show was released on LivePhish.com with proceeds benefiting the Japan earthquake relief effort.",
+    "tour_name": "1999 Summer Japan Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Friend, My Friend",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Jam",
+          "transition": false,
+          "footnote": "Fish on vacuum and Nawang Khechog on horn."
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true,
+          "footnote": "Nawang Khechog on flute."
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-08-01",
+    "venue": "Naeba Ski Resort",
+    "city": "Niigata",
+    "state": "",
+    "country": "Japan",
+    "setlist_notes": "This show was part of the Fuji Rock Festival and took place on the Field of Heaven stage. Moma contained brief Wilson teases. The Wedge included a Stash tease from Trey.",
+    "tour_name": "1999 Summer Japan Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sweet Adeline",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-04",
+    "venue": "Chris Kuroda's Wedding",
+    "city": "Stowe",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Chris sang lead on Possum. The rest of the setlist is unknown. The wedding band, called The Chrome Cowboys, included Russ Lawton, Gordon Stone, Brett Hughes, Marc Ransom, Bill Mullins and Marc Spencer.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "Chris Kuroda on lead vocals."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-09",
+    "venue": "GM Place",
+    "city": "Vancouver, British Columbia",
+    "state": "",
+    "country": "Canada",
+    "setlist_notes": "Mozambique, The Inlaw Josie Wales, and First Tube made their Phish debuts at this show, with The Inlaw Josie Wales featuring Trey on acoustic guitar.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mozambique",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Back at the Chicken Shack",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Ha Ha Ha",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true,
+          "footnote": "Phish debut. Trey on acoustic guitar."
+        },
+        {
+          "song": "First Tube",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-10",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "Will It Go Round in CirclesÂ and Gotta Jibboo made their Phish debuts at this show.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Will It Go Round in Circles",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-11",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "Trey teased Long Tall Glasses in Limb By Limb.&nbsp;Heavy Things and Sand made their Phish debuts at this show. Hood concluded with an atypical, repetitive ending.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Guyute",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Concluded with an atypical, repetitive ending."
+        }
+      ],
+      "e": [
+        {
+          "song": "When the Circus Comes",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-12",
+    "venue": "Portland Meadows",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Mozambique",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": true
+        },
+        {
+          "song": "Frankie Says",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-14",
+    "venue": "Boise State University Pavilion",
+    "city": "Boise",
+    "state": "ID",
+    "country": "USA",
+    "setlist_notes": "Peaches was played for the first time since February 28, 1997 (162 shows). This long AC/DC Bag featured Trey on keys and FishÂ on vacuum for part of the jam. Gumbo included an Another One Bites the Dust jam and quotes. FishÂ again grabbed the vacuum for Frankenstein and quoted One of These Days (Pink Floyd).Â This show is available as an archival release on LivePhish.com.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false,
+          "footnote": "Trey on keys and Fish on vacuum for part of the jam."
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false,
+          "footnote": "Fish on vacuum."
+        }
+      ],
+      "e": [
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-16",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "On Your Way Down was played for the first known time since August 12, 1989 (1,011Â shows), although it had been teased as recently as the summer of 1997 (see July 23 and August 16). Trey teased Super Bad in 2001. The encore featured a guest appearance from Warren Haynes on guitar.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Misty Mountain Hop",
+          "transition": false,
+          "footnote": "Warren Haynes on guitar."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-17",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Phil Lesh joined the band on a second bass guitar from YEM through the end of the show. The encore also featured Warren Haynes on guitar. Cold Rain and Snow and Viola Lee Blues were both Phish debuts and also featured Phil on lead vocals. YEM did not contain a vocal jam and included Phil joining Trey and Mike on trampolines. The subsequent jam out of YEM comprised of solely Mike and Phil.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mozambique",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "No vocal jam; Phil Lesh on a second bass guitar."
+        },
+        {
+          "song": "Jam",
+          "transition": true,
+          "footnote": "Bass jam; Phil Lesh on a second bass guitar."
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false,
+          "footnote": "Phil Lesh on a second bass guitar."
+        },
+        {
+          "song": "Cold Rain and Snow",
+          "transition": false,
+          "footnote": "Phish debut; Phil Lesh on a second bass guitar and lead vocals."
+        }
+      ],
+      "e": [
+        {
+          "song": "Viola Lee Blues",
+          "transition": false,
+          "footnote": "Phish debut; Phil Lesh on a second bass guitar and lead vocals and Warren Haynes on guitar."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-18",
+    "venue": "Coors Amphitheatre",
+    "city": "Chula Vista",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Wilson contained a How High the Moon and Tubular Bells teases from Mike and Hood included Stash teases from Trey. Trey brought a fan onstage from the crowd to help teach the Meatstick dance.Â This show is available as an archival release on LivePhish.com.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-19",
+    "venue": "Irvine Meadows",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Trey teased Long Tall Glasses in Stash.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-21",
+    "venue": "Pima County Fairgrounds",
+    "city": "Tucson",
+    "state": "AZ",
+    "country": "USA",
+    "setlist_notes": "Reba was played in an encore for the first time since March 31, 1991 (780 shows) and did not have the whistling ending.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Drowned",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Will It Go Round in Circles",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-22",
+    "venue": "Pan American Center",
+    "city": "Las Cruces",
+    "state": "NM",
+    "country": "USA",
+    "setlist_notes": "Ghost contained a Sand tease from Mike and Weekapaug contained a 2001 tease from Trey. The soundcheck featured the impromptu Dickie Scotland Song in reference to Phish Tour Manager Richard &ldquo;Dickie Scotland&rdquo; Glasgow, who attended New Mexico State University in Las Cruces. The song included a theme about the school&rsquo;s mascot, the Aggie,&nbsp;referenced fellow NMSU alumnus David &ldquo;ZZYZX&rdquo; Steinberg (a.k.a. The Timer) with the lyric &quot;Timer is an Aggie, too,&quot; contained Hava Nagila and Money quotes from Trey and ended with a How Many More Times tease from Trey and Mike.&nbsp;This debut performance was included in Kevin Shapiro&rsquo;s &ldquo;From the Archives&rdquo; radio show at Big Cypress.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Mozambique",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "La Grange",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-24",
+    "venue": "South Park Meadows",
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "setlist_notes": "DWD contained a Tracy (The Cufflinks) tease from Trey. Trey teased What&#39;s the Use? in Wolfman&#39;s Brother.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Misty Mountain Hop",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-25",
+    "venue": "Cynthia Woods Mitchell Pavilion",
+    "city": "The Woodlands",
+    "state": "TX",
+    "country": "USA",
+    "setlist_notes": "Before Monkey, Trey and Mike pulled a woman out of the crowd who had been calling for Sleeping Monkey; the band then played the song for her.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": true
+        },
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-26",
+    "venue": "Kiefer UNO Lakefront Arena, University of New Orleans",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "USA",
+    "setlist_notes": "Sweet Virginia made its Phish debut at this show. The last four songs of the first set featured Michael Ray on trumpet and Tim Green on saxophone. Call to the Post was teased before and during Birds. Trey teased Meatstick at the end of Rocky Top.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sweet Virginia",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true,
+          "footnote": "Michael Ray on trumpet and Tim Green on saxophone."
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true,
+          "footnote": "Michael Ray on trumpet and Tim Green on saxophone."
+        },
+        {
+          "song": "Mozambique",
+          "transition": true,
+          "footnote": "Michael Ray on trumpet and Tim Green on saxophone."
+        },
+        {
+          "song": "Cavern",
+          "transition": false,
+          "footnote": "Michael Ray on trumpet and Tim Green on saxophone."
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-28",
+    "venue": "Oak Mountain Amphitheatre",
+    "city": "Pelham",
+    "state": "AL",
+    "country": "USA",
+    "setlist_notes": "Sneakin' Sally did not contain a vocal jam. The YEM vocal jam included Sweet Home Alabama quotes.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-09-29",
+    "venue": "Pyramid Arena",
+    "city": "Memphis",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "<p>Stash ended with the first I Canât Turn You Loose since December 29, 1997 (109 shows), when it also appeared as a jam. Before Theme From the Bottom, Trey announced a contest where the winner would receive four tickets and backstage passes to any show in the next year and, jokingly, a date with Fish. The question centered on what all of the songs played in the first set, with the exception of Driver, had in common. The answer was that all songs were in the Key of D. Happy Birthday was also played (for Trey) during the contest announcement. Cities was an appropriate choice as an encore for Memphis, and Trey altered the lyrics a bit for the occasion.</p>\r\n",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        },
+        {
+          "song": "I Can't Turn You Loose",
+          "transition": true,
+          "jam": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Catapult",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Kung",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Cities",
+          "transition": false,
+          "footnote": "Altered lyrics."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-10-01",
+    "venue": "Hilton Coliseum",
+    "city": "Ames",
+    "state": "IA",
+    "country": "USA",
+    "setlist_notes": "<p>Page teased I Can&#39;t Turn You Loose in Gumbo.</p>\r\n",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-10-02",
+    "venue": "Target Center",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "USA",
+    "setlist_notes": "SOAM featured band introductions: âCactusâ(Mike), âStumpyâ (Page), âMattyâ (Fish) and âThe Good Lieutenantâ (Trey). ",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Frankenstein",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-10-03",
+    "venue": "Allstate Arena",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "Mike teased the theme from <em>The Brady Bunch</em> during BBFCFM.Â The encore featured Sugar Blue on harmonica and Son Seals on guitar and lead vocals. Messinâ With the Kid was played for the first time since August 8, 1997 (142 shows), which was Sugar Blueâs previous time on stage with Phish.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Guyute",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Funky Bitch",
+          "transition": true,
+          "footnote": "Sugar Blue on harmonica and Son Seals on guitar and lead vocals."
+        },
+        {
+          "song": "Messin' with The Kid",
+          "transition": false,
+          "footnote": "Sugar Blue on harmonica and Son Seals on guitar and lead vocals."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-10-04",
+    "venue": "Redbird Arena, Illinois State University",
+    "city": "Normal",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "Uncle Pen was played for the first time since August 17, 1997 (136 shows). Makisupa featured Trey on keyboards and included the keyword &ldquo;NORML.&rdquo; At the end of Rock and Roll, Trey jokingly thanked the show&rsquo;s sponsors, NORML and the (musical) Key of &ldquo;A.&rdquo;",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Trey on keyboards; keyword was \"NORML.\""
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-10-07",
+    "venue": "Nassau Veterans Memorial Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased&nbsp;Dave&#39;s Energy Guide in&nbsp;Jibboo. Part of the Mike&rsquo;s jam featured Trey on keys. Fish teased You Enjoy Myself in Mike&#39;s. Mike teased Auld Lang Syne in Weekapaug. Hydrogen was played outside of Mike&rsquo;s for the first time since October 31, 1987 (1,190&nbsp;shows) and played as part of an encore for the first time since May 23, 1990 (895 shows).</p>\r\n",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Frankie Says",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false,
+          "footnote": "Trey on keys."
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rocky Top",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-10-08",
+    "venue": "Nassau Veterans Memorial Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Sofi Dillof joined the band for the Meatstick Dance. Weâre Not Gonna Take It made its Phish debut with Tom Marshall singing and performing various stage antics. Tweezer included a Mountains in the Mist tease. ",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "We're Not Gonna Take It",
+          "transition": false,
+          "footnote": "Phish debut; Tom Marshall on vocals."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-10-09",
+    "venue": "Pepsi Arena",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Part of the 2001 jam featured Trey on keys.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false,
+          "footnote": "Trey on keys."
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-10-10",
+    "venue": "Pepsi Arena",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "YEM did not contain a vocal jam.",
+    "tour_name": "1999 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Misty Mountain Hop",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-02",
+    "venue": "The Palace of Auburn Hills",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "country": "USA",
+    "setlist_notes": "<p>Farmhouse featured a slightly different arrangement, with an additional chorus at the end. Antelope contained Roggae teases from Trey. YEM included a silent jam. Little Drummer Boy emerged from the YEM vocal jam and ended with FishÂ alone onstage.Â This show is available as an archival release on LivePhish.com.</p>\r\n",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true,
+          "footnote": "Slightly different arrangement, with an additional chorus at the end."
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "Silent jam."
+        },
+        {
+          "song": "The Little Drummer Boy",
+          "transition": false,
+          "footnote": "Ended with Fish alone onstage."
+        }
+      ],
+      "e": [
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-03",
+    "venue": "Firstar Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "Trey teased Dave's Energy Guide in Limb By Limb.",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-04",
+    "venue": "Firstar Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-05",
+    "venue": "BlueCross Arena",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Twist emerged at this show with a slightly new arrangement. After Trey remarked of his affinity for this venue, Jennifer Dances made its debut.",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false,
+          "footnote": "Slightly new arrangement."
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Jennifer Dances",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-07",
+    "venue": "Cumberland County Civic Center",
+    "city": "Portland",
+    "state": "ME",
+    "country": "USA",
+    "setlist_notes": "Simple contained a Bathtub Gin tease from Trey.",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Jennifer Dances",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Walk Away",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-08",
+    "venue": "Cumberland County Civic Center",
+    "city": "Portland",
+    "state": "ME",
+    "country": "USA",
+    "setlist_notes": "The YEM vocal jam segued into an <em>a cappella </em>Tweezer Reprise. Tweezer Reprise was subsequently played in its normal manner to close out the show.",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false,
+          "footnote": "A cappella."
+        }
+      ],
+      "e": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-10",
+    "venue": "First Union Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "Bowie was unfinished. The jam out of Have Mercy included a snippet of Bowie before returning to Have Mercy. The subsequent reggae-style HYHU contained a Have Mercy melody before leading to a vacuum solo. The Little Drummer Boy was teased in the second HYHU.",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Have Mercy",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false,
+          "footnote": "Have Mercy melody and a vacuum solo."
+        },
+        {
+          "song": "Cracklin' Rosie",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Ride Captain Ride",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-11",
+    "venue": "First Union Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>Sneakin&rsquo; Sally began with an AC/DC Bag tease and did not contain a vocal jam. Ghost contained a Sand tease from Trey and Brick House teases from Mike. Possum included an All Fall Down signal.</p>\r\n",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "All Fall Down signal."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-12",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist_notes": "Chalk Dust concluded with Trey paying his respects to his recently deceased grandfather.",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Concluded with Trey paying his respects to his recently deceased grandfather."
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-13",
+    "venue": "Providence Civic Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist_notes": "Mike teased Gumbo in Moma Dance. Part of the Piper jam featured Trey on his keyboard set and Inlaw Josie Wales featured Trey on acoustic guitar. Silent was played without The Horse for the first time since June 23, 1994 (421 shows).",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false,
+          "footnote": "Trey on his keyboard set."
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true,
+          "footnote": "Trey on acoustic guitar."
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-15",
+    "venue": "MCI Center",
+    "city": "Washington",
+    "state": "DC",
+    "country": "USA",
+    "setlist_notes": "Trey teased Santa Claus is Coming to Town in Bathtub Gin. Reba did not have the whistling ending. Rocky Top included Frankenstein teases in the ending.",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Frankenstein",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-16",
+    "venue": "Reynolds Coliseum",
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "Before the show, Mike brought a big shaggy doll on the stage and sat it on top of his bass cabinet. Page teased the theme from <em>Star Trek</em> in Sand.&nbsp;Possum included Shafty teases from Mike. Velvet Sea ended with a short, spacey delay loop jam.&nbsp;This show is available as an archival release on LivePhish.com.",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false,
+          "footnote": "Ended with a short, spacey delay loop jam."
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bittersweet Motel",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-17",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "Moma included Birds teases.",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Jennifer Dances",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-18",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "Dog Log was dedicated to Paul Languedoc. Afterwards, the band reprised the song for a few seconds after Trey remarked how much he liked it. Inlaw Josie Wales featured Trey on acoustic guitar. 2001 included Do You Feel Like We Do (Peter Frampton) teases; Trey also introduced Page&nbsp;as &lsquo;Bob Mayonnaise,&rsquo;&nbsp;likely a reference to Bob Mayo, who played keys on <em>Frampton Comes Alive</em>. Sand contained a Super Bad tease from Trey.&nbsp;Weekapaug included Norwegian Wood and Buffalo Bill teases.",
+    "tour_name": "1999 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Back at the Chicken Shack",
+          "transition": true
+        },
+        {
+          "song": "Dog Log",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true,
+          "footnote": "Trey on acoustic guitar."
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Buffalo Bill",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-29",
+    "venue": "Big Cypress Seminole Indian Reservation",
+    "city": "Big Cypress",
+    "state": "FL",
+    "country": "USA",
+    "setlist_notes": "This was the soundcheck for the Big Cypress celebration.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-30",
+    "venue": "Big Cypress Seminole Indian Reservation",
+    "city": "Big Cypress",
+    "state": "FL",
+    "country": "USA",
+    "setlist_notes": "This was the first show of the Big Cypress festival. Light Up was played for the first time since March 1, 1989 (1,097Â shows), included Jibboo teases from Mike, and was unfinished. Corinna was subsequently played for the first time since February 18, 1989 (1,101Â shows). Che Hun Ta Mo and Big Alligator (both Phish debuts) featured guests John McEuen on mandolin, Raiford Starke on guitar, and Seminole Indian Chief Jim Billie on guitar and lead vocals. Mikeâs Song included an Immigrant Song tease and Weekapaug included a Light Up tease and an Auld Lang Syne tease at midnight.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Che Hun Ta Mo",
+          "transition": true,
+          "footnote": "Phish debut; John McEuen on mandolin, Raiford Starke on guitar, and Seminole Indian Chief Jim Billie on guitar and lead vocals. "
+        },
+        {
+          "song": "Big Alligator",
+          "transition": true,
+          "footnote": "Phish debut; John McEuen on mandolin, Raiford Starke on guitar, and Seminole Indian Chief Jim Billie on guitar and lead vocals. "
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-12-31",
+    "venue": "Big Cypress Seminole Indian Reservation",
+    "city": "Big Cypress",
+    "state": "FL",
+    "country": "USA",
+    "setlist_notes": "This was the second show of the Big Cypress festival. Fish was introduced as 'Soda Jerk' during IÂ Didnât Know.Â Split Open and MeltÂ and Disease were unfinished. Melt contained A Love Supreme teases.Â After the ensuing Catapult, Trey remarked: âOnly at the largest concert in the world could we get away with playing a song like that.â After Midnight made its Phish debut. The late set, also known as âThe Show,â began at around 11:35. âFather Timeâ was on stage, pedaling on an exercise bike that powered a large clock. The sounds of the clockâs gears could be heard through the sound system. About ten minutes before midnight, âFather Timeâ collapsed from exhaustion and the clock stopped. Then, a large fan boat entered the concert field and approached the stage. Early in its journey, the fan boat exploded away and revealed the hot dog used in the 1994 New Yearâs stunt. While the band rode the hot dog to the stage, an instrumental version of Meatstick began to play over the P.A.. The band reached the stage and fed several meatsticks to Father Time, reviving him so that the clock could continue moving toward midnight. The band then took the stage and played Meatstick to begin The Show. Dancers were on stage prior to Phish reaching it. Auld Lang Syne and Disease were accompanied by fireworks.Â Heavy Things was recorded live and rebroadcast as part of ABC televisionâs New Yearâs Eve coverage. In a humorous effort to confuse the home audience, Trey instructed the crowd to yell the word âcheesecakeâ in lieu of cheering at the end of the song. After twice giving the example of yelling the word once, Trey changed his mind and instructed the crowd to chant it, adding for them to say it like they were pissed. Trey then introduced the band for the rebroadcast and offered a message of peace and harmony for the world where he reminded people to drive in the right lane unless passing another vehicle. Meatstick was subsequently teased as the New Year approached in the central time zone. YEM included a vocal jam based around the word âcheesecakeâ and Trey altered the lyrics to Axilla and Albuquerque to reference the word. Inlaw Josie Wales featured Trey on acoustic guitar. Sand contained My Soul teasing from Mike and segued into the debut of Quadrophonic Toppling. Rock and Roll included an After Midnight tease. Love You included band introductions; FishÂ introduced Page before the song and Mike and Trey afterwards, and the band as âPhish 2000â (see November 2, 1990). Piper contained Bug teases from Page. 2001 began with the signature Hood drum roll. After the show closed with yet another version of Meatstick, the Beatles song Here Comes the Sun was piped through the crowd at sunrise. Two bustouts were played: Crosseyed and Painless (first since August 13, 1997, or 159 shows), and Love You (first since July 5, 1997, or 179 shows).",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Catapult",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "After Midnight",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ],
+      "2": [
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": false,
+          "footnote": "Accompanied by fireworks."
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Accompanied by fireworks; unfinished."
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true,
+          "footnote": "Vocal jam based around the word \"cheesecake.\""
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true,
+          "footnote": "Trey on acoustic guitar."
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Quadrophonic Toppling",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Albuquerque",
+          "transition": true,
+          "footnote": "Trey altered lyrics to reference cheesecake."
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": true,
+          "footnote": "Trey altered lyrics to reference cheesecake."
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "After Midnight",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Bittersweet Motel",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Love You",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false,
+          "footnote": "Began with the signature Hood drum roll."
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1999-07-29",
+    "venue": "Naeba Ski Resort",
+    "city": "Niigata",
+    "state": "",
+    "country": "Japan",
+    "setlist_notes": "This soundcheck took place on the Field of Heaven stage and preceded Phish&#39;s performances at the Fuji Rock Festival. It is currently available on LivePhish.com (along with July 31, 1999) with proceeds benefiting the Japan earthquake relief effort.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "What's The Use?",
+          "transition": false,
+          "footnote": "What's The Use?"
+        }
+      ]
+    }
+  }
+]

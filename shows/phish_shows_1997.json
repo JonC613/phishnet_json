@@ -1,0 +1,7459 @@
+[
+  {
+    "showdate": "1997-02-13",
+    "venue": "Shepherd's Bush Empire",
+    "city": "London",
+    "state": "",
+    "country": "England",
+    "setlist_notes": "<p>The European tour opener featured the debuts of Walfredo and Rock A William and the Phish debuts of Love Me, My Soul, and When the Circus Comes. Trey teased Super Bad in 2001.&nbsp;The jam after PYITE contained Close to the Edge (Yes) teases from Trey.&nbsp;Maze was unfinished.</p>\r\n",
+    "tour_name": "1997 Winter European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Walfredo",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Love Me",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Maze",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Rock A William",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-02-14",
+    "venue": "Le Botanique",
+    "city": "Brussels",
+    "state": "",
+    "country": "Belgium",
+    "setlist_notes": "<p>Sweet Adeline was performed without microphones. Reba did not have the whistling ending. Mule was unfinished.</p>\r\n",
+    "tour_name": "1997 Winter European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": true,
+          "footnote": "Without microphones."
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Walfredo",
+          "transition": true
+        },
+        {
+          "song": "Rock A William",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-02-16",
+    "venue": "Alter Wartesaal",
+    "city": "Cologne",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "<p>This show was rebroadcast on German television and featured the Phish debut of Beauty of My Dreams. The soundcheck&#39;s Crossyed and Painless included Swingtown teases.</p>\r\n",
+    "tour_name": "1997 Winter European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-02-17",
+    "venue": "Paradiso",
+    "city": "Amsterdam",
+    "state": "",
+    "country": "Netherlands",
+    "setlist_notes": "<p>This show marked the debut of Carini and the Phish debut of Soul Shakedown Party. Carini contained a YEM tease. The soundcheck&#39;s Dog Log/Funky Bitch mashup was played to the music of Soul Shakedown Party. This show was officially released as part of the <em>Amsterdam</em> box set.</p>\r\n",
+    "tour_name": "1997 Winter European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Soul Shakedown Party",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-02-18",
+    "venue": "Bataclan",
+    "city": "Paris",
+    "state": "",
+    "country": "France",
+    "setlist_notes": "<p>Slave was dedicated to &ldquo;a friend&rdquo; (long-time taper Don Wright who had just walked into the show from the hospital after his arm was broken when he was hit by a car crossing the street).&nbsp;Trey teased Super Bad in 2001. Reba did not have the whistling ending.</p>\r\n",
+    "tour_name": "1997 Winter European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Beauty of My Dreams",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Walfredo",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-02-20",
+    "venue": "Teatro Smeraldo",
+    "city": "Milan",
+    "state": "",
+    "country": "Italy",
+    "setlist_notes": "<p>Taste and Stash contained&nbsp;Dave&#39;s Energy Guide&nbsp;teases from Trey. Sweet Adeline was performed without microphones.</p>\r\n",
+    "tour_name": "1997 Winter European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Soul Shakedown Party",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Love Me",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": false,
+          "footnote": "Without microphones."
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-02-21",
+    "venue": "Tenax",
+    "city": "Florence",
+    "state": "",
+    "country": "Italy",
+    "setlist_notes": "<p>During the &ldquo;Wash Uffize Drive Me to Firenze&rdquo; section of YEM, Fish exclaimed &ldquo;this is a dream come true!&rdquo; Antelope was unfinished and a heavy metal jam rose from the &ldquo;Rye, Rye, Rocco&rdquo; segment. Wilson was subsequently performed heavy metal style. Reba did not have the whistling ending. The soundcheck&#39;s Funky Bitch was slower than normal and the subsequent Dog Log was played over the music to the slow-style Funky Bitch.</p>\r\n",
+    "tour_name": "1997 Winter European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "During the âWash Uffize Drive Me to Firenze\" section, Fish exclaimed \"this is a dream come true!\""
+        }
+      ],
+      "2": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Unfinished; heavy metal jam rose from \"Rye, Rye, Rocco\" segment."
+        },
+        {
+          "song": "Wilson",
+          "transition": false,
+          "footnote": "Heavy metal style."
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": false,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-02-22",
+    "venue": "Teatro Olimpico",
+    "city": "Rome",
+    "state": "",
+    "country": "Italy",
+    "setlist_notes": "2001 contained Super Bad teases from Trey. Talk featured Trey on acoustic guitar.",
+    "tour_name": "1997 Winter European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Walfredo",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Talk",
+          "transition": true,
+          "footnote": "Trey on acoustic guitar."
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-02-23",
+    "venue": "Fillmore",
+    "city": "Cortemaggiore",
+    "state": "",
+    "country": "Italy",
+    "setlist_notes": "<p>Carini started off as a pre-recorded tape playing through the P.A. system. Phish took the stage and picked up the song from where it was on the tape and continued to play. This show also featured the first Daniel Saw the Stone since August 28, 1993 (289 shows) and the first Why Don&rsquo;t We Do It since June 25, 1995 (144 shows). GTBT contained a Tweezer Reprise tease. The soundcheck&#39;s Funky Bitch was sung by Trey and the Carini that followed had additional/alternate lyrics.</p>\r\n",
+    "tour_name": "1997 Winter European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "All Things Reconsidered",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Love Me",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Frankenstein",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Daniel Saw the Stone",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Why Don't We Do It in the Road?",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Billy Breathes",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-02-25",
+    "venue": "Incognito",
+    "city": "Munich",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "<p>One Meatball through Mojo Workin&rsquo; were Phish debuts that featured Sydney Ellis on vocals. Trey sang the verses of Fee through a megaphone. My Friend was aborted quickly and scrapped. The soundcheck&#39;s Funky Bitch included lyrics about Amy Skelton&#39;s upcoming wedding.</p>\r\n",
+    "tour_name": "1997 Winter European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "One Meatball",
+          "transition": true,
+          "footnote": "Phish debut; Sydney Ellis on vocals."
+        },
+        {
+          "song": "Little Red Rooster",
+          "transition": true,
+          "footnote": "Phish debut; Sydney Ellis on vocals."
+        },
+        {
+          "song": "Got My Mojo Working",
+          "transition": true,
+          "footnote": "Phish debut; Sydney Ellis on vocals."
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Beauty of My Dreams",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "Trey sang verses through megaphone."
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true,
+          "footnote": "Aborted quickly and scrapped."
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-02-26",
+    "venue": "SWF3 Studios",
+    "city": "Baden-Baden",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "This was an in-studio set before the Stuttgart show that evening. Between Talk and Waste, Trey noodled around to the tune of Michael Jackson&rsquo;s Don&rsquo;t Stop Till You Get Enough. The DJ played Michael&rsquo;s version in its entirety after Waste. The <em>Billy Breathes</em> album versions of Free and Billy Breathes were also played during the broadcast.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Talk",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Walfredo",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Goodbye Jam",
+          "transition": false,
+          "footnote": "Goodbye Jam"
+        },
+        {
+          "song": "My Soul",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Rock A William",
+          "transition": true
+        },
+        {
+          "song": "Dog Log",
+          "transition": true
+        },
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Ha Ha Ha",
+          "transition": false,
+          "footnote": "Heavy metal outro."
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Kung",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Magilla",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Highway to Hell",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-02-26",
+    "venue": "SWF3 Studios",
+    "city": "Baden-Baden",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "This was an in-studio set before the Stuttgart show that evening. Between Talk and Waste, Trey noodled around to the tune of Michael Jackson&rsquo;s Don&rsquo;t Stop Till You Get Enough. The DJ played Michael&rsquo;s version in its entirety after Waste. The <em>Billy Breathes</em> album versions of Free and Billy Breathes were also played during the broadcast.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Talk",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Walfredo",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Goodbye Jam",
+          "transition": false,
+          "footnote": "Goodbye Jam"
+        },
+        {
+          "song": "My Soul",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Rock A William",
+          "transition": true
+        },
+        {
+          "song": "Dog Log",
+          "transition": true
+        },
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Ha Ha Ha",
+          "transition": false,
+          "footnote": "Heavy metal outro."
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Kung",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Magilla",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Highway to Hell",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-02-28",
+    "venue": "Huxleyâs Neue Welt",
+    "city": "Berlin",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "<p>This show included the first Paul and Silas since October 24, 1995 (120 shows).</p>\r\n",
+    "tour_name": "1997 Winter European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Paul and Silas",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Love Me",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false,
+          "footnote": "Contained Axilla II ending.\t"
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-03-01",
+    "venue": "Markthalle",
+    "city": "Hamburg",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "<p>The week-long trend of breaking out songs continued with the show-opening Cities, which was the first since July 5, 1994 (223 shows). Trey teased Under Pressure in DWD. Wolfman&rsquo;s included a Dave&rsquo;s Energy Guide tease. Reba did not have the whistling ending. Possum included an All Fall Down signal and a heavy metal-style intro.&nbsp; The jam out of Mike&rsquo;s featured teases and vocal quotes of The End (The Doors), and&nbsp;Careful with That Axe, Eugene as well as the Jim Morrison poem &quot;Dawn&#39;s Highway.&quot;&nbsp;The End (The Doors) was subsequently quoted in Lawn Boy and Weekapaug. Weekapaug was unfinished and ended in a Can&#39;t You Hear Me Knocking jam. A piece of Samson Variation was performed in the soundcheck after Funky Bitch. Portions of this show were made available via the <em>Slip, Stitch and Pass</em> release.</p>\r\n",
+    "tour_name": "1997 Winter European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Weigh",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "All Fall Down signal and heavy metal-style intro."
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-03-02",
+    "venue": "Pumpehuset",
+    "city": "Copenhagen",
+    "state": "",
+    "country": "Denmark",
+    "setlist_notes": "<p>Sample contained a Creep (Radiohead) quote from Trey. Antelope was unfinished. Trey teased Super Bad in 2001. The YEM vocal jam was based on &quot;Skelton.&quot;</p>\r\n",
+    "tour_name": "1997 Winter European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Johnny B. Goode",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Gypsy Queen",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Catapult",
+          "transition": false
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-03-05",
+    "venue": "Ed Sullivan Theater",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Phish were the musical guests on <em>The Late Show with David Letterman.</em>",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-03-18",
+    "venue": "The Flynn Theatre",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "<p>This show celebrated the release of &ldquo;Phish Food&rdquo; ice cream and was a benefit for the then-newly formed Waterwheel Foundation. &ldquo;Ben &amp; Jerry&rdquo; made a short speech before the show and free ice cream was made available for the entire crowd. I Told You So and Love Me Like a Man, both of which featured Tammy Fletcher of The Disciples on vocals, made their Phish debuts. Cinnamon Girl was played for the first time since March 1, 1989 (904&nbsp;shows). Hood contained a Barracuda&nbsp;tease by Trey.&nbsp;The last three songs of the first set, as well as Funky Bitch, featured Dave Grippo on alto sax and James Harvey on trombone. Grippo teased Third Stone From the Sun in Cars Trucks Buses and Chameleon in&nbsp;Suzy Greenberg. Soul Power 74 was teased by both horns in Suzy. Hello My Baby was performed without microphones. All songs in the soundcheck (except for Walfredo) featured horns.</p>\r\n",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cinnamon Girl",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true,
+          "footnote": "Dave Grippo on alto sax and James Harvey on trombone."
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false,
+          "footnote": "Dave Grippo on alto sax and James Harvey on trombone."
+        },
+        {
+          "song": "Character Zero",
+          "transition": false,
+          "footnote": "Dave Grippo on alto sax and James Harvey on trombone."
+        }
+      ],
+      "2": [
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Love Me",
+          "transition": true
+        },
+        {
+          "song": "I Told You So",
+          "transition": true,
+          "footnote": "Phish debut; Tammy Fletcher on vocals."
+        },
+        {
+          "song": "Love Me Like a Man",
+          "transition": true,
+          "footnote": "Phish debut; Tammy Fletcher on vocals."
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Hello My Baby",
+          "transition": true,
+          "footnote": "Without microphones."
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false,
+          "footnote": "Dave Grippo on alto sax and James Harvey on trombone."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-05-18",
+    "venue": "CoreStates Center",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "Phish performed the national anthem before game 2 of the NHL Eastern Conference Finals between the Philadelphia Flyers and the New York Rangers.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-06-06",
+    "venue": "Brad Sands's and Pete Carini's House",
+    "city": "Charlotte",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show, referred to as &ldquo;The Fourth Ball&rdquo; or &ldquo;Bradstock,&rdquo; was played for friends before the band embarked on the European summer tour.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Olivia's Pool",
+          "transition": true
+        },
+        {
+          "song": "I Don't Care",
+          "transition": true
+        },
+        {
+          "song": "Samson Variation",
+          "transition": true
+        },
+        {
+          "song": "Bye Bye Foot",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Samson Variation",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Waking Up",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Ain't Love Funny",
+          "transition": true
+        },
+        {
+          "song": "Stand!",
+          "transition": false
+        },
+        {
+          "song": "Izabella",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-06-13",
+    "venue": "The S.F.X. Centre",
+    "city": "Dublin",
+    "state": "",
+    "country": "Ireland",
+    "setlist_notes": "<p>Phish continued their tradition of breaking out new songs at the beginning of a tour; Trey announced after Dogs Stole Things that the band had written 15-16 new songs in the last eight weeks and that they would be debuting many of them at this show. The show featured the debuts of Dogs Stole Things, Limb By Limb, Wading in the Velvet Sea, Water in the Sky, Vultures, Ghost, and Olivia&rsquo;s Pool as well as the Phish debuts of Stand! and Izabella. Stash was preceded by a Tequila tease. Chalk Dust was unfinished. Character Zero included a Jean Pierre tease from Trey.</p>\r\n",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": false
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Vultures",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Ghost",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Olivia's Pool",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Stand!",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Izabella",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-06-14",
+    "venue": "The S.F.X. Centre",
+    "city": "Dublin",
+    "state": "",
+    "country": "Ireland",
+    "setlist_notes": "<p>This show featured the debuts of Bye Bye Foot, Twist, Piper, and Waking Up and the Phish debuts of Dirt and Saw It Again.&nbsp;This show also featured unusually improvisational versions of Waste and Cavern. Bowie included a full band Dave&#39;s Energy Guide tease.</p>\r\n",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Talk",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Bye Bye Foot",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Piper",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Waking Up",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-06-16",
+    "venue": "Royal Albert Hall",
+    "city": "London",
+    "state": "",
+    "country": "England",
+    "setlist_notes": "I Don&rsquo;t Care made its short-lived debut at this show. Reba did not have the whistling ending.",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Olivia's Pool",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "I Don't Care",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-06-19",
+    "venue": "Arena Wien",
+    "city": "Vienna",
+    "state": "",
+    "country": "Austria",
+    "setlist_notes": "<p>Stash was unfinished and Hello My Baby was performed without microphones. The soundcheck&#39;s Poor Heart was the slow version.</p>\r\n",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Stash",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Beauty of My Dreams",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false,
+          "footnote": "Without microphones."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-06-20",
+    "venue": "Divadlo Archa",
+    "city": "Prague",
+    "state": "",
+    "country": "Czech Republic",
+    "setlist_notes": "Ain&rsquo;t Love Funny made its Phish debut at this show and was played out of an odd, atypical jam that grew out of Horn. Antelope&#39;s lyrics were changed to &quot;Been you to have any spike&nbsp;tongue&quot; and&nbsp;Marco Esquandolas was changed to &quot;The Jersey drunk.&quot; Ghost included San-Ho-Zay teases from Trey.&nbsp;Julius contained a brief Stairway to Heaven tease from Trey.",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Ain't Love Funny",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "I Don't Care",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "lyrics were changed to \"Been you to have any spike tongue\" and Marco Esquandolas was changed to \"The Jersey drunk.\""
+        }
+      ],
+      "2": [
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Bye Bye Foot",
+          "transition": false
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "When the Circus Comes",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-06-21",
+    "venue": "Hurricane Festival",
+    "city": "ScheeÃel",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "Samson Variation debuted at this show. This single-set performance was part of the inaugural Hurricane Festival that also featured Ani DiFranco, Bad Religion, Ben Folds Five, Elegantly Wasted, and Primus.",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Samson Variation",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "My Soul",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-06-22",
+    "venue": "Loreley",
+    "city": "St. Goarshausen, Koblenz",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "This single-set performance was part of the WDR Festival that also featured Ezio, K&rsquo;s Choice, John Hiatt, Reef, Primus, and Steve Winwood.",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-06-24",
+    "venue": "La Laiterie",
+    "city": "Strasbourg",
+    "state": "",
+    "country": "France",
+    "setlist_notes": "<p>Guelah was aborted and scrapped. Reba did not have the whistling ending.</p>\r\n",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true,
+          "footnote": "Aborted and scrapped."
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Gypsy Queen",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Talk",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-06-25",
+    "venue": "LâAeronef",
+    "city": "Lille",
+    "state": "",
+    "country": "France",
+    "setlist_notes": "<p>This show marked the debut of Meatstick and the Phish debut of Cecilia, which was performed <em>a cappella</em> by Fish. The jam out of Disease included Can&rsquo;t You Hear Me Knocking teases. McGrupp included Makisupa teases; the subsequent Makisupa was unfinished. Antelope included crew introductions and a mention of Antelope Greg.</p>\r\n",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Olivia's Pool",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Cecilia",
+          "transition": false,
+          "footnote": "Phish debut; performed a cappella by Fish."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Rock A William",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Crew introductions and a mention of Antelope Greg."
+        }
+      ],
+      "e": [
+        {
+          "song": "Guyute",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-06-27",
+    "venue": "Worthy Farm",
+    "city": "Somerset",
+    "state": "",
+    "country": "England",
+    "setlist_notes": "This single-set performance was part of the annual Glastonbury Festival of Contemporary Performing Arts that also included Beck, David Byrne, Pavement, Radiohead, Smashing Pumpkins, Spearhead, and Stereolab. Phish performed on The Pyramid Stage. Wilson was an appropriate opener, as the venue was less than 50 kilometers from Stonehenge.",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-06-29",
+    "venue": "Roskilde Festival",
+    "city": "Roskilde",
+    "state": "",
+    "country": "Denmark",
+    "setlist_notes": "This single-set performance was part of the 27th annual Roskilde Festival that also included Beck, David Byrne, Charlie Hunter, Ani DiFranco, Leningrad Cowboys &amp; Red Army Choir, M&ouml;tley Crue, Pavement, Primus, and Radiohead. The first three songs of the set were broadcast on the festival radio station.",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "My Soul",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-01",
+    "venue": "Paradiso",
+    "city": "Amsterdam",
+    "state": "",
+    "country": "Netherlands",
+    "setlist_notes": "<p>Ghost began the first of two nights of the infamous &quot;Worm&quot; banter, with Fish&nbsp;saying &quot;I think you know where you are&quot; and Trey responding with &quot;You&#39;re on the back of the worm!&quot; The &quot;Worm&quot; was also mentioned in Ya Mar, Saw It Again, and the jam out of Cities, which also included When the Saints Go Marching In and Santa Claus is Coming to Town teases by Trey. Mike teased Time Loves A Hero in Ghost. Trey teased Dave&#39;s Energy Guide in Limb By Limb. Dirt was introduced as &quot;Green Grass High Tides Forever.&quot; The second set began with a Fish&nbsp;piano solo that evolved into a jam, as the rest of the band eventually joined the stage and Fish&nbsp;moved to his drum kit. Bathtub Gin contained a Little Drummer Boy tease from Trey and a <em>Simpsons</em> Theme tease from Mike. Loving Cup contained a Frankenstein tease from Mike. The soundcheck&#39;s Dog Log was performed in a slow funk manner with &quot;the crew doesn&#39;t get to eat&quot; alternate lyrics. This show was officially released as part of the&nbsp;<em>Amsterdam</em>&nbsp;box set.</p>\r\n",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ghost",
+          "transition": true,
+          "footnote": "\"Worm\" banter."
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true,
+          "footnote": "\"Worm\" banter."
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Ain't Love Funny",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true,
+          "footnote": "\"Worm\" banter."
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Jam",
+          "transition": false,
+          "footnote": "The second set began with a Fish piano solo that evolved into a jam, as the rest of the band eventually joined the stage and Fish moved to his drum kit."
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false,
+          "footnote": "\"Worm\" banter."
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "When the Circus Comes",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-02",
+    "venue": "Paradiso",
+    "city": "Amsterdam",
+    "state": "",
+    "country": "Netherlands",
+    "setlist_notes": "Maze contained a Spooky tease from Trey. The Wormtown Jam continued the stage banter of the night before. Portions of the narration were sung to the tune of Steve Miller&rsquo;s Swingtown, as Trey warned the fans in attendance about the &ldquo;killer worms&rdquo; that inhabit the canals of Amsterdam. Mike teased Maze in the Bowie intro. This show was officially released as part of the&nbsp;<em>Amsterdam</em>&nbsp;box set.",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Stash",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": false
+        },
+        {
+          "song": "Wormtown",
+          "transition": false,
+          "jam": true,
+          "footnote": "Narration sung to the tune of Swingtown. Trey warned fans about the \"killer worms\" that inhabit the canals of Amsterdam."
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Free",
+          "transition": false
+        }
+      ],
+      "e2": [
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-03",
+    "venue": "Serenadenhof",
+    "city": "NÃ¼remberg",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "<p>Ghost contained a San-Ho-Zay tease from Trey. During the soundcheck, Dog Log was played over a Jesus Just Left Chicago-esque blues riff and Possum contained vocals from Fish.</p>\r\n",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-05",
+    "venue": "Piazza Risorgimento",
+    "city": "Como",
+    "state": "",
+    "country": "Italy",
+    "setlist_notes": "This was a single-set, free outdoor show. Twist included a Groove Is in the Heart jam with lyrics and GTBT included a Walk This Way tease. Sample and Hood contained more \"worm\" banter (from July 1, 1997 and July 2, 1997) with Trey saying \"you're on the back of the worm!\"Â Hood also containedÂ <em>Odd Couple</em>Â theme teases from Mike. At the beginning of the Hood jam, Trey asked Chris to turn off the lights so that the band could see the mountains. Love You was played for the first time since December 8, 1995 (111 shows).",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true,
+          "footnote": "\"Worm\" banter."
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "\"Worm\" banter."
+        },
+        {
+          "song": "Love You",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-06",
+    "venue": "Spiaggia di Rivoltella",
+    "city": "Desenzano",
+    "state": "",
+    "country": "Italy",
+    "setlist_notes": "This was an outdoor show; the afternoon soundcheck was free and open to the public. Trey began playing Hell&rsquo;s Bells to the accompaniment of church bells ringing nearby. During MMMBop, Trey noted: &ldquo;Fish will now do his version of James Brown singing Hanson&rsquo;s MMMBop.&rdquo; Fish&nbsp;responded in part that &ldquo;I&rsquo;m an 11-year-old sex machine&rdquo; and that it was &ldquo;too hot in the hot tub!&rdquo; Another One Bites the Dust through Day-O featured the infamous Soundcheck Limbo Karaoke Contest, where fans were invited on stage to sing, while mic stands were used for the limbo contest. Page teased Let It Be at the end of And It Stoned Me.&nbsp;YEM did not contain a vocal jam and was unfinished.",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "No vocal jam; unfinished."
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "My Soul",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-09",
+    "venue": "Le Transbordeur",
+    "city": "Lyon/Villeurbanne",
+    "state": "",
+    "country": "France",
+    "setlist_notes": "YEM through Poor Heart featured BÃ©la Fleck and The Flecktones (BÃ©la Fleck, Jeff Coffin, Roy âFuturemanâ Wooten, and Victor Wooten), who were announced during the bass and drums segment of YEM and bounced along during the tramps jam. YEM contained Disease and Palmetto Quickstep teases, as well as Victor Wooten and Mike playing Mikeâs bass simultaneously. Victor teased The Fishin' Hole in Ghost. Poor Heart included a <em>Sanford and Son </em>theme tease from, a Yakety Sax tease, a Rhapsody in Blue tease by Page, and a Free Bird-style ending. Pierre, a local HÃ¤agen-Dazs employee who the band met the day before, was repeatedly called-out by the band and was brought up on stage and serenaded during the encore.",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": false
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "BÃ©la Fleck and The Flecktones; Victor Wooten and Mike playing Mike's bass simultaneously. No vocal jam."
+        },
+        {
+          "song": "Trane To Conamarra",
+          "transition": false,
+          "jam": true,
+          "footnote": "BÃ©la Fleck and The Flecktones."
+        },
+        {
+          "song": "Ghost",
+          "transition": false,
+          "footnote": "BÃ©la Fleck and The Flecktones."
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false,
+          "footnote": "BÃ©la Fleck and The Flecktones."
+        }
+      ],
+      "e": [
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-10",
+    "venue": "Espace Julien",
+    "city": "Marseilles",
+    "state": "",
+    "country": "France",
+    "setlist_notes": "<p>Llama was unfinished and featured a long, atypical jam that wove into Velvet Sea. The jam after Velvet Sea concluded with a theme akin to Lizards. Prior to the start of the second set, Trey said that in France they love Jimi Hendrix and Danny Bonaduce, explaining &quot;that&#39;s why I&#39;m here,&quot; and that he started his career as the Partridge Family&#39;s bass player. Trey subsequently quoted&nbsp;Point Me in the Direction of Albuquerque, remarked that the crowd was too young for that and that they didn&#39;t see the Partridge Family, but that the crowd knew it when they played Hanson the other night (see July 6, 1997). Prior to 2001, Trey said they called Fish&nbsp;&quot;The Orchestral Greasy Troll,&quot; prompting some impromptu singing. Trey teased Super Bad and The Star Spangled Banner in 2001.&nbsp;Mike teased Call to the Post in Magilla. Ya Mar featured various duets by the bandmembers, contained Magilla and St. Thomas teases, and lyrics referencing &quot;vampire children.&quot; Take Me to the River (first since November 21, 1995, or 126 shows) was unfinished. Funky Bitch featured a guest appearance by members of the Son Seals Band and teases of Take Me to the River and Bathtub Gin by the trumpet player.</p>\r\n",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": true,
+          "footnote": "Concluded with a theme akin to Lizards."
+        },
+        {
+          "song": "Olivia's Pool",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Magilla",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": false,
+          "footnote": "Various duets among the bandmembers; vampire children references."
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Take Me to the River",
+          "transition": false,
+          "footnote": "Unfinished."
+        }
+      ],
+      "e": [
+        {
+          "song": "Funky Bitch",
+          "transition": false,
+          "footnote": "Members of Son Seals Band."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-11",
+    "venue": "Doctor Music Festival",
+    "city": "Escalarre",
+    "state": "",
+    "country": "Spain",
+    "setlist_notes": "This single-set performance was part of the 2nd annual Doctor Music Festival that also featured Blues Traveler, Alice Cooper, Megadeth, Jim Rose, and Smashing Pumpkins. Trey teased Lazy in Johnny B. Goode. YEM contained a Wolfman&#39;s Brother tease from Trey and the vocal jam was partially based on I Wish.",
+    "tour_name": "1997 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-21",
+    "venue": "GTE Virginia Beach Amphitheater",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "<p>The jam during Bathtub Gin featured Trey jumping up and down in time with a syncopated jam, as well as strong Drowned teases. Near the end of the jam, Trey mentioned how good it was to be back home and named the four newer songs that were played. The beginning of Bowie included Radar Love teases from Mike and a Birdland jam and Wolfman&rsquo;s included a Bathtub Gin tease. The jam out of Theme, as well as Funky Bitch, featured LeRoi Moore on saxophone. The jam with LeRoi included a segment where he played two saxes, Trey played three guitars, Mike played two basses and the Cracklin&rsquo; Rosie cymbals, Fish had four drumsticks and Page was lying across his keyboards playing as many as possible. At&nbsp; one point, Trey grabbed two drumsticks and played them on Fish&#39;s cymbals and his guitar before tossing them into the crowd. LeRoi also teased the <em>Woody Woodpecker</em> theme during the jam.</p>\r\n",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Magilla",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false,
+          "footnote": "LeRoi Moore on two saxophones, Trey on three guitars, Mike on two basses and the Cracklinâ Rosie cymbals, and Page was lying across his keyboards playing as many as possible. Trey also on percussion."
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true,
+          "footnote": "LeRoi Moore on saxophone."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-22",
+    "venue": "Walnut Creek Amphitheater",
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "The first set of this show was performed during a furious lightning storm; during Taste, the band even jammed along with the thunder and lightning. Mother (Pink Floyd) was teased by Trey in Bye Bye Foot. Down with Disease was unfinished.&nbsp;Weekapaug also included a Hydrogen tease from Trey and closed with a Can&rsquo;t You Hear Me Knocking tease. This show is also available on DVD from Phish Dry Goods.",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Bye Bye Foot",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "When the Circus Comes",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-23",
+    "venue": "Lakewood Amphitheatre",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "<p>Ghost included Spooky and On Your Way Down teases. YEM included a <em>Jeopardy!</em> theme tease and did not have a vocal jam. Chalk Dust included Rocky Mountain Way teases.</p>\r\n",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": false
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Rocky Mountain Way",
+          "transition": false,
+          "jam": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-25",
+    "venue": "Starplex Amphitheatre",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "USA",
+    "setlist_notes": "<p>The second set and encore featured Bob Gullotti on a second drum set. Chalk Dust was unfinished. The Drum Jam also featured Page on keys. During the soundcheck, Funky Bitch was performed in a slow blues style. Funky Bitch and the two blues jams that followed featured Bob on a second drum set.</p>\r\n",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished; Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Taste",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Ya Mar",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Drums",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set and Page on keys."
+        },
+        {
+          "song": "Ghost",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Character Zero",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        }
+      ],
+      "e": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-26",
+    "venue": "South Park Meadows",
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "setlist_notes": "<p>The entire show featured Bob Gullotti on a second drum set. YEM did not contain a vocal jam and included Willie the Pimp teases just before the segue into Izabella. Bowie contained teases of the backup vocals to Rock Lobster (B-52s). Hood was unfinished. The soundcheck&#39;s Funky Bitch was performed in a slow style and was an instrumental.</p>\r\n",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Limb By Limb",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Stash",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Dirt",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set. No vocal jam."
+        },
+        {
+          "song": "Izabella",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "David Bowie",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Unfinished; Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Blister in the Sun",
+          "transition": false,
+          "jam": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Free",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Waste",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Cavern",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-29",
+    "venue": "Desert Sky Pavilion",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "USA",
+    "setlist_notes": "<p>Theme From the Bottom contained All Right Now teases from Mike and Trey and a Close to the Edge tease from Trey.&nbsp;Twist contained DEG teases by Mike. The soundcheck&#39;s blues jam was played over the Samson Variation rhythm.</p>\r\n",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Olivia's Pool",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-30",
+    "venue": "Ventura County Fairgrounds",
+    "city": "Ventura",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Trey teased Yours Is No Disgrace prior to NICU. Wolfmanâs included a Fire (Ohio Players) tease from Trey and a Take Me to the River jam. The Bowie intro featured Fish on vaccum and included a Simpsons signal; Matt Groening, creator of <em>The Simpsons</em>, was reportedly in attendance. Bowie also contained a When Johnny Comes Marching Home tease from Mike.Â This show was released as part of the <em>Ventura</em> box set.\r\n",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Weigh",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false,
+          "footnote": "Intro featured Fish on vacuum and a Simpsons signal."
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "My Soul",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-07-31",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "<p>YEM contained strange Santa Claus is Coming to Town teases.&nbsp;Listen for Sweet Home Alabama teases before the start of the second set and Mind Left Body teases during McGrupp. Weekapaug included Happy Birthday teases from Trey, who later made reference to Jerry Garcia&rsquo;s birthday, which was the following day. Trey noted that Phish and the rest of the music community were trying to keep Jerry&rsquo;s spirit alive through music. Weekapaug ended in a Can&#39;t You Hear Me Knocking jam.</p>\r\n",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": false
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Glide",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Cinnamon Girl",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-08-02",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "<p>Disease included teases of Three Blind Mice and Take Me Out to the Ball Game&nbsp;in its intro and was unfinished. Disease was subsequently teased near the end of Tweezer. During Hood,&nbsp;Trey asked Chris Kuroda to turn off the lights, &quot;So we can just have the outdoor vibe here.&quot; Also, at Hood&#39;s end, Trey added &quot;Mount Hood&quot; once after the lyric, &quot;You can feel good about Hood.&quot;</p>\r\n",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-08-03",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Samson Variation",
+          "transition": false
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Lifeboy",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": true
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-08-06",
+    "venue": "Riverport Amphitheater",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Super Bad in 2001. YEM contained a&nbsp;2001&nbsp;tease from Trey. Prior to Runaway Jim, Trey teased If I Only Had a Brain. Antelope included a&nbsp;Makisupa jam with Page on the theremin and Mike on a fretless bass.</p>\r\n",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Page on the theremin and Mike on a fretless bass."
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-08-08",
+    "venue": "New World Music Theatre",
+    "city": "Tinley Park",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "<p>The encore, which included the Phish debut of Messin&rsquo; with the Kid, featured Sugar Blue on harmonica and vocals. Hoochie Coochie Man was played for the first time since April 10, 1993 (383 shows). During the soundcheck, Dog Log was one verse and performed in a funk style and Messin&#39; with the Kid was an instrumental. This was the first Phish show to be webcast live.</p>\r\n",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Hoochie Coochie Man",
+          "transition": true,
+          "footnote": "Sugar Blue on harmonica and vocals."
+        },
+        {
+          "song": "Messin' with The Kid",
+          "transition": false,
+          "footnote": "Phish debut; Sugar Blue on harmonica and vocals."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-08-09",
+    "venue": "Alpine Valley Music Theatre",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist_notes": "<p>Tears of a Clown was teased before Theme. Reba did not have the whistling ending. Scent featured a duel between Trey and Mike after Page&rsquo;s solo. Mike and Trey started their duel facing each other and wound up on the ground doing bicycle kicks while they played. Weekapaug included Can&rsquo;t You Hear Me Knocking teases. Crossroads was played for the first time since December 9, 1995 (127 shows). During the soundcheck, the Warped Jam included an Ain&rsquo;t Love Funny/Waterwheel rap and Funky Bitch was sung by Trey.</p>\r\n",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": false
+        },
+        {
+          "song": "Crossroads",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Ain't Love Funny",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "Duel between Trey and Mike after Page's solo."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-08-10",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "<p>The long, involved Rotation Jam to set up Rock A William started when Page went to the theremin for a solo. Soon after, Trey took up the keys and Mike went to play guitar. Page eventually picked up Mike&rsquo;s bass. After they jammed a bit longer, Mike went to join Trey on the keys. Trey then joined Fish&nbsp;on the drums. The two of them played on the same drum set and Mike took a piano solo. Trey eventually kicked Fish&nbsp;off the drum stool, and Fish&nbsp;picked up Trey&rsquo;s guitar. SOAM contained a Larks&#39; Tongues in Aspic Part Two jam and a Third Stone from the Sun tease.</p>\r\n",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Bye Bye Foot",
+          "transition": false
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        },
+        {
+          "song": "Rotation Jam",
+          "transition": false
+        },
+        {
+          "song": "Rock A William",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-08-11",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "The &ldquo;Rye Rye Rocco&rdquo; section of Antelope included Page on theremin.",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "\"Rye Rye Rocco\" section included Page on theremin."
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-08-13",
+    "venue": "Star Lake Amphitheatre",
+    "city": "Burgettstown",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the Phish debut of Amoreena. Mike teased the theme to <em>Leave It to Beaver</em> in Wilson. The end of Wilson included a Little Drummer Boy tease. 2001 contained a Super Bad tease from Trey. During the soundcheck, Funky Bitch was sung by Page and Paul and Silas soundcheck included some alternate lyrics from Trey about the February 28, 1997 version.</p>\r\n",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Amoreena",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Izabella",
+          "transition": true
+        },
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-08-14",
+    "venue": "Darien Lake Performing Arts Center",
+    "city": "Darien Center",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "The second set featured a remarkable jam after Harry Hood ended and before Forbinâs began, as well as an appearance by Ken Kesey and the Merry Pranksters. Only the intro of Fly Famous Mockingbird was played. The Merry Pranksters Jam contained an Over the Rainbow tease from Trey, an If I Only Had a Brain tease, and a Spam Song quote. Frankenstein was performed in the middle of the Merry Pranksters Jam with narration continuing at the same time. ",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": false
+        },
+        {
+          "song": "Train Song",
+          "transition": false
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Love Me",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": false,
+          "footnote": "Intro only."
+        },
+        {
+          "song": "Merry Pranksters Jam",
+          "transition": false,
+          "footnote": "Ken Kesey and the Merry Pranksters."
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false,
+          "footnote": "Ken Kesey and the Merry Pranksters."
+        },
+        {
+          "song": "Merry Pranksters Jam",
+          "transition": false,
+          "footnote": "Ken Kesey and the Merry Pranksters."
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-08-16",
+    "venue": "Loring Commerce Centre",
+    "city": "Limestone",
+    "state": "ME",
+    "country": "USA",
+    "setlist_notes": "This was the first show of The Great Went festival. Harpua picked up where the Clifford Ball Harpua left off. After Chalk Dust, Trey remarked that the first three songs served as the soundcheck, which the band did not do before the show. The jam out of Simple, the beginning of My Soul, and the jam before Slave included <em>Odd Couple</em> theme teases. The jam before Slave also contained an Entrance of the Gladiators tease.&nbsp;Halley&rsquo;s Comet included On Your Way Down teases. The lyrics in Cities were changed to&nbsp;reference Fishman sleeping in the daytime.&nbsp;The Julius intro was partially performed <em>a cappella</em> with finger snaps. Funky Bitch featured a fireworks display behind the stage that culminated as the song ended. After the show, the members of Phish DJ&rsquo;d under pseudonyms at a festival tent in what has become known as the &ldquo;Disco Set.&rdquo;",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "Picked up where the Clifford Ball Harpua left off."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Train Song",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false,
+          "footnote": "Intro performed a cappella with finger snaps."
+        }
+      ],
+      "3": [
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false,
+          "footnote": "Trey altered lyrics to reference \"Fishman sleeping in the daytime.\""
+        },
+        {
+          "song": "Llama",
+          "transition": false
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false,
+          "footnote": "Fireworks."
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-08-17",
+    "venue": "Loring Commerce Centre",
+    "city": "Limestone",
+    "state": "ME",
+    "country": "USA",
+    "setlist_notes": "This was the second show of The Great Went festival. Tweezer contained Simple teases and the Digital Delay Loop Jam included London Bridge is Falling Down teases. Disease was unfinished. Bathtub Gin contained a Proud Mary tease from Page. Throughout the weekend, fans painted pieces of wood that were assembled into an Art Tower. During Disease, Page and FishÂ painted their portions of the Art Tower; Mike and Trey painted theirs during 2001. The Art Jam saw the crowd carry the pieces of the bandâs art to the side of the venue where it was hoisted onto the Art Tower and added to the fans' art. During Tweezer Reprise, the Art Tower was burned to the ground as The Great Went came to a close. As the Hood jam kicked in, Trey asked Chris to turn the lights off and the band jammed while the front section of the audience engaged in the first Hood glowstick war. Trey remarked to the crowd at the end of the jam that the visual display was cool. Between the first and second sets, the Bangor Symphony Orchestra performed selections from Stravinsky and Debussy as a red-smoke-spewing glider synchronized its swoops and dives to the music. Buffalo Bill was played for the first time since December 31, 1994 (204 shows).",
+    "tour_name": "1997 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Carolina",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Art Jam",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Buffalo Bill",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Weigh",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": false
+        },
+        {
+          "song": "Digital Delay Loop Jam",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-11-07",
+    "venue": "NBC Television Studios, Studio 6A",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Phish were the musical guests on <em>Late Night with Conan O&rsquo;Brien</em>. Farmhouse made its unofficial debut.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Farmhouse",
+          "transition": true,
+          "footnote": "Unofficial debut."
+        },
+        {
+          "song": "You Let Me Down Again",
+          "transition": true,
+          "footnote": "You Let Me Down Again"
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false,
+          "jam": true
+        },
+        {
+          "song": "Steady Rollin' Man",
+          "transition": true,
+          "footnote": "Steady Rollin' Man"
+        },
+        {
+          "song": "Youâre The Only One",
+          "transition": true,
+          "footnote": "Youâre The Only One"
+        },
+        {
+          "song": "The Field",
+          "transition": false,
+          "footnote": "The Field"
+        },
+        {
+          "song": "When It Comes To You",
+          "transition": false,
+          "footnote": "When It Comes To You"
+        },
+        {
+          "song": "Blood Bed Roses",
+          "transition": false,
+          "footnote": "Blood Bed Roses"
+        },
+        {
+          "song": "If You Ask Me",
+          "transition": false,
+          "footnote": "If You Ask Me"
+        }
+      ],
+      "2": [
+        {
+          "song": "Louisiana Sun",
+          "transition": false,
+          "footnote": "Louisiana Sun"
+        },
+        {
+          "song": "Thank You (Falettinme Be Mice Elf Agin)",
+          "transition": false,
+          "footnote": "With Mike."
+        },
+        {
+          "song": "Wild Side",
+          "transition": false,
+          "footnote": "With Mike."
+        },
+        {
+          "song": "Outside of Home",
+          "transition": false,
+          "footnote": "With Mike."
+        },
+        {
+          "song": "Just a Rose",
+          "transition": false,
+          "footnote": "With Mike."
+        }
+      ],
+      "e": [
+        {
+          "song": "Lawyers, Guns and Money",
+          "transition": true,
+          "footnote": "With Mike."
+        },
+        {
+          "song": "What I Like About You",
+          "transition": false,
+          "footnote": "With Mike."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-11-13",
+    "venue": "Thomas & Mack Center",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "<p>This show marked the debut of Black-Eyed Katy. The jam in Mike&rsquo;s Song included Born on the Bayou teases and Weekapaug contained Dave&#39;s Energy Guide and&nbsp;Can&#39;t You Hear Me Knocking teases. The soundcheck&#39;s It&#39;s All Over Now was unfinished and Poor Heart was the slow version.</p>\r\n",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Black-Eyed Katy",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-11-14",
+    "venue": "The âEâ Center",
+    "city": "West Valley City",
+    "state": "UT",
+    "country": "USA",
+    "setlist_notes": "<p>Maze was unfinished. Trey dedicated Guyute to Paul Languedoc in reference to Paul&rsquo;s purported comment to the band that any song with whistling is a good song. Consequently, Antelope contained whistling in both the opening section and closing &ldquo;Marco Esquandolas&rdquo; section (with Trey whistling lyrics). The soundcheck&#39;s Smoke on the Water was an instrumental. This show is available as an archival release on LivePhish.com.</p>\r\n",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Whistling in both the opening section and closing \"Marco Esquandolas\" section."
+        }
+      ],
+      "2": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-11-16",
+    "venue": "McNichols Arena",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "<p>Mule and Poor Heart featured Pete Wernick on banjo. Mule also included a brief Foggy Mountain Breakdown tease. Harry Hood was unfinished. Farmhouse was played in concert for the first time. The two bluegrass jams from the soundcheck also featured Pete on banjo.</p>\r\n",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Black-Eyed Katy",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true,
+          "footnote": "Played in concert for the first time."
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "Pete Wernick on banjo."
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true,
+          "footnote": "Pete Wernick on banjo."
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Izabella",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-11-17",
+    "venue": "McNichols Arena",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Reba did not have the whistling ending and Disease was unfinished. Ghost included a Super Bad (James Brown) tease and Johnny B. Goode contained DEG teases. This show was officially released as <em>Live Phish 11</em>.",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Olivia's Pool",
+          "transition": false
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-11-19",
+    "venue": "Assembly Hall, University of Illinois",
+    "city": "Champaign",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "<p>The segue from Fee into Antelope included Meatstick quotes. Wolfman&rsquo;s Brother contained Crosseyed and Painless teases and Taste contained a DEG tease from Trey. During the soundcheck, the jam contained Runaway Jim lyrics and Trey sang Funky Bitch.</p>\r\n",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-11-21",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "<p>Emotional Rescue made its Phish debut at this show and included a San-Ho-Zay tease from Trey. Rescue was subsequently quoted at the end of Melt and Lawn Boy. This humorous Lawn Boy featured an &ldquo;anti-drum solo&rdquo; - an intentionally boring one.&nbsp;The third verse of Chalk Dust Torture was omitted by Trey. The first set ended with the delay loop ending of Caspian played until after lights were brought back up. Trey teased Yours Is No Disgrace and&nbsp;Call to the Post prior to Guyute. This show was released as part of the&nbsp;<em>Hampton/Winston-Salem &#39;97</em>&nbsp;box&nbsp;set.</p>\r\n",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Emotional Rescue",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": false,
+          "footnote": "\"Anti-drum solo.\""
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Guyute",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-11-22",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "Mike's Song and Tweezer both contained BEK teases, with the ones in Tweezer taking place well before the segue into BEK. Fans of stage banter will want to seek out the second set for Treyâs humorous response to the crowdâs Destiny Unbound chant before Halleyâs. The \"Marco Esquandolas\" lyric in Antelope was changed to \"Michael Esquandolas.\"Â This show was released as part of theÂ <em>Hampton/Winston-Salem '97</em>Â boxÂ set.",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        },
+        {
+          "song": "Izabella",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Black-Eyed Katy",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Lyric changed to \"Michael Esquandolas.\""
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-11-23",
+    "venue": "Lawrence Joel Veterans Memorial Coliseum",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "<p>Disease contained a Can&#39;t You Hear Me Knocking tease. Stash and Bathtub Gin were&nbsp;unfinished. This show was released as part of the&nbsp;<em>Hampton/Winston-Salem &#39;97</em> box&nbsp;set.</p>\r\n",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Black-Eyed Katy",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Bathtub Gin",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Low Rider",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-11-26",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist_notes": "<p>Silent&#39;s lyrics were changed to &quot;bask in morning sickness.&quot; Character Zero and 2001 were unfinished. Trey teased&nbsp;Super Bad in 2001. Poor Heart began as Rocky Top. Cavern included some of the original, alternate lyrics.&nbsp;The Missed Load-In Blues soundcheck was an improvised blues song for a crew member who missed the bus that day. Beauty Of My Dreams was a Makisupa-esque reggae version.&nbsp;</p>\r\n",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true,
+          "footnote": "lyric changed to \"bask in morning sickness.\""
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Character Zero",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false,
+          "footnote": "Began as Rocky Top."
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Cavern",
+          "transition": false,
+          "footnote": "Original, alternate lyrics."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-11-28",
+    "venue": "Worcester Centrum Centre",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "YEM featured Crosseyed and Painless teases, did not include the bass and drums segment, and ended with a shortened vocal jam that segued into I Didn&rsquo;t Know.",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "No bass and drums segment."
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Black-Eyed Katy",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "My Soul",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-11-29",
+    "venue": "Worcester Centrum Centre",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "This Runaway Jim is one of the longest versions of any song ever played by Phish. It ran slightly under an hour and included Beauty of My Dreams and Super BadÂ teases and a strong Weekapaug jam where the entire melody of Weekapaug was played. Buffalo Bill was announced as Fishâs favorite song. Moby Dick was performed for the first time since February 19, 1993 (437 shows) and featured Trey imitating Robert Plantâs intro to Moby Dick from the albumÂ <em>The Song Remains the Same</em>.",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Runaway Jim",
+          "transition": false,
+          "footnote": "Almost an hour long."
+        },
+        {
+          "song": "Strange Design",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Buffalo Bill",
+          "transition": true
+        },
+        {
+          "song": "Moby Dick",
+          "transition": false,
+          "footnote": "Trey imitated Robert Plant's intro to Moby Dick from the album The Song Remains the Same. "
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-11-30",
+    "venue": "Worcester Centrum Centre",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "Funky Bitch and Stash were unfinished. During Wolfman's, the lights were turned off and Trey and Mike ducked behind the onstage speakers. When the lights were turned back on, they were hidden from the crowd. Wolfmanâs also included a heavy metal style jam with Trey quoting the lyrics to Sanity and Esther. Them Changes made its Phish debut at this show.",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false,
+          "footnote": "At one point, the lights were turned off and Trey and Mike ducked behind the onstage speakers. When the lights were turned back on, they were hidden from the crowd. Wolfman's also included a heavy metal style jam"
+        },
+        {
+          "song": "Love Me",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Them Changes",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-01",
+    "venue": "CoreStates Center",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "Phish performed the national anthem<em> </em>before a Philadelphia Flyers hockey game.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-02",
+    "venue": "CoreStates Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>Disease was unfinished. Trey teased Lazy in Chalk Dust Torture and Close to the Edge in Taste. Simple featured a Trey/Page musical duet.&nbsp;Dog Faced Boy was played for the first time since August 12, 1996 (109 shows). Ya Mar included a fun play on the actual lyrics and a Crosseyed and Painless tease. Trey teased Izabella in Weekapaug. The soundcheck&#39;s Funky Bitch featured Trey on vocals and Page quoting The Joker. This show was released as part of the&nbsp;<em>Spectrum &#39;97</em> box&nbsp;set.</p>\r\n",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false,
+          "footnote": "Trey/Page musical duet."
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": false,
+          "footnote": "Fun play on the actual lyrics."
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Ginseng Sullivan",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-03",
+    "venue": "CoreStates Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>Drowned included a Couldnât Stand the Weather jam. 2001 contained Super Bad teases from Trey. Page teased Smoke on the Water in YEM. Bowie was preceded by a Charge! tease,Â included Take Me Out to the Ballgame and Baby Elephant Walk teases, a Simpsons signal, and was unfinished. This show was released as part of theÂ <em>Spectrum '97</em> boxÂ set.",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Drowned",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "David Bowie",
+          "transition": false,
+          "footnote": "Simpsons signal. Unfinished."
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Crossroads",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-05",
+    "venue": "CSU Convocation Center",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "Julius and Slave&nbsp;were both unfinished.",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Black-Eyed Katy",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-06",
+    "venue": "The Palace of Auburn Hills",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "country": "USA",
+    "setlist_notes": "<p>This show is available as an archival release on LivePhish.com.</p>\r\n",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Izabella",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-07",
+    "venue": "Ervin J. Nutter Center, Wright State University",
+    "city": "Dayton",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "Psycho Killer was unfinished and was performed for the first time since March 30, 1993 (415 shows). JJLC included a Rocky Mountain Way tease.Â Boogie On Reggae Woman was played for the first time since September 13, 1988 (993Â shows). Reba did not have the whistling ending. Possum included \"Charge!\" teases and a We Will Rock You tease from Mike. The soundcheck's Funky Bitch featured Trey on vocals and included Black-Eyed Katy teases. Mike teased Boogie On ReggaeÂ Woman in The Stallion PtÂ 3.Â Trey teased Purple Haze at the end of The Rover.Â This show is available as an archival release on LivePhish.com.",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Psycho Killer",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Guyute",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-09",
+    "venue": "Bryce Jordan Center, Penn State University",
+    "city": "State College",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Buried Alive in CDT. Hood included a brief return to the Axilla theme. The jam out of the soundecheck&#39;s Dog Log included a &ldquo;Chain Link Fence&hellip;In the Cage&rdquo; rap with lyrics about Paul in the FOH mix position.</p>\r\n",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-11",
+    "venue": "Rochester War Memorial",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>This show marked the Phish debut of Roses Are Free. BBFCFM was for the first time since August 6, 1996 (118 shows). The soundcheck&#39;s Funky Bitch was sung by Trey and Page. Footage from this show appeared in the film&nbsp;<em>Bittersweet Motel</em>.</p>\r\n",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-12",
+    "venue": "Pepsi Arena",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Super Bad in 2001. Saw It Again contained an extended jam. Antelope contained a Buried Alive tease from Trey.&nbsp;The Dog Log soundcheck was mashed up with the preceding blues jam, the Born Under Punches was a partial rendition played to the Ya Mar rhythm, and Soundcheck Tear lamented life off tour (without soundchecks).The opening act was J. Willis Pratt &amp; We&#39;re Bionic.</p>\r\n",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Train Song",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Saw It Again",
+          "transition": false,
+          "footnote": "Extended jam."
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Izabella",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-13",
+    "venue": "Pepsi Arena",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Ya Mar was unfinished. Mikeâs Song included Foxy Lady quotes from Fish and some memorable vocal interplay from the band that included a chant to âBring in the Dude.â During Hood, Trey asked Chris Kuroda to turn off the lights for a Blackout Jam and the audience responded with a shower of green glowsticks. The opening act was J. Willis Pratt & We're Bionic.",
+    "tour_name": "1997 Fall Tour (a.k.a. Phish Destroys America)",
+    "sets": {
+      "1": [
+        {
+          "song": "Ya Mar",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Axilla",
+          "transition": false,
+          "footnote": "Contained Axilla II ending.\t"
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false,
+          "footnote": "Chants to \"Bring in the Dude.\""
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Catapult",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-28",
+    "venue": "USAir Arena",
+    "city": "Landover",
+    "state": "MD",
+    "country": "USA",
+    "setlist_notes": "<p>The Mule Duel contained Roundabout teases and a slow jam instead of the traditional duel. Between Simple and Ghost, Trey talked about feedback problems and the &ldquo;ghosts in the machine.&rdquo;</p>\r\n",
+    "tour_name": "1997 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Axilla",
+          "transition": false,
+          "footnote": "Contained Axilla II ending.\t"
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "The Mule Duel contained a slow jam instead of the traditional duel."
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-29",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Disease was unfinished.&nbsp;Bowie included a tease from Mike of the Theme from James Bond. The return to Possum included a Long Tall Glasses tease from Page. Tube featured an I Feel the Earth Move tease. Page teased I Can&#39;t Turn You Loose in YEM. The soundcheck&#39;s Funky Bitch featured Trey on vocals.&nbsp;This show is available as an archival release on LivePhish.com.</p>\r\n",
+    "tour_name": "1997 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Crossroads",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "I Can't Turn You Loose",
+          "transition": false,
+          "jam": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "I Can't Turn You Loose",
+          "transition": true,
+          "jam": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-30",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Â A Night in Tunisia in Stash.Â AC/DC Bag included Third Stone From the Sun and Psycho Killer teases. I'm Gonna Be (500 Miles) made its Phish debut,Â was sung by Tom Marshall, contained an A Day in the Life quote from Tom referencing Big Phil (a fan who was in attendance that night), and wasÂ part of the âPentagram Harpua,â which also included a narrative about <em>Lost in Space</em>. Hood was unfinished. Pete Carini made an appearance on-stage during the encore. Frankenstein included a segment with FishÂ coming center stage with his vacuum. The encore was unusually long; once the band realized they were going to be fined for playing past midnight, they decided to play <em>well </em>past midnight. Sneakinâ Sally was played for the first time since May 28, 1989 (925Â shows). Neither of the Sallys contained vocal jams.Â This show is available as an archival release on LivePhish.com.</p>\r\n",
+    "tour_name": "1997 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Self",
+          "transition": false,
+          "footnote": "With Fish."
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "\"Pentagram Harpua;\" also included a narrative about Lost in Space."
+        },
+        {
+          "song": "I'm Gonna Be (500 Miles)",
+          "transition": false,
+          "footnote": "Phish debut; Tom Marshall on vocals."
+        },
+        {
+          "song": "Harpua",
+          "transition": false
+        },
+        {
+          "song": "Izabella",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "My Soul",
+          "transition": false
+        },
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Guyute",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Black-Eyed Katy",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false,
+          "footnote": "Fish on vacuum."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1997-12-31",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Ya Mar included an Auld Lang Syne tease. Maze contained a Birdland tease and was unfinished. Theme from <em>New York, New York</em> made its Phish debut during the encore. My Sweet One was played for the first time since December 14, 1995 (155 shows).",
+    "tour_name": "1997 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Emotional Rescue",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "My Sweet One",
+          "transition": false
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": false
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Theme from New York, New York",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

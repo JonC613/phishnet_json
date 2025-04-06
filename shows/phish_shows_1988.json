@@ -1,0 +1,4845 @@
+[
+  {
+    "showdate": "1988-01-27",
+    "venue": "Gallagher's",
+    "city": "Waitsfield",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show contained the first known version of The Lizards.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Mustang Sally",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": false
+        },
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": false
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Bike",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-02-03",
+    "venue": "Gallagher's",
+    "city": "Waitsfield",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show featured the first known Phish performance of Sympathy for the Devil. &nbsp;Bowie contained an Entrance of the Gladiators tease by Trey.&nbsp;This setlist is incomplete and the date of the show may be incorrect.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sympathy for the Devil",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-02-07",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "After Dear Mrs. Reagan, Trey introduced \"Alex,\" a new waitress at Nectar's. I Didn't know featured FishÂ on trombone. Happy Birthday was dedicated to Trey's sister Kristy, who was running lights for the show, \"Roz,\" and \"Meg.\" He brought Kristy, \"Roz,\" and Del Martin (because \"Meg\" was not there) on stage. This show featured the first known Phish performance of Phase Dance. Mockingbird also made its debut at this show and was played without Forbinâs. Before Whipping Post, Trey introduced Lizards as \"Where Have All the Lizards Gone?\" Page teased the theme from <em>I Dream of Jeannie</em> in Lizards. Suzy was stopped in its intro with Trey jokingly saying \"good night\" before restarting the song. Trey teased DEG in Good Times Bad Times.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Shaggy Dog",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Phase Dance",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Dear Mrs. Reagan",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Happy Birthday to You",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Flat Fee",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false,
+          "footnote": "Stopped in the intro as Trey jokingly said \"Good night\" to the crowd and restarted."
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": true
+        },
+        {
+          "song": "Clod",
+          "transition": false
+        },
+        {
+          "song": "Bundle of Joy",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-02-08",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "HYHU was teased prior to the start of the second set. Antelope contained &quot;Moses Heaps&quot; and Moses Brown&quot; references. Bike included one verse of Love You and a trombone solo from Fish.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Phase Dance",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "\"Moses Heaps\" and \"Moses Brown\" references."
+        }
+      ],
+      "3": [
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Flat Fee",
+          "transition": true
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Bike",
+          "transition": true,
+          "footnote": "Trombone solo from Fish."
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-02-20",
+    "venue": "St. Lawrence University",
+    "city": "Canton",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was an ATO Pledge Party and previously circulated as September 27, 1987. Trey teased Who Knows in Fire and DEG in Whipping Post.&nbsp;There was a third set to this show but copies do not circulate and no list is known. Some copies of this show in circulation are incomplete and out of order. These copies are usually mislabeled as &ldquo;Pledge Party, Burlington, VT.&rdquo; Other copies circulate with the complete recording (except for BBFCFM) but have Slave before Bowie; this order is incorrect. Good Times Bad Times, Slave to the Traffic Light, and Big Black Furry Creature From Mars were shot from a video by (or for) Mike. It is unclear whether BBFCFM closed the set or was the encore because a recording of it does not circulate.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Phase Dance",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": true
+        },
+        {
+          "song": "Skin It Back",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Whipping Post",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-02-24",
+    "venue": "Gallagher's",
+    "city": "Waitsfield",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This is the first known Curtain without &ldquo;With.&rdquo; The second set listing may be incomplete. The first two songs of the second set featured John Carlton on drums. I Didn&#39;t Know and Sneakin&rsquo; Sally featured Fish&nbsp;on trombone. Mike dedicated Mustang Sally to Abe Vigoda &quot;because it&#39;s his birthday today&quot; and later introduced La Grange as being by Vigoda.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "The Curtain",
+          "transition": false,
+          "footnote": "First known Curtain without \"With.\""
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mustang Sally",
+          "transition": true,
+          "footnote": "John Carlton on drums."
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true,
+          "footnote": "John Carlton on drums and Fish on trombone."
+        },
+        {
+          "song": "Sanity",
+          "transition": true
+        },
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-02-26",
+    "venue": "Living and Learning Center, University of Vermont",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "I Didn&#39;t Know featured Fish&nbsp;on trombone.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Phase Dance",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Dear Mrs. Reagan",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-03-11",
+    "venue": "The Base Lodge, Stearns Hall, Johnson State College",
+    "city": "Johnson",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show featured the only known Phish performance of The Chicken. Sneakin&rsquo; Sally and Curtis Loew featured Bobby Brown on harmonica. Bowie began with a tease medley that included Timber, Alumni Blues, Smoke on the Water, Sunshine of Your Love, Money, Whipping Post, and several others. YEM did not contain a vocal jam. Trey teased Entrance of the Gladiators and spat out the names &ldquo;Marco Esquandolas... Poster Nutbag... Moses Heaps... Moses DeWitt&rdquo; during Antelope. Dinner and a Movie was dedicated to &ldquo;our good friend Susannah.&rdquo; Lizards was delayed, as Trey cut on Fish&nbsp;for losing his drumsticks during the gig; Lizards subsequently included a theme from&nbsp;<em>I Dream of Jeanie</em> tease. Some recordings that circulate are mislabeled &ldquo;The Base Lounge.&rdquo;",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Chicken",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true,
+          "footnote": "Bobby Brown on harmonica."
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Flat Fee",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true,
+          "footnote": "Bobby Brown on harmonica."
+        },
+        {
+          "song": "Harpua",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Trey spoke the names \"Marco Esquandolas... Poster Nutbag... Moses Heaps... Moses DeWitt.\""
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-03-12",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This was John Paluska&rsquo;s first Phish show and also the first known live Gamehendge, complete with narration between songs from McGrupp through Possum. This show contained the first known Phish version of Jump Monk and the first known versions of Tela and Forbin&rsquo;s (although on 5/21/88, Trey called Tela a debut). Antelope contained Dixie teases from Trey. The members of Phish were, by accounts, at the Frank Zappa concert up the street at the Burlington Memorial Auditorium before this Nectar&rsquo;s gig. This setlist is incomplete.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jump Monk",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": false
+        },
+        {
+          "song": "Tela",
+          "transition": false,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": false
+        },
+        {
+          "song": "The Sloth",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-03-21",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "I Didn't Know featured FishÂ on trombone. This setlist is likely incomplete.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "The Chase",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-03-22",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Happy birthday was performed in a &quot;dub style&quot; and was played for &quot;Christa&quot; and &quot;Jen.&quot; The recording in circulation cuts in the middle of AC/DC Bag; this setlist may be incomplete.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Harpua",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": true
+        },
+        {
+          "song": "Happy Birthday to You",
+          "transition": true,
+          "footnote": "\"Dub\" style."
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Icculus",
+          "transition": false
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-03-31",
+    "venue": "Kenny's Castaways",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This was the first ever Phish show in New York City. AC/DC Bag was sung for Roger (presumably Roger Holloway), who was in attendance.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-04-02",
+    "venue": "Humphries House (The Zoo), Amherst College",
+    "city": "Amherst",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "This setlist is obviously incomplete. Humphries House had been a Zeta Upsilon (\"Zu\") frat house and monthly parties used to occur there that were referred to as \"Full Moon at the Zoo\" parties.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-04-22",
+    "venue": "University of Vermont",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show was part of UVM&rsquo;s Earth Day Festival. If you are a stage banter fan, seek out this show for Trey&rsquo;s announcements after Fire as someone requested &ldquo;Page&rsquo;s new love song.&rdquo; Trey announced that this requested song is actually called Tela, and announced the future debut of several songs, including &ldquo;The Tires&rdquo; (a.k.a. Contact), &ldquo;The Four-Track Song&rdquo; (a.k.a. Poor Heart) and &ldquo;Marijuana Hot Chocolate&rdquo; (a.k.a. Foam), for which Mike gave a preview of the bass line. The Fluffhead, Dinner and a Movie, Harry Hood, and Harpua that circulated at the end of this show are believed to have been played on March 11, 1988.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Shaggy Dog",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-05-14",
+    "venue": "Goddard College",
+    "city": "Plainfield",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "&quot;Springfest&quot; at Goddard. Fire was dedicated to Bobby Brown; JJLC subsequently featured Bobby on harmonica. JJLC also featured an appearance by three-year-old Cameron McKinney, whom Trey announced was &ldquo;playing guitar.&rdquo; I Didn&rsquo;t Know and Halley&#39;s Comet featured Richard Wright adding additional vocals. I Didn&#39;t Know featured Wright on drums and Fish&nbsp;on trombone. Prior to I Didn&#39;t Know, Trey introduced Fish&nbsp;as &quot;the second best trombonist drummer in all of Vermont.&quot; After Light Up, Trey introduced the crowd to Marley and sang to her both before and during YEM. BBFCFM was dedicated to Donald Fagen and Walter Becker of the band Steely Dan. Take the &lsquo;A&rsquo; Train, which was preceded by Rockin&#39; into the Night and HYHU teases, featured Carl Boyle on saxophone.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Richard Wright on drums and additional vocals. Fish on trombone."
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false,
+          "footnote": "Richard Wright on additional vocals."
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true,
+          "footnote": "Bobby Brown on harmonica."
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": false,
+          "footnote": "Carl Boyle on saxophone."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-05-15",
+    "venue": "Beecher Hill Farm",
+    "city": "Hinesburg",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "&quot;Vermont Farm Festival.&quot; HYHU was briefly played before Alumni. Harpua was preceded by a Rocky Top tease. McGrupp and I Didn&#39;t Know featured Fish&nbsp;on trombone. After JJLC, Fish&nbsp;borrowed a snare drum from the Dirch Brothers. Fans of stage banter will want to seek out this show, as the band was particularly chatty.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Shaggy Dog",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Icculus",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "The Curtain With",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Flat Fee",
+          "transition": false
+        },
+        {
+          "song": "Whipping Post",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-05-22",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show included the first known Phish performance of St. Thomas. Sneakin' Sally contained DEG teases. Prior to Letter to Jimmy Page, Trey announced that per \"Del's\" request, they were going to play Letter to Jimmy Page as a band, and then Fish would play it by himself (telling the crowd that Fish didn't know it). YEM was dedicated to Del and La Grange was dedicated to Mike. Bike featured a FishÂ trombone solo. The date for this show may be incorrect; note that Trey referred to Tela as a debut at this show, though it actually debuted on 3/12/88.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false,
+          "footnote": "First played by Phish, then played only by Fish."
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "St. Thomas",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": true
+        },
+        {
+          "song": "Happy Birthday to You",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Bike",
+          "transition": true,
+          "footnote": "Fish trombone solo."
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Big Leg Emma",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-05-23",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This setlist is incomplete; it is also possible this is the second of three sets. Before YEM, Trey declined a request from an audience member, &ldquo;Del,&rdquo; and notes that: &ldquo;Last night was Del request night because you graduated... if you get a Masters we&rsquo;ll do another request for you.&rdquo; YEM was dedicated to audience member &ldquo;Ed&rdquo; with Trey remarking that he wrote the beginning of YEM while in class with him. I Didn&#39;t Know featured Fish&nbsp;on trombone.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": true
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-05-24",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Ya Mar and the ensuing jam featured vocals from Jah Roy; the jam contained One Love quotes from Jah Roy and Trey.Â Halleyâs Comet featured vocals from Richard Wright. I Didn't Know featured Wright on drums and FishÂ on trombone. BBFCFM contained <em>Flintstones</em> theme teases from Trey. The master recordings confirm this listing as the correct performance order. Many recordings of this show circulate with an incorrect song order, an incorrect date (May 25, 1988) and an incorrect venue (Ianâs Farm, Hebron, NY).",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Ya Mar",
+          "transition": false,
+          "footnote": "Jah Roy on vocals."
+        },
+        {
+          "song": "Jam",
+          "transition": false,
+          "footnote": "Jah Roy on vocals."
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false,
+          "footnote": "Richard Wright on vocals."
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Richard Wright on drums, Fish on trombone."
+        },
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "I Know a Little",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-06-15",
+    "venue": "The Front",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "I Didn&#39;t Know featured Fish&nbsp;on trombone and contained a Hands Across America quote from Trey. It&#39;s possible that Anarchy may have been played after I Didn&#39;t Know, as Trey called for it, but there is a cut in the recording. After the cut, Trey said &quot;that was a special request for our friend Steve Dolley&quot; and jokingly quoted Hello, Dolly! This show marked the first known performance of Contact; Contact lyrics were also sung during Dear Mrs. Reagan. &#39;A&#39; Train contained London Bridge Is Falling Down and <em>Brady Bunch</em> theme&nbsp;teases.&nbsp;Whipping Post began as Antelope. The actual date of this show may have been June 16, 1988.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Contact",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": true
+        },
+        {
+          "song": "Whipping Post",
+          "transition": true
+        },
+        {
+          "song": "Dear Mrs. Reagan",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-06-19",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "By request, extensive teasing of Iron Man preceded La Grange. The YEM vocal jam was based on the word &ldquo;down&rdquo; and contained teases of When the Levee Breaks. BBFCFM contained teases of the <i>Flintstones</i> theme and London Bridge Is Falling Down. This show is full of stage banter throughout, focused on the Dance Contest that took place during BBFCFM and Swing Low, &ldquo;Art Funk&rdquo; and &ldquo;Foul, Reek and Fecal.&rdquo; &ldquo;Spunky Billington&rdquo; (Ninja Mike) &amp; Magoo from Ninja Custodian won the seemingly rigged dance contest and received the grand prize of Phish T-Shirts and a $20 bill. The listing for the third set may be incomplete. Some copies of this show in circulation are mislabeled as 6/18/88.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Big Leg Emma",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "Vocal jam based on the word \"down.\""
+        }
+      ],
+      "2": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Swing Low, Sweet Chariot",
+          "transition": true
+        },
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "I Know a Little",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-06-20",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show featured the first known Phish performance of Satin Doll. &nbsp;Fluffhead&#39;s lyrics were changed to &quot;sure got some Bette&nbsp;Davis eyes&quot; and the song later contained a &quot;Get up John-Boy&quot; quote (in reference to <em>The Waltons</em>). The jam out of Ya Mar featured Jah Roy on vocals. During the jam, Jah Roy quoted lines from many famous reggae tunes, including One Love, Three Little Birds, and Stir It Up. I Didn&#39;t Know featured Fish&nbsp;on trombone. A-Train featured a <em>Flintstones</em>&nbsp;theme tease from Trey. This setlist is likely incomplete.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true,
+          "footnote": "Lyrics changed to \"sure got some Bette Davis eyes.\""
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": true,
+          "footnote": "Jah Roy on vocals."
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": false,
+          "footnote": "Fish on trombone."
+        }
+      ],
+      "3": [
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Satin Doll",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-06-21",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Mockingbird was aborted and had to be restarted due to error. &nbsp;Fire contained DEG teases from Trey. GTBT was dedicated to Don Drive and East Coast Printers. I Didn&#39;t Know had a false start, lyrics changed to reference &quot;Daubs&quot; and &quot;Seth,&quot; and featured Fish&nbsp;on trombone.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": true
+        },
+        {
+          "song": "Mustang Sally",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true,
+          "footnote": "Aborted and had to be restarted."
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Flat Fee",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": true
+        },
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Harpua",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": false,
+          "footnote": "False start, \"Daubs\" and \"Seth\" lyrics, Fish on trombone."
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-06-24",
+    "venue": "Halverson's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This setlist is incomplete. This show featured the first known Phish performance&nbsp;of On Your Way Down. Mike teased Heartbreaker in the Sneakin&#39; Sally vocal jam. It is unclear whether this recording is actually from this show (which was confirmed for this date), is from another show&nbsp;or is a mix with pieces from various shows. Multiple songs (The Lizards, Possum, Blue Bossa, and Alumni Blues &gt; Letter to Jimmy Page &gt; Alumni Blues) were previously listed in this setlist based on recordings in circulation, but these songs are actually part of July 23, 1988.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "On Your Way Down",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-07-07",
+    "venue": "The Front",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This was believed to be a three set show, but the second set is incomplete and the third set is unknown. I Didn&#39;t Know was dedicated to &quot;Gida&quot; and featured Fish&nbsp;on trombone. This show marked the first known Phish performances of Sweet Georgia Brown and Bold As Love.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Shaggy Dog",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Sweet Georgia Brown",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        }
+      ],
+      "2": [
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-07-11",
+    "venue": "Sam's Tavern",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Trey graduated from college on this date and treated the crowd to a killer Alumni Blues. Letter to Jimmy Page featured a drum solo from Fish. Suzy Greenberg included Dave&rsquo;s Energy Guide teases. Trey referred to the &quot;With&quot; portion of The Curtain With as &ldquo;A Living Nightmare.&rdquo; McGrupp featured Fish&nbsp;on trombone. The listed encore may actually be the start of the second set; the first set appeared to end after Alumni given Page&rsquo;s comments.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Satin Doll",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false,
+          "footnote": "Fish drum solo."
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "La Grange",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-07-12",
+    "venue": "Sam's Tavern",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Happy Birthday was sung to \"Jen\" and was subsequently sung in multiple parts of Peaches. YEM contained Flash Light teases and the vocal jam was based on \"why should I feed you?.\" I Didn't Know featured FishÂ on trombone. This show featured the first known Phish performance of Blue Bossa. Roll Like a Cantaloupe was performed for the first time since October 15, 1986 (103 shows).",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": true
+        },
+        {
+          "song": "Happy Birthday to You",
+          "transition": false,
+          "footnote": "Sung for \"Jen.\""
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": false,
+          "footnote": "Fish on trombone."
+        }
+      ],
+      "2": [
+        {
+          "song": "Blue Bossa",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Roll Like a Cantaloupe",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-07-23",
+    "venue": "Pete's Phabulous Phish Phest",
+    "city": "Underhill",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This gig was a party at the home of local Burlington musician Peter Danforth and included the first known performance of Weekapaug and No Dogs Allowed as well as the first known Phish performance of Walk Away. This version and the next known version of No Dogs Allowed (released by the band on <em>Colorado â88</em>) concluded with a substantial section of Divided Sky. Fire, Satin Doll and Blue Bossa featured Danforth and Dave Grippo on horns. Blue Bossa also featured \"Vincent\" on trumpet and Slave also featured Danforth on saxophone. Forbin's through Bold As Love, The Curtain With through Wilson, Antelope, Alumni, Letter To Jimmy Page, YEM, and Contact all featured an unknown additional percussionist. After Weekapaug, FishÂ teased both Weekapaug and Peaches on the drums. Lizards included a Mockingbird tease from Page. Fire's lyrics were changed to \"move over, Rover, and let Cameron take over.\" Terrapin contained a FishÂ trombone solo.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true,
+          "footnote": "First known performance; Unknown additional percussionist."
+        },
+        {
+          "song": "The Lizards",
+          "transition": true,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": true,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Possum",
+          "transition": true,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Walk Away",
+          "transition": true,
+          "footnote": "First known Phish performance; Unknown additional percussionist."
+        },
+        {
+          "song": "Bold As Love",
+          "transition": true,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "No Dogs Allowed",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": false,
+          "footnote": "Peter Danforth and Dave Grippo on horns.; lyric changed to \"Move over, Rover, and let Cameron take over.\""
+        }
+      ],
+      "2": [
+        {
+          "song": "The Curtain With",
+          "transition": false,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": false,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Wilson",
+          "transition": true,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Terrapin",
+          "transition": true,
+          "footnote": "Fish trombone solo."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Satin Doll",
+          "transition": true,
+          "footnote": "Peter Danforth and Dave Grippo on horns."
+        },
+        {
+          "song": "Blue Bossa",
+          "transition": true,
+          "footnote": "Peter Danforth and Dave Grippo on horns, \"Vincent\" on trumpet."
+        },
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": true,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Contact",
+          "transition": true,
+          "footnote": "Unknown additional percussionist."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true,
+          "footnote": "Peter Danforth on saxophone."
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-07-24",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Mike teased Moby Dick before On Your Way Down. McGrupp featured Fish&nbsp;on trombone.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-07-25",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "These versions of Icculus and Sanity appear on the <em>Junta</em> re-release. During Icculus, Trey screamed &quot;This is Red Rocks. This is The Edge!&quot; Sanity&nbsp;was jokingly attributed to Jimmy Buffet. BBFCFM featured a tease of the <em>Flintstones</em> theme and Camel Walk contained a Sanity tease from Mike. This setlist is incomplete.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": true
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Skin It Back",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Sanity",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Icculus",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-07-28",
+    "venue": "The Roma",
+    "city": "Telluride",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "This setlist is incomplete.&nbsp; The set number in which these songs were performed is unknown, but it is believed that these songs were played late in the show.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "2": [
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-07-29",
+    "venue": "The Roma",
+    "city": "Telluride",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Mike teased My Favorite Things in The Curtain With. Sloth contained a Take Five tease from Mike. There was a brief Gamehendge narration from Trey after Sloth that contained a \"Charge!\" tease from Page. I Didn't Know and McGrupp featured FishÂ on trombone. Good Times Bad Times contained DEG teases and 'A' Train contained a <em>Flintstones</em> theme tease from Trey. Trey dedicated Bold As Love to one of his favorite guitar players of all time, Angus Young (guitarist for AC/DC). You Shook Me All Night Long was subsequently teased and in Bold As Love, \"Anger\" was changed to \"Angus.\"Â ",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Satin Doll",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Skin It Back",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Icculus",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Rocky Top",
+          "transition": true
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": true
+        },
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "Whipping Post",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false,
+          "footnote": "\"Anger\" changed to \"Angus.\""
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-07-30",
+    "venue": "The Roma",
+    "city": "Telluride",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "This show featured the first known Phish performances of Mr. P.C. and Maiden Voyage. FishÂ missed the first two sets of the gig, prompting the band to play two sets of jazz and standard Phish material in his absence with Trey on drums. These opening sets are sometimes referred to as âJazz Odyssey,â as the lone known taper labeled his master tapes as such. All Blues was played for the first time since April 25, 1986 (119Â shows). During Antelope, Trey told the story of what happened to FishÂ that evening and explained that Fish, who had been at the top of a mountain and, therefore, late for the gig, had to âRun like an Antelope, out of control.â Elsewhere in the set, Trey chided FishÂ for his tardiness. The narration in Harpua was straightforward, with no teases. Anarchy was jokingly named Whipping Post. Terrapin featured a FishÂ trombone solo. Many recordings of this show in circulation have the venue mislabeled as Fly Me to the Moon Saloon.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "All Blues",
+          "transition": true,
+          "footnote": "Fish absent, Trey on drums."
+        },
+        {
+          "song": "Mr. P.C.",
+          "transition": false,
+          "footnote": "First known Phish performance; Fish absent, Trey on drums."
+        }
+      ],
+      "2": [
+        {
+          "song": "Funky Bitch",
+          "transition": true,
+          "footnote": "Fish absent, Trey on drums."
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true,
+          "footnote": "Fish absent, Trey on drums."
+        },
+        {
+          "song": "She Caught the Katy and Left Me a Mule to Ride",
+          "transition": true,
+          "footnote": "Fish absent, Trey on drums."
+        },
+        {
+          "song": "Contact",
+          "transition": true,
+          "footnote": "Fish absent, Trey on drums."
+        },
+        {
+          "song": "Maiden Voyage",
+          "transition": true,
+          "footnote": "First known Phish performance; Fish absent, Trey on drums."
+        },
+        {
+          "song": "Corinna",
+          "transition": false,
+          "footnote": "Fish absent, Trey on drums."
+        }
+      ],
+      "3": [
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": false
+        }
+      ],
+      "4": [
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Anarchy",
+          "transition": true
+        },
+        {
+          "song": "Dear Mrs. Reagan",
+          "transition": true
+        },
+        {
+          "song": "Terrapin",
+          "transition": true,
+          "footnote": "Fish trombone solo."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-08-03",
+    "venue": "Fly Me to the Moon Saloon",
+    "city": "Telluride",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Page teased Dave&#39;s Energy Guide in Mike&#39;s Song. A birthday dedication to &ldquo;Stacy&rdquo; followed Fluffhead. Many recordings mislabel this venue as The Roma.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Whipping Post",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "I Know a Little",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Satin Doll",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-08-04",
+    "venue": "The Roma",
+    "city": "Telluride",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the first known performance of Poor Heart. McGrupp featured Fish&nbsp;on trombone. Trey teased the theme to <em>The Flintstones</em> in Fluffhead.</p>\r\n",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": true
+        },
+        {
+          "song": "Flat Fee",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "No Dogs Allowed",
+          "transition": true
+        },
+        {
+          "song": "Dog Log",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Satin Doll",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Big Leg Emma",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": true
+        },
+        {
+          "song": "Dear Mrs. Reagan",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-08-05",
+    "venue": "The Roma",
+    "city": "Telluride",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "On the recordings of this show in circulation, both Dinner and a Movie and Slave are cut. Cities included Dave&#39;s Energy Guide teases before actually segueing into the song. &lsquo;A&rsquo; Train included a London Bridge Is Falling Down tease from Trey. Funky Bitch was dedicated to The Blue Sevilles, a band playing across the street. Satin Doll was preceded by a Sailor&#39;s Hornpipe&nbsp;tease from Trey and a <em>Jeopardy! </em>theme<em>&nbsp;</em>tease from Page. The band brought light board operator Tim Rogers on&nbsp;stage for his birthday and presented him with a &ldquo;Baked in Telluride&rdquo; T-shirt. Sanity featured Fish&nbsp;on trombone. BBFCFM included a <em>Flintstones</em> theme tease.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Satin Doll",
+          "transition": true
+        },
+        {
+          "song": "Sanity",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Mustang Sally",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harpua",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-08-13",
+    "venue": "The Front",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This setlist is possibly incomplete. Trey dedicated Corinna to audience member &ldquo;Lee, who was moving away&rdquo; and as a &ldquo;long overdue memorial to Sheba.&rdquo;",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": false
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-08-22",
+    "venue": "Nectar's",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Satin Doll was dedicated to Fish's t-shirt. McGrupp featured Fish on  trombone. Mockingbird featured a \"Paul Languedoc/Duct Tape Rap.\"  Fluffhead was preceded by \"Sailor in Jeopardy,\" which included <em>Popeye</em> and <em>Jeopardy!</em> themes. \"Sailor\" was then played as a jazz version.  Fluffhead was  introduced as &ldquo;Lunkhead&rdquo; and was dedicated to Mike (and  his new mountain  bike) and to Fish&rsquo;s newly-shaved beard. The songs listed  here are  believed to be just one set. The setlist for set II (and set  III if  three sets were played) is unknown. The source of this setlist is  phish.com.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Satin Doll",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-08-27",
+    "venue": "Food Court, Mont Alto Campus, Penn State University",
+    "city": "Mont Alto",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "Golgi contained an extended intro. Listen for some fun references to Pennsylvania and Penn State.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Satin Doll",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true,
+          "footnote": "Extended intro."
+        },
+        {
+          "song": "Tela",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-09-08",
+    "venue": "The Front",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This was definitely a three-set show, although a setlist for the third set is not known. Apparently, the lone taperâs ride home from the show had to leave early! Wild Child was played for the first time since September 27, 1985Â (149Â shows).",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Wild Child",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": true
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": false
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-09-12",
+    "venue": "Sam's Tavern",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This show included the first known performances of The Practical Song and the old version of Esther (with different lyrics). &#39;A&#39; Train contained London Bridge Is Falling Down teases. The listing for the first set is probably incomplete.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Shaggy Dog",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Satin Doll",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "Bundle of Joy",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "The Practical Song",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Esther",
+          "transition": false,
+          "footnote": "First known performance."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-09-13",
+    "venue": "Sam's Tavern",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "The second set listing might be incomplete, as the recordings that circulate cut during Fluffhead. Cities contained teases of DEG (both before and after DEG was performed). The jam out of Sanity was around ten minutes long, and may have been the first time FishÂ used the vacuum onÂ stage. This show also marked the only known Phish performance of Andyâs Chest. Ride Captain Ride was played for the first time since March 23, 1987 (114Â shows).",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Flat Fee",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ride Captain Ride",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Andy's Chest",
+          "transition": false,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": false
+        },
+        {
+          "song": "Dave's Energy Guide",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Sanity",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": true,
+          "footnote": "Fish on vacuum; first known public occurrence of Fish playing the vacuum."
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-09-22",
+    "venue": "Campus Pub, Binghamton College",
+    "city": "Binghamton",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This setlist is incomplete, but McGrupp definitely opened the show.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-09-24",
+    "venue": "Humphries House (The Zoo), Amherst College",
+    "city": "Amherst",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "Humphries House had been a Zeta Upsilon (&quot;Zu&quot;) frat house and monthly parties used to occur there that were referred to as &quot;Full Moon at the Zoo&quot; parties. Alumni contained a Possum tease. YEM was dedicated to Dionysian Productions co-founder John Paluska.&nbsp; This&nbsp;was the first known complete version of Divided Sky, with a large section of it having previously been performed as the back&nbsp;half of No Dogs Allowed. Divided, Bowie, Fluffhead, and AC/DC Bag contained Sailor&#39;s Hornpipe&nbsp;teases. AC/DC Bag also contained&nbsp;London Bridge Is Falling Down, and the&nbsp;<em>Flintstones</em>&nbsp;theme teases. The third set was preceded by a First Noel tease. The second set listing might be incomplete, as the recordings that circulate cut into Bowie.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true,
+          "footnote": "First known complete version."
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Sparks",
+          "transition": false
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-10-29",
+    "venue": "Sculpture Room, Goddard College",
+    "city": "Plainfield",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Suzy and BBFCFM included Sailor&#39;s Hornpipe&nbsp;teases from Trey. Page, Mike, and Fish&nbsp;noodled around with the Hood intro while Trey conducted the costume contest. A fan dressed as Harry Hood won! Bobby Brown sat in on harmonica for Curtis Loew, Richard Wright provided vocals for Halley&rsquo;s, and Russ Remington sat in on saxophone from Timber through Funky Bitch. Terrapin and I Didn&#39;t Know featured Fish&nbsp;on trombone. Wilson was unfinished. This show included the first known performance of Foam and the first known Phish performances of Time Loves a Hero and Donna Lee. Page and Fish teased Terrapin Station before Terrapin.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Time Loves a Hero",
+          "transition": true,
+          "footnote": "First known Phish performance."
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": true
+        },
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "Costume Contest",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Halley's Comet",
+          "transition": false,
+          "footnote": "Richard Wright on vocals."
+        },
+        {
+          "song": "Whipping Post",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true,
+          "footnote": "Bobby Brown on harmonica."
+        },
+        {
+          "song": "Mike's Song",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": false
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true,
+          "footnote": "First known performance."
+        },
+        {
+          "song": "Terrapin",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true,
+          "footnote": "Russ Remington on saxophone."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true,
+          "footnote": "Russ Remington on saxophone."
+        },
+        {
+          "song": "Donna Lee",
+          "transition": true,
+          "footnote": "Russ Remington on saxophone. First known Phish performance."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true,
+          "footnote": "Russ Remington on saxophone."
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Russ Remington on saxophone, Fish on trombone."
+        },
+        {
+          "song": "Wilson",
+          "transition": true,
+          "footnote": "Russ Remington on saxophone. Unfinished."
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true,
+          "footnote": "Russ Remington on saxophone."
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false,
+          "footnote": "Russ Remington on saxophone."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-11-03",
+    "venue": "Molly's Cafe",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "Lizards was dedicated to Celia for cooking the band spaghetti before the show. Whipping Post included DEG teases and BBFCFM featured a Sailor's HornpipeÂ tease. I Didn't Know featured FishÂ on trombone.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Time Loves a Hero",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Shaggy Dog",
+          "transition": true
+        },
+        {
+          "song": "Whipping Post",
+          "transition": true
+        },
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-11-04",
+    "venue": "Nardis Restaurant",
+    "city": "Clinton",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "It is unknown if Mike's Song was played in the first or second set of this show.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-11-05",
+    "venue": "Sigma Phi Fraternity, Hamilton College",
+    "city": "Clinton",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Fluffhead and Suzy contained Sailor's HornpipeÂ teases from Trey. I Didn't Know featured FishÂ on trombone. This setlist is likely incomplete.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Time Loves a Hero",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Icculus",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Sparks",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-11-11",
+    "venue": "Old Stone Church",
+    "city": "Newmarket",
+    "state": "NH",
+    "country": "USA",
+    "setlist_notes": "Mr. P.C. featured Carl Gerhard on flugelhorn; this was his first known appearance with Phish. Mr. P.C. included a <em>Spider-Man</em> theme tease. Some recordings circulate with Timber in the second set and an encore including Peaches, Funky Bitch, and Donna Lee; this is actually filler from the October 29, 1988 show.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Mr. P.C.",
+          "transition": true,
+          "footnote": "Carl Gerhard on trumpet."
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-12-02",
+    "venue": "Molly's Cafe",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "I Didn't Know featured Fish on trombone. David Bowie's lyrics were changed to \"Charlie's Birthday.\"",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": true
+        },
+        {
+          "song": "Take the 'A' Train",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true,
+          "footnote": "Lyrics changed to \"Charlie's Birthday.\""
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-12-09",
+    "venue": "Sheehan's",
+    "city": "Northampton",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "It is unknown if 'A' Train was performed in the first or second set of this show.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Take the 'A' Train",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-12-10",
+    "venue": "The Red Barn, Hampshire College",
+    "city": "Amherst",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "I Didn&#39;t Know featured Fish&nbsp;on trombone. The Bowie intro contained Wilson and Timber (Jerry) teases. Alumni contained additional lyrics. Trey teased Curtis Loew before AC/DC Bag. Antelope included a Sailor&#39;s Hornpipe&nbsp;tease from Trey. This show was a benefit for NORML.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Fish on trombone."
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Alumni Blues",
+          "transition": false,
+          "footnote": "Additional lyrics."
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1988-12-17",
+    "venue": "Old Stone Church",
+    "city": "Newmarket",
+    "state": "NH",
+    "country": "USA",
+    "setlist_notes": "This show was apparently three sets, but only the first set circulates.",
+    "tour_name": "1988 Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,6577 @@
+[
+  {
+    "showdate": "1996-07-03",
+    "venue": "Stadio Briamasco",
+    "city": "Trento",
+    "state": "",
+    "country": "Italy",
+    "setlist_notes": "This show was a one-set opener for Santana. Carlos Santana and Karl Perazzo sat in on Taste and Llama, during which Trey flubbed lyrics to both songs; Carlos jumped in to help during Llama, singing a verse. This version of Taste is the debut of the new,&nbsp;reworked version (similar to the <em>Billy Breathes</em> album version).",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false,
+          "footnote": "Carlos Santana and Karl Perazzo. Trey flubbed lyrics. Debut of the new, reworked version (similar to the Billy Breathes album version)."
+        },
+        {
+          "song": "Llama",
+          "transition": false,
+          "footnote": "Carlos Santana and Karl Perazzo. Trey flubbed lyrics and Carlos sang a verse."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-05",
+    "venue": "Stadio Olimpico",
+    "city": "Rome",
+    "state": "",
+    "country": "Italy",
+    "setlist_notes": "This show was a one-set opener for Santana.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sweet Adeline",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-06",
+    "venue": "Piazza del Duomo",
+    "city": "Pistoia",
+    "state": "",
+    "country": "Italy",
+    "setlist_notes": "This show was a one-set opener for Santana. Reba did not have the whistling ending.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-07",
+    "venue": "Parco Aquatica",
+    "city": "Milan",
+    "state": "",
+    "country": "Italy",
+    "setlist_notes": "This show was a one-set opener for Santana.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-09",
+    "venue": "Centre International",
+    "city": "Deauville",
+    "state": "",
+    "country": "France",
+    "setlist_notes": "This show was a one-set opener for Santana.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-10",
+    "venue": "Le Zenith",
+    "city": "Paris",
+    "state": "",
+    "country": "France",
+    "setlist_notes": "This show was a one-set opener for Santana.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-13",
+    "venue": "Dour Festival",
+    "city": "Dour",
+    "state": "",
+    "country": "Belgium",
+    "setlist_notes": "Reba did not have the whistling ending.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-17",
+    "venue": "Theatre Antique",
+    "city": "Vienne",
+    "state": "",
+    "country": "France",
+    "setlist_notes": "This show was a one-set opener for Santana.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-19",
+    "venue": "Les ArÃ¨nes d'Arles",
+    "city": "Arles",
+    "state": "",
+    "country": "France",
+    "setlist_notes": "<p>This show was a one-set opener for Santana. Waste began with a Call to the Post tease from Page.</p>\r\n",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-22",
+    "venue": "Tanzbrunnen",
+    "city": "Cologne",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "This show was a one-set opener for Santana.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-24",
+    "venue": "The Music Hall",
+    "city": "Hanover",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "This show was a one-set opener for Santana.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-25",
+    "venue": "Stadtpark",
+    "city": "Hamburg",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "This show was a one-set opener for Santana.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-18",
+    "venue": "Theatre de Verdure",
+    "city": "Nice",
+    "state": "",
+    "country": "France",
+    "setlist_notes": "This show was a one-set opener for Santana at the Nice Jazz Festival.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-21",
+    "venue": "The Forum",
+    "city": "NÃ¼remberg",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "Train Song debuted at this show and was dedicated to the fans that were following the band around Europe via the rails. Trey sang the verses of Fee through a megaphone.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "If I Could",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "Trey sang verses through megaphone."
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-23",
+    "venue": "Markthalle",
+    "city": "Hamburg",
+    "state": "",
+    "country": "Germany",
+    "setlist_notes": "",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Bike",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-10-19",
+    "venue": "Marine Midland Arena",
+    "city": "Buffalo",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "The second set started with a Wish You Were Here tease. Trey sang the verses of Fee through a megaphone.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Esther",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fee",
+          "transition": true,
+          "footnote": " \tTrey sang verses through megaphone."
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-10-21",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Ginseng was played for the first time since June 23, 1995 (103 shows). Reba did not have the whistling ending.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": true
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-12",
+    "venue": "Melkweg",
+    "city": "Amsterdam",
+    "state": "",
+    "country": "Netherlands",
+    "setlist_notes": "It's Ice, Mike's Song, Antelope, NICU, Slave, Bowie, and Free were all unfinished. The jam before NICU was interactive, as the band jammed on chords yelled out by the fans.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "It's Ice",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Purple Rain",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": true,
+          "footnote": "Interactive, as the band jammed on chords yelled out by the fans."
+        },
+        {
+          "song": "NICU",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "David Bowie",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Free",
+          "transition": true,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-13",
+    "venue": "Target Center",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-14",
+    "venue": "Hilton Coliseum",
+    "city": "Ames",
+    "state": "IA",
+    "country": "USA",
+    "setlist_notes": "Talk featured Trey on acoustic guitar. Trey teased Buried Alive in Julius.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "All Things Reconsidered",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Talk",
+          "transition": true,
+          "footnote": "Trey on acoustic guitar."
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": true
+        },
+        {
+          "song": "Demand",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-29",
+    "venue": "The Cow Palace",
+    "city": "Daly City",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Maze contained a Dave'sÂ Energy Guide tease from Trey, andÂ Trey broke a string during YEM, which ledÂ to some odd jamming. Sparks was played for the first time since October 29, 1994 (174 shows).",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Frankenstein",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Sparks",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true,
+          "footnote": "Trey broke a string during YEM, leading to some odd jamming."
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-02",
+    "venue": "Pista Speedway",
+    "city": "Lonigo",
+    "state": "",
+    "country": "Italy",
+    "setlist_notes": "Phish&#39;s opening set was rained out. All the members of Phish sat in during Santana&#39;s set on the listed songs.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Dick Dogs",
+          "transition": true,
+          "footnote": "Trey, Jon, Page and Mike sitting in."
+        },
+        {
+          "song": "Exodus",
+          "transition": false,
+          "footnote": "Trey, Jon, Page and Mike sitting in."
+        },
+        {
+          "song": "Get Up, Stand Up",
+          "transition": false,
+          "footnote": "Trey, Jon, Page and Mike sitting in."
+        },
+        {
+          "song": "Exodus",
+          "transition": true,
+          "footnote": "Trey, Jon, Page and Mike sitting in."
+        },
+        {
+          "song": "Maggot Brain",
+          "transition": false,
+          "footnote": "Trey, Jon, Page and Mike sitting in."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-12-30",
+    "venue": "FleetCenter",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "Reba did not have the whistling ending. Talk featured Trey on acoustic guitar. The P.A. cut out during Funky Bitch, during which Fish&nbsp;took an &ldquo;air drum&rdquo; solo, Trey performed Townshend-style windmills, and the entire band engaged in random silliness while still &ldquo;playing&rdquo; the song. Scent featured a Page/Mike Mule Duel and a guest appearance from comedian Steven Wright, who came out and rang a desk bell three times.",
+    "tour_name": "1996 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Talk",
+          "transition": true,
+          "footnote": "Trey on acoustic guitar."
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true,
+          "footnote": "P.A. cut out."
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Lifeboy",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "Page/Mike Mule Duel and Steven Wright ringing a desk bell three times."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-11",
+    "venue": "Shepherd's Bush Empire",
+    "city": "London",
+    "state": "",
+    "country": "England",
+    "setlist_notes": "Reba did not have the whistling ending. Hello My Baby was performed without amplification.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Terrapin",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false,
+          "footnote": "Without amplification."
+        }
+      ],
+      "e": [
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-07-15",
+    "venue": "La Marna",
+    "city": "Sesto Calende",
+    "state": "",
+    "country": "Italy",
+    "setlist_notes": "Possum contained Simpsons and All Fall Down signals.",
+    "tour_name": "1996 Summer European Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true,
+          "footnote": "Simpsons and All Fall Down signals."
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Purple Rain",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-10-25",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ha Ha Ha",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": true
+        },
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-08-17",
+    "venue": "Plattsburgh Air Force Base",
+    "city": "Plattsburgh",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This was the second show of The Clifford Ball festival. Reba did not have the whistling ending. Trey sang the verses of Fee through a megaphone. Before the second set, Trey paid tribute to Aaron Stein of Syracuse, who was front row center for every show of the tour. The first Brother since August 2, 1993 (259 shows) featured Ben and Jerry on guest vocals. Wilson included a Heartbreaker tease. Antelope featured a female acrobat twirling in the rigging, suspended above the stage in a circus-like fashion. Scent of a Mule featured a Page/FishÂ duel instead of the typical Page/Trey duel. Tweezer had big trampolines on each side of the stage and more circus shenanigans. A stunt plane circled overhead during Tweezer Reprise and Harpua. Harpua was unfinished; it was completed on August 16, 1997 at The Great Went.",
+    "tour_name": "1996 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": false,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": " \tTrey sang verses through megaphone."
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Brother",
+          "transition": true,
+          "footnote": "Ben and Jerry on vocals."
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "Page/Fish Mule Duel."
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "Unfinished."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-04-26",
+    "venue": "New Orleans Fairgrounds",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "USA",
+    "setlist_notes": "This single-set performance was part ofÂ the New Orleans Jazz & Heritage Festival. Ya Mar included a When the Saints Go Marching In tease. Cars Trucks Buses featured Michael Ray on trumpet. The first two verses of Wolfmanâs Brother were performed <em>a cappella</em> as they came out of the YEM vocal jam. David Bowie included a strong Caravan jam. Trey teased The Rover in Cavern. This show was made available as an archival release on LivePhish.com with all proceeds going to Tipitina's Foundation and the New Orleans Jazz and Heritage Foundation in the aftermath of Hurricane Katrina.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true,
+          "footnote": "Michael Ray on trumpet."
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false,
+          "footnote": "First two verses performed a cappella."
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Hello My Baby",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-06-06",
+    "venue": "Joyous Lake",
+    "city": "Woodstock",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This unannounced show was performed under the name &ldquo;Third Ball.&rdquo; BBFCFM featured Trey using a Rolling Rock beer bottle as a slide. Scent of a Mule included a Sunshine of Your Love tease and saw Trey on keys for portions. Waste and Character Zero debuted at this show. The opening act was Juan Hung Low.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "Trey on keys for portions."
+        },
+        {
+          "song": "Highway to Hell",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Character Zero",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-08-02",
+    "venue": "Wolf Mountain Amphitheatre",
+    "city": "Park City",
+    "state": "UT",
+    "country": "USA",
+    "setlist_notes": "This show marked the debut of Pageâs theremin. Over the Rainbow was played for the first time since July 3, 1994 (162 shows) and was performed solo by Page on the theremin in response to the huge rainbow that appeared over the venue just before the show started. Possum contained an Oom Pa Pa signal and a Lazy tease from Trey. Antelope included a tease of May The Force Be With You (The Force Theme from <em>Star Wars</em>).",
+    "tour_name": "1996 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Over the Rainbow",
+          "transition": true,
+          "footnote": "Performed solo by Page on theremin."
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "Oom Pa Pa signal."
+        }
+      ],
+      "2": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-08-04",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Trey sang the verses of Fee through a megaphone. Reba did not have the whistling ending. The Theme from <em>Star Trek</em> made its Phish debut at this show and was performed by Page solo on the theremin.",
+    "tour_name": "1996 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "Trey sang verses through megaphone."
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Theme from Star Trek",
+          "transition": true,
+          "footnote": "Phish debut; performed solo by Page on theremin."
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-08-05",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "As urged in flyers handed out by Phish.netters, many fans sat down during the silent part of Divided Sky. Down with Disease was unfinished. Over the Rainbow was performed solo by Page on the theremin. Waste through Strange Design were performed with Page on a smaller piano, Trey on acoustic guitar, Mike on acoustic bass, and FishÂ on a smaller drum set. This show marked the first performance of Talk and featured an atypical Itâs Ice.",
+    "tour_name": "1996 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "If I Could",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": true
+        },
+        {
+          "song": "Over the Rainbow",
+          "transition": true,
+          "footnote": "Performed solo by Page on theremin."
+        },
+        {
+          "song": "Waste",
+          "transition": true,
+          "footnote": "Page on a smaller piano, Trey on acoustic guitar, Mike on acoustic bass, and Fish on a smaller drum set."
+        },
+        {
+          "song": "Talk",
+          "transition": true,
+          "footnote": "Debut; Page on a smaller piano, Trey on acoustic guitar, Mike on acoustic bass, and Fish on a smaller drum set."
+        },
+        {
+          "song": "Train Song",
+          "transition": true,
+          "footnote": "Page on a smaller piano, Trey on acoustic guitar, Mike on acoustic bass, and Fish on a smaller drum set."
+        },
+        {
+          "song": "Strange Design",
+          "transition": true,
+          "footnote": "Page on a smaller piano, Trey on acoustic guitar, Mike on acoustic bass, and Fish on a smaller drum set."
+        },
+        {
+          "song": "Amazing Grace",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-08-06",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Note the &ldquo;This is Red Rocks, This is the Edge&rdquo; quote from Trey during the break in Rift. The quote was a reference both to U2&rsquo;s <em>Live: Under a Blood Red Sky</em> album and Trey&rsquo;s similar remarks on the <em>Junta</em>-released version of Icculus. Suzy included a Simple tease. The phrase &ldquo;21 year old Phish Fan Marcus Esquandolas&rdquo; was substituted for &ldquo;Marco Esquandolas&rdquo; during Antelope in reference to a fan&rsquo;s quote in a newspaper article on the disturbance in Morrison the day before. Tweezer included a Norwegian Wood jam. Harry Hood featured the debut of the &ldquo;Hood&rdquo; response chant, initiated by Phish.netters and advertised on flyers handed out at the Red Rocks shows. Among other ideas, the flyers encouraged fans to shout: &ldquo;Hood&rdquo; after the band sings &ldquo;Harry.&rdquo; It began to rain in the second set; the band responded with Purple Rain, and Chris Kuroda showed the stage in purple lights. The performance of Simple from this gig appears on the <em>Carved in Stone</em> CD benefiting The Rocks Fund, dedicated to the rehabilitation and preservation of Red Rocks Amphitheatre.",
+    "tour_name": "1996 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "â21 year old Phish Fan Marcus Esquandolas\" was substituted for âMarco Esquandolas.\""
+        }
+      ],
+      "2": [
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Purple Rain",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Debut of \"Hood\" response chant."
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-08-07",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Stash contained DEG teases from Trey. During Ya Mar, Trey thanked the audience, saluted a Colorado swimmer who won two gold medals at the Olympics, and announced that a special guest would come out later in the set. The last three songs of the first set were all Phish debuts with Ninety-Nine Years featuring&nbsp;Tim O&rsquo;Brien on mandolin and lead vocals and Hold To A Dream and Doin&#39; My Tume on bouzouki and&nbsp;lead vocals. This show also marked the Phish debut of Gypsy Queen. During the Mockingbird narration, Trey told of a giant iguana that would take the crowd to Mars to view the life there.",
+    "tour_name": "1996 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Ninety-Nine Years (and One Dark Day)",
+          "transition": true,
+          "footnote": "Phish debut; Tim O'Brien on mandolin and lead vocals."
+        },
+        {
+          "song": "Hold to a Dream",
+          "transition": true,
+          "footnote": "Phish debut; Tim O'Brien on bouzouki and lead vocals."
+        },
+        {
+          "song": "Doin' My Time",
+          "transition": false,
+          "footnote": "Phish debut; Tim O'Brien on bouzouki and lead vocals."
+        }
+      ],
+      "2": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Gypsy Queen",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": false,
+          "footnote": "Narration had Trey tell of giant iguana that would take the crowd to Mars to view the life there."
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-08-10",
+    "venue": "Alpine Valley Music Theatre",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist_notes": "My Friend featured Trey using his microphone stand as a slide. Trey sang the verses of Fee through a megaphone. Reba did not have the whistling ending. Scent of a Mule contained a Sunshine of Your Love tease from Page during the Mule Duel and later in the song, Mike sang part of Hatzi Kaddish. Whipping Post was played for the first time since April 20, 1993 (286 shows) and featured FishÂ on vocals.",
+    "tour_name": "1996 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "Trey sang verses through megaphone."
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Whipping Post",
+          "transition": false,
+          "footnote": "Fish on vocals."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-08-12",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "Possum included All Fall Down and Simpsons signals as well as Voodoo Child and Dave's Energy Guide teases.",
+    "tour_name": "1996 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Esther",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Weigh",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "All Fall Down and Simpsons signals."
+        }
+      ],
+      "e": [
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-08-13",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "Trey teased Entrance of the Gladiators at the end of Punch You in the Eye. Page performed Over the Rainbow solo on the theremin. Waste through Strange Design were performed on the acoustic mini-stage. Trey played the composed section to Divided Sky over the soundcheck jam. This show was officially released as <em>Live Phish 12</em>.",
+    "tour_name": "1996 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": false
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Glide",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Lifeboy",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Over the Rainbow",
+          "transition": true,
+          "footnote": "Performed solo by Page on theremin. "
+        },
+        {
+          "song": "Waste",
+          "transition": true,
+          "footnote": "Performed on acoustic mini-stage."
+        },
+        {
+          "song": "Train Song",
+          "transition": true,
+          "footnote": "Performed on acoustic mini-stage."
+        },
+        {
+          "song": "Strange Design",
+          "transition": true,
+          "footnote": "Performed on acoustic mini-stage."
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-08-14",
+    "venue": "Hersheypark Stadium",
+    "city": "Hershey",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "Trey sang the verses of Fee through a megaphone. Reba did not have the whistling ending. Julius was dedicated to Brad Sands&rsquo;s brother Matty.",
+    "tour_name": "1996 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": " \tTrey sang verses through megaphone."
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Cracklin' Rosie",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-10-16",
+    "venue": "Olympic Center",
+    "city": "Lake Placid",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Swept Away and Steep debuted at this show.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Steep",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-10-17",
+    "venue": "Bryce Jordan Center, Penn State University",
+    "city": "State College",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "The Star-Spangled Banner made its Phish debut at this show.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Talk",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-10-18",
+    "venue": "Civic Arena",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "YEM included teases of Do You Feel Like We Do. Reba did not have the whistling ending.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-10-22",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This Weekapaug, often referred to as the âFreakapaug,â included a Nellie Kane tease from Trey, circus dancers, and Mimi Fishman dancing around on stage towards the end. Watchtower (first since April 21, 1994, or 228 shows) featured Buddy Miles on drums and lead vocals, Merl Saunders on keys, and FishÂ on Treyâs percussion rack. The circus dancers also appeared for the encore.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "Talk",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "All Along the Watchtower",
+          "transition": false,
+          "footnote": "Buddy Miles on drums and lead vocals, Merl Saunders on keys, and Fish on Trey's percussion rack."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-10-23",
+    "venue": "Hartford Civic Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist_notes": "The entire second set and encore featured Bob Gullotti on a second drum set. Ya Mar included a long drum jam between FishÂ and Gullotti.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Brother",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set. Long drum jam between Fish and Gullotti."
+        },
+        {
+          "song": "Tweezer",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "The Lizards",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Llama",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true,
+          "footnote": "Bob Gullotti on a second drum set."
+        },
+        {
+          "song": "Julius",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        }
+      ],
+      "e": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Bob Gullotti on a second drum set."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-10-26",
+    "venue": "Charlotte Coliseum",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "Antelope included Star Spangled Banner and Voodoo Child teases, and was dedicated by Trey to Fishâs then-14-year old cousin Jason Roberts for winning a guitar competition.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-10-27",
+    "venue": "North Charleston Coliseum",
+    "city": "North Charleston",
+    "state": "SC",
+    "country": "USA",
+    "setlist_notes": "<p>Catapult was performed twice during the Mule Duel; first by Mike, and then by Page solo on the theremin. Melt contained In-A-Gadda-Da-Vida teases and Taste included a Norwegian Wood tease. Talk featured Trey on acoustic guitar. Trey teased Rhapsody in Blue in Ya Mar.</p> The soundcheck's second Catapult featured the theremin and a mashup with The Star-Spangled Banner.\r\n",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": false
+        },
+        {
+          "song": "Catapult",
+          "transition": false,
+          "footnote": "Performed twice during the Mule Duel; first by Mike, and then by Page solo on the theremin."
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Talk",
+          "transition": true,
+          "footnote": "Trey on acoustic guitar."
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Carolina",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-10-29",
+    "venue": "Leon County Civic Center",
+    "city": "Tallahassee",
+    "state": "FL",
+    "country": "USA",
+    "setlist_notes": "Guest percussionist Karl Perazzo played the entire show. After Suspicious Minds, Trey introduced Fish&nbsp;as &ldquo;Norton Charlton Heston.&rdquo;",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Taste",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Stash",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Train Song",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "David Bowie",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        }
+      ],
+      "2": [
+        {
+          "song": "Rift",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "The Horse",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "The Wedge",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Character Zero",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Suspicious Minds",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-10-31",
+    "venue": "The Omni",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Dave's Energy Guide in DWD. The Mockingbird narration included a reference to Talking Headsâ David Byrne, who appeared in the mountain as the face of Icculus. As Trey told the story, Byrne threw Colonel Forbin off the mountain and into the arms of the âevilâ Famous Mockingbird. The second set \"musical costume\" was Talking Heads' <em>Remain in Light. </em>All of the <em>Remain in Light</em> songs were Phish debuts; the set featured Karl Perazzo on percussion, Dave Grippo on saxophone, and Gary Gazaway on trumpet (except for Born Under Punches, which featured Gazaway on valve trombone). Perazzo also played during the entire third set. Jesus Just Left Chicago, Suzy Greenberg, and Frankenstein also featured Grippo and Gazaway. At the end of Houses in Motion (which featured Trey teasing Tweezer), an armchair was brought out to the center of the stage and Mike sat in it to sing Seen and Not Seen. While he sang, Karl Perazzo drummed and Trey played bass. After Overload (which featured Fish singing in front of the band and not on drums), a bizarre on-stage demonstration (including Fish on vacuum) closed the set. The third set opened with a Feel Like a Stranger tease. Suzy included Once in a Lifetime teases from Mike and a Born Under Punches tease from Page. The soundcheck's Overload was performed with horns and briefly featured FishÂ on vacuum. This show was officially released as <em>Live Phish 15</em>.</p>\r\n",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sanity",
+          "transition": false
+        },
+        {
+          "song": "Highway to Hell",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": false,
+          "footnote": "Narration referred to David Byrne, who appeared in the mountain as the face of Icculus, threw Forbin off the mountain and into the arms of the \"evil\" Famous Mockingbird."
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Born Under Punches (The Heat Goes On)",
+          "transition": false,
+          "footnote": "Phish debut; Karl Perazzo on percussion, Dave Grippo on saxophone, and Gary Gazaway on valve trombone."
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": true,
+          "footnote": "Phish debut; Karl Perazzo on percussion, Dave Grippo on saxophone, and Gary Gazaway on trumpet."
+        },
+        {
+          "song": "The Great Curve",
+          "transition": true,
+          "footnote": "Phish debut; Karl Perazzo on percussion, Dave Grippo on saxophone, and Gary Gazaway on trumpet."
+        },
+        {
+          "song": "Once in a Lifetime",
+          "transition": false,
+          "footnote": "Phish debut; Karl Perazzo on percussion, Dave Grippo on saxophone, and Gary Gazaway on trumpet."
+        },
+        {
+          "song": "Houses in Motion",
+          "transition": false,
+          "footnote": "Phish debut; Karl Perazzo on percussion, Dave Grippo on saxophone, and Gary Gazaway on trumpet."
+        },
+        {
+          "song": "Seen and Not Seen",
+          "transition": false,
+          "footnote": "Phish debut; Karl Perazzo on percussion, Dave Grippo on saxophone, Gary Gazaway on trumpet, and Trey on bass."
+        },
+        {
+          "song": "Listening Wind",
+          "transition": false,
+          "footnote": "Phish debut; Karl Perazzo on percussion, Dave Grippo on saxophone, and Gary Gazaway on trumpet."
+        },
+        {
+          "song": "The Overload",
+          "transition": false,
+          "footnote": "Phish debut; Karl Perazzo on percussion, Dave Grippo on saxophone, and Gary Gazaway on trumpet. Fish sang vocals in front of the band."
+        }
+      ],
+      "3": [
+        {
+          "song": "Brother",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Maze",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Simple",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Swept Away",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Steep",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion, Dave Grippo on saxophone, Gary Gazaway on trumpet."
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion, Dave Grippo on saxophone, Gary Gazaway on trumpet."
+        }
+      ],
+      "e": [
+        {
+          "song": "Frankenstein",
+          "transition": false,
+          "footnote": "Dave Grippo on saxophone, Gary Gazaway on trumpet."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-02",
+    "venue": "Coral Sky Amphitheater",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "country": "USA",
+    "setlist_notes": "Karl Perazzo sat in on percussion for the entire show. Trey sang the verses of Fee through a megaphone. Mike repeatedly teased the bass line of Dave&#39;s Energy Guide in the C&amp;P jam and then Trey very briefly teased it as well. The lyric &ldquo;Norton Charlton Heston&rdquo; replaced &ldquo;Marco Esquandolas&rdquo; in Antelope. Butch Trucks joined the band on drums for the encore while Fish&nbsp;played Trey&rsquo;s percussion rack. Portions of this performance were released to the syndicated radio program <em>The Album Network</em>. This show was released as the <a href=\"http://www.amazon.com/Coral-Sky-Phish/dp/B003ZMATJ2\"><em>Coral Sky</em>&nbsp;DVD</a> in 2010&nbsp;and is available as a download from <a href=\"http://livephish.com/\">L</a><a href=\"http://www.livephish.com/#music/0,578/Phish-mp3-flac-download-11-2-1996-Coral-Sky-Amphitheater-West-Palm-Beach-FL\">ivePhish</a>.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ya Mar",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Julius",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion.  \tTrey sang verses through megaphone."
+        },
+        {
+          "song": "Taste",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Cavern",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Stash",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "The Lizards",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Free",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Funky Bitch",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion, Butch Trucks on drums, Fish on Trey's percussion rack."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-03",
+    "venue": "O'Connell Center, University of Florida",
+    "city": "Gainesville",
+    "state": "FL",
+    "country": "USA",
+    "setlist_notes": "Karl Perazzo sat in on percussion for the entire show. Trey teased China Cat Sunflower (the segue into I know You Rider) in the intro of Possum.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Friend, My Friend",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "The Sloth",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "NICU",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Character Zero",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Sparkle",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Tweezer",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": true,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        }
+      ],
+      "e": [
+        {
+          "song": "Fire",
+          "transition": false,
+          "footnote": "Karl Perazzo on percussion."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-06",
+    "venue": "Knoxville Civic Coliseum",
+    "city": "Knoxville",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "Split Open And Melt included an In-A-Gadda-Da-Vida tease from Trey. The soundcheck's Dog Log was played as a slow blues.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-07",
+    "venue": "Rupp Arena",
+    "city": "Lexington",
+    "state": "KY",
+    "country": "USA",
+    "setlist_notes": "Page teased HYHU before Suzy. Trey teased Dave's Energy Guide during Gin. FishÂ humorously stumbled through Bike, which was played by request.Â This show is available as an archival release on LivePhish.com.  In the soundcheck, Funky Bitch featured Mike and Trey on lead vocals and Guyute included alternate lyrics from Trey about gear problems he was experiencing.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Weigh",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Tela",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Bike",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-08",
+    "venue": "Assembly Hall, University of Illinois",
+    "city": "Champaign",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "Trey had equipment problems in Simple, so Loving Cup (âI know I play a bad guitarâ) was played next. ATR was played for the first time since July 1, 1995 (108 shows) and Axilla was played for the first time since October 16, 1994 (171 shows).",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false,
+          "footnote": "Contained Axilla II ending.\t"
+        },
+        {
+          "song": "All Things Reconsidered",
+          "transition": false
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": true
+        },
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": true
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-09",
+    "venue": "The Palace of Auburn Hills",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "country": "USA",
+    "setlist_notes": "Talk featured Trey on acoustic guitar. Demand was teased before the first Funky Bitch in the soundcheck.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Talk",
+          "transition": true,
+          "footnote": "Trey on acoustic guitar."
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-11",
+    "venue": "Van Andel Arena",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "country": "USA",
+    "setlist_notes": "Divided Sky included an All Fall Down signal.Â Page teased Maple Leaf Rag at the end of Gumbo.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Brother",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false,
+          "footnote": "Contained Axilla II ending.\t"
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true,
+          "footnote": "All Fall Down signal."
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-15",
+    "venue": "Kiel Center",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "USA",
+    "setlist_notes": "Mimi Fishman addressed the crowd before the show and noted that the band was donating a portion of the proceeds from the show to charity. After Sleeping Monkey, Trey announced that the show was brought to you by the letter M (referencing all the second-set songs with &ldquo;M&rdquo;-titles) and the number 420. This show marked the Phish debut of Mean Mr. Mustard, complete with a John Popper (cloaked in a cape and hobbling with a cane to the roar of the audience) cameo as the &ldquo;dirty old man.&rdquo; Popper stayed on stage to lend his harmonica to a very short Weekapaug closer and Funky Bitch encore.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": true
+        },
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Mean Mr. Mustard",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false,
+          "footnote": "John Popper on harmonica."
+        }
+      ],
+      "e": [
+        {
+          "song": "Funky Bitch",
+          "transition": false,
+          "footnote": "John Popper on harmonica."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-16",
+    "venue": "Civic Auditorium",
+    "city": "Omaha",
+    "state": "NE",
+    "country": "USA",
+    "setlist_notes": "Page teased Maple Leaf Rag at the end of Gumbo. The Vibration of Life was announced by Trey as âWritten by Godâ and was performed for the first time since November 30, 1994 (148 shows). At the end of Axilla, the light crew also received a bizarre tribute and Leigh Fordham, a member of Phish's light crew, was mentioned several times. The Hood lyrics were subsequently altered slightly to include a bit about Leigh Fordham. Suzy Greenberg included Leigh Fordham references as well as La Grange and Axilla teases. Weâre An American Band made its Phish debut in the city referenced in its lyrics. The Dog Log/Funky Bitch mashup was the music of Funky Bitch with Trey singing Dog Log and Page singing Funky Bitch.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "La Grange",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "The Vibration of Life",
+          "transition": false
+        },
+        {
+          "song": "Kung",
+          "transition": false
+        },
+        {
+          "song": "Catapult",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false,
+          "footnote": "Tribute to the light crew, Leigh Fordham references during Axilla II ending."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Lyrics referenced Leigh Fordham."
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true,
+          "footnote": "Leigh Fordham reference."
+        },
+        {
+          "song": "Amazing Grace",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "We're an American Band",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-18",
+    "venue": "Mid-South Coliseum",
+    "city": "Memphis",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "Reba did not have the whistling ending. Trey teased Jump Monk in Simple. Tweezer through Llama and Johnny B. Goode featured Gary Gazaway on trumpet. Tweezer included a Zimbabwe tease from Gazaway.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": true,
+          "footnote": "Gary Gazaway on trumpet."
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": true,
+          "footnote": "Gary Gazaway on trumpet."
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false,
+          "footnote": "Gary Gazaway on trumpet."
+        },
+        {
+          "song": "Llama",
+          "transition": false,
+          "footnote": "Gary Gazaway on trumpet."
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false,
+          "footnote": "Gary Gazaway on trumpet."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-19",
+    "venue": "Municipal Auditorium",
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "USA",
+    "setlist_notes": "Trey sang the verses of Fee through a megaphone. Trey announced the first-ever Vibration of Life dedication and sent it out to the crew in general, and more specifically, Bob Neumann, the bandâs Audio Crew Chief and speaker designer. YEM included a Groove Is in the Heart jam that included brief lyrics.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": " \tTrey sang verses through megaphone."
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "The Vibration of Life",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-22",
+    "venue": "Spokane Arena",
+    "city": "Spokane",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "Julius included a Cocaine quote and a thank you to the city of Spokane.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false,
+          "footnote": "Thank you to the city of Spokane."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-23",
+    "venue": "Pacific Coliseum",
+    "city": "Vancouver, British Columbia",
+    "state": "",
+    "country": "Canada",
+    "setlist_notes": "This show included the first Phish performance of Midnight on the Highway, which was learned while the band was stopped at the American/Canadian border. Makisupa also referenced the border-crossing incident: âWoke up in the morning, border guard in my bunk, he took his fucking dog on the bus, and he found my dank.â Weekapaug was unfinished.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Midnight on the Highway",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Key words: âWoke up in the morning, border guard in my bunk, he took his fucking dog on the bus, and he found my dank.â"
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Catapult",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Amazing Grace",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-24",
+    "venue": "Memorial Coliseum",
+    "city": "Portland",
+    "state": "OR",
+    "country": "USA",
+    "setlist_notes": "Reba did not have the whistling ending. I Didnât Know included a Because tease. The soundcheck's Dog/Log Funky Bitch mashup consisted of the music of Funky Bitch with Dog Log lyrics.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "All Things Reconsidered",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Ginseng Sullivan",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-27",
+    "venue": "Key Arena",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "Trey teased Lazy in Chalk Dust Torture. The Mule Duel included <em>Brady Bunch</em> theme scats from Trey and some vacuum action from Fish. Fire and Bold As Love were dedicated to Jimi Hendrix on his birthday. The Disease and Tweezer combo has led some fans to refer to this as the âDiseezer.â The return to DWD contained a Canât You Hear Me Knocking ending. This show is available as an archival release on LivePhish.com.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "Fish on vacuum."
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Sweet Emotion",
+          "transition": false,
+          "jam": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-30",
+    "venue": "ARCO Arena",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "The Old Home Place and Uncle Pen featured John McEuen on banjo. Timber through Funky Bitch featured Peter Apfelbaum on tenor saxophone. Taste included an intro jam that was basically a slowed-down version of the song. The Amazing Grace Jam and Possum featured Apfelbaum on tenor saxophone and McEuen on lap slide guitar. Punch You in the Eye, Chalk Dust Torture, and 2001 featured Get Up Offa That Thing quotes and James Brown antics from Fish. 2001 also contained Super Bad teases from Trey. The lyrics to Brother included a reference to Steve McConnell. This show is available as an archival release on LivePhish.com.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true,
+          "footnote": "James Brown antics from Fish."
+        },
+        {
+          "song": "All Things Reconsidered",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true,
+          "footnote": "John McEuen on banjo."
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true,
+          "footnote": "John McEuen on banjo."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "James Brown antics from Fish."
+        }
+      ],
+      "2": [
+        {
+          "song": "La Grange",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Glide",
+          "transition": true
+        },
+        {
+          "song": "Brother",
+          "transition": true,
+          "footnote": "Lyrics included reference to Steve McConnell."
+        },
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false,
+          "footnote": "James Brown antics from Fish."
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false,
+          "footnote": "Peter Apfelbaum on tenor saxophone. "
+        },
+        {
+          "song": "Taste",
+          "transition": true,
+          "footnote": "Peter Apfelbaum on tenor saxophone, slowed down intro"
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true,
+          "footnote": "Peter Apfelbaum on tenor saxophone. "
+        },
+        {
+          "song": "Amazing Grace",
+          "transition": true
+        },
+        {
+          "song": "Amazing Grace",
+          "transition": false,
+          "jam": true,
+          "footnote": "Peter Apfelbaum on tenor saxophone and John McEuen on lap slide guitar."
+        }
+      ],
+      "e": [
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "Peter Apfelbaum on tenor saxophone and John McEuen on lap slide guitar."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-12-01",
+    "venue": "Pauley Pavilion, University of California Los Angeles",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "This show marked the return of Peaches en Regalia, which had been shelved since December 31, 1994 (144 shows). Reba did not have the whistling ending.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        },
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Highway to Hell",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-12-02",
+    "venue": "America West Arena",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "USA",
+    "setlist_notes": "Scent of a Mule was unfinished.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Rocky Top",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-12-03",
+    "venue": "Great Western Forum",
+    "city": "Inglewood",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Phish performed the national anthem before a Los Angeles Lakers basketball game.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-12-04",
+    "venue": "Sports Arena",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "PYITE contained a Get Up Offa That Thing quote.Reba did not have the whistling ending. During Lawn Boy, Trey thanked the caterers and brought two of them on stage to dance.",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ha Ha Ha",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true,
+          "footnote": "Trey thanked the caterers."
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-12-06",
+    "venue": "The Aladdin Theatre",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "2001 included Super Bad teases. The YEM vocal jam was based on donuts. The jam out of Simple contained Blister in the Sun quotes. Sweet Adeline was performed without microphones. The opening segment of Harpua was performed in a normal 4/4 time signature as opposed to its usual 7/4 signature. Wildwood Weed (a Phish debut with Les Claypool on vocals) and parts of Harpua featured Les Claypool and Larry LaLonde of Primus. I Want To Be a Cowboy&#39;s Sweetheart also made its Phish debut at this show and featured the Yodeling Cowgirls on vocals, Claypool, LaLonde, and&nbsp;John McEuen. Happy Trails was teased in Harpua before and after Sweetheart.&nbsp;Suspicious Minds featured four Elvis impersonators on vocals with Fish&nbsp;joining in at the end. Suzy Greenberg featured Claypool, LaLonde, McEuen, the Elvis impersonators, The Yodeling Cowgirls dancing on stage, and actor Courtney Gains on Trey&rsquo;s percussion rack. One of the Elvis impersonators led a Susie Q jam at the end of Suzy Greenberg. The soundcheck&#39;s Funky Bitch/Dog Log mashup featured Dog Log lyrics sung over Funky Bitch&#39;s music.&nbsp;This show was officially released as <em>Phish Vegas 96.</em>",
+    "tour_name": "1996 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true,
+          "footnote": "Donuts vocal jam."
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": true,
+          "footnote": "Without microphones."
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "Les Claypool and Larry LaLonde; opening segment in 4/4 time signature."
+        },
+        {
+          "song": "Wildwood Weed",
+          "transition": false,
+          "footnote": "Phish debut; Les Claypool on vocals, Larry LaLonde."
+        },
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "Les Claypool, Larry LaLonde"
+        },
+        {
+          "song": "I Want To Be a Cowboy's Sweetheart",
+          "transition": false,
+          "footnote": "Phish Debut; Les Claypool, Larry LaLonde, The Yodeling Cowgirls on vocals, John McEuen."
+        },
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "Les Claypool, Larry LaLonde"
+        },
+        {
+          "song": "Suspicious Minds",
+          "transition": false,
+          "footnote": "Four Elvis impersonators."
+        },
+        {
+          "song": "Harpua",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false,
+          "footnote": "Les Claypool, Larry LaLonde, Elvis impersonators, Courtney Gains on Trey's percussion rack."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-12-28",
+    "venue": "CoreStates Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "Makisupa Policeman included the cryptic lyrics &ldquo;Stink, Stank, Stunk,&rdquo; which may have been a reference to the theme song in <em>The Grinch Who Stole Christmas</em>. Weekapaug Groove ended with a long Page solo. The Star Spangled Banner was dedicated to Kate Smith, who used to sing God Bless America at Flyers&rsquo; home hockey games.",
+    "tour_name": "1996 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Key words: âStink, Stank, Stunk\""
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Digital Delay Loop Jam",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Strange Design",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true,
+          "footnote": "Ended with long Page solo."
+        },
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Johnny B. Goode",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-12-29",
+    "venue": "CoreStates Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "Squirming Coil contained a <em>Sesame Street</em> theme tease from Page. Mike performed the Phish debut of Sixteen Candles solo on piano. Tom Marshall contributed the vocals to the Phish debut of Champagne Supernova as Harpua, Poster, and Jimmy were confronted by the âÃber Demonâ and the âevil sound of hell.â This show featured the return of Caravan, which had been shelved since December 2, 1994 (160 shows).",
+    "tour_name": "1996 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Caravan",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "La Grange",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Rotation Jam",
+          "transition": false
+        },
+        {
+          "song": "Sixteen Candles",
+          "transition": false,
+          "footnote": "Phish debut; performed solo by Mike on piano."
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true,
+          "footnote": "Vocal jam."
+        },
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "Harpua, Poster, and Jimmy were confronted by the âÃber Demonâ and the âevil sound of hell.â"
+        },
+        {
+          "song": "Champagne Supernova",
+          "transition": false,
+          "footnote": "Phish debut; Tom Marshall on vocals."
+        },
+        {
+          "song": "Harpua",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-12-31",
+    "venue": "FleetCenter",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "As the traditional Auld Lang Syne rang in the New Year, tens of thousands of balloons (reportedly a world record) fell from the rafters. This show marked the first Phish performance of Bohemian Rhapsody which, along with Julius and Amazing Grace, featured the Boston Community Choir. PYITE included Don&rsquo;t Stop &lsquo;Til You Get Enough teases from Page.",
+    "tour_name": "1996 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Axilla",
+          "transition": false,
+          "footnote": "Contained Axilla II ending.\t"
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Bohemian Rhapsody",
+          "transition": true,
+          "footnote": "Phish debut; Boston Community Choir."
+        },
+        {
+          "song": "Julius",
+          "transition": false,
+          "footnote": "Boston Community Choir."
+        }
+      ],
+      "e": [
+        {
+          "song": "Amazing Grace",
+          "transition": false,
+          "footnote": "Boston Community Choir."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-08-16",
+    "venue": "Plattsburgh Air Force Base",
+    "city": "Plattsburgh",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This was the first show of The Clifford Ball festival. Bathtub Gin contained a brief DEG tease from Trey. Waste through Strange Design were performed on the acoustic mini-stage. Disease was unfinished. The second set was preceded by a Mary Had a Little Lamb tease. The jam at the end of Harry Hood accompanied a fireworks display. The band took to the back of a flatbed truck at around 3:30 in the morning and drove through the crowd. The performance was one long open-ended jam.",
+    "tour_name": "1996 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Esther",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true,
+          "footnote": "Acoustic mini-stage."
+        },
+        {
+          "song": "Talk",
+          "transition": true,
+          "footnote": "Acoustic mini-stage."
+        },
+        {
+          "song": "Train Song",
+          "transition": true,
+          "footnote": "Acoustic mini-stage."
+        },
+        {
+          "song": "Strange Design",
+          "transition": true,
+          "footnote": "Acoustic mini-stage."
+        },
+        {
+          "song": "Hello My Baby",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Amazing Grace",
+          "transition": false
+        }
+      ],
+      "4": [
+        {
+          "song": "Flatbed Truck Jam",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-08-15",
+    "venue": "Plattsburgh Air Force Base",
+    "city": "Plattsburgh",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>This was the soundcheck for The Clifford Ball. The final jam segment included the first annual soundcheck tribute to &quot;Mr. Sausage,&quot; multiple shout-outs to festival staff, and Trey on his mini-drum kit. 50+ minutes of this check were included on the <a href=\"http://drygoods.phish.com/Dept.aspx?cp=773_15815\">Clifford Ball DVD</a> bonus disc.</p>\r\n",
+    "tour_name": "1996 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true,
+          "jam": true
+        },
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "1996-11-12",
+    "venue": "Target Center",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "USA",
+    "setlist_notes": "Phish performed the national anthem&nbsp;before a Minnesota Timberwolves home game. This was their first performance of the song at a major&nbsp;sporting event.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": false
+        }
+      ]
+    }
+  }
+]
