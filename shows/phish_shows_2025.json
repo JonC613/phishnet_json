@@ -1,0 +1,389 @@
+[
+  {
+    "showdate": "2025-01-29",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>Trey teased Mike&#39;s Song in Weekapaug Groove and quoted Corinna in Carini.</p>\r\n",
+    "tour_name": "2025 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Mull",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Evolve",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "My Sweet One",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2025-01-30",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>Page teased We&#39;re Off to See the Wizard in Roggae. Trey teased Norwegian Wood in Piper. The Wedge was played in a higher key than normal which prompted Trey to say &quot;to play that song in the key of A&quot; during Character Zero. Trey quoted Wipe Out at the end of Character Zero.</p>\r\n",
+    "tour_name": "2025 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Plasma",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false,
+          "footnote": "Lyrics changed to \"to play that song in the key of A.\""
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2025-01-31",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>Wolfman&#39;s Brother contained Mike&#39;s Song teases.</p>\r\n",
+    "tour_name": "2025 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Oblivion",
+          "transition": true
+        },
+        {
+          "song": "Sightless Escape",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": true
+        },
+        {
+          "song": "Beneath a Sea of Stars Part 1",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Most Events Aren't Planned",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2025-02-01",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>Before Bathtub Gin, Trey said they would play it &quot;for the people in the water.&quot; Soul Shakedown Party was played for the first time since August 14, 2021 (163 shows). Trey teased In-A-Gadda-Da-Vida during Martian Monster. My Friend, My Friend did not contain the &quot;Myfe&quot; ending. Crosseyed and Painless contained Funkytown teases from Trey and Page.</p>\r\n",
+    "tour_name": "2025 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Soul Shakedown Party",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Golden Age",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        }
+      ],
+      "2": [
+        {
+          "song": "What's Going Through Your Mind",
+          "transition": true
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Mercy",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2025-01-28",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>This was the soundcheck for Phish&#39;s upcoming performances at Moon Palace. Call to the Post was teased by Mike before My Soul and by Trey before Ocelot. Mike quoted Soul Shakedown Party in the second jam.</p>\r\n",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

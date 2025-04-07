@@ -1,0 +1,5069 @@
+[
+  {
+    "showdate": "2000-09-17",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist_notes": "<p>Mike teased Sundown in Bathtub Gin. Trey teased San-Ho-Zay in Chalk Dust Torture.</p>\r\n",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Dog Log",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-30",
+    "venue": "Meadows Music Theatre",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist_notes": "The ending of AC/DC Bag was unusual, as Trey repeated the closing guitar tweaks before breaking into the Tweezer riff. Sneakin' Sally did not contain a vocal jam. The key phrase in Makisupa was a play on the blues classic One Bourbon, One Scotch, One Beer, with \"Big Fat Doob\" replacing \"Beer.\" Cavern included Tweezer teases and a Moby Dick tease after Trey introduced FishÂ under that name. Runaway Jim included Nellie Kane teases.",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ha Ha Ha",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false,
+          "footnote": "The ending of AC/DC Bag was unusual, as Trey repeated the closing guitar tweaks before breaking into the Tweezer riff."
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": false
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true,
+          "footnote": "The key phrase in Makisupa was \"One Bourbon, One Scotch, One Big Fat Doob.\""
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        },
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-07-01",
+    "venue": "Meadows Music Theatre",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist_notes": "Jibboo included additional lyrics that referenced Chris Kuroda and Brad Sands. Weekapaug was unfinished and included a Dave's Energy Guide tease from Trey. Ghost contained a San-Ho-Zay tease from Trey.",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": true,
+          "footnote": "Additional lyrics that referenced Chris Kuroda and Brad Sands."
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-05-21",
+    "venue": "Radio City Music Hall",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "After Velvet Sea, Page talked about how he had often visited Radio City as a kid. Trey then noted that he and Page had seen Stevie Wonder at this venue, and he discussed about how much the band appreciates the support of fans.",
+    "tour_name": "2000 NYC Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-05-15",
+    "venue": "Sonic Studios",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "This was a taping for Philadelphiaâs Y100 <em>Sonic Sessions</em> radio program. This set was performed to a live audience of approximately fifty, and was first aired on Sunday, May 28, 2000.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-05-16",
+    "venue": "Ed Sullivan Theater",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Phish were the musical guests on <em>The Late Show with David Letterman</em>.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Heavy Things",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-05-18",
+    "venue": "Fantasy Studios",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "This show was broadcast and webcast via KFOG and performed in Studio A.&nbsp;Tickets were won via the KFOG Private Concerts contest during the weeks leading up to the broadcast. The show consisted of three segments of three songs each, with a break in between each segment filled by the on-air announcer. Following the performance, the band participated in a group photo shoot and copies were mailed to the contest winners, who also won signed copies of <em>Farmhouse</em>.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-05-19",
+    "venue": "Key Club",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "This set was broadcast on the <em>Mark and Brian</em> radio program. Funky Bitch and My Soul were performed as a warm-up before the show went on the air, although the crowd was already in the bar. Jibboo through Heavy Things were aired live on the show (except for Magilla, which was played during a commercial break). Magilla was played for the first time since August 1, 1998 (109 shows). The band briefly jammed on the <em>Jeopardy!</em> theme (with the crowd providing some vocals) during a radio break, although this is not included on any circulating recordings.Â Bug included a brief DEG tease. There was a humorous question and answer session between the band and audience during one of the commercial breaks. Studio versions of Birds, Bouncing, and Heavy Things were used as intros and outros for the commercials.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Magilla",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-05-19",
+    "venue": "Key Club",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "This set was broadcast on the <em>Mark and Brian</em> radio program. Funky Bitch and My Soul were performed as a warm-up before the show went on the air, although the crowd was already in the bar. Jibboo through Heavy Things were aired live on the show (except for Magilla, which was played during a commercial break). Magilla was played for the first time since August 1, 1998 (109 shows). The band briefly jammed on the <em>Jeopardy!</em> theme (with the crowd providing some vocals) during a radio break, although this is not included on any circulating recordings.Â Bug included a brief DEG tease. There was a humorous question and answer session between the band and audience during one of the commercial breaks. Studio versions of Birds, Bouncing, and Heavy Things were used as intros and outros for the commercials.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Magilla",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-05-22",
+    "venue": "Radio City Music Hall",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>David Bowie contained Bouncing Around the Room and San-Ho-Zay teases.</p>\r\n",
+    "tour_name": "2000 NYC Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-05-23",
+    "venue": "Roseland Ballroom",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was taped for VH-1&rsquo;s <em>Hard Rock Live </em>and was first broadcast on July 1, 2000. The show was announced only a week before the gig took place. Non-transferable wristbands for entry were sold at the venue box office the morning before the show, with a limit of one per person. Ya Mar began in the key of G before switching to its normal key of A for an extended jam at Trey&rsquo;s on-stage request. During the soundcheck of this show, Driver and Ginseng were played multiple times, and there was a jam on Led Zeppelin&rsquo;s Dancing Days before Long Cool Woman.",
+    "tour_name": "2000 NYC Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": false,
+          "footnote": "Began in the key of G before switching to its normal key of A for an extended jam at TreyÃ¢â¬â¢s on-stage request."
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-09",
+    "venue": "On Air East",
+    "city": "Shibuya-ku, Tokyo",
+    "state": "",
+    "country": "Japan",
+    "setlist_notes": "The Moma Dance included Funky Bitch teases and Tweezer included Funk #49 teases. This was the&nbsp;first ever Meatstick to feature Japanese lyrics and Trey flubbed the words while attempting to sing them.&nbsp;Bouncing included a brief outro solo from Trey, which replaced the usual closing guitar lick. This show was re-broadcast on Japanese television.",
+    "tour_name": "2000 Summer Japan Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true,
+          "footnote": "Brief outro solo from Trey, which replaced the usual closing guitar lick."
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false,
+          "footnote": "First Meatstick to feature Japanese lyrics."
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-10",
+    "venue": "Zepp",
+    "city": "Koto-ku, Tokyo",
+    "state": "",
+    "country": "Japan",
+    "setlist_notes": "Disease included San-Ho-Zay teases. Mike teased Dave's Energy Guide in Piper.",
+    "tour_name": "2000 Summer Japan Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Albuquerque",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-11",
+    "venue": "Hibiya Outdoor Theatre",
+    "city": "Chiyoda-ku, Tokyo",
+    "state": "",
+    "country": "Japan",
+    "setlist_notes": "Possum included Stash teases. A large rainbow formed over the theatre and cleared during the encore. The opening act was Big Frog.",
+    "tour_name": "2000 Summer Japan Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-13",
+    "venue": "Club Quattro",
+    "city": "Naka-ku, Nagoya",
+    "state": "",
+    "country": "Japan",
+    "setlist_notes": "<p>Cavern included the older, alternate lyrics and a drawn-out, feedback-enhanced ending. Mike&#39;s Song ended with a Peaches en Regalia tease from Fish. Before Jibboo and after Wolfman&rsquo;s the band teased Is She Really Going Out with Him? The audience sang along at one point and tried in vain to convince Phish to play the song in its entirety. Antelope was unfinished &ndash; Mike segued into a funky version of Contact right before the &ldquo;Rye, Rye, Rocco&rdquo; lyric segment.</p>\r\n",
+    "tour_name": "2000 Summer Japan Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false,
+          "footnote": "Older, alternate lyrics and a drawn-out, feedback-enhanced ending."
+        }
+      ],
+      "e": [
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-14",
+    "venue": "Drum Logos",
+    "city": "Chuo-ku, Fukuoka",
+    "state": "",
+    "country": "Japan",
+    "setlist_notes": "Trey altered the lyrics in Cities to reference noodles. Gumbo contained a Mystery Achievement tease from Mike. Fee included a tease of the Oriental RiffÂ from Fish, who played it on the woodblock during one of his breaks. Trey teased Streets of Cairo in Split Open and Melt. The jam between Twist and Walk Away included a segment based on the intro to Ghost. Sleep was played by request. This show was officially released as <em>Live Phish 04</em>. During the soundcheck after the first Live and Let Die,  Trey briefly sang Goldfinger. Funky Bitch contained Spanish Moon teases from Mike.",
+    "tour_name": "2000 Summer Japan Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true,
+          "footnote": "Trey altered the lyrics in Cities to reference noodles. "
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleep",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-15",
+    "venue": "Big Cat",
+    "city": "Chuo-ku, Osaka",
+    "state": "",
+    "country": "Japan",
+    "setlist_notes": "Ghost contained a Live and Let Die tease from Mike and Oh Happy Day teases from Trey. Disease included a Birdland tease and was unfinished. Bike was preceded by a vacuum solo and followed by several runs through the HYHU theme, with each faster than the one before it. The soundcheck's The Happy Whip and Dung song contained lyrics and Windora Bug included alternate \"we got really drunk last night\" lyrics and a Lively Up Yourself tease from Mike.",
+    "tour_name": "2000 Summer Japan Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Frankie Says",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Bike",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-16",
+    "venue": "Zepp",
+    "city": "Suminoe-ku, Osaka",
+    "state": "",
+    "country": "Japan",
+    "setlist_notes": "Reba was preceded by a brief Bowie tease. This show is available as an archival release on LivePhish.com.",
+    "tour_name": "2000 Summer Japan Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-22",
+    "venue": "AmSouth Amphitheatre",
+    "city": "Antioch",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "Wolfman&rsquo;s included an In-A-Gadda-Da-Vida tease. Hood featured Robbie McCoury on banjo, Ronnie McCoury on mandolin and Sam Bush on fiddle. I&rsquo;m Blue I&rsquo;m Lonesome, the Phish debut of Hold Whatcha Got, Uncle Pen, and Free Bird also included Del McCoury on guitar, Ricky Skaggs on mandolin, Mike Bub on upright double-bass, and Jason Carter on fiddle in addition to those already on stage. Free Bird featured Wynonna Judd on lead vocals and was played with full instrumentation, as opposed to the usual <em>a cappella</em> arrangement.",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true,
+          "footnote": "Robbie McCoury on banjo, Ronnie McCoury on mandolin, and Sam Bush on fiddle."
+        },
+        {
+          "song": "I'm Blue, I'm Lonesome",
+          "transition": true,
+          "footnote": "Robbie McCoury on banjo, Ronnie McCoury on mandolin, Sam Bush on fiddle, Del McCoury on guitar, Ricky Skaggs on mandolin, Mike Bub on upright double-bass, and Jason Carter on fiddle."
+        },
+        {
+          "song": "Hold Whatcha Got",
+          "transition": true,
+          "footnote": "Phish debut; Robbie McCoury on banjo, Ronnie McCoury on mandolin, Sam Bush on fiddle, Del McCoury on guitar, Ricky Skaggs on mandolin, Mike Bub on upright double-bass, and Jason Carter on fiddle."
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true,
+          "footnote": "Robbie McCoury on banjo, Ronnie McCoury on mandolin, Sam Bush on fiddle, Del McCoury on guitar, Ricky Skaggs on mandolin, Mike Bub on upright double-bass, and Jason Carter on fiddle."
+        },
+        {
+          "song": "Free Bird",
+          "transition": false,
+          "footnote": "Robbie McCoury on banjo, Ronnie McCoury on mandolin, Sam Bush on fiddle, Del McCoury on guitar, Ricky Skaggs on mandolin, Mike Bub on upright double-bass, Jason Carter on fiddle, Wynonna Judd on lead vocals and was played with full instrumentation, as opposed to the usual a cappella arrangement."
+        }
+      ],
+      "e": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-23",
+    "venue": "Lakewood Amphitheatre",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "Disease was unfinished.",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Going Through the Motions",
+          "transition": true,
+          "footnote": "Going Through the Motions"
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Jellycup",
+          "transition": true,
+          "footnote": "Jellycup"
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "No Egos Underwater",
+          "transition": true,
+          "footnote": "With Mike on guitar."
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Jack the Rabbit",
+          "transition": true,
+          "footnote": "With Mike on guitar."
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Nash",
+          "transition": true,
+          "footnote": "With Mike on guitar."
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Elevator to the Moon",
+          "transition": true,
+          "footnote": "With Mike on guitar."
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Diggin' Up Bones",
+          "transition": false,
+          "footnote": "With Mike on guitar."
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Basically Frightened",
+          "transition": false,
+          "footnote": "With Mike on guitar."
+        },
+        {
+          "song": "Compared to What",
+          "transition": false,
+          "footnote": "With Mike on guitar."
+        },
+        {
+          "song": "Basically Frightened",
+          "transition": false,
+          "footnote": "With Mike on guitar."
+        },
+        {
+          "song": "Get Rid of Sorrow",
+          "transition": false,
+          "footnote": "With Mike on guitar."
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-24",
+    "venue": "Lakewood Amphitheatre",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "<p>Tweezer included a Silent in the Morning tease from Mike and a Fire (Ohio Players) tease from Trey.Â My Sweet One was botched, which led to band introductions from Trey and extended solos from Fish, Mike, and Page. Trey explained that My Sweet One and Dog Faced Boy were both written about the same person by FishÂ and that one was at the beginning of the relationship and the other at the end, finally asking the crowd \"can you guess which?\" Mike \"bantered\" a bit and showed off his fight bell. During the banter after My Sweet One, Page teased \"Charge!\" twice.</p>\r\n",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true,
+          "footnote": "Botched. Band intros from Trey, extended solos from Fish, Mike, and Page. "
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Frankie Says",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-25",
+    "venue": "ALLTEL Pavilion at Walnut Creek",
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-27",
+    "venue": "NBC Television Studios, Studio 6A",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Phish were the musical guests on <em>Late Night with Conan O&rsquo;Brien</em>.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Back on the Train",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-28",
+    "venue": "PNC Bank Arts Center",
+    "city": "Holmdel",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Gin contained aÂ San-Ho-Zay teaseÂ from Trey.Â During a glowstick \"war\" in Hood, Trey caught a few glowsticks and threw them back into the crowd, eliciting a huge cheer from the crowd. Mikeâs Song contained a mid-jam \"break,\" another jam segment, and then another break that led into Albuquerque. If I Could was played for the first time since July 31, 1998 (125 shows).",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "If I Could",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": true,
+          "footnote": "Mid-jam \"break,\" another jam segment, and then another break that led into Albuquerque."
+        },
+        {
+          "song": "Albuquerque",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-06-29",
+    "venue": "PNC Bank Arts Center",
+    "city": "Holmdel",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Birds contained a tease of A Love Supreme and was unfinished. Catapult was sung over an atypical jam that bridged Birds and Heavy Things. This gig featured an eventful Meatstick: Sofi Dillof made a guest appearance for the Meatstick dance. Several fans ran on stage and were chased off by Pete Carini and then by Bart Butler, both of whom Trey thanked. Trey improvised a verse noting: &ldquo;There&rsquo;s no song about Paul Languedoc, and there&rsquo;s no song about Kuroda; there&rsquo;s only one about Carini, and his lumpy head!&rdquo; Trey then jokingly talked about the Meatstick Dance being a fad in Japan.&nbsp;The lyrics to Cities were altered to reference Tokyo, the Meatstick Dance, and sushi. Antelope included Meatstick teases in the intro. At the end of the second set, Trey thanked the crew (particularly Carini, for being a good sport). Trey mentioned how much of a &ldquo;home show&rdquo; it is for the band to play in Holmdel, and led one final Meatstick tease.",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Catapult",
+          "transition": false
+        },
+        {
+          "song": "Heavy Things",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": false,
+          "footnote": "Trey improvised a verse noting: âThere's no song about Paul Languedoc, and there's no song about Kuroda; there's only one about Carini, and his lumpy head!\" Trey then jokingly talked about the Meatstick Dance being a fad in Japan."
+        },
+        {
+          "song": "Cities",
+          "transition": false,
+          "footnote": "Lyrics altered to reference Tokyo, the Meatstick Dance, and sushi."
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-07-03",
+    "venue": "E Centre",
+    "city": "Camden",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "<p>Trey&rsquo;s children made an on-stage appearance in a golf cart during Disease. A large storm provided thunder and lightning during Gin; the song included Philadelphia Freedom teases. Runaway Jim contained a San-Ho-Zay tease from Trey and an I Can&#39;t Turn You Loose tease from Page. Glide included an All Fall Down signal. Fluffhead contained a Fr&egrave;re Jacques tease from Trey. Antelope featured Tom Marshall on vocals.</p>\r\n",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true,
+          "footnote": "A large storm provided thunder and lightning."
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Tom Marshall on vocals."
+        }
+      ],
+      "2": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Glide",
+          "transition": true,
+          "footnote": "All Fall Down signal."
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Bittersweet Motel",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-07-04",
+    "venue": "E Centre",
+    "city": "Camden",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "<p>It&rsquo;s Ice included a Star Spangled Banner tease. Lawn Boy included a fireworks display on stage and in the pavilion, as well as well wishes from Page; the fireworks signaled the beginning of GTBT. Mike teased Heartbreaker near the end of GTBT.</p>\r\n",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Magilla",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Lawn Boy",
+          "transition": true,
+          "footnote": "Fireworks display on stage and in the pavilion, as well as well wishes from Page; the fireworks signaled the beginning of GTBT."
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-07-06",
+    "venue": "Molson Amphitheatre",
+    "city": "Toronto, Ontario",
+    "state": "",
+    "country": "Canada",
+    "setlist_notes": "For his vacuum solo in I Didnât Know, Trey introduced FishÂ as âMr. Ralph Blowenstein.â Limb By Limb was unfinished. Trey made several comments during the show regarding his affinity for the venue. Mike teased Maze in Piper. Hood included a small vocal jam during the intro.",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Limb By Limb",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Small vocal jam during the intro."
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-07-07",
+    "venue": "Star Lake Amphitheatre",
+    "city": "Burgettstown",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "Shafty was played for the first time since July 2, 1998 (150 shows).",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": false
+        },
+        {
+          "song": "Shafty",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-07-08",
+    "venue": "Alpine Valley Music Theatre",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist_notes": "Antelope included Yakety Sax and Jibboo teases. The band skipped the second verse of Suzy. This show was officially released as <em>Live Phish 05</em>.",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Heavy Things",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false,
+          "footnote": "The band skipped the second verse."
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-07-10",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "Trey teased San-Ho-Zay in Twist and Stash in Antelope.",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cars Trucks Buses",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Buffalo Bill",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-07-11",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "In keeping with the theme of the second set, Hood included a Moby Dick tease. Trey introduced FishÂ as âRussell Croweâ during Terrapin. The Moby Dick inside of the HYHU jam featured Trey on drums and FishÂ on vacuum. The Chalk Dust Reprise was akin to the version last played on December 10, 1994 (393 shows), with the band singing the words âChalk Dust Tortureâ over varied music. At the end of the encore, Trey joked that, if anyone missed anything, they should read the book or see the movie. Trey also teased Moby Dick at the end of the encore's Chalk Dust Reprise. Prior to this show, Moby Dick had not been played since November 29, 1997 (174 shows).",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Drowned",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture Reprise",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Moby Dick",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Moby Dick",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Moby Dick",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Moby Dick",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Terrapin",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Moby Dick",
+          "transition": false,
+          "footnote": "Trey on drums and Fish on vacuum."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Moby Dick",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-07-12",
+    "venue": "Deer Creek Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "<p>My Friend was unfinished. Tube contained Super Bad teases from Trey. Trey teased San-Ho-Zay in Birds of a Feather and Piper.Â During Meatstick, Trey dedicated the song to the fans that didnât get into the show. Curtain With was played for the first time since July 29, 1988 (1,184Â shows).</p>\r\n",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Friend, My Friend",
+          "transition": true,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": true,
+          "footnote": "Contained Axilla II ending.\t"
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-07-14",
+    "venue": "Polaris Amphitheater",
+    "city": "Columbus",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "After&nbsp;Sample, the show was stopped for 26 minutes&nbsp;due to a major thunderstorm.",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Frankie Says",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-07-15",
+    "venue": "Polaris Amphitheater",
+    "city": "Columbus",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "Trey teased Dave's Energy Guide in Limb By Limb. Disease was unfinished. The jam out of Mango included a Have Mercy tease. The key phrase in Makisupa was âheady nuggets.â",
+    "tour_name": "2000 Summer U.S. Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true,
+          "footnote": "Key phrase was \"heady nuggets.\""
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-07-17",
+    "venue": "KLRU Studios, University of Texas",
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "setlist_notes": "This was a taping for the television show <em>Austin City Limits</em>. Beauty of My Dreams was botched and restarted. Due to technical difficulties, First Tube was played a second time. After Piper, Trey responded to some fan requests and noted that the band saw B&eacute;la Fleck tape a performance for <em>Austin City Limits</em> in 1993. When the Circus Comes was dedicated to Los Lobos. The episode was first aired on October 14, 2000 to kick off the show&rsquo;s 26th season. The broadcast included Beauty of My Dreams, My Soul, The Inlaw Josie Wales, Limb By Limb, When the Circus Comes, Back on the Train, Twist, Possum, Sleep, and First Tube.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Sleep",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-08",
+    "venue": "Pepsi Arena",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show featured the Phish debuts of Mellow Mood and Windora Bug. Limb By Limb contained a Dave&#39;s Energy Guide tease from Trey.&nbsp;The jam out of the end of Gin featured Fish&nbsp;on vacuum and Trey on drums.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mellow Mood",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Glide",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": true,
+          "footnote": "Contained Axilla II ending.\t"
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Windora Bug",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Back at the Chicken Shack",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false,
+          "footnote": "Fish on vacuum and Trey on drums."
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-09",
+    "venue": "Pepsi Arena",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "The My Friend ending did not contain the \"Myfe\" lyric. Tom Marshall spoke the lyrics to Antelope. Sand through Funky Bitch and Hood featured Michael Ray on trumpet. When he wasnât playing, Ray was dancing around the stage and exhorting the appreciative crowd. During Hood, he sat and relaxed in front of the drum riser before pulling several people out of the crowd, who proceeded to sit around the stage and occasionally dance. Trey thanked them as âThe Michael Ray Chorus.â Sand began with a First Tube tease.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Tom Marshall spoke the lyrics to Antelope."
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true,
+          "footnote": "Michael Ray on trumpet."
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Michael Ray on trumpet."
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": false,
+          "footnote": "Michael Ray on trumpet."
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false,
+          "footnote": "Michael Ray on trumpet."
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Michael Ray on trumpet."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-11",
+    "venue": "Tweeter Center",
+    "city": "Mansfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "The show opened with the Phish debut of Roadrunner, which ended with Trey mentioning that various people (including Paul&#39;s parents) were from Massachusetts. Brian and Robert included a woman on stage relaying the lyrics in sign language.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Roadrunner",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-12",
+    "venue": "Tweeter Center",
+    "city": "Mansfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "After conferring with Trey before Bike, FishÂ joked with the crowd, remarking that he only knows two songs. Before the vacuum solo, FishÂ introduced the band. Mike teased Call to the Post in the second Hold Your Head Up.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Heavy Things",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Bike",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-14",
+    "venue": "Darien Lake Performing Arts Center",
+    "city": "Darien Center",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Reba did not have the whistling ending. Suzy contained a brief Can't You Hear Me Knocking tease from Page. Trey teased Andre the Giant before and San-Ho-Zay duringÂ Drowned. Page teased The Little Drummer Boy in Prince Caspian. This show was officially released as <em>Live Phish 03</em>.</p>\r\n",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Albuquerque",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-15",
+    "venue": "Hersheypark Stadium",
+    "city": "Hershey",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "Antelope featured Tom Marshall and his daughter, Anna, singing the &ldquo;Rye Rye Rocco&rdquo; lyrics. Antelope also included a Yakety Sax (the <em>Benny Hill Show</em> theme) tease. The jam out of Tube reprised Tube proper and contained a Summertime tease from Page. Possum included Stash teases from Trey.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Windora Bug",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true,
+          "footnote": "Tom Marshall and his daughter, Anna, sang the \"Rye Rye Rocco\" lyrics."
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Bittersweet Motel",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false,
+          "footnote": "The jam out of Tube reprised Tube proper."
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-18",
+    "venue": "Blossom Music Center",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "Twist included a San-Ho-Zay tease from Trey.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Sleep",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-20",
+    "venue": "Riverbend Music Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "It&#39;s Ice was unfinished and included a long, atypical jam.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": false,
+          "footnote": "Unfinished; included long, atypical jam."
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-22",
+    "venue": "Allstate Arena",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "Meat was unfinished. Reba contained a Stash tease from Trey. Meatstick concluded with the band fading out and the audience finishing the song <em>a cappella</em>. Antelope subsequently included Meatstick teases.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": true,
+          "footnote": "Concluded with the band fading out and the audience finishing the song a cappella."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-23",
+    "venue": "Allstate Arena",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "Come on Baby&nbsp;Let&#39;s Go Downtown made its Phish debut at this show. Trey teased Super Bad in Moma Dance. Tweezer contained Sunshine of Your Love teases from Trey and featured an ending typical for older Tweezers with a die-down akin to the <em>Picture of Nectar </em>album version.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Come on Baby Let's Go Downtown",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Frankenstein",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false,
+          "footnote": "Featured an ending typical for older Tweezers with a die-down akin to the Picture of Nectar album version."
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-24",
+    "venue": "Target Center",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "USA",
+    "setlist_notes": "Cool it Down was played for the first time since October 31, 1998 (132 shows) and contained San-Ho-Zay teases from Trey.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mellow Mood",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Back at the Chicken Shack",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Love You",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Cool It Down",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-25",
+    "venue": "Sandstone Amphitheatre",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "country": "USA",
+    "setlist_notes": "Everybodyâs Got Something To Hide was played for the first time since October 31, 1994 (437 shows). Disease was unfinished.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Everybody's Got Something to Hide Except Me and My Monkey",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Driver",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-27",
+    "venue": "Fiddler's Green",
+    "city": "Englewood",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "The My Friend ending did not contain the \"Myfe\" lyric.Â  Brother was played for the first time since July 28, 1998 (155 shows) after which Trey commented, âThat song is all about the ending.â",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Brother",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-29",
+    "venue": "Thomas & Mack Center",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Wilson included a heavy metal jam, complete with Trey waving his guitar in the air. Kid Rock provided guest vocals from Walk This Way through the encore. Walk This Way and Rapperâs Delight (with funny stage antics from Fish, who danced on his knees like Kidâs sidekick Joe C.) were Phish debuts. You Shook Me (All Night Long) was played in its entirety by Phish for the first time, although it had been jammed on other occasions. Walk This Way was also teased during 2001. Spockâs Brain (first since June 24, 1995, or 393 shows), Dinner and a Movie (first since March 1, 1997, or 244 shows), and American Band (first since November 16, 1996, or 273 shows) returned after long absences. The Carini opener was preceded by a Wilson tease and saw Trey have several problems with his guitar.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Frankenstein",
+          "transition": true
+        },
+        {
+          "song": "Mellow Mood",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false,
+          "footnote": "Heavy metal jam."
+        },
+        {
+          "song": "Spock's Brain",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Walk This Way",
+          "transition": true,
+          "footnote": "Phish debut; Kid Rock on guest vocals."
+        },
+        {
+          "song": "Rapper's Delight",
+          "transition": true,
+          "footnote": "Phish debut; Kid Rock on guest vocals."
+        },
+        {
+          "song": "You Shook Me All Night Long",
+          "transition": false,
+          "footnote": "First Phish performance in its entirety; Kid Rock on guest vocals."
+        }
+      ],
+      "e": [
+        {
+          "song": "We're an American Band",
+          "transition": false,
+          "footnote": "Kid Rock on guest vocals."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-09-30",
+    "venue": "Thomas & Mack Center",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Though the band came out in position for Walfredo, they were forced to pause due to technical difficulties. For the second show in a row, several breakouts dotted the setlist: Walfredo (first since February 22, 1997, or 250 shows), Esther (August 9, 1998, 148 shows), Forbinâs and Mockingbird (August 7, 1998, 150 shows), A Day in the Life (July 3, 1998, 172 shows), and Emotional Rescue (July 28, 1998, 157 shows). The Mockingbird narration referenced the bandâs upcoming hiatus. I Didnât Know included a reference to Kid Rockâs sidekick Joe C. Esther featured flubbed lyrics for the final verse, ending with Trey proclaiming: âShe died. Dead.â As the band returned for the second set, the crowd serenaded Trey with Happy Birthday. Twist contained San-Ho-Zay teases from Trey. Emotional Rescue included a bizarre synchronized duel on-stage between Trey and Mike. This show was webcast live and subsequently released in its entirety as the bandâs first full concert DVD, <em>Live in Vegas</em>.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Walfredo",
+          "transition": true
+        },
+        {
+          "song": "Thela Hun Ginjeet",
+          "transition": true,
+          "footnote": "Thela Hun Ginjeet"
+        },
+        {
+          "song": "Shattering Song",
+          "transition": false,
+          "footnote": "Shattering Song"
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Riders on the Storm",
+          "transition": false,
+          "footnote": "Riders on the Storm"
+        },
+        {
+          "song": "Shattering Song",
+          "transition": true,
+          "footnote": "Shattering Song"
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Hendershot",
+          "transition": true,
+          "footnote": "Hendershot"
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "Referenced Kid Rock's sidekick Joe C."
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Shine On You Crazy Diamond",
+          "transition": true,
+          "footnote": "Shine On You Crazy Diamond"
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Riddles",
+          "transition": false,
+          "footnote": "Riddles"
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Jerry Was a Race Car Driver",
+          "transition": false,
+          "footnote": "Jerry Was a Race Car Driver"
+        },
+        {
+          "song": "Esther",
+          "transition": false,
+          "footnote": "Flubbed lyrics for the final verse, ending with Trey proclaiming: \"She died. Dead.\""
+        },
+        {
+          "song": "Wynona's Big Brown Beaver",
+          "transition": false,
+          "footnote": "Wynona's Big Brown Beaver"
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Riddles",
+          "transition": false,
+          "footnote": "Riddles"
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Pigs on the Wing (Part I)",
+          "transition": true,
+          "footnote": "Pigs on the Wing (Part I)"
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Dogs",
+          "transition": true,
+          "footnote": "Dogs"
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Pigs (Three Different Ones)",
+          "transition": true,
+          "footnote": "Pigs (Three Different Ones)"
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true,
+          "footnote": "Narration referenced the band's upcoming hiatus."
+        },
+        {
+          "song": "Sheep",
+          "transition": true,
+          "footnote": "Sheep"
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Pigs on the Wing (Part II)",
+          "transition": false,
+          "footnote": "Pigs on the Wing (Part II)"
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Owner of the World",
+          "transition": false,
+          "footnote": "Performed by Oysterhead."
+        },
+        {
+          "song": "Smoke on the Water",
+          "transition": false,
+          "footnote": "Performed by Oysterhead."
+        },
+        {
+          "song": "Emotional Rescue",
+          "transition": false
+        },
+        {
+          "song": "Owner of the World",
+          "transition": true,
+          "footnote": "Performed by Oysterhead."
+        },
+        {
+          "song": "Tomorrow Never Knows",
+          "transition": false,
+          "footnote": "With Trey and Stewart Copeland."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-10-01",
+    "venue": "Blockbuster Desert Sky Pavilion",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "USA",
+    "setlist_notes": "Trey introduced the band during Llama (including Fish&nbsp;as &#39;Bob Weaver&#39;) before encouraging the audience to clap along with him. He slapped himself on the forehead and encouraged fans to slap the foreheads of the person next to them, but few did. Piper was unfinished and morphed into the debut of Guy Forget, which contained a &quot;will the good lord save or will I dance on grave&quot; quote and a San-Ho-Zay tease from Trey. Guy Forget had been previously performed in soundchecks. Piper and Camel Walk from this gig are included as filler on the <em>Live in Vegas</em> DVD.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": true,
+          "footnote": "Trey introduced the band during Llama before encouraging the audience to clap along with him. He slapped himself on the forehead and encouraged fans to slap the foreheads of the person next to them."
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Guy Forget",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-10-03",
+    "venue": "NBC Studios",
+    "city": "Burbank",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Phish were the musical guests on <em>The Tonight Show with Jay Leno</em>.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Twist",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-10-04",
+    "venue": "Coors Amphitheatre",
+    "city": "Chula Vista",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Reba did not have the whistling ending. Antelope included a reference to Bob Weaver instead of Marco Esquandolas.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Included a reference to Bob Weaver instead of Marco Esquandolas."
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-10-05",
+    "venue": "Verizon Wireless Amphitheater",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "<p>Chalk Dust included a Walk This Way tease. Sneakin&#39; Sally did not contain a vocal jam. Trey teased Rift before the start of the second set. Character Zero ended with a slow jam where Trey quoted the lyrics to Fast Enough for You.</p>\r\n",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Come on Baby Let's Go Downtown",
+          "transition": false
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-10-06",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Glide was teased before the Carini opener and Jibboo was teased before Heavy Things. Disease was unfinished. The encore featured Bob Weir on guitar as well as vocals for the Phish debuts of El Paso and West L.A. Fadeaway. Trey teased Chalk Dust after West L.A. Fadeaway.",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Mellow Mood",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Heavy Things",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Spock's Brain",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "El Paso",
+          "transition": true,
+          "footnote": "Phish debut; Bob Weir on guitar and vocals."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Bob Weir on guitar."
+        },
+        {
+          "song": "West L.A. Fadeaway",
+          "transition": false,
+          "footnote": "Phish debut; Bob Weir on guitar and vocals."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-10-07",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "<p>This was the final show before the band&rsquo;s hiatus. Appropriately, given the pending extended break from touring, the pre-show music closed with The Rolling Stones&rsquo; The Last Time and the post-show music was The Beatles&rsquo; Let it Be. After the show, the crowd gave the crew a standing ovation as they packed the band&rsquo;s gear, while the crew took pictures of the crowd. Trey teased San-Ho-Zay in Twist. This show is available as an archival release on LivePhish.com.</p>\r\n",
+    "tour_name": "2000 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Glide",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2000-05-15",
+    "venue": "Sonic Studios",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "This was a taping for Philadelphiaâs Y100 <em>Sonic Sessions</em> radio program. This set was performed to a live audience of approximately fifty, and was first aired on Sunday, May 28, 2000.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "The Inlaw Josie Wales",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

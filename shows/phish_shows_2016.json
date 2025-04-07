@@ -1,0 +1,5017 @@
+[
+  {
+    "showdate": "2016-01-15",
+    "venue": "BarcelÃ³ Maya Beach",
+    "city": "Riviera Maya, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "David Bowie contained a Theme from <em>Gilligan's Island</em> tease from Mike. Trey teased Sneakin' Sally in Possum.Â Jefferson Waful assisted Chris Kuroda on lights for the first time and would do so for the rest of the weekend's shows.",
+    "tour_name": "2016 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Shine a Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-01-16",
+    "venue": "BarcelÃ³ Maya Beach",
+    "city": "Riviera Maya, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "Trey teased Cities in Light. Reba did not contain the whistling ending, but Trey brieflyÂ quoted Reba's whistling codaÂ inÂ Chalk Dust.",
+    "tour_name": "2016 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-01-17",
+    "venue": "BarcelÃ³ Maya Beach",
+    "city": "Riviera Maya, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "This show featured the Phish debut of The Ocean. Moma Dance and DWD were unfinished.Â Trey teased The Rover at the start ofÂ DWD. DWD,Â Crosseyed, and Weekapaug contained Shipwreck quotes. Crosseyed also contained an I Don't Live Today quote from Fish.Â Trey teased Your Pet Cat in Weekapaug.",
+    "tour_name": "2016 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Mexican Cousin",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "The Landlady",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Ocean",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-01-01",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Undermind and AntelopeÂ contained Stash, STFTFP, and How Many People Are You teases.Â Disease was unfinished. Light included a Linus and Lucy tease from Page and a Manteca tease from Trey.",
+    "tour_name": "2015/2016 New Year's Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "How Many People Are You",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Wingsuit",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Farmhouse",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-01-02",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Trey teased Stash during Divided Sky and Axilla during Maze.Â During YEM, Trey briefly joined Fish on the drums.",
+    "tour_name": "2015/2016 New Year's Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Your Pet Cat",
+          "transition": true
+        },
+        {
+          "song": "Pink Sock",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Two In The Pink, One In The Stink",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Pedro Peed in the Ravioli Bucket",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "Trey briefly joined Fish on drums."
+        }
+      ],
+      "e": [
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-06-22",
+    "venue": "Xcel Energy Center",
+    "city": "St. Paul",
+    "state": "MN",
+    "country": "USA",
+    "setlist_notes": "This show featured severalÂ bustouts:Â Pigtail (last playedÂ December 28,Â 2010, orÂ 195 shows),Â Daniel Saw the Stone (last played June 30, 2012, orÂ 140 shows),Â Dear Prudence (last played October 31, 1994, orÂ 799 shows),Â Round Room (last played January 1, 2011, or 192 shows),Â Uncle Pen (last played August 31, 2012, or 123 shows), and I Found A Reason (last played October 31, 1998, or 495 shows). Trey teased The Little Drummer Boy in Ghost.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Pigtail",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Daniel Saw the Stone",
+          "transition": true
+        },
+        {
+          "song": "The Dogs",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Dear Prudence",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Round Room",
+          "transition": false
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "The Line",
+          "transition": true
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "I Found a Reason",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-06-24",
+    "venue": "Wrigley Field",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "Following the debut of Miss You, Trey notedÂ that the song would beÂ on their new albumÂ and thanked the crowd for letting them try new material. Disease was unfinished. Fish teased Weekapaug in Twist.Â Space Oddity was a Phish debut.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Miss You",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Space Oddity",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-06-25",
+    "venue": "Wrigley Field",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "Happy Birthday was played for Phish tour manager Richard Glasgow. I Am the Walrus was played for the first time since June 29, 2010 (229 shows).",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Waiting All Night",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Happy Birthday to You",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "I Am the Walrus",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-06-26",
+    "venue": "Klipsch Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "This show featured the debut ofÂ Breath and Burning. Trey teased NMINML in Kill Devil Falls. ",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Wingsuit",
+          "transition": false
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-06-28",
+    "venue": "The Mann Center for the Performing Arts",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "Sleep Again was last played August 7, 2010Â (224Â shows). This show featured the debut of Things People Do. YEM featured Trey on Marimba Lumina.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Sleep Again",
+          "transition": true
+        },
+        {
+          "song": "Things People Do",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": false
+        },
+        {
+          "song": "Mind Left Body Jam",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "Trey on Marimba Lumina."
+        }
+      ],
+      "e": [
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-06-29",
+    "venue": "The Mann Center for the Performing Arts",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "This show featured the debut of Waking Up Dead,Â Friends, and Tide Turns.Â Llama was performed in an alternate arrangement and ended with a Whole Lotta Love tease from Trey.Â The Birds was quoted in Weekapaug. DWD was unfinished.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Waking Up Dead",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Llama",
+          "transition": true,
+          "footnote": "Performed in an alternate arrangement."
+        },
+        {
+          "song": "Devotion To a Dream",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Friends",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "The Line",
+          "transition": true
+        },
+        {
+          "song": "Tide Turns",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Dem Bones",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Dear Prudence",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-01",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show featured the debut of Let's Go. Chalk Dust Torture was unfinished andÂ featured Trey on Marimba Lumina and Mike on keys. Sleeping Monkey included the last lyric of My Sweet One and a Say My Name quote.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "The Birds",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Let's Go",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Waiting All Night",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished. With Trey on Marimba Lumina and Mike on keys."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Shine a Light",
+          "transition": true
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-02",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Trey quoted Sleeping MonkeyÂ during BOTT. Martian Monster featured Trey on Marimba Lumina. Light featured NMINML quotes. Following Antelope, Trey picked up a shirt that read \"They Attack!\"Â prompting a The Birds quote before the band left the stage.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Crowd Control",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": false,
+          "footnote": "Trey on Marimba Lumina."
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-03",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Scent of a Mule featured Fish on Marimba Lumina. Moma Dance was unfinished.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "Fish on Marimba Lumina. "
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Soul Shakedown Party",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": false
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Show of Life",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-06",
+    "venue": "Cross Insurance Arena",
+    "city": "Portland",
+    "state": "ME",
+    "country": "USA",
+    "setlist_notes": "Trey teased All That You Dream in Tweezer. Bittersweet Motel was last played on July 4, 2012 (146 shows).",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Grind",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Things People Do",
+          "transition": true
+        },
+        {
+          "song": "The Line",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Tide Turns",
+          "transition": false
+        },
+        {
+          "song": "Devotion To a Dream",
+          "transition": true
+        },
+        {
+          "song": "Wingsuit",
+          "transition": false
+        },
+        {
+          "song": "Bittersweet Motel",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-08",
+    "venue": "Xfinity Center",
+    "city": "Mansfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "Eine kleine Nachtmusik was teased prior to Party Time.Â During Cities, Trey broke a string, switched guitars, andÂ introducedÂ his guitar tech,Â Brian Brown;Â Trey then switched to Marimba Lumina while Mike played Trey's guitar. Wolfman's contained a vocal jam, during which the PA cut out and the band left the stage. Wolfman's was unfinished, and after several minutes the band resumedÂ with CDT.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Party Time",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "The Dogs",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "How Many People Are You",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Fuego",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true,
+          "footnote": "Trey broke a string and switched guitars mid-song, also introducing his guitar tech, Brian Brown. Trey then switched to Marimba Lumina and Mike played Trey's guitar."
+        },
+        {
+          "song": "Space Oddity",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true,
+          "footnote": "Vocal jam, during which the PA cut out and the band left the stage. Unfinished."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "I Am the Walrus",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-09",
+    "venue": "Xfinity Theatre",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist_notes": "Let Me Lie was last performed on August 10, 2010Â (229 shows). Portions of the YEM jam featured Trey on Marimba Lumina,Â Mike on keys, and Page on bass. DWD was unfinished.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Pigtail",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Let Me Lie",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "Trey on Marimba Lumina, Page on bass, Mike on keys for portion of the jam."
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Tela",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-10",
+    "venue": "Lakeview Amphitheater",
+    "city": "Syracuse",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "My Friend did not contain the \"Myfe\" ending. After Winterqueen,Â Page brought out hisÂ keytar, ostensibly to play Frankenstein.Â He played a brief jam on theÂ keytar (with Trey playing it as well), but apparently had equipment problems and opted for Bold as LoveÂ instead. When FrankensteinÂ closed the second set, Page attempted to play theÂ keytarÂ again but had more technical difficulties and had to play the song on his standard keyboard rig.Â Martian Monster featured Trey on Marimba Lumina, Mike on guitar, and Page on bass.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Landlady",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Ha Ha Ha",
+          "transition": true
+        },
+        {
+          "song": "Friends",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending. "
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "Timber",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Timber",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Winterqueen",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        },
+        {
+          "song": "Martian Monster",
+          "transition": false,
+          "footnote": "Trey on Marimba Lumina; Mike on guitar; Page on bass."
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-15",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "This show featured the debut ofÂ Ass Handed.Â The Old Home Place was played for the first time since June 28, 2012Â (155 shows).Â Crosseyed contained an Under Pressure tease from Trey. Ghost featured Trey on Marimba Lumina and Mike and Page on percussion. NMINML was teased in Ghost, CDT, and 2001 and quoted in Ghost. Crosseyed was teased in Stash, Ghost, CDT and quoted in NMINML, Ghost, 2001, and Cavern. What's The Use? was teased in Stash, Ghost, CDT, and Cavern. Fish quoted Makisupa in Wilson. Mike teased Ramble On in GTBT.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Ass Handed",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "The Line",
+          "transition": true
+        },
+        {
+          "song": "Tide Turns",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false,
+          "footnote": "Trey on Marimba Lumina; Mike and Page on percussion."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-16",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "DriverÂ was played for the first time since AugustÂ 3, 2013Â (111Â shows). Mike teased Sundown in Bathtub Gin.Â Love You was played for the first time since October 23, 2010 (216 shows).",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Sleep Again",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Wingsuit",
+          "transition": false
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Shine a Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Love You",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-18",
+    "venue": "Bill Graham Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Ya Mar featured Trey on Marimba Lumina, Mike on guitar, and Page on bass.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Martian Monster",
+          "transition": false
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Daniel Saw the Stone",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true,
+          "footnote": "Trey on Marimba Lumina, Mike on guitar, and Page on bass."
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "My Sweet One",
+          "transition": false
+        },
+        {
+          "song": "The Line",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-19",
+    "venue": "Bill Graham Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "DWD contained <em>I Dream of JeannieÂ </em>theme and Under Pressure teases and was unfinished. Fuego included a Bug tease from Trey. Ghost containedÂ a HYHU tease from Trey and a Weekapaug Groove tease from Fish.Â Scents and Subtle Sounds did not contain the Intro, but did include a DEG tease. Manteca was last played June 16, 2012 (165 shows).",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Wombat",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": true
+        },
+        {
+          "song": "Space Oddity",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false,
+          "footnote": "No intro."
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Manteca",
+          "transition": false
+        },
+        {
+          "song": "No Quarter",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-20",
+    "venue": "Bill Graham Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Demand was played for the first time since December 31, 2009 (258 shows). Alumni Blues and Letter to Jimmy Page were played for the first time since August 3, 2013 (114 shows). Cry Baby Cry was played for the first time since November 21, 1998 (498 shows). Sing Monica was dedicated to producer <a href=\"https://en.wikipedia.org/wiki/Bob_Ezrin\">Bob Ezrin</a>, who was in attendance.Â Walk Away was played for the first time since October 29, 2013 (100 shows). Mike teased Whole Lotta Love in Bowie. Fee featured Trey on megaphone. Weekapaug featured Trey on Marimba Lumina and Mike on keys. Character Zero was sung almost entirely by the audience, with the band providing the chorus.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Demand",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Fuck Your Face",
+          "transition": true
+        },
+        {
+          "song": "Cry Baby Cry",
+          "transition": true
+        },
+        {
+          "song": "Sing Monica",
+          "transition": false
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "The Very Long Fuse",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        },
+        {
+          "song": "Sanity",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "\tTrey sang verses through megaphone."
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Waiting All Night",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Miss You",
+          "transition": true
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true,
+          "footnote": "Trey on Marimba Lumina and Mike on keys."
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false,
+          "footnote": "Character Zero was sung almost entirely by the audience, with the band providing the chorus."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-22",
+    "venue": "The Forum",
+    "city": "Inglewood",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Paul and Silas was played for the first time since October 20, 2013Â (107 shows). Antelope's lyrics were changed \"Mike-O Esquandolas.\"Â ",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Paul and Silas",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Lyric changed to \"Mike-O Esquandolas.\""
+        }
+      ],
+      "2": [
+        {
+          "song": "Axilla",
+          "transition": true
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "Trey and Fish on Marimba Lumina."
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-07-23",
+    "venue": "Sleep Train Amphitheatre",
+    "city": "Chula Vista",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Mike teased Whipping Post at the end of the first Ass Handed.Â Reba did not contain the whistling ending.Â California Love was teased and quoted in Wolfman's and teased in 2001. Trey teased I'm a Man (Spencer Davis Group) in Twist. WOTC contained a Streets of Cairo tease. Carini contained Ass Handed quotesÂ and Tweezer Reprise's lyrics were substituted forÂ Ass Handed lyrics.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Ass Handed",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Ass Handed",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-09-02",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Mike teased Bike before Heavy Things andÂ Light Up or Leave Me Alone before Stash. Fish performed the first part of Ass Handed in a swing style.Â Trey teased Stash during The Wedge. RunawayÂ Jim contained a Seven Below tease. Trey teased Third Stone From the Sun in Seven Below. Suzy featured Trey on Marimba Lumina.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Ass Handed",
+          "transition": false,
+          "footnote": "First half performed in a swing style."
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Wombat",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false,
+          "footnote": "Trey on Marimba Lumina."
+        }
+      ],
+      "e": [
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-09-03",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Simple featured Trey on Marimba Lumina. Squirming Coil ended with Trey, Fish, and finally Page walking off, leavingÂ Mike to takeÂ a bass solo to finish the song for the first time in Phish history.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false,
+          "footnote": "Trey on Marimba Lumina."
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false,
+          "footnote": "With closing bass solo."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-09-04",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Trey teased San-Ho-Zay during Weekapaug andÂ teased Crosseyed during Steam,Â Piper, Light, First Tube and Walls of the Cave. Piper featured a Fishman-driven improvisation withÂ Trey on Marimba Lumina and Mike and Page on percussion.Â Piper, Light,Â First Tube, and Walls of theÂ CaveÂ also included Crosseyed quotes.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Wingsuit",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false,
+          "footnote": "Trey on Marimba Lumina, Mike and Page on percussion."
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-08-26",
+    "venue": "Oak Ridge Farm",
+    "city": "Arrington",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "This performance was part of the <a href=\"http://www.locknfestival.com/\">Lockn' Festival</a>.Â Trey teased Little Drummer Boy in Fuego.Â Bathtub Gin was unfinished. The YEM vocal jam included Ass Handed quotes from Fish.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "555",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Wingsuit",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Space Oddity",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-08-28",
+    "venue": "Oak Ridge Farm",
+    "city": "Arrington",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "This performance was part of theÂ <a href=\"http://www.locknfestival.com/\">Lockn' Festival</a>.Â Mike teased Cars Trucks Buses in Light.",
+    "tour_name": "2016 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Fuck Your Face",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "The Line",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "No Quarter",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-14",
+    "venue": "North Charleston Coliseum",
+    "city": "North Charleston",
+    "state": "SC",
+    "country": "USA",
+    "setlist_notes": "This show featured the Phish debut of Petrichor and the debuts of Home and More. Page dedicated Home to his mother who was in attendance at the show.Â DWD contained a NMINML tease from Trey and was unfinished. Cities featured Trey on Marimba Lumina. Mike teased Petrichor in Hood.",
+    "tour_name": "2016 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Petrichor",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Home",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": false,
+          "footnote": "Debut."
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Cities",
+          "transition": false,
+          "footnote": "Trey on Marimba Lumina."
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Winterqueen",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-15",
+    "venue": "North Charleston Coliseum",
+    "city": "North Charleston",
+    "state": "SC",
+    "country": "USA",
+    "setlist_notes": "This show featured the debut of I Always Wanted It This Way.Â Lengthwise was sung by Fish over the Maze intro. Trey teased Jean Pierre in Wolfman's Brother. Twist included a What's the Use? tease from Trey and Seven Below teases from Mike.",
+    "tour_name": "2016 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Devotion To a Dream",
+          "transition": true
+        },
+        {
+          "song": "Waking Up Dead",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Things People Do",
+          "transition": true
+        },
+        {
+          "song": "Let Me Lie",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": false
+        },
+        {
+          "song": "Lengthwise",
+          "transition": false,
+          "footnote": "Sung by Fish over the Maze intro."
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Ass Handed",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Miss You",
+          "transition": true
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-16",
+    "venue": "Jacksonville Veterans Memorial Arena",
+    "city": "Jacksonville",
+    "state": "FL",
+    "country": "USA",
+    "setlist_notes": "Crosseyed was teased in Steam, Piper, and Antelope.",
+    "tour_name": "2016 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Petrichor",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Wingsuit",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-18",
+    "venue": "Ascend Amphitheater",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "Limb By Limb's lyrics were changed to \"left is how we felt the Bern\" in reference to Vermont senator Bernie Sanders. This show featured the Phish debuts of Samson and Delilah and Playing in the Band. West L.A. Fadeaway was last played October 6, 2000 (383 shows).Â Samson and Delilah through Playing in the Band featured Bob Weir on guitar. Weir also sang vocals on Samson and Delilah and Miss You through Quinn the Eskimo.Â The soundcheck's Blues Jam featured a verse of Funky Bitch from Trey and Walking Blues featuredÂ Weir on vocals.",
+    "tour_name": "2016 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Tide Turns",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false,
+          "footnote": "Lyrics changed to \"Left is how we felt the Bern.\""
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Samson and Delilah",
+          "transition": true,
+          "footnote": "Phish debut; Bob Weir on guitar and vocals."
+        },
+        {
+          "song": "Twist",
+          "transition": false,
+          "footnote": "Bob Weir on guitar."
+        },
+        {
+          "song": "Miss You",
+          "transition": true,
+          "footnote": "Bob Weir on guitar and vocals."
+        },
+        {
+          "song": "West L.A. Fadeaway",
+          "transition": false,
+          "footnote": "Bob Weir on guitar and vocals."
+        },
+        {
+          "song": "Playing in the Band",
+          "transition": false,
+          "footnote": "Phish debut; Bob Weir on guitar and vocals."
+        }
+      ],
+      "e": [
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false,
+          "footnote": "Bob Weir on guitar and vocals."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-19",
+    "venue": "Ascend Amphitheater",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "This show featured the debut of Running Out of Time. Mike teased the theme from <em>The Godfather</em> prior to Golden Age. Mike and Page teased Plasma in Hood. Trey and PageÂ teased Woman From Tokyo in Suzy Greenberg.Â The soundcheck's I Always Wanted It This Way included Immigrant Song quotes from Trey and Fish.",
+    "tour_name": "2016 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Petrichor",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "Waking Up Dead",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Running Out of Time",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Shine a Light",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-21",
+    "venue": "Verizon Wireless Amphitheatre at Encore Park",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "Trey teased Sneakin' Sally and No Men In No Man's Land in Back on the Train. DWD containedÂ <em>I Dream Of Jeannie</em>Â theme, Shine, and Manteca teases, featured Trey on Marimba Lumina, and was unfinished. Trey teased Cat Scratch Fever in Ghost and Streets of Cairo in Possum.",
+    "tour_name": "2016 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Things People Do",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Mercury",
+          "transition": true
+        },
+        {
+          "song": "Let's Go",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Trey on Marimba Lumina; unfinished."
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Winterqueen",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-22",
+    "venue": "Verizon Wireless Amphitheatre at Encore Park",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "Simple contained Saw It Again teases from Fish.",
+    "tour_name": "2016 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Ass Handed",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Waiting All Night",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "No Quarter",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-24",
+    "venue": "Verizon Theatre at Grand Prairie",
+    "city": "Grand Prairie",
+    "state": "TX",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased San-Ho-Zay in NMINML. Mike teased Sit Still, Look Pretty before Water in the Sky.Â I Always Wanted It This Way featured Trey on Marimba Lumina. Piper contained a Woman from Tokyo tease from Trey.</p>\r\n",
+    "tour_name": "2016 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Fuck Your Face",
+          "transition": true
+        },
+        {
+          "song": "Ass Handed",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Running Out of Time",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Dog Faced Boy",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Petrichor",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": false
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": false,
+          "footnote": "Trey on Marimba Lumina."
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Buffalo Bill",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-25",
+    "venue": "Verizon Theatre at Grand Prairie",
+    "city": "Grand Prairie",
+    "state": "TX",
+    "country": "USA",
+    "setlist_notes": "Lifeboy was played for the first time since December 29, 2011 (189 shows). Friday was played for the first time since August 14, 2004 (325 shows).",
+    "tour_name": "2016 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Daniel Saw the Stone",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Waking Up Dead",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Lifeboy",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": true
+        },
+        {
+          "song": "The Line",
+          "transition": true
+        },
+        {
+          "song": "Tide Turns",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Friday",
+          "transition": true
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-28",
+    "venue": "MGM Grand Garden Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Trey teased San-Ho-Zay during No Men In No Man's Land and Sand in Golden Age. SimpleÂ contained a Nothing's Gonna Stop Us Now tease from Trey and Page.Â Dogs Stole Things was played for the first time since June 17, 2012Â (182 shows). Beauty of My Dreams was played for the first time since December 31, 2010Â (227 shows). Crimes of the Mind was played for the first time since November 29, 2009Â (283Â shows).",
+    "tour_name": "2016 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Home",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crimes of the Mind",
+          "transition": true
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-29",
+    "venue": "MGM Grand Garden Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Trey teased Call To The Post at the end of Gumbo.Â Scents did not have the intro. Mike teased Live and Let Die in Tweezer. I Always Wanted It This Way featured Trey on Marimba Lumina.",
+    "tour_name": "2016 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Birds",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Wingsuit",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false,
+          "footnote": "No intro."
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": false,
+          "footnote": "Trey on Marimba Lumina."
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Shine a Light",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-30",
+    "venue": "MGM Grand Garden Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "DWD was unfinished.Â The Birds was quoted afterÂ Birds of a Feather.Â Fuego contained Birds of a Feather and The Birds teases. HaveÂ Mercy was played for the first time since June 4, 2011 (221 shows).",
+    "tour_name": "2016 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Dogs",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "How Many People Are You",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Miss You",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Have Mercy",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-31",
+    "venue": "MGM Grand Garden Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Carini and Antelope featured lyrics altered to reference Trey's shirt.Â Trey teased Martian Monster in Free and Undermind in Possum. The second set \"musical costume\" was David Bowie's <em>The Rise and Fall of Ziggy Stardust and the Spiders From Mars</em>.Â All of the songs in the second set were Phish debuts. Five Years, Soul Love, Moonage Daydream, Starman, and Rock 'n' Roll Suicide featured a string sextet comprised of Sylvia D'Avanzo (violin), Alisa Horn (cello), Todd Low (viola), Antoine Silverman (violin), Alissa Smith (viola), and Hiroko Taguchi (violin). All the songs in the second set other than Five Years, Lady Stardust, and Ziggy Stardust featured Jennifer Hartswick, Celisse Henderson and Jo Lampert on backing vocals. Trey played acoustic guitar on Five Years, Soul Love, Starman, and Lady Stardust. Trey did not play guitar (but contributed lead vocals) on It Ain't Easy and Rock 'n' Roll Suicide. Page did not play keyboards (but contributed lead vocals) on Ziggy Stardust. Carmel Dean arranged the all of the vocals and strings in the second set.Â Twist featured Trey on Marimba LuminaÂ and Mike and Page on percussion. Also Sprach Zarathustra contained Fame quotes from Trey.",
+    "tour_name": "2016 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": true,
+          "footnote": "Lyrics changed to reference Trey's shirt."
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Wombat",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Ass Handed",
+          "transition": true
+        },
+        {
+          "song": "Petrichor",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Lyrics changed to reference Trey's shirt."
+        }
+      ],
+      "2": [
+        {
+          "song": "Five Years",
+          "transition": true,
+          "footnote": "Phish debut; With Sylvia D'Avanzo, Alisa Horn, Todd Low, Antoine Silverman, Alissa Smith, and Hiroko Taguchi on strings; Trey on acoustic."
+        },
+        {
+          "song": "Soul Love",
+          "transition": true,
+          "footnote": "Phish debut; With Sylvia D'Avanzo, Alisa Horn, Todd Low, Antoine Silverman, Alissa Smith, and Hiroko Taguchi on strings and Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals; Trey on acoustic."
+        },
+        {
+          "song": "Moonage Daydream",
+          "transition": true,
+          "footnote": "Phish debut; With Sylvia D'Avanzo, Alisa Horn, Todd Low, Antoine Silverman, Alissa Smith, and Hiroko Taguchi on strings and Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals."
+        },
+        {
+          "song": "Starman",
+          "transition": true,
+          "footnote": "Phish debut; With Sylvia D'Avanzo, Alisa Horn, Todd Low, Antoine Silverman, Alissa Smith, and Hiroko Taguchi on strings and Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals; Trey on acoustic."
+        },
+        {
+          "song": "It Ain't Easy",
+          "transition": true,
+          "footnote": "Phish debut; With Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals."
+        },
+        {
+          "song": "Lady Stardust",
+          "transition": true,
+          "footnote": "Phish debut; Trey on acoustic."
+        },
+        {
+          "song": "Star",
+          "transition": true,
+          "footnote": "Phish debut; With Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals."
+        },
+        {
+          "song": "Hang On to Yourself",
+          "transition": true,
+          "footnote": "Phish debut; With Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals."
+        },
+        {
+          "song": "Ziggy Stardust",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Suffragette City",
+          "transition": true,
+          "footnote": "Phish debut; With Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals."
+        },
+        {
+          "song": "Rock 'n' Roll Suicide",
+          "transition": false,
+          "footnote": "Phish debut; With Sylvia D'Avanzo, Alisa Horn, Todd Low, Antoine Silverman, Alissa Smith, and Hiroko Taguchi on strings and Jennifer Hartswick, Celisse Henderson, and Jo Lampert on backing vocals."
+        }
+      ],
+      "3": [
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true,
+          "footnote": "Trey on Marimba Lumina and Mike and Page on percussion."
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Space Oddity",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-12-28",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Lonesome Cowboy Bill was played for the first time since July 1, 2012 (177 shows). Corinna was played for the first time since August 17, 2012 (170 shows). Page teased The Little Drummer Boy in Golden Age.Â Trey teased The Line in Simple.Â The Tweezer Reprise Jam'sÂ lyrics were changed to \"Your trip is short.\" Trey teased Tweezer Reprise at the end of the return to Martian Monster.",
+    "tour_name": "2016 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Lonesome Cowboy Bill",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false,
+          "jam": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Wingsuit",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-12-29",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Sweet Adeline was last played on SeptemberÂ 2, 2011 (200 shows).Â Peaches en Regalia was last played on August 28, 2012 (164 shows). Secret Smile was last played on July 26, 2013 (141Â shows). Trey teased It's Your Thing in 46 Days andÂ Dave's Energy Guide in Theme. DWD contained an Under Pressure tease from Trey and was unfinished. Trey teased WTU? in Fuego. Kung was last played on December 31, 2012 (156 shows), was performed over Twenty Years Later in the background,Â andÂ was quoted in the return to Twenty Years Later. Makisupa featured Trey on Marimba Lumina and Mike and Page on percussion. PageÂ quoted Makisupa Policeman in the Harry Hood intro.",
+    "tour_name": "2016 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Sweet Adeline",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Secret Smile",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Beauty of a Broken Heart",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": true
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Kung",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true,
+          "footnote": "Trey on Marimba Lumina and Mike and Page on percussion."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-12-30",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Carolina was last played on March 1, 2003 (378 shows). Free Bird was teased at the end of Bathtub Gin.Â My Friend did not contain the \"Myfe\" ending. Trey teased Midnight Rider in Tweezer. Sparks was last played onÂ September 2, 2011Â (201 shows). Ghost contained a There is a MountainÂ tease from Page and a Seven Below tease from Mike. Light contained Party Time quotesÂ and a Stash tease.Â Tweezer Reprise contained Martian Monster and Kung quotes.",
+    "tour_name": "2016 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Carolina",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Things People Do",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Sparks",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-12-31",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Don't Bogart That Joint was last played on October 31, 2010Â (238 shows). Piper fetaured Trey on Marimba Lumina and Mike on keyboards. The third set and encore featured James Casey on saxophone, Natalie Cressman on trombone, Jennifer Hartswick on trumpet, and Andres ForeroÂ onÂ percussion with Jeff Tanski also on keyboards for Petrichor and Natalie and Jennifer adding vocals to Petrichor and No Men In No Man's Land.Â Petrichor through Suzy featured dancers on stage. During PetrichorÂ theÂ dancers had umbrellasÂ andÂ water marblesÂ fellÂ from above. Auld Lang Syne was accompanied by recorded cat and dog noises as cat and dog balloons andÂ raindrop-shaped stress ball fell from the ceiling.",
+    "tour_name": "2016 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Don't Bogart That Joint",
+          "transition": true
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": false
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Ass Handed",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false,
+          "footnote": "Trey on Marimba Lumina. Mike on keyboards."
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Petrichor",
+          "transition": false,
+          "footnote": "James Casey on saxophone, Natalie Cressman on trombone and vocals, Jennifer Hartswick on trumpet and vocals, Jeff Tanski on keyboards, and Andres Forero on percussion."
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": false,
+          "footnote": "James Casey on saxophone, Natalie Cressman on trombone, Jennifer Hartswick on trumpet, and Andres Forero on percussion. With recorded cat and dog noises as cat and dog balloons fell from the ceiling."
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true,
+          "footnote": "James Casey on saxophone, Natalie Cressman on trombone, Jennifer Hartswick on trumpet, and Andres Forero on percussion."
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true,
+          "footnote": "James Casey on saxophone, Natalie Cressman on trombone and vocals, Jennifer Hartswick on trumpet and vocals, and Andres Forero on percussion."
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": true,
+          "footnote": "James Casey on saxophone, Natalie Cressman on trombone, Jennifer Hartswick on trumpet, and Andres Forero on percussion."
+        },
+        {
+          "song": "Tide Turns",
+          "transition": true,
+          "footnote": "James Casey on saxophone, Natalie Cressman on trombone, Jennifer Hartswick on trumpet, and Andres Forero on percussion."
+        },
+        {
+          "song": "555",
+          "transition": true,
+          "footnote": "James Casey on saxophone, Natalie Cressman on trombone, Jennifer Hartswick on trumpet, and Andres Forero on percussion."
+        },
+        {
+          "song": "Ocelot",
+          "transition": true,
+          "footnote": "James Casey on saxophone, Natalie Cressman on trombone, Jennifer Hartswick on trumpet, and Andres Forero on percussion."
+        },
+        {
+          "song": "First Tube",
+          "transition": false,
+          "footnote": "James Casey on saxophone, Natalie Cressman on trombone, Jennifer Hartswick on trumpet, and Andres Forero on percussion."
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false,
+          "footnote": "James Casey on saxophone, Natalie Cressman on trombone, Jennifer Hartswick on trumpet, and Andres Forero on percussion."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2016-10-10",
+    "venue": "NBC Studios",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Phish were the musical guests on&nbsp;<em><a href=\"http://www.nbc.com/the-tonight-show\">The Tonight Show Starring Jimmy Fallon</a></em>. Breath and Burning aired on the NBC broadcast and featured two members of the Roots horn section (Ian Hendrickson-Smith on saxophone and David&nbsp;Guy on trumpet). Blaze On was made available as a web exclusive.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Breath and Burning",
+          "transition": true,
+          "footnote": "Ian Hendrickson-Smith on saxophone and David Guy on trumpet."
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

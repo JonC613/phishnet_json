@@ -1,0 +1,4315 @@
+[
+  {
+    "showdate": "2022-02-24",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>This show featured two bustouts: Peaches en Regalia, which was performed for the first time since July 22, 2017 (139 shows), and The Maker, which was performed for the first time since October 15, 1994 (1,001 shows). So Damn Lucky also made its Phish debut at this show. Tweezer contained Freddie&#39;s Dead teases from Trey and The Lizards teases from Trey and Page. Trey teased Tweezer in Soul Planet and Tube. Trey teased Smoke on the Water in Meat. The encore featured Dave Matthews on guitar and vocals.</p>\r\n",
+    "tour_name": "2022 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "I Never Needed You Like This Before",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Meat",
+          "transition": false
+        },
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "Evolve",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "So Damn Lucky",
+          "transition": true,
+          "footnote": "Phish debut; with Dave Matthews on guitar and vocals."
+        },
+        {
+          "song": "The Maker",
+          "transition": true,
+          "footnote": "With Dave Matthews on guitar and vocals."
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false,
+          "footnote": "With Dave Matthews on guitar and vocals."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-02-25",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>This show contained the Phish debut of (I Can&rsquo;t Get No) Satisfaction, albeit a partial version containing only the first verse and chorus. The unfinished Down with Disease&#39;s lyrics were changed to reference &quot;sand&quot; and &quot;beach.&quot; Trey teased Wading in the Velvet Sea in Antelope.</p>\r\n",
+    "tour_name": "2022 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        },
+        {
+          "song": "(I Can't Get No) Satisfaction",
+          "transition": false,
+          "footnote": "Phish debut; incomplete."
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished; lyrics changed to reference \"sand\" and \"beach.\""
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-02-26",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "Axilla contained the Axilla II ending. Trey teased the theme from <em>Speed Racer</em> in Twist.  Trey asked Chris Kuroda to turn off the lights during the pause in Divided Sky, and said  \"don't shine that thing in my face.\" Trey teased Fields of Gold in Crosseyed and Painless. Sleeping Monkey was dedicated to their hosts and the beautiful beings that welcomed Phish to their home and contained a Shipwreck quote.",
+    "tour_name": "2022 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Axilla",
+          "transition": true,
+          "footnote": "Contained Axilla II ending."
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true,
+          "footnote": "During the pause, Trey asked Chris Kuroda to turn off the lights."
+        },
+        {
+          "song": "Mull",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-02-27",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>Fat Man in the Bathtub was performed for the first time since December 30, 2010 (387 shows). After Weekapaug, Trey quoted a line from <em>Silence of the Lambs</em> and Page added a Shipwreck quote. My Friend My Friend did not contain the &quot;Myfe&quot; ending. Trey teased On Broadway in Split Open and Melt. Trey teased San-Ho-Zay and Third Stone From the Sun in No Men In No Man&#39;s Land.</p>\r\n",
+    "tour_name": "2022 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Fat Man in the Bathtub",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "If I Could",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Clear Your Mind",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Beneath a Sea of Stars Part 1",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-04-20",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>This was the rescheduled date for the show that had been postponed due to the Omicron variant of COVID-19 surge in New York City in December of 2021. Moma Dance was unfinished. Page teased Long Tall Glasses in Gumbo.</p>\r\n",
+    "tour_name": "2022 Madison Square Garden Spring Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Leaves",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-04-21",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>This was the rescheduled date for the show that had been postponed due to the Omicron variant of COVID-19 surge in New York City in December of 2021. Suzy Greenberg was dedicated to &ldquo;the hero of the song,&rdquo; Suzy Greenberg, who was attending her first Phish show. Trey teased Jean Pierre in 46 Days. Chalk Dust Torture was unfinished. 2001 contained Super Bad and Martian Monster teases. Mike quoted Kung and teased Plasma in Harry Hood. Trey teased Heartbreaker in the first Character Zero and Tweezer in the second Character Zero.</p>\r\n",
+    "tour_name": "2022 Madison Square Garden Spring Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false,
+          "footnote": "Dedicated to the âhero of the song,â Suzy Greenberg, who was attending her first Phish show."
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Plasma",
+          "transition": true
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Esther",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "About to Run",
+          "transition": true
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-04-22",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>This was the rescheduled date for the show that had been postponed due to the Omicron variant of COVID-19 surge in New York City in December of 2021. Mike quoted Quadrophonic Toppling in Axilla (Part II). Trey teased Happy Birthday in Set Your Soul Free and wished his daughter Bella a happy birthday in Backwards Down the Number Line. For the third set and encore, the stage was raised with a screen showing moving images in front of and below the band. During Waves, dolphins and a whale flew throughout the venue. Kelp descended from above the band during Split Open and Melt and fell to the stage after the song was over. Prior to It&#39;s Ice, there was a prerecorded freezing sound as the image on the screen &quot;froze.&quot;</p>\r\n",
+    "tour_name": "2022 Madison Square Garden Spring Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Axilla (Part II)",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": true
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "It's Ice",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-04-23",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>This was the the rescheduled date for the show that had been postponed due to the Omicron variant of COVID-19 surge in New York City in December of 2021. Mike teased Party Time in the first Simple. Trey teased San-Ho-Zay in No Men in No Man&#39;s Land, Dave&#39;s Energy Guide in Piper, and In Memory of Elizabeth Reed in David Bowie.</p>\r\n",
+    "tour_name": "2022 Madison Square Garden Spring Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Egg in a Hole",
+          "transition": false,
+          "jam": true
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": false
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-05-27",
+    "venue": "The Wharf Amphitheater",
+    "city": "Orange Beach",
+    "state": "AL",
+    "country": "USA",
+    "setlist_notes": "<p>Llama was performed in an alternate arrangement. Quadrophonic Toppling was performed for the first time since December 31, 1999 (606 shows). Mike teased Dueling Banjos in Chalk Dust Torture. During the soundcheck, Mike quoted Got My Mojo Working in the jam and Trey quoted My Shot after The Final Hurrah as well as Another Brick in the Wall Part 2 in Gumbo.</p>\r\n",
+    "tour_name": "2022 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "I Never Needed You Like This Before",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Llama",
+          "transition": true,
+          "footnote": "Performed in an alternate arrangement."
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Quadrophonic Toppling",
+          "transition": false
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-05-28",
+    "venue": "The Wharf Amphitheater",
+    "city": "Orange Beach",
+    "state": "AL",
+    "country": "USA",
+    "setlist_notes": "<p>My Mind&#39;s Got a Mind of its Own was performed for the first time since October 25, 2013 (285 shows). Page teased Frankenstein in The Final Hurrah. Fish teased Mr. Completely in Walk Away.</p>\r\n",
+    "tour_name": "2022 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sigma Oasis",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": false
+        },
+        {
+          "song": "The Final Hurrah",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "A Wave of Hope",
+          "transition": false
+        },
+        {
+          "song": "Mr. Completely",
+          "transition": false
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "If I Could",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "I Am in Miami",
+          "transition": true
+        },
+        {
+          "song": "Izabella",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-05-29",
+    "venue": "The Wharf Amphitheater",
+    "city": "Orange Beach",
+    "state": "AL",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased San-Ho-Zay in Weekapaug Groove.</p>\r\n",
+    "tour_name": "2022 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Winterqueen",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Landlady",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Miss You",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-05-31",
+    "venue": "Credit One Stadium",
+    "city": "Charleston",
+    "state": "SC",
+    "country": "USA",
+    "setlist_notes": "<p>My Friend My Friend did not contain the &quot;Myfe&quot; ending. Mike sung part of Passing Through in Light. Golgi&#39;s lyrics were changed to &quot;I saw you with a barcode in your hand.&quot; Trey and Fish teased Mr. Completely in 46 Days.</p>\r\n",
+    "tour_name": "2022 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Leaves",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Axilla (Part II)",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false,
+          "footnote": "Lyrics changed to \"I saw you with a barcode in your hand.\""
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-06-01",
+    "venue": "Credit One Stadium",
+    "city": "Charleston",
+    "state": "SC",
+    "country": "USA",
+    "setlist_notes": "<p>Mike teased Do You Feel Like We Do before Dirt. Trey teased Prince Caspian near the end of Egg in a Hole. Piper contained Guy Forget teases and quotes from Page and Manteca teases from Trey. Nothing was last played on January 15, 2017 (158 shows). The Oh Kee Pa Ceremony was last played October 20, 2018 (108 shows). The soundcheck&#39;s My Soul had Guy Forget lyrics from Fish.</p>\r\n",
+    "tour_name": "2022 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cool It Down",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Knuckle Bone Broth Avenue",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": false
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "About to Run",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Egg in a Hole",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Most Events Aren't Planned",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Nothing",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-06-03",
+    "venue": "Ruoff Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Happy Birthday in Boogie On Reggae Woman and Contact.</p>\r\n",
+    "tour_name": "2022 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": true
+        },
+        {
+          "song": "Esther",
+          "transition": false
+        },
+        {
+          "song": "Buried Alive",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": true
+        },
+        {
+          "song": "Mull",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Joy",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-06-04",
+    "venue": "Ruoff Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "<p>Stealing Time From the Faulty Plan had an <em>Odd Couple</em> theme tease from Trey. This show included the first performance of the slow arrangement of Maze.</p>\r\n",
+    "tour_name": "2022 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Turtle in the Clouds",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": false
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": true
+        },
+        {
+          "song": "Strawberry Letter 23",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Maze",
+          "transition": false,
+          "footnote": "First performance of the slow arrangement."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-06-05",
+    "venue": "Ruoff Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "<p>The first Sand contained Crosseyed and Painless teases from Mike and an Albert tease from Trey. Mike teased Dueling Banjos in Slave to the Traffic Light.</p>\r\n",
+    "tour_name": "2022 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Wombat",
+          "transition": true
+        },
+        {
+          "song": "Evolve",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Mercury",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "Rise/Come Together",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Grind",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-07-14",
+    "venue": "Xfinity Center",
+    "city": "Mansfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "<p>Chalk Dust Torture was unfinished. Trey teased Dave&#39;s Energy Guide in Plasma and Tweezer Reprise in Weekapaug.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": true
+        },
+        {
+          "song": "I Been Around",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "About to Run",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-07-15",
+    "venue": "Xfinity Center",
+    "city": "Mansfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-07-16",
+    "venue": "Maine Savings Amphitheater",
+    "city": "Bangor",
+    "state": "ME",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Norwegian Wood in First Tube.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "I Never Needed You Like This Before",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Axilla (Part II)",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-07-19",
+    "venue": "TD Pavilion at the Mann",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>Space Oddity was played for the first time since July 28, 2017 (154 shows). The third Tweezer contained teases of Izabella and Cissy Strut. Trey teased Dave&#39;s Energy Guide in Piper. Also Sprach Zarathustra included Space Oddity quotes and teases from Trey and Martian Monster quotes from Trey and Page. Trey quoted I&#39;m Waiting for the Man in Character Zero. The soundcheck&#39;s Seven Below Jam was initially performed at a faster pace than normal before switching to a bluegrass style.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Space Oddity",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "More",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Passing Through",
+          "transition": false
+        },
+        {
+          "song": "Izabella",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-07-20",
+    "venue": "TD Pavilion at the Mann",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>Runaway Jim contained a Nellie Kane tease by Trey. Kill Devil Falls was unfinished. David Bowie featured an In Memory of Elizabeth Reed tease by Trey.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-07-22",
+    "venue": "Bethel Woods Center for the Arts",
+    "city": "Bethel",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Gumbo was unfinished and contained a Long Tall Glasses tease from Page.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mr. Completely",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-07-23",
+    "venue": "Bethel Woods Center for the Arts",
+    "city": "Bethel",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Set Your Soul Free contained a short Crosseyed and Painless jam with quotes from Trey. Twist included an Oye Como Va tease from Trey and Crosseyed quotes from Trey and Mike. Trey played The Star-Spangled Banner in its entirety during Fire.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Evening Song",
+          "transition": true
+        },
+        {
+          "song": "Turtle in the Clouds",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": false
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Miss You",
+          "transition": false
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Fuck Your Face",
+          "transition": true
+        },
+        {
+          "song": "Buffalo Bill",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-07-24",
+    "venue": "Xfinity Theatre",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Mr. P.C. in Tube.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": true
+        },
+        {
+          "song": "The Final Hurrah",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "A Wave of Hope",
+          "transition": false
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-07-26",
+    "venue": "Northwell Health at Jones Beach Theater",
+    "city": "Wantagh",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "I Never Needed You Like This Before",
+          "transition": false
+        },
+        {
+          "song": "Leaves",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "Most Events Aren't Planned",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-07-27",
+    "venue": "Northwell Health at Jones Beach Theater",
+    "city": "Wantagh",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>DWD was unfinished.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "All of These Dreams",
+          "transition": true
+        },
+        {
+          "song": "Something Living Here",
+          "transition": false
+        },
+        {
+          "song": "Axilla (Part II)",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Don't Doubt Me",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Lifeboy",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-07-29",
+    "venue": "Coastal Credit Union Music Park at Walnut Creek",
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "<p>Stash was unfinished. Carini contained Martian Monster quotes. Piper included <em>Odd Couple</em> theme teases from Trey and BBFCFM quotes. Trey teased Call to the Post in Wilson.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Steam",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Rise/Come Together",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        },
+        {
+          "song": "Beneath a Sea of Stars Part 1",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Shine a Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-07-30",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist_notes": "<p>Shafty was performed over the jam out of Halfway to the Moon. Mike teased Miss You (Rolling Stones) in Strawberry Letter 23 and Flash Light in Character Zero.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "If I Could",
+          "transition": true
+        },
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": false
+        },
+        {
+          "song": "Shafty",
+          "transition": true
+        },
+        {
+          "song": "Strawberry Letter 23",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-07-31",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist_notes": "<p>Mike teased Twenty Years Later in Ghost. Mike and Trey teased Those Were the Days before Halley&#39;s Comet.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "A Wave of Hope",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Mull",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Wingsuit",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Joy",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": true
+        },
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-08-02",
+    "venue": "Blossom Music Center",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "Strawberry Fields Forever was performed for the first time since July 22, 2017 (168 shows). Fish quoted Strawberry Fields Forever in the YEM vocal jam and in the jam that followed. Trey teased Also Sprach Zarathustra at the end of Gin.",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Strawberry Fields Forever",
+          "transition": true
+        },
+        {
+          "song": "Crowd Control",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Esther",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-08-03",
+    "venue": "Pine Knob Music Theatre",
+    "city": "Clarkston",
+    "state": "MI",
+    "country": "USA",
+    "setlist_notes": "<p>Kill Devil Falls was unfinished. My Friend&#39;s ending did not contain the &quot;Myfe&quot; lyric. Trey teased Freeway Jam in Kill Devil Falls. Carini contained a full-band tease of Low Rider. Trey teased Thread in No Men In No Man&#39;s Land and San-Ho-Zay in Twist. Trey dedicated Bug to Jovi who was in attendance and had previously joined him on stage to sing the song earlier in the year during his solo acoustic performance in Grand Rapids. Due to the combination of an extended delay to the start of the show from lightning and a curfew for the venue, setbreak was canceled.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "I Never Needed You Like This Before",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-08-05",
+    "venue": "Atlantic City Beach",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "<p>Soul Planet contained a tease of Dave&#39;s Energy Guide from Trey and a tease of Dog Log from Mike. Trey teased Midnight Rider in the first Down with Disease and No Quarter in Ghost. Shipwreck was quoted in Sleeping Monkey. Mike teased Dave&#39;s Energy Guide in Free.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Plasma",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Axilla (Part II)",
+          "transition": false
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-08-06",
+    "venue": "Atlantic City Beach",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Norwegian Wood in 555. Heavy Rotation was performed for the first time since July 22, 2015 (253 shows). Trey teased Under Pressure in Simple. During the soundcheck, Beth was briefly sung by Trey and Knuckle Bone Broth Avenue contained Shipwreck quotes as well as If I Only Had A Brain teases from Trey and Mike.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Olivia's Pool",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Heavy Rotation",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "Moonage Daydream",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-08-07",
+    "venue": "Atlantic City Beach",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "<p>Mike and Trey teased Sweet Emotion in Carini. Trey teased Mr. P.C. in YEM.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-08-10",
+    "venue": "Budweiser Stage",
+    "city": "Toronto, Ontario",
+    "state": null,
+    "country": "Canada",
+    "setlist_notes": "<p>Down with Disease was unfinished.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": true
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Wombat",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Death Don't Hurt Very Long",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-08-12",
+    "venue": "Alpine Valley Music Theatre",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist_notes": "<p>Twist contained Clear Your Mind quotes. Ghost included a Fire (Ohio Players) tease from Trey and Ass Handed quotes. Page teased the theme from <em>Speed Racer</em> in The Lizards.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Fuego",
+          "transition": true
+        },
+        {
+          "song": "Clear Your Mind",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ass Handed",
+          "transition": false
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-08-13",
+    "venue": "Alpine Valley Music Theatre",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased 1999 in Fluffhead and Taste and Crazy Train in Mr. Completely.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "1999",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Leaves",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Petrichor",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Mr. Completely",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "About to Run",
+          "transition": true
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Undermind",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Blaze On",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-08-14",
+    "venue": "Alpine Valley Music Theatre",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist_notes": "<p>Gotta Jibboo was unfinished. Reba did not contain the whistling ending. Trey whistled in the intro to the first Martian Monster and eventually joined Fish on drums. The Phish debut of Broken Heart Attack featured Fish on vacuum. The second Martian Monster featured Trey on drums, Fish on Marimba Lumina, and a David Bowie intro tease from Trey while on drums. The Possum intro featured Fish playing the drums with one hand with his other drumstick in the air and Trey quoting Broken Heart Attack.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Landlady",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Energy",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Martian Monster",
+          "transition": false,
+          "footnote": "Trey whistled in the intro and later joined Fish on drums."
+        },
+        {
+          "song": "Broken Heart Attack",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true,
+          "footnote": "Trey on drums and Fish on Marimba Lumina."
+        },
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "Fish played the drums with one drumstick with the other in the air in the intro."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-09-01",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "<p>Sand and Down with Disease were unfinished.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sand",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Axilla (Part II)",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        },
+        {
+          "song": "Don't Doubt Me",
+          "transition": false
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": false
+        },
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-09-02",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "<p>This show started late and consisted of only one set due to a lengthy delay following a thunderstorm. Carini&#39;s lyrics were changed to &quot;at least he had some boots&quot; in reference to streaker who ran out onto the field during the weather delay wearing only a pair of boots. Trey teased Nothing&#39;s Gonna Stop Us Now in Carini and Streets of Cairo during Tweezer.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": false,
+          "footnote": "Lyrics changed to \"at least he had some boots.\""
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Moonage Daydream",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-09-03",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased There is a Mountain in Walls of the Cave and Sigma Oasis. Kill Devil Falls, Sigma Oasis, and Moma Dance were unfinished. Thunderhead was performed for the first time since December 1, 2003 (544 shows). Trey teased Thunderhead in Moma Dance. Fee featured Trey on megaphone.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": true
+        },
+        {
+          "song": "Heavy Rotation",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Thunderhead",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "No Quarter",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "Trey on megaphone."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-09-04",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Mr. P.C. in David Bowie. Icculus was dedicated to PI (Phish&#39;s stage manager Paul Ingwersen who was retiring that night). PI was subsequently mentioned in Icculus. Trey referenced Icculus in Character Zero with &quot;read the book!&quot; quotes. The soundcheck&#39;s Jam was followed by In the Summertime and Right Place, Wrong Time quotes.</p>\r\n",
+    "tour_name": "2022 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Icculus",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-02-23",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "This was the soundcheck for Phish's upcoming performances at Moon Palace. Trey teased Simple (to the tune of Sample in a Jar) before and after Dog Log. Page teased You Are the Sunshine of My Life before Ghost. Trey teased Third Stone From the Sun in Ghost.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Dog Log",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-12-28",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased A Wave of Hope in Twist. Mike teased Plasma in Harry Hood.</p>\r\n",
+    "tour_name": "2022 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Leaves",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Esther",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-12-29",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Fluffhead was unfinished. Trey teased Dave&#39;s Energy Guide in Bathtub Gin. This show featured the Phish debut of Hey Stranger. Trey teased Heartbreaker in Ruby Waves.</p>\r\n",
+    "tour_name": "2022 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Fluffhead",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Hey Stranger",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-12-30",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "2022 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Golden Age",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "If I Could",
+          "transition": true
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2022-12-31",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Page teased The Little Drummer Boy in the first Tweezer. Trey teased Super Bad in Weekapaug. The second setbreak music was comprised of songs referencing past Phish New Year&#39;s Eve gags. Before the third set began, a barbershop quartet appeared with a singing telegram for Phish. The telegram said that at the stroke of midnight it would be 40 years for Phish and to make a wish. Trey wished he had a time machine so they could do it all again. A cube descended from overhead and a time machine was revealed near Mike. The quartet activated the time machine and the cube played audio and video from past years of Phish. Dancers from various past new year&#39;s gags appeared on stage as well as a wombat (from October 31, 2013). The wombat broke the time machine and Ghost began with dancers and characters (like Father Time from December 31, 1999 and the Famous Mockingbird from December 31, 1992) continuing to appear from the band&#39;s past performances. Ghost featured Meatstick lyrics sung from the band as well as by dancers in different languages in a nod to December 31, 2010. The first Bohemian Rhapsody since December 31, 1996 (852 shows) featured the <em>Late Show</em> Gospel Choir singing on risers behind the band and Ghost quotes from Page and the choir with subsequent lyrics changed to reference Ghost. The first Jungle Boogie since December 31, 2003 (544 shows) featured the BD Entertainment Marching Band marching band along with the choir. The marching band and choir were also featured in Wilson where a platform above Trey that had appeared for the entire New Year&#39;s run descended and the clone that had been lying on the platform rose and was revealed to be a Tom Hanks actor from <em>Cast Away</em>. Inflated Wilson volleyballs were then tossed into the crowd. Only the final verse was sung in Wilson which contained Jungle Boogie quotes and was unfinished. During Auld Lang Syne, Phish briefly stopped playing and ate cake in front of the stage while the marching band and choir continued to perform. Carini featured several dancers in &quot;naked dude&quot; costumes emerging from a birthday cake in front of the stage and dancing and running around with security trying to catch them. The Theme from <em>New York, New York</em> was performed for the first time since December 31, 1997 (774 shows) and featured the naked dude dancers performing a kickline in front of the stage while adding vocals and Trey changing the lyrics to &quot;if I could be naked there.&quot; Page teased Tweezer in Caspian. Piper contained Crosseyed quotes. During Tweezer Reprise, the wombat ran and danced across the stage. The post show music was Goodbye Yellow Brick Road, which was a nod to Phish playing their 72nd show at Madison Square Garden, tying Elton John.</p>\r\n",
+    "tour_name": "2022 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": true
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Ghost",
+          "transition": false,
+          "footnote": "Dancers and characters from Phish's past on stage. "
+        },
+        {
+          "song": "Bohemian Rhapsody",
+          "transition": false,
+          "footnote": "The Late Show Gospel Choir. Lyrics changed to reference Ghost."
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Jungle Boogie",
+          "transition": false,
+          "footnote": "The Late Show Gospel Choir and the BD Entertainment Marching Band."
+        },
+        {
+          "song": "Wilson",
+          "transition": false,
+          "footnote": "The Late Show Gospel Choir and the BD Entertainment Marching Band. Last verse only and unfinished."
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": false,
+          "footnote": "The Late Show Gospel Choir and the BD Entertainment Marching Band."
+        },
+        {
+          "song": "Carini",
+          "transition": false,
+          "footnote": "\"Naked dude\" dancers."
+        },
+        {
+          "song": "Theme from New York, New York",
+          "transition": false,
+          "footnote": "\"Naked dude\" dancers and singers. Lyrics changed to \"if I could be naked there.\""
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false,
+          "footnote": "The wombat ran and danced across the stage."
+        }
+      ]
+    }
+  }
+]

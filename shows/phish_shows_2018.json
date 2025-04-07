@@ -1,0 +1,3704 @@
+[
+  {
+    "showdate": "2018-07-17",
+    "venue": "Lake Tahoe Outdoor Arena at Harveys",
+    "city": "Stateline",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Summertime was teased and quoted before Moma Dance. Page teased Spirits in the Material World in the Hood intro.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-07-18",
+    "venue": "Lake Tahoe Outdoor Arena at Harveys",
+    "city": "Stateline",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "DWD was unfinished. Trey teased Iron Man at the end of Limb By Limb and Jean Pierre in Also Sprach Zarathustra.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Ass Handed",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-07-20",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "This showÂ featured the Phish debut of Set Your Soul Free. Trey teased Third Stone From the Sun at the end of Wolfman's Brother. Chalk Dust was unfinished and My Friend didn't contain the \"Myfe\" ending.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Undermind",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-07-21",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "This show and marked the debut of Infinite. Trey teased the <em>Theme from S.W.A.T.</em>Â in Mike's Song and It's Ice.Â Mike teased Nellie Kane in Weekapaug Groove. It's Ice also included a Mind Left Body Jam tease from Trey. Golden Age contained Tweezer teases.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Infinite",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Rise/Come Together",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-07-22",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "Trey teased The Little Drummer Boy and the <em>Theme from S.W.A.T.</em>Â in Crosseyed. Twist contained Heartbreaker,Â Crosseyed, and Time Loves a HeroÂ teases. Crosseyed was teased and quoted in Split Open and Melt.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "The Birds",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Waiting All Night",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Wombat",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": false
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Miss You",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wilson",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-07-24",
+    "venue": "Bill Graham Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "The lyrics in Cities were changed to âhome of Zenon.â Mike teased Moma Dance in Carini.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Pigtail",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false,
+          "footnote": "Lyrics changed to \"home of Zenon.\""
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": true
+        },
+        {
+          "song": "The Dogs",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-07-25",
+    "venue": "Bill Graham Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "This show featured the debut of Keepinâ It Real. Scents and Subtle Sounds did not contain the intro and included a <em>Theme from S.W.A.T.</em> tease from Trey.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Keeping It Real",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Waking Up Dead",
+          "transition": true
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false,
+          "footnote": "No intro."
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Lizards",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-07-27",
+    "venue": "The Forum",
+    "city": "Inglewood",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "DWD was unfinished.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "How Many People Are You",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-07-28",
+    "venue": "The Forum",
+    "city": "Inglewood",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Trey teased There is a Mountain in Timber (Jerry the Mule). Fuego included The Little Drummer Boy and Celluloid Heroes teases.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Soul Shakedown Party",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": true
+        },
+        {
+          "song": "Tide Turns",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Wingsuit",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-07-31",
+    "venue": "Austin360 Amphitheater",
+    "city": "Del Valle",
+    "state": "TX",
+    "country": "USA",
+    "setlist_notes": "DWD was unfinished and included an Under Pressure tease from Trey.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Light",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "The Line",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-08-03",
+    "venue": "Verizon Wireless Amphitheatre at Encore Park",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "Trey teased No Men In No Man's Land in Back on the Train. Carini contained Chest Fever teases.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "All of These Dreams",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Winterqueen",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "More",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-08-04",
+    "venue": "Verizon Wireless Amphitheatre at Encore Park",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "The Birds was teased in Chalk Dust. Trey teased L.A. Woman in Character Zero.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Fuck Your Face",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Things People Do",
+          "transition": true
+        },
+        {
+          "song": "Lengthwise",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Waiting All Night",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-08-05",
+    "venue": "Verizon Wireless Amphitheatre at Encore Park",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "Reba did not contain the whistling ending and featured You Sexy Thing quotes from Fish. Trey teased What's The Use? and You Sexy Thing in Taste. Golden Age contained Reba whistling and teasing. Fee featured Trey on megaphone. Trey forgot some of the lyrics of Fee and told the crowd after the song, \"We'd like to end the show now with something we remember all the words to.\"Â He then began 2001, encouraging the fans to help them out. 2001 contained You Sexy Thing,Â Tweezer Reprise, Petrichor, and Rhapsody in Blue teases.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "You Sexy Thing",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Petrichor",
+          "transition": false
+        },
+        {
+          "song": "Most Events Aren't Planned",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "You Sexy Thing",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fee",
+          "transition": true,
+          "footnote": "\tTrey sang verses through megaphone."
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-08-07",
+    "venue": "BB&T Pavilion",
+    "city": "Camden",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Trey teased the Theme from S.W.A.T. in 46 Days and You Sexy Thing in Mikeâs Song.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Crowd Control",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Infinite",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": false
+        },
+        {
+          "song": "Miss You",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-08-08",
+    "venue": "BB&T Pavilion",
+    "city": "Camden",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Trey teased Apostrophe in Steam. Page teased Dave's Energy Guide at end of Carini. Character Zero contained Flash Light teases.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": true
+        },
+        {
+          "song": "Wingsuit",
+          "transition": true
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-08-10",
+    "venue": "Coastal Credit Union Music Park at Walnut Creek",
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "Page teased the theme from <em>Barney</em> <em>Miller</em> after Wombat.Â Trey quoted Clowny Clown Clown in Saw It Again. Saw It Again was teased and quoted in Timber. Trey quoted In My Feelings and did a dance associated with the song duringÂ Meatstick. The first Runaway Jim and the second Run Like an Antelope contained Thread quotes.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Wombat",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Meatstick",
+          "transition": false,
+          "footnote": "Trey did a dance associated with In My Feelings."
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Thread",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-08-11",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist_notes": "<p>Page teased Long Tall Glasses in Party Time. Trey teased Wingsuit in 46 Days.</p>\r\n",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Home",
+          "transition": true
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Martian Monster",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-08-12",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist_notes": "Trey teased Streets of Cairo during Meat. Trey teased L.A. Woman during Tweezer. Trey teased San-Ho-Zay in No Men in No Man's Land. Page teased In-A-Gadda-Da-Vida in Twist. Piper contained aÂ Tweezer Reprise jam and quotes. Also Sprach Zarathustra included Martian Monster teases.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "The Curtain With",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-08-31",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Free contained Eminence Front teases from Trey. Trey teased Under Pressure in Ghost. Crossyed contained a Bags' GrooveÂ tease from Trey and an On Your Way Down tease from Mike. Trey teased Mona Lisa (Ray Evans and Jay Livingston)Â in Simple. Trey teased How High the Moon before No Men In No Man's Land.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Martian Monster",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-09-01",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Mike teased Here Today in 2001.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "Home",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Wombat",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "More",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-09-02",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Mellow Mood was played for the first time since August 9, 2011 (257 shows). MFMF didn't contain the \"Myfe\" ending. Golden Age began with Manteca teases.",
+    "tour_name": "2018 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Mellow Mood",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Keeping It Real",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Miss You",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-10-16",
+    "venue": "Times Union Center",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Trey teased Under Pressure In Piper. Page teased Rhapsody in Blue at the end of Harry Hood.",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Show of Life",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-10-17",
+    "venue": "Times Union Center",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Crowd Control",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "All of These Dreams",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-10-19",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "This showÂ featured the first Mock Song since August 21, 2015 (106 shows).Â UndermindÂ included a Stash tease from Trey. Sand contained Strawberry Letter 23 teases. Golden Age and the beginning of TwistÂ contained Shipwreck quotes.",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Strawberry Letter 23",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Mock Song",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Lizards",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-10-20",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "Llama was performed in an alternate arrangement. Page teased We're Off to See the WizardÂ in 46 Days.",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Llama",
+          "transition": true,
+          "footnote": "Performed in an alternate arrangement."
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Shine a Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-10-21",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "Skin It Back was played for the first time since August 11, 2015Â (113Â shows). Camel Walk included Skin It Back teases. BOTT included a Streets of Cairo teaseÂ and Possum included William Tell Overture tease.",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Skin It Back",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Mexican Cousin",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Rise/Come Together",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "The Line",
+          "transition": true
+        },
+        {
+          "song": "Wingsuit",
+          "transition": false
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "e2": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-10-23",
+    "venue": "Ascend Amphitheater",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "Cool It Down was played for the first time since August 15, 2012 (229 shows). Trey teased Tired of Waiting for You in Ghost andÂ Third Stone From the Sun in Weekapaug.",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        },
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Cool It Down",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-10-24",
+    "venue": "Ascend Amphitheater",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "Trey quoted Soul Planet in 2001. Trey teased Tired of Waiting for You andÂ Call to the Post inÂ Bathtub Gin. DWD was unfinished.Â Scents did not contain the intro and includedÂ Run Through the Jungle andÂ CrosseyedÂ teases and quotesÂ and Party Time quotes. Antelope also included Crosseyed teases and quotes.",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false,
+          "footnote": "No intro."
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-10-26",
+    "venue": "Allstate Arena",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Moonage Daydream",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Frost",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-10-27",
+    "venue": "Allstate Arena",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "Trey teasedÂ Daveâs Energy Guide in Blaze On.",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "The Dogs",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": false
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-10-28",
+    "venue": "Allstate Arena",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "Tube contained I'm a Man teases. The Dogs was quoted in No Quarter. Trey teased In Memory of Elizabeth Reed in Plasma.",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Everything's Right",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Miss You",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Petrichor",
+          "transition": true
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": true
+        },
+        {
+          "song": "Grind",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "No Quarter",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "Plasma",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-10-31",
+    "venue": "MGM Grand Garden Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Ghost contained a Buried Alive tease from Trey. Trey teased Crazy Sometimes in Halley's Comet. The second set was billed as Kasvot VÃ¤xtâs <em>i</em> <em>RokkÂ </em>and consisted entirely of debuts. Kasvot VÃ¤xt would ultimately turn out to be a fictional band created by Phish with a detailed backstory and fake information added onto various websites.Â The band came out for the set dressed in white with an altered stage setup and twelve squares hanging from the ceiling illuminated. Antelope contained a quote of The Final Hurrah.",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Crazy Sometimes",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Turtle in the Clouds",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Stray Dog",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Everything is Hollow",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "We Are Come to Outlive Our Brains",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "The Final Hurrah",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Play by Play",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Death Don't Hurt Very Long",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Cool Amber and Mercury",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Passing Through",
+          "transition": false,
+          "footnote": "Debut."
+        }
+      ],
+      "3": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-11-01",
+    "venue": "MGM Grand Garden Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Jean Pierre in Wolfmanâs Brother,Â Third Stone From the Sun in Chalk Dust Torture, and Cool Amber and Mercury in NMINML. Fuego and Twist contained Pictures of Matchstick Men teases. Fish quoted The Final Hurrah in I Been Around.Â Hood containedÂ We Are Come to Outlive Our Brains teases from Mike and Trey and quotes from Fish.</p>\r\n",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Everything's Right",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "I Been Around",
+          "transition": true
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Rise/Come Together",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-11-02",
+    "venue": "MGM Grand Garden Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "if I Could was played for the first time since July 29, 2014 (159 shows). DWD included In the Summertime andÂ Oye Como Va teases from Trey and was unfinished. Trey quoted Everything is Hollow in Sneakin' Sally. The first HYHU contained a The Final Hurrah quote. Bike was played for the first time since SeptemberÂ 4, 2015 (113 shows).",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cavern",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "If I Could",
+          "transition": true
+        },
+        {
+          "song": "Weigh",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Bike",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-11-03",
+    "venue": "MGM Grand Garden Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "<p>Weekapaug Groove included a Call to the Post tease. Fish quoted Death Donât Hurt Very Long in Carini. Scents and Subtle Sounds didnât include the intro. Trey teased Crosseyed in Also Sprach Zarathustra. Page teased Hold Your Head Up at the end of Character Zero.</p>\r\n",
+    "tour_name": "2018 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Lifeboy",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-12-28",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Trey teased The Little Drummer Boy in Bathtub Gin. Possum included a Long Tall Glasses tease from Page.",
+    "tour_name": "2018 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "We Are Come to Outlive Our Brains",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "If I Could",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": true
+        },
+        {
+          "song": "The Final Hurrah",
+          "transition": true
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Shade",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-12-29",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Wolfman's Brother contained Party Time quotes. Trey teased Can't Always Listen in the first Tweezer. Tweezer Reprise contained a Death Don't Hurt Very Long quote.",
+    "tour_name": "2018 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Turtle in the Clouds",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Death Don't Hurt Very Long",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "No Quarter",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Shine a Light",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-12-30",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Alumni BluesÂ had changed lyrics referencing <a href=\"https://nationaldaycalendar.com/bacon-day-december-30/\">National Bacon Day</a>. Glide II was last played on May 16, 1995 (874 shows). Trey teased Birthday in the first Weekepaug.Â This show featuredÂ the Phish debut of BlissÂ with Trey on acoustic guitar. Trey teased Crosseyed and Painless in No Men In No Man's Land.Â Weekapaug Groove was unfinished. Cavern contained The Final Hurrah quotes.",
+    "tour_name": "2018 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Glide II",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Bliss",
+          "transition": true,
+          "footnote": "Phish debut; Trey on acoustic guitar."
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Cool Amber and Mercury",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2018-12-31",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Trey teased Auld Lang Syne In Antelope.Â Trey and Mike came out to start the third set dressed in metallic silver spacesuits. As Mercury progressed, acrobats appeared on stage in front of the band and were lifted up and down, each in their own (unbreakable) net. The midnight balloon drop consisted predominantly of silver balloons and streamers hung from the roof. During Say It To Me S.A.N.T.O.S., Trey and Mike were lifted up in the air (similar to the acrobats) while they performed the song and dancers appeared on stage with giant inflatable objects. DWD and Mercury were unfinished.",
+    "tour_name": "2018 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Stray Dog",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Play by Play",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Ass Handed",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Passing Through",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Mercury",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": true
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": true
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

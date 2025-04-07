@@ -1,0 +1,4690 @@
+[
+  {
+    "showdate": "2023-02-24",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>Dinner and Movie was performed for the first time since August 4, 2017 (177 shows). Trey teased If I Only Had a Brain and Dave&#39;s Energy Guide in Ruby Waves. Chalk Dust Torture was unfinished. Mike and Trey teased Sundown in Bathtub Gin.</p>\r\n",
+    "tour_name": "2023 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": true
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": false
+        },
+        {
+          "song": "Axilla (Part II)",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": true
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-02-25",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>Down with Disease was unfinished. Fee featured Trey on megaphone.</p>\r\n",
+    "tour_name": "2023 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "About to Run",
+          "transition": true
+        },
+        {
+          "song": "Most Events Aren't Planned",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fee",
+          "transition": true,
+          "footnote": "Trey on megaphone."
+        },
+        {
+          "song": "The Wedge",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-02-26",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>Trey teased San-Ho-Zay in Wolfman&#39;s Brother. A lyric in Tube was changed from &quot;fun&quot; to &quot;sun.&quot; Page teased the theme from <em>Speed Racer</em> in YEM.</p>\r\n",
+    "tour_name": "2023 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Sigma Oasis",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false,
+          "footnote": "Lyric changed from \"fun\" to \"sun.\""
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "Mull",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-02-23",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "",
+    "tour_name": "2023 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "46 Days",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-04-14",
+    "venue": "Climate Pledge Arena",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "<p>My Friend My Friend did not contain the &quot;Myfe&quot; ending. Trey teased The Secret of Life (The Dead Milkmen) in A Wave of Hope.</p>\r\n",
+    "tour_name": "2023 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "A Wave of Hope",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-04-15",
+    "venue": "Climate Pledge Arena",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "<p>Wolfman&#39;s Brother was unfinished. After Izabella, Trey said they had to play one by a local musician, Jimi Hendrix.</p>\r\n",
+    "tour_name": "2023 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Axilla (Part II)",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Izabella",
+          "transition": true
+        },
+        {
+          "song": "Leaves",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-04-17",
+    "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "The Curtain With was performed for the first time since June 30, 2019 (117 shows). During Carini, Trey mentioned Frenchie (Tim Gazaille), a fan who had passed away the previous day. Tweezer featured Fish on Marimba Lumina.",
+    "tour_name": "2023 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "All of These Dreams",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Mull",
+          "transition": false
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "My Soul",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false,
+          "footnote": "Fish on Marimba Lumina."
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Miss You",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-04-18",
+    "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "<p>Kill Devil Falls, Fuego, and Light were unfinished. Mike teased Mercury in Fuego.</p>\r\n",
+    "tour_name": "2023 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Olivia's Pool",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Don't Doubt Me",
+          "transition": false
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Fuego",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Light",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": true
+        },
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-04-19",
+    "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "<p>AC/DC Bag was unfinished.</p>\r\n",
+    "tour_name": "2023 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "I Never Needed You Like This Before",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Winterqueen",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Beneath a Sea of Stars Part 1",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Cool It Down",
+          "transition": false
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-04-22",
+    "venue": "Hollywood Bowl",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Chalk Dust Torture was unfinished. Trey teased Johnny B. Goode in Back on the Train.",
+    "tour_name": "2023 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Nobody Finer",
+          "transition": true,
+          "footnote": "Nobody Finer"
+        },
+        {
+          "song": "She Belongs to Me",
+          "transition": true,
+          "footnote": "She Belongs to Me"
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Esther",
+          "transition": false
+        },
+        {
+          "song": "Crooked Piece of Time",
+          "transition": true,
+          "footnote": "Crooked Piece of Time"
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true,
+          "footnote": "Fluffhead"
+        },
+        {
+          "song": "Meat",
+          "transition": false
+        },
+        {
+          "song": "Suzy Drew",
+          "transition": true,
+          "footnote": "Suzy Drew"
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Promised Land",
+          "transition": true,
+          "footnote": "Promised Land"
+        },
+        {
+          "song": "Leaves",
+          "transition": false
+        },
+        {
+          "song": "Franklin's Tower",
+          "transition": true,
+          "footnote": "Franklin's Tower"
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        },
+        {
+          "song": "Mississippi Blues",
+          "transition": true,
+          "footnote": "Mississippi Blues"
+        },
+        {
+          "song": "Dancin' Plague",
+          "transition": false,
+          "footnote": "Dancin' Plague"
+        },
+        {
+          "song": "Space",
+          "transition": false,
+          "footnote": "Space"
+        },
+        {
+          "song": "Automatic Pilot",
+          "transition": false,
+          "footnote": "Automatic Pilot"
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "In Case You Didn't Know",
+          "transition": true,
+          "footnote": "In Case You Didn't Know"
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Downtown",
+          "transition": true,
+          "footnote": "Only Ella, Fish, and Parker"
+        },
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "Lesser Charge",
+          "transition": true,
+          "footnote": "With Ella on vocals and Fish on drums."
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Can't Always Listen",
+          "transition": true,
+          "footnote": "With Fish on drums."
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true,
+          "footnote": "With Fish on drums."
+        },
+        {
+          "song": "Crimes of the Mind",
+          "transition": false,
+          "footnote": "With Fish on drums."
+        }
+      ],
+      "e": [
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-04-21",
+    "venue": "Hollywood Bowl",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Down with Disease was unfinished. Blaze On's lyrics were changed to reference \"Bowl.\"",
+    "tour_name": "2023 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Little Crazy Too",
+          "transition": true,
+          "footnote": "Little Crazy Too"
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": true
+        },
+        {
+          "song": "Nobody Finer",
+          "transition": true,
+          "footnote": "Nobody Finer"
+        },
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Ain't No More Caine",
+          "transition": true,
+          "footnote": "Ain't No More Caine"
+        },
+        {
+          "song": "Strawberry Letter 23",
+          "transition": true
+        },
+        {
+          "song": "Franklin's Tower",
+          "transition": true,
+          "footnote": "Franklin's Tower"
+        },
+        {
+          "song": "Everything's Right",
+          "transition": true
+        },
+        {
+          "song": "Dancin' Plague",
+          "transition": false,
+          "footnote": "Dancin' Plague"
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "Space",
+          "transition": false,
+          "footnote": "Space"
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Automatic Pilot",
+          "transition": true,
+          "footnote": "Automatic Pilot"
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": false
+        },
+        {
+          "song": "Promised Land",
+          "transition": true,
+          "footnote": "Promised Land"
+        },
+        {
+          "song": "Suzy Drew",
+          "transition": true,
+          "footnote": "Suzy Drew"
+        },
+        {
+          "song": "In Case You Didn't Know",
+          "transition": false,
+          "footnote": "In Case You Didn't Know"
+        }
+      ],
+      "2": [
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Can't Always Listen",
+          "transition": true,
+          "footnote": "Can't Always Listen"
+        },
+        {
+          "song": "Blaze On",
+          "transition": false,
+          "footnote": "Lyrics changed to reference \"Bowl.\""
+        },
+        {
+          "song": "Downtown",
+          "transition": true,
+          "footnote": "Debut; Only Ella, Fish, and Parker."
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Lesser Charge",
+          "transition": true,
+          "footnote": "With Ella on vocals and Fish on drums.."
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true,
+          "footnote": "With Fish on drums."
+        },
+        {
+          "song": "Show of Life",
+          "transition": false,
+          "footnote": "Fast version; with Fish on drums."
+        }
+      ],
+      "e": [
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-04-23",
+    "venue": "Hollywood Bowl",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Super Bad in Wolfman&#39;s Brother.</p>\r\n",
+    "tour_name": "2023 Spring Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "About to Run",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mr. Completely",
+          "transition": false
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "Mr. Completely",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "No Quarter",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-11",
+    "venue": "Orion Amphitheater",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the Phish debut of Oblivion. The intro to Also Sprach Zarathustra featured Fish on Marimba Lumina. DWD was unfinished. Mike teased Moby Dick in Chalk Dust Torture.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false,
+          "footnote": "Fish on Marimba Lumina in intro."
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": true
+        },
+        {
+          "song": "Oblivion",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Fuck Your Face",
+          "transition": true
+        },
+        {
+          "song": "Icculus",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-12",
+    "venue": "Orion Amphitheater",
+    "city": "Huntsville",
+    "state": "AL",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the Phish debut of Ether Edge. Trey teased Super Bad in Free. Trey changed the first Alumni&#39;s lyrics to &quot;no PhD.&quot;</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Evolve",
+          "transition": true
+        },
+        {
+          "song": "Mull",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "A Wave of Hope",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Ether Edge",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Alumni Blues",
+          "transition": false,
+          "footnote": "Lyrics changed to \"no PhD.\""
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-14",
+    "venue": "Ameris Bank Amphitheatre",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the Phish debut of ...And Flew Away. Trey teased What&#39;s the Use? in Roggae. The Nile Song was teased as well as quoted (by Fish) in Prince Caspian. Trey teased San-Ho-Zay in Ruby Waves. My Friend, My Friend did not contain the &quot;Myfe&quot; ending</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Axilla (Part II)",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": true
+        },
+        {
+          "song": "...And Flew Away",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "If I Could",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-15",
+    "venue": "Ameris Bank Amphitheatre",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased The Lion Sleeps Tonight in the first Tweezer.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Esther",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-16",
+    "venue": "Ameris Bank Amphitheatre",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the Phish debuts of The Well and The Night the Lights Went Out in Georgia (the latter and HYHU featuring Fish on guitar). You Enjoy Myself was played for a fan who had a shirt stating Phish had not played a YEM in Georgia in 20 years.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "The Well",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Night the Lights Went Out in Georgia",
+          "transition": false,
+          "footnote": "Phish debut; Fish on guitar."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true,
+          "footnote": "Fish on guitar."
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-18",
+    "venue": "Live Oak Bank Pavilion at Riverfront Park",
+    "city": "Wilmington",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the Phish debut of Mercy. Happy Birthday was performed for the first time since June 25, 2016 (251 shows) and was for Jim Pollock. Trey and Mike teased Timber (Jerry the Mule) in Light. Trey mentioned Jim in Backwards Down the Number Line. Suzy Greenberg contained The 9th Cube teases from Trey and Page and The Howling quotes from Trey.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Happy Birthday to You",
+          "transition": true
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Casual Enlightenment",
+          "transition": true
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Mercy",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-19",
+    "venue": "Live Oak Bank Pavilion at Riverfront Park",
+    "city": "Wilmington",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "<p>This show was stopped in the middle of Scents and Subtle Sounds due to severe weather in the area.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Hey Stranger",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Oblivion",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false,
+          "footnote": "Stopped due to severe weather in the area."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-21",
+    "venue": "The Pavilion at Star Lake",
+    "city": "Burgettstown",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the Phish debut of Pillow Jets (previously known as On Pillow Jets when it debuted with the Trey Anastasio Trio a month earlier). Trey teased San-Ho-Zay in Maze. Page teased Eleanor Rigby in David Bowie and Ruby Waves. The soundcheck&#39;s My Soul contained a Monsters quote from a Trey. Trey teased Back on the Train and Divided Sky after the rest of the band left the stage during the soundcheck.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Leaves",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "The Final Hurrah",
+          "transition": false
+        },
+        {
+          "song": "Pillow Jets",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-22",
+    "venue": "The Pavilion at Star Lake",
+    "city": "Burgettstown",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the Phish debut of Monsters. Page teased Taxman in Rock and Roll. In the soundcheck, Trey briefly worked on Sugar Shack in between the Clear Your Minds. A few seconds of Memories and Carolina were sung after the final full band Grind.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "I Never Needed You Like This Before",
+          "transition": true
+        },
+        {
+          "song": "Turtle in the Clouds",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Clear Your Mind",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Ass Handed",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Most Events Aren't Planned",
+          "transition": true
+        },
+        {
+          "song": "Monsters",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Grind",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-23",
+    "venue": "St. Joseph's Health Amphitheater at Lakeview",
+    "city": "Syracuse",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Happy Birthday was performed for Lisa Simpson (she had made Fish&#39;s &quot;Syracuse colored&quot; dress for the evening and was in attendance). Trey and Page teased That&#39;s All in Tweezer. Page teased Long Tall Glasses in Possum and Hold Your Head Up after I Didn&#39;t Know. The soundcheck&#39;s My Soul had Dog Log lyrics.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Happy Birthday to You",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Evolve",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Oblivion",
+          "transition": true
+        },
+        {
+          "song": "Miss You",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-25",
+    "venue": "TD Pavilion at the Mann",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>Bathtub Gin was unfinished.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Strawberry Letter 23",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Axilla (Part II)",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "The Well",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Beneath a Sea of Stars Part 1",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-26",
+    "venue": "TD Pavilion at the Mann",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>Fish teased I Am Hydrogen at the end of the first Mike&#39;s Song. The Moma Dance was unfinished. Backwards Down the Number Line was played for Chris Kuroda&#39;s birthday. Trey teased Set Your Soul Free in Carini.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "About to Run",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-28",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Trey and Page teased Can&#39;t You Hear Me Knocking in A Wave of Hope. The lyrics in Cities were changed to &quot;find the best city to live in&quot; and &quot;I found myself a city to live in.&quot;</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Evening Song",
+          "transition": false
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true,
+          "footnote": "Lyrics changed to \"find the best city to live in\" and \"I found myself a city to live in.\""
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "More",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-29",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Bug was dedicated to Jovi (who had joined Trey on stage to sing the song on June 20, 2022), who was in attendance. Trey teased Stash in The Wedge. Also Sprach Zarathustra was unfinished and included a Psycho Killer tease from Trey. Cracklin&#39; Rosie was performed for the first time since July 6, 2012 (397 shows).</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "The Dogs",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Evolve",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Moonage Daydream",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Oblivion",
+          "transition": false
+        },
+        {
+          "song": "Wingsuit",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Cracklin' Rosie",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-07-30",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the debut of Life Saving Gun. AC/DC Bag was unfinished and My Friend My Friend did not contain the &quot;Myfe&quot; ending. After Llama, Trey said he wasn&#39;t sure if they had already played Llama (during the band&#39;s seven night residency at Madison Square Garden) and after Fish said they hadn&#39;t, Trey said &quot;let&#39;s play it again!&quot; and Llama was started again for a few seconds. Trey teased ...And Flew Away in Tube. Page teased Let&#39;s Spend the Night Together in Suzy Greenberg.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sigma Oasis",
+          "transition": true
+        },
+        {
+          "song": "Life Saving Gun",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": false
+        },
+        {
+          "song": "Frankie Says",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Izabella",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-08-01",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show featured the Phish debut of Broken Into Pieces and the first Sanity since August 6, 2021 (103 shows). Fish quoted The Well in Wolfman's Brother. Kill Devil Falls was unfinished.",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Broken Into Pieces",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "I Am the Walrus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Golden Age",
+          "transition": true
+        },
+        {
+          "song": "Shade",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Sanity",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-08-02",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Page and Trey teased Frankenstein in It&#39;s Ice. Cavern was played in a slower, funkier manner than usual. Trey quoted The Well in The Howling. Frankenstein was played for the first time since December 7, 2019 (120 shows) and featured Page on keytar. Slave&#39;s lyrics were changed to &quot;see the greatest city.&quot;</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Axilla (Part II)",
+          "transition": false
+        },
+        {
+          "song": "Energy",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Cavern",
+          "transition": false,
+          "footnote": "Slow, funky version."
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "The Well",
+          "transition": false
+        },
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "About to Run",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Frankenstein",
+          "transition": true,
+          "footnote": "Page on keytar."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false,
+          "footnote": "Lyrics changed to \"see the greatest city.\""
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-08-04",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the Phish debut of Back in the Bubble. Halley&#39;s Comet&#39;s lyrics were changed to &quot;central part of New York City.&quot; Trey teased We&#39;re Off to See the Wizard in Roggae and Nellie Kane in Crosseyed.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Back in the Bubble",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false,
+          "footnote": "Lyrics changed to \"central part of New York City.\""
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-08-05",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased The Secret of Life (The Dead Milkmen) in Divided Sky. In NICU, Trey asked Page to &quot;Play it slowly for us, Leo!&quot; Guy Forget was played for the first time since September 4, 2011 (425 shows). The second Tweezer included a Frankenstein tease from Trey. Everything&#39;s Right had quotes of Manteca by Fish and teases of Tweezer from Trey, Page, and Fish.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": true
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Guy Forget",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-08-31",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "<p>Trey dedicated Carini to Frenchie (Tim Gazaille), a fan who had passed away earlier in the year and was the &quot;naked guy&quot; during the rain delay at Dick&#39;s the previous summer. Trey teased San-Ho-Zay in Halley&#39;s Comet. Blaze On&#39;s lyrics were changed to &quot;we&#39;ll be dancing here at Dick&#39;s.&quot; We Are Come To Outlive Our Brains was performed for the first time since August 6, 2021 (109 shows).</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": true,
+          "footnote": "Lyrics changed to \"we'll be dancing here at Dick's.\""
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "We Are Come to Outlive Our Brains",
+          "transition": true
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Beneath a Sea of Stars Part 1",
+          "transition": true
+        },
+        {
+          "song": "Oblivion",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": true
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-09-01",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "<p>Page teased In the Mood after the soundcheck&#39;s second Ether Edge.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Esther",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        },
+        {
+          "song": "Shine a Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-09-02",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "<p>Reba did not contain the whistling ending. Chalk Dust was unfinished. Mike teased Merrily We Roll Along after the soundcheck&#39;s Fast Enough for You.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Mound",
+          "transition": false
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Ether Edge",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "Don't Doubt Me",
+          "transition": false
+        },
+        {
+          "song": "Evolve",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-09-03",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "<p>This show started late and consisted of only one set due to a lengthy weather delay.</p>\r\n",
+    "tour_name": "2023 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "About to Run",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-10-07",
+    "venue": "Bridgestone Arena",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "<p>Also Sprach Zarathustra (commonly called 2001) was performed on what the band believed to be their 2,001st show (Mike had discussed a day earlier on Instagram that he had been informed to the best of their knowledge that October 6th was the band&#39;s 2,000th show). Llama was performed in an alternate arrangement.</p>\r\n",
+    "tour_name": "2023 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Mull",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Mull",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Ether Edge",
+          "transition": true
+        },
+        {
+          "song": "About to Run",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Life Saving Gun",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": true,
+          "footnote": "Performed in an alternate arrangement."
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Lonely Trip",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-10-08",
+    "venue": "Bridgestone Arena",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "Sightless Escape was performed for the first time since September 1, 2019 (138 shows). Cinnamon Girl was last played July 29, 2017 (219 shows). Trey sang part of Seven Below's melody in the YEM vocal jam.",
+    "tour_name": "2023 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Sightless Escape",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Beauty of a Broken Heart",
+          "transition": true
+        },
+        {
+          "song": "Hey Stranger",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Evolve",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": true
+        },
+        {
+          "song": "Cinnamon Girl",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "The Well",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-10-10",
+    "venue": "Ervin J. Nutter Center, Wright State University",
+    "city": "Dayton",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "<p>Cool Amber and Mercury was performed for the first time since August 29, 2021 (106 shows). Following Buffalo Bill, Trey remarked that the song is a classic and &quot;they don&#39;t write &#39;em like that anymore.&quot; He then quoted Buffalo Bill from the film <em>The Silence of the Lambs</em>, saying &quot;It puts the lotion on its skin.&quot;</p>\r\n",
+    "tour_name": "2023 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sigma Oasis",
+          "transition": true
+        },
+        {
+          "song": "The 9th Cube",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Cool Amber and Mercury",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Broken Into Pieces",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Pillow Jets",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Buffalo Bill",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-10-11",
+    "venue": "Ervin J. Nutter Center, Wright State University",
+    "city": "Dayton",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "<p>My Friend My Friend did not contain the &quot;Myfe&quot; ending. Crazy Sometimes was performed for the first time since December 8, 2019 (132 shows). Page and Trey teased Beauty of a Broken Heart in Ruby Waves. Trey quoted I Am the Walrus in Egg in a Hole and said Mike was the walrus. Mike also quoted The Night Chicago Died in Egg in a Hole. Trey referred to Mike as &quot;the Eggman&quot; in the Possum intro.</p>\r\n",
+    "tour_name": "2023 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false
+        },
+        {
+          "song": "Crazy Sometimes",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": true
+        },
+        {
+          "song": "Lifeboy",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "I Am the Walrus",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Egg in a Hole",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-10-13",
+    "venue": "United Center",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "<p>The band walked out to audio from <em>Friday the 13th</em> (this was also the postshow music). Trey teased Izabella in Halley&#39;s Comet. Albuquerque was performed for the first time since June 11, 2011 (458 shows). Trey and Mike teased A Love Supreme in Light. Talk was last played on November 01, 2009 (536 shows) and was incomplete.</p>\r\n",
+    "tour_name": "2023 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Albuquerque",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Talk",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Izabella",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-10-14",
+    "venue": "United Center",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "<p>Weigh was performed for the first time since August 31, 2021 (108 shows). 46 Days included a Chest Fever jam. Corinna was performed for the first time since October 15, 2021 (103 shows). Chalk Dust was unfinished.</p>\r\n",
+    "tour_name": "2023 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Weigh",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Most Events Aren't Planned",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Oblivion",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "No Quarter",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-10-15",
+    "venue": "United Center",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "<p>Everything is Hollow was performed for the first time since December 8, 2019 (135 Shows). Trey teased Third Stone From the Sun during Vultures. Drowned was played for the first time since August 14, 2021 (114 Shows). Trey teased Cissy Strut in A Song I Heard the Ocean Sing. Tweezer was performed as a &quot;continuation&quot; of October 13th&#39;s version (played between the original Tweezer on that night and the Tweezer Reprise that would follow later in this show) and had no lyrics. Trey teased Get Back in Simple. Spanish Moon was played for the first time since February 21, 2019 (171 shows).</p>\r\n",
+    "tour_name": "2023 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Everything is Hollow",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Monsters",
+          "transition": true
+        },
+        {
+          "song": "Plasma",
+          "transition": true
+        },
+        {
+          "song": "Mercury",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Leaves",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false,
+          "footnote": "No lyrics."
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true
+        },
+        {
+          "song": "Spanish Moon",
+          "transition": true
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": false
+        },
+        {
+          "song": "Evolve",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-10-06",
+    "venue": "Bridgestone Arena",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "<p>Axilla contained the Axilla II ending. Trey teased Dave&#39;s Energy Guide in Wolfman&#39;s Brother. Torn and Frayed was played for the first time since August 27, 2021 (105 shows).</p>\r\n",
+    "tour_name": "2023 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": false,
+          "footnote": "Contained Axilla II ending."
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Oblivion",
+          "transition": true
+        },
+        {
+          "song": "Torn and Frayed",
+          "transition": true
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-08-25",
+    "venue": "Broadview Stage at SPAC",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This performance was a benefit for Vermont and Upstate New York flood recovery efforts and was a free webcast with all proceeds via donation going to those efforts. Coinciding with the 84th anniversary of <em>The Wizard of Oz</em> being released in the United States on the date of this show, Trey teased We Welcome You to Munchkinland (or It Really Was No Miracle) several times in Sand as well as at the end of Chalk Dust Torture, Fish wore his hair with a single pigtail sticking out of the front of his head like a munchkin for the second set, and We Welcome You to Munchkinland was the postshow music. Trey also teased Dave's Energy Guide in Sand.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "If I Could",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Sleep",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Talk",
+          "transition": true
+        },
+        {
+          "song": "Mull",
+          "transition": false
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Evolve",
+          "transition": true
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-08-26",
+    "venue": "Broadview Stage at SPAC",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This performance was a benefit for Vermont and Upstate New York flood recovery efforts. Down with Disease was unfinished. Golden Age through Possum featured Derek Trucks on guitar. Trey teased If I Only Had a Brain in Everything's Right.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": true
+        },
+        {
+          "song": "Miss You",
+          "transition": true
+        },
+        {
+          "song": "Pillow Jets",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Evening Song",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false,
+          "footnote": "Derek Trucks on guitar."
+        },
+        {
+          "song": "Everything's Right",
+          "transition": true,
+          "footnote": "Derek Trucks on guitar."
+        },
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true,
+          "footnote": "Derek Trucks on guitar."
+        },
+        {
+          "song": "First Tube",
+          "transition": false,
+          "footnote": "Derek Trucks on guitar."
+        }
+      ],
+      "e": [
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "Derek Trucks on guitar."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-12-28",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased San-Ho Zay in No Men In No Men&#39;s Land. Mike quoted No Men In No Men&#39;s Land during Ghost. Mike&#39;s Song contained sound effects used earlier in the show during The Howling. Page teased Linus and Lucy in A Wave of Hope.</p>\r\n",
+    "tour_name": "2023 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Axilla (Part II)",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Howling",
+          "transition": false
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Mercy",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-12-29",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Chalk Dust was unfinished, My Friend, My Friend did not contain the &quot;Myfe&quot; ending.</p>\r\n",
+    "tour_name": "2023 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Evolve",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Oblivion",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "About to Run",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Lonely Trip",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-12-30",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased The Well in Twist.</p>\r\n",
+    "tour_name": "2023 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Turtle in the Clouds",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Life Saving Gun",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Well",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2023-12-31",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Tube contained teases of the theme from <em>The Mary Tyler Moore Show</em>. Harpua was unfinished and contained a Vibration of Life tease. During the Harpua narration, Trey talked about some of the Harpuas and Phish shows at Madison Square Garden of the past 40 years, and a bed appeared from beneath the front of the stage with an actor playing Jimmy and a puppet version of Poster Nutbag. Trey then interrupted the song before the &quot;I want a dog&quot; lyric and said Jimmy had lacked a strong female influence over the years and introduced actress Annie Golden as Jimmy&#39;s grandmother. While consoling Jimmy, she told him it was time to tell the truth about the owner of Harpua. After telling Jimmy that the old man had given the puppet to Esther and helped Jimmy&#39;s cousin Reba make liquid meat, a vinyl record (with a rhombus on the cover) was brought forth and Jimmy&#39;s grandmother said &quot;it&#39;s time... it&#39;s New Year&#39;s Eve and I can&#39;t let you ring another new year without knowing the real story of Gamehendge!&quot; leading into The Man Who Stepped Into Yesterday and a glowing rhombus rising to frame the entire stage. The band then began the first performance of the Gamehendge saga since July 8, 1994 (1,194 shows), with Golden and Trey providing the narration and performers acting out the parts of Colonel Forbin, Rutherford, the AC/DC Bag, Tela, Errand Wolfe (later billed in post show credits as &quot;The Wolf&quot;), and the Sloth. The Man Who Stepped Into Yesterday, The Lizards, Tela, Wilson, Divided Sky, Colonel Forbin&#39;s Ascent, Fly Famous Mockingbird, and Split Open and Melt featured an off-stage backing chorus. The multi-beast and McGrupp were also performed by puppets. Tela performed acrobatics on wires during her song, with Jo Lampert (as the Wolf) providing additional vocals during Wilson. The Sloth&#39;s lyrics were changed to &quot;I&#39;m squeezing that Charmin. Thank you Mr. Whipple. I&#39;m still squeezing that Charmin. Thank you Mr. Whipple.&quot; Colonel Forbin ascended the rhombus during Colonel Forbin&#39;s Ascent (which had lyrics changed to &quot;weary body&quot;), and a large Famous Mockingbird puppet (with a top hat) flew over the crowd during Fly Famous Mockingbird, which also featured Annie Golden on additional vocals. Before Melt, Trey asked Jimmy&#39;s grandmother if she knew that the mountain was a volcano, and the Lizards reappeared to dance to the ensuing Melt jam, eventually leaving the stage one by one as the rhombus was lowered again.</p>\r\n",
+    "tour_name": "2023 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Everything's Right",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Ether Edge",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": true
+        },
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false,
+          "footnote": "Off-stage backing chorus."
+        },
+        {
+          "song": "The Lizards",
+          "transition": false,
+          "footnote": "Off-stage backing chorus."
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Tela",
+          "transition": false,
+          "footnote": "Off-stage backing chorus."
+        },
+        {
+          "song": "Llama",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false,
+          "footnote": "Jo Lampert on additional vocals. Off-stage backing chorus."
+        },
+        {
+          "song": "The Sloth",
+          "transition": false,
+          "footnote": "Lyrics changed to \"I'm squeezing that Charmin. Thank you Mr. Whipple. I'm still squeezing that Charmin. Thank you Mr. Whipple.\" "
+        },
+        {
+          "song": "Divided Sky",
+          "transition": false,
+          "footnote": "Off-stage backing chorus."
+        }
+      ],
+      "3": [
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false,
+          "footnote": "Off-stage backing chorus. Lyrics changed to \"weary body.\""
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": false,
+          "footnote": "Annie Golden on additional vocals. Off-stage backing chorus."
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true,
+          "footnote": "Off-stage backing chorus."
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

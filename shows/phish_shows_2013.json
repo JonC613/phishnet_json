@@ -1,0 +1,4318 @@
+[
+  {
+    "showdate": "2013-07-03",
+    "venue": "Darling's Waterfront Pavilion",
+    "city": "Bangor",
+    "state": "ME",
+    "country": "USA",
+    "setlist_notes": "Silent was unfinished.Â Golden Age featured Manteca teases from Page. Hood containedÂ a Divided Sky tease from Trey.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-05",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "After BirdsÂ of a Feather,Â Page pointed out Ian in the crowd from \"Ian's Farm\" fame and waxed nostalgic about playing there while also noting that SPAC was one of the band's favorite venues. This show featured the debut of Yarmouth Road and the Phish debut ofÂ Energy. My Friend My Friend did not contain the \"Myfe\" ending. Trey teased Light in Mango Song, Divided Sky in Drowned, and Jean Pierre in Character Zero.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Energy",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-06",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show&nbsp;featured the Phish debut of Architect. Carini contained a Meatstick tease from Mike.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Crowd Control",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Architect",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-07",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Trey teased Call to the Post before&nbsp;DWD. DWD contained Seven Below teases from Fish&nbsp;and was unfinished. Fish&nbsp;quoted Guy Forget in Ghost.&nbsp;Piper contained a DEG tease from Trey. The lyrics to Antelope were changed throughout to reference Meatstick that would ensue.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Lyrics changed to reference Meatstick."
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-22",
+    "venue": "Molson Canadian Amphitheatre",
+    "city": "Toronto, Ontario",
+    "state": "",
+    "country": "Canada",
+    "setlist_notes": "This show was postponed from its originally scheduled July 9, 2013 date&nbsp;due to &quot;insurmountable transportation and public safety issues resulting from the power outage in Toronto after severe downpours in the city.&quot; DWD was unfinished. Trey dedicated Coil to Prince William and Princess Kate&#39;s son&nbsp;born that day,&nbsp;recited some of the song&#39;s applicable lyrics, and recommended they name him &quot;Prince Kong.&quot;",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-10",
+    "venue": "PNC Bank Arts Center",
+    "city": "Holmdel",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Mike teased Lawn Boy in Ya Mar. Light contained aÂ Manteca tease and aÂ Maria (West Side Story) tease from Trey.Â Maria was teased by Trey again at the end of Cavern, as well as during Possum.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-12",
+    "venue": "Nikon at Jones Beach Theater",
+    "city": "Wantagh",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "The first set took place duringÂ an unrelenting rain storm. FishÂ teased The Wedge in Cities.Â Sleeping Monkey was dedicated by Page to people affected by <a href=\"http://en.wikipedia.org/wiki/Hurricane_Sandy\">Hurricane Sandy</a> and contained an alternate lyric by Fish: \"my sleeping monkey is redeemed.\"",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Beauty of a Broken Heart",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false,
+          "footnote": "Dedicated by Page to people affected by Hurricane Sandy. Alternate lyric by Fish: \"my sleeping monkey is redeemed.\""
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-13",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist_notes": "Hood featured BOAF and Divided SkyÂ teases by Trey and a Dog Log tease by Mike.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Architect",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-14",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist_notes": "Mule featured Fish&nbsp;on Marimba Lumina for the first time.&nbsp;Tube featured an It&#39;s Ice tease from Trey and a Heartbreaker tease from Page.&nbsp;Golden Age contained Third Stone from the Sun teases. The YEM vocal jam included Set the Controls for the Heart of the Sun quotes from Mike.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "Fish on Marimba Lumina."
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-16",
+    "venue": "Verizon Wireless Amphitheatre at Encore Park",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "Possum contained Horn teases. Heartbreaker was incomplete and Chalk Dust was unfinished.Â Makisupa began with Mike playing his fight bell with drumsticks. Wilson, Tweezer, Hood, and Character Zero all contained Heartbreaker teases.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Heartbreaker",
+          "transition": false,
+          "footnote": "Incomplete."
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Began with Mike playing his fight bell with drumsticks."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Joy",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-17",
+    "venue": "Verizon Wireless Amphitheatre at Encore Park",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "Mike teased My Favorite Things before Gumbo. This show marked the&nbsp;Phish debut of Frost. The jam in Energy featured Fish on the Marimba Lumina. Fluffhead was unfinished and included a Heartbreaker tease from Trey. Piper contained&nbsp;Energy&nbsp;quotes.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": false
+        },
+        {
+          "song": "Frost",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Alaska",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "Energy",
+          "transition": false,
+          "footnote": "Fish on the Marimba Lumina."
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-19",
+    "venue": "FirstMerit Bank Pavilion at Northerly Island",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "Scent of a Mule featured FishÂ on the Marimba Lumina. DwD and Caspian were bothÂ unfinished. The show was canceled shortly after Caspian startedÂ due to severe weather concerns and the venue was immediately evacuated.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "Fish on Marimba Lumina."
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false,
+          "footnote": "Unfinished; the show was cancelled due to severe weather concerns."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-20",
+    "venue": "FirstMerit Bank Pavilion at Northerly Island",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "This show was announced as a three-set performance the afternoon of the show&nbsp;as a make-up for the set suspended due to weather the previous night.&nbsp;Twist contained an Oye Como Va tease from Trey. Bowie contained Melt the Guns&nbsp;quotes from Fish. Light featured a Dave&#39;s Energy Guide tease.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Ha Ha Ha",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": false
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Shine a Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-21",
+    "venue": "FirstMerit Bank Pavilion at Northerly Island",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "The first set&#39;s&nbsp;Antelope was aborted and the band had to leave the stage due to a heavy rain storm. Ghost contained Seven Below teases from Fish and Mike.&nbsp;Harpua contained an appearance by the cast of <a href=\"http://www.secondcity.com/\">Second City</a> and a narration by Mike.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Aborted."
+        }
+      ],
+      "2": [
+        {
+          "song": "Energy",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "With the cast of Second City."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-30",
+    "venue": "Lake Tahoe Outdoor Arena at Harveys",
+    "city": "Stateline",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-31",
+    "venue": "Lake Tahoe Outdoor Arena at Harveys",
+    "city": "Stateline",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Tweezer, Antelope, and Tweezer Reprise included a call and response with crowd cheering back&nbsp;&quot;Wooooo.&quot;&nbsp;",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false,
+          "footnote": "Included call and response \"Wooo\" with the crowd"
+        },
+        {
+          "song": "Tela",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Architect",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Included call and response \"Wooo\" with the crowd"
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false,
+          "footnote": "Included call and response \"Wooo\" with the crowd"
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-08-02",
+    "venue": "Bill Graham Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Harry Hood included a Dixie teaseÂ by Trey. DWD wasÂ unfinished.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Babylon Baby",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-08-03",
+    "venue": "Bill Graham Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Driver&nbsp;was played in memory of Ryan Hoherd, a fan who had passed away the previous fall.&nbsp;Trey teased Apostrophe in Mike&#39;s Song, Mike teased Nellie Kane in Weekapaug, and Trey teased both Waste and Also Sprach Zarathustra&nbsp;in Suzy.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Grind",
+          "transition": true
+        },
+        {
+          "song": "Weigh",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Lengthwise",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Joy",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-08-04",
+    "venue": "Bill Graham Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Ya Mar contained a London Bridge Is Falling Down tease from Trey. After Ya Mar, Page said that Trey played his entire solo on one string. Train Song was last played on August 13, 2010 (120 shows).&nbsp;Runaway Jim was unfinished. Meatstick was teased in YEM.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Crowd Control",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Train Song",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Energy",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sanity",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-08-05",
+    "venue": "Hollywood Bowl",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Scent of a MuleÂ featured FishÂ playing Mike's bass with mallets and all four band members playing Fish's drum kit at once. Disease was unfinished.Â My Friend, My Friend's \"Myfe\" ending was quoted in Hood's intro. Hood also included Georgy Girl teases from Mike.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "With full band drum solo and Fish using mallets on bass."
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": true
+        },
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-08-31",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "This show featured the Phish debut of On the Road Again. Trey sang the verses of Fee through a megaphone.&nbsp;Bathtub Gin contained DEG teases from Trey. Chalk Dust was unfinished and contained Manteca teases from Trey and Page. Light included teases of 50 Ways to Leave Your Lover from Fish.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "Trey sang verses through megaphone."
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Joy",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "On the Road Again",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-08-30",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Prior to Heavy Things, Trey noted that it sharedÂ the same chords as Icculus, but hadÂ very different lyrics. This show featured the Phish debut of EasyÂ To Slip. Sand included an Also Sprach Zarathustra tease from Fish.Â Hood and Silent wereÂ unfinished. This show featured the first performance of Oh! Sweet Nuthin' since August 15, 2010 (120 shows). Continuing a tradition of wordplay at shows performed atÂ Dick's, the first letters of the songs played at this show in reverse order revealed the message \"Most Shows Spell Something.\"",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Icculus",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Esther",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Easy To Slip",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ],
+      "2": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Say Something",
+          "transition": false
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Oh! Sweet Nuthin'",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-09-01",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Legalize It&nbsp;made its Phish debut at this show.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Legalize It",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Show of Life",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-26",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "Happy Birthday was played for Chris Kuroda (last played <a href=\"http://phish.net/setlists/?d=2009-03-08&highlight=248\">March 8, 2009</a>, orÂ 186 shows) and contained a Call to the Post tease from Mike. There was a full-band (I Can't Get No) Satisfaction tease before Wilson. Before the \"blat-boom!\" in Wilson, Trey, wearing a Russell Wilson t-shirt, talked about how he wanted to hear the Wilson chant this season in Seattle. Secret Smile was performed for the first time since <a href=\"http://phish.net/setlists/?d=2009-11-01&highlight=495\">November 1, 2009</a> (156 shows)<strong>.</strong>Â Crosseyed includedÂ Seven Below teases from Fish.Â Twist contained a Tequila tease. Steam contained a Crosseyed tease and quote.Â Bowie contained Bug teases andÂ Crosseyed teases and quotes. During Character Zero Trey asked KurodaÂ to turn off the lights for a \"Moon Jam\" that featured band members howling at the moon! Fire featured alternate lyrics from Trey \"Move over rover and let Jon Fishman take over!\"",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Happy Birthday to You",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Secret Smile",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false,
+          "footnote": "Band members howled at the moon."
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Fire",
+          "transition": false,
+          "footnote": "Alternate lyrics \"Move over rover and let Jon Fishman take over!\""
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-07-27",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "This show featured the debut of Say Something.&nbsp;Disease was unfinished. Undermind featured Fish&nbsp;on Marimba Lumina. Light contained a Sneakin&#39; Sally tease from Mike.",
+    "tour_name": "2013 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Architect",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Beauty of a Broken Heart",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": true
+        },
+        {
+          "song": "Say Something",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "After Midnight",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Undermind",
+          "transition": false,
+          "footnote": "Fish on Marimba Lumina."
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-10-18",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "Antelope containedÂ alternate \"Mike-O Esquandolas\" lyrics. Page teases Just Kissed My Baby in Carini.",
+    "tour_name": "2013 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "\"Mike-O Esquandolas\" lyric."
+        }
+      ],
+      "e": [
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-10-19",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "Weekapaug contained a Mainstreet tease from Trey. DWD was&nbsp;unfinished. During Steam, Trey joined&nbsp;Fish on drums and Mike played his bass and&nbsp;fight bell (among other objects) with drumsticks.",
+    "tour_name": "2013 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Steam",
+          "transition": false,
+          "footnote": "Trey on drums; Mike playing his bass and fight bell (among other objects) with drumsticks."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-10-20",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "Back on the Train contained a Jean Pierre&nbsp;tease from Trey. Golden Age featured Fish&nbsp;on Marimba Lumina. This show featured the Phish debut of Takin&#39; Care of Business.",
+    "tour_name": "2013 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Paul and Silas",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false,
+          "footnote": "Fish on Marimba Lumina."
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Takin' Care of Business",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-10-22",
+    "venue": "BlueCross Arena",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Scent of a Mule featured Fish&nbsp;on Marimba Lumina. Page teased Baby Elephant Walk before the start of the second set.&nbsp;Golden Age began over the jam out of Light.",
+    "tour_name": "2013 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true,
+          "footnote": "Fish on Marimba Lumina."
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-10-23",
+    "venue": "Glens Falls Civic Center",
+    "city": "Glens Falls",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Back in the U.S.S.R. was played for the first time since December 6, 1994Â (689 shows). Undermind and Gumbo contained Long Tall Glasses teases.",
+    "tour_name": "2013 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Back in the U.S.S.R.",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Alaska",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-10-25",
+    "venue": "DCU Center",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "During Wilson, Trey said he repeated a verse because he was extra excited his friendÂ Rog (Roger Holloway) wasÂ in attendance.Â My Mind's Got a Mind of its OwnÂ was last played on <a href=\"http://phish.net/setlists/?d=2010-12-28\">December 28, 2010</a> (109 shows). Prior to the start of the second set, Trey was given a Red Sox jersey (with \"Phish\" and \"13\" on the back) and draped it from Page's piano. Waves was preceded by a \"Charge!\" tease by Page.Â DWD wasÂ unfinished. Ghost contained alternate lyrics.",
+    "tour_name": "2013 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false,
+          "footnote": "Contained alternate lyrics."
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-10-26",
+    "venue": "DCU Center",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "Prior to the start of the second set, Page provided the&nbsp;score of the Red Sox - Cardinals World Series game. Drowned included Sitting in Limbo teases as well as a Time Loves a Hero tease from Mike.&nbsp;Weekapaug contained No Quarter quotes from Page.&nbsp;During Boogie On, Kenwood Dennard replaced Fish&nbsp;on drums. Possum also featured Dennard on drums instead of Fish.",
+    "tour_name": "2013 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Ride Captain Ride",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "No Quarter",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true,
+          "footnote": "Kenwood Dennard replaced Fish on drums midsong."
+        },
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "Kenwood Dennard replaced Fish on drums."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-10-27",
+    "venue": "XL Center",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist_notes": "Fee featured Trey on megaphone.",
+    "tour_name": "2013 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Rock and Roll",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "\tTrey sang verses through megaphone."
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-10-29",
+    "venue": "Santander Arena",
+    "city": "Reading",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Stash in Cars Trucks Buses. Melt and DWD were unfinished. Mike teased Pop Goes the Weasel during the DWDÂ intro and Shake a Tail Feather later in the song. Mike also teasedÂ American Woman in TwentyÂ Years Later. Trey teased Dave's Energy Guide during Taste.</p>\r\n",
+    "tour_name": "2013 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Grind",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-10-31",
+    "venue": "Boardwalk Hall",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Breaking with tradition, Phish donned a musical costume \"from the future,\" a yet to be recorded album that will apparently be entitled, <em>Wingsuit</em>. All of the songs in the second set were debuts other than Winterqueen, which was played by TAB on <a href=\"http://phish.net/sideshows/trey-anastasio-band/?d=2011-10-01\">October 1, 2011</a>. Sing Monica, Snow and Amidst the Peals of Laughter were all performed acoustic, and Amidst the Peals of Laughter was performed as a Page and Trey duet. Wombat featured the dance stylings of Abe Vigoda and the Abe Vigoda Dancers. Antelope also featured anÂ Abe Vigoda Dancers reference. After the second set concluded, a short parody video of scenes from <em>The Godfather </em>was played featuring Abe Vigoda and the members and crew of Phish.",
+    "tour_name": "2013 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wingsuit",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Fuego",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "The Line",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Sing Monica",
+          "transition": true,
+          "footnote": "Debut; Acoustic."
+        },
+        {
+          "song": "Waiting All Night",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Wombat",
+          "transition": true,
+          "footnote": "Debut; with Abe Vigoda and the Abe Vigoda Dancers."
+        },
+        {
+          "song": "Snow",
+          "transition": true,
+          "footnote": "Debut; Acoustic."
+        },
+        {
+          "song": "Devotion To a Dream",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "555",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Winterqueen",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Amidst the Peals of Laughter",
+          "transition": true,
+          "footnote": "Debut; Acoustic."
+        },
+        {
+          "song": "You Never Know",
+          "transition": false,
+          "footnote": "Debut."
+        }
+      ],
+      "3": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Abe Vigoda Dancers reference."
+        }
+      ],
+      "e": [
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-11-01",
+    "venue": "Boardwalk Hall",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Runaway Jim contained quotes by Trey of theme from&nbsp;<em>Shaft</em>&nbsp;including&nbsp;&quot;Who&#39;s the green private dick who&#39;s a sex machine to all the chicks? Cactus! John Cactus.&quot;&nbsp;Before Halfway to the Moon, Trey noted that the band is excited about the tune, and he hopes that it makes the new album, <em>Wingsuit</em>. Bowie featured teases of Jesus Just Left Chicago (in the intro) and Beethoven&#39;s Symphony No. 5 in C minor&nbsp;(in the jam). Twist included a Long Tall Glasses tease and quote, a Get Back tease, and an Under Pressure jam. The keywords for Makisupa were &quot;Bush&quot; and &quot;O.G. Kush.&quot; Both keywords were repeated throughout this version of Makisupa and were referenced later in the set during Meatstick and Boogie On, which also included a tease of the theme from The Rockford Files by Mike.&nbsp;Sally contained a <em>Shaft</em> quote and ended with a&nbsp;Call to the Post tease.",
+    "tour_name": "2013 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Keywords: Bush & O.G. Kush."
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": false,
+          "footnote": "Bush and kush references."
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false,
+          "footnote": "Alternate lyrics referencing bush and kush."
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-11-02",
+    "venue": "Boardwalk Hall",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Prior to the start of the first set, Trey brought out a jack-o&#39;-lantern with the Wilson logo carved into it and set it down before beginning Wilson.&nbsp;Theme contained a funk jam with quotes of the Theme from <em>Shaft</em>&nbsp;(&quot;Who&#39;s the Chuck Norris-looking private dick who&#39;s a sex machine with all the chicks?&quot;), and banter about Fish&#39;s least favorite and second-least favorite presidents (&quot;Bush&quot;), and favorite beer (&quot;Busch&quot;). DWD contained teases of Tears of a Clown and Fuego by Mike, lyrics changed to &quot;swinging on my bush,&quot; and was unfinished. Trey teased the <em>Odd Couple Theme</em> in Tweezer&nbsp;and Page teased Rhapsody in Blue in Tweezer Reprise.",
+    "tour_name": "2013 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Lyric changed to \"swinging on my bush.\" Unfinished."
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-12-28",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Sing Monica was preceded by Aw Fuck! and Simpsons signals. Suzy included a synchronized&nbsp;on-stage duel between Trey and Mike.",
+    "tour_name": "2013 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Sing Monica",
+          "transition": true
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Waiting All Night",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-12-29",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Gumbo contained a Long Tall Glasses tease by Trey. Page teased Rhapsody in Blue at the end of DWD.",
+    "tour_name": "2013 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "The Line",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-12-30",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Shave and a Haircut was performed&nbsp;after Bathtub Gin. During Lawn Boy, Page walked over to Mike and stood by him as he played to the side and front of the stage. Fish&nbsp;came out and took a bow and Page called Mike &quot;Michael&nbsp;Gordleone.&quot;&nbsp;Chalk Dust was unfinished. Page teased Fuego&nbsp;and The Line in Simple.",
+    "tour_name": "2013 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Wombat",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Devotion To a Dream",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2013-12-31",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "After the conclusion of the first set,&nbsp;Trey and Page&nbsp;carried a keyboard-shaped cake&nbsp;out to the front of the stage (with a giant two-dimensional&nbsp;mountain behind it, this created a tableau of the cover&nbsp;of Phish&#39;s Colorado &#39;88 release), and proceeded to&nbsp;slice and serve&nbsp;cake in honor of their 30th anniversary&nbsp;to fans near the front of the stage. After the cake was served, a video was played&nbsp;showing Fish&nbsp;collecting various props from the band&#39;s previous New Year&#39;s Eve concerts and driving a replica of the band&#39;s &quot;JEMP&quot; truck down to New York City.&nbsp;The truck from the video appeared in Madison Square Garden and was moved to the center of the floor.&nbsp;All of the songs played during both&nbsp;setbreaks were from the year 1983.&nbsp;The band performed the second set standing on top of the truck,&nbsp;using a stripped-down stage setup including hockey sticks&nbsp;for mic stands. Melt contained a DEG tease from Trey. During Grind, the &quot;days lived&quot; stated by the band referenced how old they would be when they returned for their 60th anniversary. During the encore break, a video montage&nbsp;of photographs and film from throughout Phish&#39;s history and previous New Year&#39;s Eve concerts was shown.&nbsp;After the encore,&nbsp;a video image was shown of a &quot;Save the Date&quot; card for Phish&#39;s 60th anniversary show (on December 31, 2043) with each band member digitally aged.",
+    "tour_name": "2013 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Glide",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Fuck Your Face",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Icculus",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Grind",
+          "transition": true
+        },
+        {
+          "song": "Show of Life",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

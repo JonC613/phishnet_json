@@ -1,0 +1,159 @@
+[
+  {
+    "showdate": "2002-12-14",
+    "venue": "Studio 8H, NBC Studios",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Phish performed on <em>Saturday Night Live</em>, with former Vice President Al Gore as host. Gore introduced both performances. Earlier in the show, Phish had appeared in the recurring &ldquo;Jarret&rsquo;s Room&rdquo; sketch series, where Jimmy Fallon plays a college dorm room web-show host. In the sketch, the band was forced to hang out with Jarret&nbsp;and his friends after being involved in a car accident with one of them. Gore appeared in the sketch as one of the students&rsquo; professors. All four members of Phish joined in to play a snippet of Contact in the dorm room. Later, Robert Smigel&rsquo;s <em>TV Funhouse</em> cartoon parodied the ability of Charlie Brown and his <em>Peanuts</em> friends to transform and enliven anything (e.g., a dumpy Christmas tree) by just &ldquo;waving their arms around a lot.&rdquo; Phish appeared as the &ldquo;transformed&rdquo; version of Schroeder and his friends, who had been playing music themselves. During the cartoon, two pieces of You Enjoy Myself were used as the <em>Peanuts</em> characters danced around.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2002-12-19",
+    "venue": "Ed Sullivan Theater",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Phish were the musical guests on <em>The Late Show with David Letterman</em>.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "All of These Dreams",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2002-12-31",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Phish returned from their hiatus with their first public show since October 7, 2000. The pre-show music alluded to the end of the hiatus with such songs as the theme from <em>Welcome Back Kotter</em>, Feels Like the First Time, Back in the Saddle Again, Reunited, and The Boys are Back in Town. The final selection was Foreplay/Long Time, during which time the band took the stage. Prior to Wilson, a scene from the Tom Hanks movie <em>Cast Away </em>was played in the arena (referring to Hanksâs character searching for his volleyball/companion named Wilson). Trey subsequently introduced Hanks to sing the final lyric. Major news media reported the Hanks appearance, but the guest singer was actually Pageâs brother, Steve McConnell. Mound was played for the first time since November 19, 1996 (276 shows). Bowie included a DEG tease. This show included the debuts of Waves, Seven Below and Walls of the Cave. Appropriately, Seven Below began about seven minutes before midnight. During the song, the crew lowered a disco ball from the scoreboard and created a âsnowfallâ on stage. Dancers dressed in white as snow creatures took the stage and circled the band before dispersing into the crowd. Some of the dancers ascended ladders and donned stilts to become snow angels. At midnight, white balloons and confetti were dropped on the crowd. A little person remained on each front corner of the stage, popping balloons, while the snow angels continued to dance. Runaway Jim contained a Weekapaug teaseÂ from Page. Time LovesÂ a Hero was lastÂ playedÂ August 11, 1998Â (or 153 shows). Walls included a San-Ho-Zay tease from Trey.Â The evening was capped with perfect post-show music: Letâs Stay Together.",
+    "tour_name": "2002/2003 Inverted NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": true,
+          "footnote": "Castaway intro and \"Tom Hanks\" guest appearance."
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Waves",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Seven Below",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Time Loves a Hero",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false,
+          "footnote": "Debut."
+        }
+      ],
+      "e": [
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

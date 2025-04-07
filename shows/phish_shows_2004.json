@@ -1,0 +1,1749 @@
+[
+  {
+    "showdate": "2004-03-13",
+    "venue": "Patrick Gymnasium, University of Vermont",
+    "city": "Burlington",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "Phish performed the national anthem prior to the America East Conference Men&rsquo;s Basketball Championship Game between the University of Vermont and the University of Maine.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-04-11",
+    "venue": "Higher Ground",
+    "city": "Winooski",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "During an unannounced performance by Trey Anastasioâs ensemble, one by one all of the members of Phish joined in while one by one all of the members of Treyâs band sat out, leaving Phish to complete Sand and then perform Chalk Dust. For complete show details please visit the <a href=\"https://phish.net/setlists/trey-anastasio-april-11-2004-higher-ground-winooski-vt-usa.html\">TAB</a> entry for this date.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Push On 'Til the Day",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Drifting",
+          "transition": true
+        },
+        {
+          "song": "Small Axe",
+          "transition": true,
+          "footnote": "With Page."
+        },
+        {
+          "song": "Last Tube",
+          "transition": true,
+          "footnote": "With Page and Fish."
+        },
+        {
+          "song": "Sultans of Swing",
+          "transition": true,
+          "footnote": "With Page and Fish."
+        },
+        {
+          "song": "Sand",
+          "transition": false,
+          "footnote": "With Page, Fish and Mike; TAB members left stage, finished by Phish."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true,
+          "footnote": "Performed by Phish."
+        },
+        {
+          "song": "Flock of Words",
+          "transition": true
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Higher Ground",
+          "transition": false,
+          "footnote": "With Page, Fish and Mike, Jamie Masefield, Seth Yacovone, and others."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-04-15",
+    "venue": "Thomas & Mack Center",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Dave Matthews Band lighting director Fenton Williams manned the board at all three dates on this Vegas run. This show marked Chris Kuroda&rsquo;s first absence from the light crew since April 2, 1989 (1,179&nbsp;shows). Disease was unfinished. Jennifer Hartswick assisted on vocals during Girls, a Jay-Z cover that made its Phish debut. Secret Smile featured a new arrangement.&nbsp; This was the first Sneakin&#39; Sally to contain a vocal jam since May 28, 1989 (1,150&nbsp;shows). The vocal jam led into a brief quote of Coconut.&nbsp; Trey then asked Fish&nbsp;if he was wearing his &ldquo;new suit,&rdquo; referring to his&nbsp;sonic dress. After Fish&nbsp;answered &ldquo;no,&rdquo; Trey went on to rap about how people would have to attend the following night to see Fish&nbsp;play it. The rap slid into a bit of free-form vocal jamming to close the show.",
+    "tour_name": "2004 Vegas Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "All of These Dreams",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Girls Girls Girls",
+          "transition": false,
+          "footnote": "Phish debut; Jennifer Hartswick on vocals."
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Secret Smile",
+          "transition": true
+        },
+        {
+          "song": "Crowd Control",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false,
+          "footnote": "Vocal jam included rap about Fish's sonic dress."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-04-16",
+    "venue": "Thomas & Mack Center",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Fenton Williams sat in for Chris Kuroda on lights. Camel Walk contained Wilson and Theme from <em>Barney Miller</em> teases. Little Drummer Boy appeared for the first time since December 2, 1999 (116 shows). Love You had FishÂ âplayingâ his new sonic dress, a garment woven from cassette tape that produced noise when touched with special gloves akin to tape heads.",
+    "tour_name": "2004 Vegas Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Seven Below",
+          "transition": true
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "The Little Drummer Boy",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Love You",
+          "transition": false,
+          "footnote": "Fish on the sonic dress."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Lifeboy",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-04-17",
+    "venue": "Thomas & Mack Center",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Fenton Williams sat in for Chris Kuroda on lights. The band played Meatstick seemingly at the instigation of a crowd chant of the lyrics that began behind the stage.&nbsp;Caspian included a DEG tease from Trey.&nbsp;YEM included a lengthy Meatstick session immediately following the trampolines segment. As Fish&nbsp;took a drum solo, Trey set his guitar down to perform the Meatstick Dance while the crowd chanted the lyrics. The band jammed back into YEM, but then left Page to solo while again Trey danced and the crowd sang. This cycle repeated with Mike soloing on bass. YEM lacked its standard vocal jam. Trey rapped: &ldquo;time for the Meatstick&rdquo; over the intro to Tweezer Reprise, which also had its normal lyrics replaced with &ldquo;won&rsquo;t you step into the Meatstick?&rdquo; Wolfman&rsquo;s contained teases of Simple, Jean Pierre, Sneakin&rsquo; Sally, and Possum.",
+    "tour_name": "2004 Vegas Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Soul Shakedown Party",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": false
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Meatstick",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Friday",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false,
+          "footnote": "Trey rapped \"time for the Meatstick\" over intro. Normal lyrics replaced with \"won't you step into the Meatstick?\""
+        }
+      ],
+      "e": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-06-17",
+    "venue": "KeySpan Park",
+    "city": "Brooklyn",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was simulcast in movie theaters nationwide and subsequently officially released in both CD and DVD formats as <em>Live In Brooklyn</em>. This show marked the debut of A Song I Heard the Ocean Sing and the Phish debut of Nothing. Kung was dedicated to the golfers competing in the U.S. Open at the Shinnecock Hills Golf Club in Southampton, NY. 46 Days included a DEG tease from Trey. San-Ho-Zay was teased in 2001.&nbsp;Mike&rsquo;s Song featured a Twist tease.&nbsp;During Weekapaug, Trey teased Mainstreet. Before the soundcheck&#39;s A Song I Heard The Ocean Sing, Fluffhead, Frankenstein, Walls of the Cave, Seven Below, and Letter to Jimmy Page were teased.&nbsp;At the end of the soundcheck, Trey teased Fluffhead, as memorialized on the <em>Live in Brooklyn</em> DVD.",
+    "tour_name": "2004 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Nothing",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Kung",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Divided Sky",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-06-18",
+    "venue": "KeySpan Park",
+    "city": "Brooklyn",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Scents and Subtle Sounds was teased prior to AC/DC Bag. Trey teased San-Ho-Zay in Down with Disease. This show contained the Phish debuts of 99 Problems and Big Pimpinâ, both of which featured Jay-Z on vocals and Cyro Baptista on percussion. After 99 Problems, Jay-Z remarked, presumably referring to the Phish scene, that âYou all been hiding this from me.âÂ  Jay-Z then said that the members of Phish told him that if the fans made enough noise that he could play one more song, which they naturally did, hence Big Pimpinâ. Prior to Hood, Trey jokingly announced an Eric Clapton guest appearance.Â Mike teased Entrance of the Gladiators before Hood, which was unfinished.",
+    "tour_name": "2004 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Crowd Control",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "My Sweet One",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "99 Problems",
+          "transition": true,
+          "footnote": "Phish debut; Jay-Z on vocals and Cyro Baptista on percussion."
+        },
+        {
+          "song": "Big Pimpin'",
+          "transition": false,
+          "footnote": "Phish debut; Jay-Z on vocals and Cyro Baptista on percussion."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-06-19",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Reba did not have the whistling ending. Scents did not have the intro. Piper featured a substantial Tweezer Reprise jam. Jibboo was unfinished. Trey forgot an entire verse of Cavern. Cavern contained a Purple Haze tease.",
+    "tour_name": "2004 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": true,
+          "footnote": "No intro."
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false,
+          "footnote": "Unfinished"
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false,
+          "footnote": "Trey forgot an entire verse."
+        }
+      ],
+      "e": [
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-06-20",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "During Julius, Trey broke a string on stage for the first known time since November 29, 1996. This Fatherâs Day version of Bill Bailey â the first since July 3, 1999 (167 shows) â featured Pageâs dad, Dr. Jack McConnell, on vocals and tap shoes. Trey teased Lazy (Deep Purple) in Drowned.",
+    "tour_name": "2004 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Bill Bailey, Won't You Please Come Home?",
+          "transition": true,
+          "footnote": "Dr. Jack McConnell on vocals and tap shoes."
+        },
+        {
+          "song": "Waves",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-06-21",
+    "venue": "Ed Sullivan Theater",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Phish performed on top of the theater&#39;s second-floor marquee at West 53rd Street and Broadway. The soundcheck earlier that day included an instrumental jam similar to Quantegy. The first Scents was taped for <em style=\"mso-bidi-font-style:normal\">The Late Show with David Letterman</em> and aired that night. Then Phish waited as Paul Shaffer and his band (from inside the theater) played an instrumental version of The Night They Drove Old Dixie Down. The remainder of Phish&#39;s performance was for the benefit of a few hundred fans assembled on the sidewalk across the street. Neither version of Scents contained the intro. This version of 2001 contained only one &ldquo;verse.&rdquo;",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": true,
+          "footnote": "No intro."
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": true,
+          "footnote": "No intro."
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": true,
+          "footnote": "One \"verse.\""
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-06-23",
+    "venue": "Verizon Wireless Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "Ya Mar contained a Stash tease. Scents did not have the intro. Trey teased The Rover at the end of Cavern.",
+    "tour_name": "2004 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Nothing",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false,
+          "footnote": "No intro."
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-06-24",
+    "venue": "Verizon Wireless Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "Down with Disease was unfinished and Walls of the Cave contained a Down with Disease jam.",
+    "tour_name": "2004 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Loving Cup",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-06-25",
+    "venue": "Alpine Valley Music Theatre",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist_notes": "Page signed an autograph while out on the front of the stage during Lawn Boy. The portion of YEM following 2001 contained only the vocal jam.",
+    "tour_name": "2004 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Glide",
+          "transition": true
+        },
+        {
+          "song": "Anything But Me",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Buffalo Bill",
+          "transition": false
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "Vocal jam only."
+        }
+      ],
+      "e": [
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-06-26",
+    "venue": "Alpine Valley Music Theatre",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist_notes": "This show marked the debut of Access Me. Scents did not contain the intro. During an especially long break before Stash, Trey joked that if they take longer between songs, but play the same amount of songs, the show would last longer.",
+    "tour_name": "2004 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Access Me",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": true,
+          "footnote": "No intro."
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Friday",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-08-09",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "Trey teased Waves before Bathtub Gin. After several glowsticks hit Treyâs rig at the end of Seven Below, Treyâs guitar tech, Brian Brown, had to come onstage to do some damage control, prompting Trey to say some words of thanks. Seven Below contained a Mary Had a Little Lamb tease from Trey. Contact culminated in a Little Drummer Boy jam.",
+    "tour_name": "2004 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "All of These Dreams",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Lifeboy",
+          "transition": true
+        },
+        {
+          "song": "Crowd Control",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-08-10",
+    "venue": "Tweeter Center",
+    "city": "Mansfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "Heavy things contained Stash teases from Trey. This version of Weekapaug featured a slowed down ending. After Weekapaug, Trey told a story explaining the origins of Weekapaug and ASIHTOS while Mike and Page teased (and Trey sang&nbsp;part of)&nbsp;December, 1963 (Oh, What a Night). The &ldquo;keyword&rdquo; for Makisupa referred to a tall, cool glass of soy milk. Possum did not contain its customary build-up intro.",
+    "tour_name": "2004 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true,
+          "footnote": "Slowed down ending."
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true,
+          "footnote": "Keyword referenced a tall, cool glass of soy milk."
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": true
+        },
+        {
+          "song": "Friday",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "Without usual build-up intro."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-08-11",
+    "venue": "Tweeter Center",
+    "city": "Mansfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "Disease and Antelope were unfinished. During Suzy, Trey introduced Fish as &ldquo;Johnny B. Fishman&rdquo; on snare drum, whereupon Fish took a snare drum solo. This show featured the Phish debut of Tears of a Clown. Unfortunately, no one knew all of the words to Tears of a Clown, so they picked a member of the audience to come onstage and sing (prompting Trey to note, &ldquo;She saved our ass.&rdquo;). Tweezer contained a HYHU jam at the end (with Trey still on guitar and Fish on drums). During HYHU, Fish introduced himself as &ldquo;Prince&rdquo; and added some vacuum accompaniment. Before Terrapin, Trey joked, &ldquo;Won&rsquo;t be needing this anymore!&rdquo; and acted as if he was going to throw his guitar into the crowd, to a reception of lusty boos from the crowd. After Terrapin, Trey took an impromptu poll of the audience as to whether a Fishman tune makes the show or destroys the show, with Page notably coming in on the side of destroys the show, though softening the blow by explaining, &quot;Well, it&#39;s a crapshoot. Sometimes it&#39;s great, but sometimes... you wonder.&quot; Mike, more charitably, stated, &ldquo;On a scale of two to three, I give it a three.&rdquo; Before the Drums Jam with Trey and Fish, Trey noted that it had always been a dream of his to start a song with a double drum solo; this was the first known instance.",
+    "tour_name": "2004 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": false
+        },
+        {
+          "song": "The Tears of a Clown",
+          "transition": false,
+          "footnote": "Phish debut; with audience member on vocals."
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Mexican Cousin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false,
+          "footnote": "Jammed for awhile, with Fish on vacuum."
+        },
+        {
+          "song": "Terrapin",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Drums",
+          "transition": false,
+          "footnote": "Trey and Fish."
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-08-12",
+    "venue": "Tweeter Center at the Waterfront",
+    "city": "Camden",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "The beginning of Catapult featured Mike, Trey and Page singing &ldquo;Wash Uffizi drive me to Firenze&rdquo; to the Catapult melody. Sneakin&#39; Sally did not contain a vocal jam. Prior to Scents, Trey teased My Friend My Friend. Scents did not have the intro. At the end of Scents, Trey, Page and Mike left the stage while Fish continued drumming along to the guitar loops. After Frankenstein, Trey announced that everybody traveling from Camden to Coventry should wait until Saturday morning to arrive due to the rain in the Northeast Kingdom. This show was simulcast on &ldquo;The Bunny&rdquo;, the official Coventry radio station.",
+    "tour_name": "2004 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": false
+        },
+        {
+          "song": "Catapult",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": true
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false,
+          "footnote": "No intro."
+        }
+      ],
+      "e": [
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-08-13",
+    "venue": "Newport State Airport",
+    "city": "Coventry",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This was the soundcheck for the Coventry festival and was broadcast on âThe Bunnyâ, the official festival radio station. The second Jam featured Danny Clinch on harmonica.",
+    "tour_name": "2004 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": true,
+          "footnote": "Danny Clinch on harmonica."
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-08-14",
+    "venue": "Newport State Airport",
+    "city": "Coventry",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This was the first show of the Coventry festival and was simulcast in movie theaters nationwide. During YEM, the band gave away their trampolines. Throughout the duration of the set, groups of fans held the trampolines above their heads, and someÂ fans jumped on the trampolines as well. Tom Marshall sang the lyrics to Antelope. Trey teased Waves in Halley's Comet. Before Bowie, Trey told a story of the summer he spent living in a cabin in the Northeast Kingdom where he remembered writing several songs, including Bowie. Trey explained that Bowie was an attempt to see âhow far can you push it in the harmonic and rhythmic language and still have people dancing.â During Hood, Trey (speaking in rhythm) noted that because there were a row of rocks separating the band from the crowd, they were feeling a certain level of disconnect (particularlyÂ when Mike plays a \"sexy\" note). To remedy the situation, Trey and Mike ventured down onto the rocks for the duration of the song. At the end of Hood, the band stopped playing, allowing the audience to sing the âYou can feel good, good, good about Hoodâ refrain.",
+    "tour_name": "2004 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true,
+          "footnote": "Tom Marshall on vocals."
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Friday",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "With Trey banter. At the end of Hood, the band stopped playing allowing the audience to sing the \"You can feel good, good, good about Hood\" refrain."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2004-08-15",
+    "venue": "Newport State Airport",
+    "city": "Coventry",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This was the second show of the Coventry festival and was the presumed âFinal Show.âÂ When Trey made his âbreak-upâ announcement the preceding May, he indicated that Coventry would be the final Phish shows. In reality, this turned out to be the final public show for over four and a half years. This show was simulcast in movie theaters nationwide. Before Anything But Me, Trey announced that, for the first time in 21 years, he was nervous performing a Phish show. During Wolfmanâs, Trey revealed that the Wolfmanâs Brother is, in fact, Fish (as well as the fact that he handed the phone to his friend Liz Durfee). Also, during Wolfmanâs, Trey and Mike invited their mothers onstage (and later John Paluska) to do the âsexy bumpâ dance. Disease was unfinished and featured Trey briefly playing his guitar with a glow stick. Both Page and Trey broke down during an especially emotional Velvet Sea. After a thoroughly botched Glide, all four band members offered words of thanks to the fans for their continued support and dedication and brief reflections on their twenty years together. Trey then stated that what they really needed to do was âblow off some fucking steamâ before starting up Melt. There was an enormous glow stick war during Ghost featuring hundreds, if not thousands, of orange glow sticks. This version of Seven Below saw all of the band members sporadically shouting âSeven Belowâ throughout the jam. The Phish debut of Cool Jerk contained alternate lyrics honoring monitor mixer, Mark âBrunoâ Bradley. The Dickie Scotland Song was spontaneously created and included lyrics in honor of production manager, Hadden Hipsley, and tour accountant, Richard Glasgow (a.k.a. Dickie Scotland). Before Wilson, Trey asked the crowd to sing to another of their friends âfor the last time.â There was a fireworks display between the end of the third set and the encore. Before the encore, while explaining the origins of The Curtain, Trey jokingly announced that the entire Chicago Symphony and the Twyla Tharp Dance Troupe were going to perform Gamehendge. Trey explained that they chose The Curtain With as the last song to bring them full circle, because, not only was it one of the first Phish songs he wrote, but he wrote it in a cabin one town over from Coventry. Trey stopped and restarted the jam segment of the Curtain With, because they were in the wrong key or, as he explained, âSince we are going to be bringing ourselves back in time, we may as well do it in the correct key.â There was no P.A. music after the Curtain With.",
+    "tour_name": "2004 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Anything But Me",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false,
+          "footnote": "Explanation from Trey as to the history of the song; also features Trey's mom, Mike's mom and John Paluska on \"sexy bump\"."
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true,
+          "footnote": "Page and Trey break down."
+        },
+        {
+          "song": "Glide",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Seven Below",
+          "transition": false,
+          "footnote": "\"Seven Below\" shouted by all band members sporadically during the jam."
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Cool Jerk",
+          "transition": false,
+          "footnote": "Phish debut; lyrics changed to honor Mark \"Bruno\" Bradley."
+        },
+        {
+          "song": "The Dickie Scotland Song",
+          "transition": true,
+          "footnote": "Debut; lyrics referenced Hadden Hipsley and Dickie Scotland"
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Curtain With",
+          "transition": false,
+          "footnote": "Jam segment stopped and restarted in correct key."
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "showdate": "2001-12-01",
+    "venue": "Reception Hall, SwissÃ´tel",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "This impromptu performance took place at the wedding reception of Lisa Narodick and (Dionysian Productions&rsquo;) Jason Colton. Phish used the instruments of the reception band Brave Combo. Loving Cup was a request of the bride. This was the first known Phish performance in 420 days and the only known performance by all the members of Phish together during the hiatus.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

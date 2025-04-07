@@ -1,0 +1,464 @@
+[
+  {
+    "showdate": "2020-02-20",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>This show featured multiple bustouts:&nbsp;Torn and Frayed was last played on July 7, 2012 (285 shows), Shipwreck was last played on October 31, 2014 (189 shows), and Shake Your Coconuts was played on July 21, 2017 (100 shows). The return to Free contained Rescue Squad and&nbsp;Shipwreck quotes. The lyrics in&nbsp;Shake Your Coconuts were&nbsp;changed to &quot;It&#39;s&nbsp;Phish&nbsp;in Mexico time.&quot; Trey teased Walk This Way in You Enjoy Myself.</p>\r\n",
+    "tour_name": "2020 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Torn and Frayed",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Shipwreck",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Shake Your Coconuts",
+          "transition": true,
+          "footnote": "Lyrics changed to \"It's Phish in Mexico time.\""
+        },
+        {
+          "song": "Victim",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "The Landlady",
+          "transition": false
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Beneath a Sea of Stars Part 1",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2020-02-21",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>Shafty&nbsp;was last played on June 10, 2012&nbsp;(302 shows) and Sea and Sand on July 20, 1998 (672 shows). The second Shafty was performed over Plasma. Page teased the theme from <em>Speed Racer</em> in The Lizards.&nbsp;Bathtub Gin was dedicated to the people at CID who organized the event and in honor of the fact that everyone had a hot tub in their room and also included a Gimme Some Lovin&#39; tease from Page before transitioning back into Shafty.&nbsp;Blaze On&#39;s lyrics were changed to &quot;you&#39;ll be dancing on the beach.&quot; Blaze On also included Plasma teases.&nbsp;Possum contained Back on the Train and Shafty teases and ended with a Plasma&nbsp;tease. Trey teased Another One Bites the Dust in&nbsp;Also Sprach Zarathustra.&nbsp;Trey teased L.A. Woman in I Always Wanted It This Way.&nbsp;No Men In&nbsp;No Man&#39;s Land included Shafty and Woman from Tokyo teases. Weekapaug Groove contained No Men In No Man&#39;s Land quotes as well as a Smoke on the&nbsp;Water tease from Trey.</p>\r\n",
+    "tour_name": "2020 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Turtle in the Clouds",
+          "transition": true
+        },
+        {
+          "song": "Shafty",
+          "transition": false
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Shafty",
+          "transition": false,
+          "footnote": "Performed over Plasma."
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Shafty",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": true,
+          "footnote": "Lyrics changed to \"you'll be dancing on the beach.\""
+        },
+        {
+          "song": "Sea and Sand",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": true
+        },
+        {
+          "song": "Lifeboy",
+          "transition": true
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Shafty",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2020-02-22",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>Willin&#39; was performed for the first time since October 31, 2010&nbsp;(349 shows) and featured Trey on drums. On stage, Fishman changed from his Jimmy Buffet style beach tuxedo into his mumu after Willin&#39;. Page then teased Hold Your Head Up. Trey teased Tired of Waiting for You in Tube and&nbsp;Walk This Way and Dave&#39;s Energy Guide in Tweezer.&nbsp;Manteca&nbsp;was&nbsp;performed for the first time since July 19, 2016&nbsp;(136 shows) included Tweezer teases from Fish and Trey.&nbsp;Sweet Jane was performed&nbsp;for the first time since&nbsp;July 23, 2017&nbsp;(100 shows). Makisupa Policeman was played over&nbsp;backing music and quotes of You Sexy Thing. Waves contained Soul Planet quotes. Trey teased The Star Spangled Banner in Tweezer Reprise.</p>\r\n",
+    "tour_name": "2020 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Willin'",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Evening Song",
+          "transition": true
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": true
+        },
+        {
+          "song": "You Sexy Thing",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Manteca",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Played over You Sexy Thing backing music."
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Energy",
+          "transition": false
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Have Mercy",
+          "transition": false
+        },
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sweet Jane",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2020-02-23",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "<p>Simple contained an Under Pressure tease and an In-A-Gadda-Da-Vida tease and quote. Undermind contained Manteca and Plasma teases. Trey teased Simple in Fuego and Back on the Train. Fee featured Trey on megaphone.</p>\r\n",
+    "tour_name": "2020 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Crowd Control",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Wingsuit",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Undermind",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Passing Through",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rise/Come Together",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": true,
+          "footnote": "Trey sang verses through megaphone."
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2020-08-11",
+    "venue": "NBC Television Studios, Studio 6B",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Trey was the first in-studio guest on&nbsp;<em>The Tonight Show</em> in five months (due to the COVID-19 pandemic)&nbsp;for the debut of I Never Needed You Like This Before with The Roots as his backing band.</p>\r\n",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "I Never Needed You Like This Before",
+          "transition": false,
+          "footnote": "Debut."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2020-02-19",
+    "venue": "Moon Palace",
+    "city": "Cancun, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "This was the soundcheck for Phish&#39;s upcoming performances at Moon Palace. The jam after Sunshine Superman contained jams and lyrics&nbsp;from the themes from&nbsp;<em>Mister&nbsp;Ed</em> and&nbsp;<em>Flipper.</em>",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Sunshine Superman",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Windora Bug",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

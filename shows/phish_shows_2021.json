@@ -1,0 +1,3627 @@
+[
+  {
+    "showdate": "2021-07-28",
+    "venue": "Walmart Arkansas Music Pavilion",
+    "city": "Rogers",
+    "state": "AR",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the Phish debut of I Never Needed You Like This Before. Trey teased Let It Grow in Down with Disease, which was unfinished. Weekapaug was incomplete. This was the rescheduled date from the show that had been postponed due to coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "I Never Needed You Like This Before",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false,
+          "footnote": "Incomplete."
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "If I Could",
+          "transition": false
+        },
+        {
+          "song": "Rise/Come Together",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-07-30",
+    "venue": "Oak Mountain Amphitheatre",
+    "city": "Pelham",
+    "state": "AL",
+    "country": "USA",
+    "setlist_notes": "<p>Page teased Long Tall Glasses in Gumbo. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "The Final Hurrah",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Evening Song",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Martian Monster",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-03",
+    "venue": "Ascend Amphitheater",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the debut of Mull. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Strawberry Letter 23",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Mull",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "About to Run",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-04",
+    "venue": "Ascend Amphitheater",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the Phish debut of Evolve. Page teased &quot;Charge!&quot; after My Sweet One. Ghost and Bathtub Gin contained Mr. Completely teases. Page teased Bathtub Gin in Also Sprach Zarathustra. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Evolve",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "Cool Amber and Mercury",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mr. Completely",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-06",
+    "venue": "Ruoff Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Stash in The Wedge. Simple contained a Woman from Tokyo tease. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "We Are Come to Outlive Our Brains",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "I Never Needed You Like This Before",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sanity",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-07",
+    "venue": "Ruoff Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "<p>A Wave of Hope made its Phish debut. Trey teased Simple in Everything&rsquo;s Right and Crosseyed and Painless in Down With Disease. Down With Disease was unfinished. Page and Trey teased Long Tall Glasses in Possum. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Crowd Control",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "A Wave of Hope",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Everything's Right",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": true
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-08",
+    "venue": "Ruoff Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the debut of Casual Enlightenment. Trey teased Bathtub Gin in Waves. Sneakin&#39; Sally contained a Ghost quote and a Waves tease. Makisupa referenced Sally. The second Twist contained a Twenty Years Later quote from Trey. The second Makisupa included a Bathtub Gin tease and quotes, Ghost and Martian Monster quotes, and Sally references. The set ending Bathtub Gin contained a Ghost quote with a Sally reference. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sigma Oasis",
+          "transition": true
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Casual Enlightenment",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Most Events Aren't Planned",
+          "transition": false
+        },
+        {
+          "song": "More",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-13",
+    "venue": "Atlantic City Beach",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "<p>AC/DC Bag and Blaze On had lyrics changed to reference the beach. Trey teased Fire (Ohio Players) in Funky Bitch and Harry Hood. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false,
+          "footnote": "Lyrics changed to reference the beach."
+        },
+        {
+          "song": "Blaze On",
+          "transition": true,
+          "footnote": "Lyrics changed to reference the beach."
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Rise/Come Together",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-14",
+    "venue": "Atlantic City Beach",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "<p>Llama was performed in an alternate arrangement. Reba did not have the whistling. Trey teased Set Your Soul Free before Melt. Scents and Subtle Sounds did not contain the intro. Chalk Dust Torture was unfinished. The soundcheck&#39;s Funky Bitch contained alternate lyrics from Trey about riding 80 foot waves. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Llama",
+          "transition": true,
+          "footnote": "Performed in an alternate arrangement."
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Soul Shakedown Party",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "I Never Needed You Like This Before",
+          "transition": true
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false,
+          "footnote": "Did not contain the intro."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "No Quarter",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-15",
+    "venue": "Atlantic City Beach",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "<p>Only the intro of Scents was performed (the rest of the song appeared the previous night). The Moma Dance had a Scents and Subtle Sounds tease and was unfinished. Mike&#39;s Song had a Strawberry Letter 23 tease from Trey. Set Your Soul Free had teases of I&#39;m a Man, Carini, and Linus and Lucy. The soundcheck&#39;s jam contained Soul Planet quotes from Trey. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Landlady",
+          "transition": true
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false,
+          "footnote": "Intro only."
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "The Final Hurrah",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Beneath a Sea of Stars Part 1",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "About to Run",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-09-03",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Trey teased Fire (Ohio Players) in 46 Days and Party Time. No Men In No Man's Land was teased by Trey in Party Time as well. Plasma contained Party Time quotes and 46 Days teases. The second Chalk Dust Torture included Plasma and A Song I Heard the Ocean Sing quotes. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rise/Come Together",
+          "transition": false
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Beneath a Sea of Stars Part 1",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-09-04",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "<p>The lyrics in Blaze On were changed to reference Dick&#39;s. Trey teased Fire (Ohio Players) in Drift While You&#39;re Sleeping. Trey teased Tweezer and Carini in the soundcheck after We Are Come To Outlive Our Brains. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Turtle in the Clouds",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": true,
+          "footnote": "Lyrics changed to reference Dick's."
+        },
+        {
+          "song": "Cool It Down",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-09-05",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "<p>McGrupp was performed for the first time since July 24, 2018 (100 shows). Sand was unfinished. Reba did not contain the whistling ending. Trey teased No Men In No Man&#39;s Land in Bathtub Gin. The return to Simple after Catapult contained Cool Amber and Mercury and Catapult quotes. Meatstick included Catapult and Lonely Trip quotes. Mike teased Simple in Ruby Waves. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "All of These Dreams",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Catapult",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        },
+        {
+          "song": "Bliss",
+          "transition": false
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Most Events Aren't Planned",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "More",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-07-31",
+    "venue": "Ameris Bank Amphitheatre",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "<p>Page teased Green-Eyed Lady in Maze. Chalk Dust Torture included a Fire (Ohio Players) tease from Trey and was unfinished. Trey teased Waves in Steam.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": true
+        },
+        {
+          "song": "Turtle in the Clouds",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Shade",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-01",
+    "venue": "Ameris Bank Amphitheatre",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "<p>Mike teased Buried Alive in Antelope. Tweezer contained McGrupp and Esther teases.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Thread",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "More",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-10",
+    "venue": "Hersheypark Stadium",
+    "city": "Hershey",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>Fuego was unfinished. Soul Planet had a No Men in No Man&#39;s Land quote and a DEG tease from Trey.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": true
+        },
+        {
+          "song": "Fuego",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Death Don't Hurt Very Long",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-11",
+    "venue": "Hersheypark Stadium",
+    "city": "Hershey",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the Phish debut of Lonely Trip. You Sexy Thing was teased and quoted in Wombat (with lyrics changed to &quot;you sexy wombat), Meat, after Maze, and in Chalk Dust Torture and was teased in Party Time. Let&#39;s Go Blue was also teased in Meat. Trey teased Fire (Ohio Players) in Maze, Light, and Chalk Dust Torture.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "You Sexy Thing",
+          "transition": true
+        },
+        {
+          "song": "Wombat",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true,
+          "footnote": " "
+        },
+        {
+          "song": "Maze",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Party Time",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-27",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Let It Grow in No Men In No Man&#39;s Land. Leaves was performed for the first time since September 3, 2017 (103 shows). Trey teased Super Bad in Tube. Ha Ha Ha was performed for the first time since August 6, 2017 (106 shows). Chalk Dust Torture was unfinished. The Gorge Song in the soundcheck was improvised with Trey making up lyrics about the Gorge. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Torn and Frayed",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": true
+        },
+        {
+          "song": "Leaves",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "I Been Around",
+          "transition": true
+        },
+        {
+          "song": "Ha Ha Ha",
+          "transition": true
+        },
+        {
+          "song": "Mull",
+          "transition": true
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": true
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Lifeboy",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-28",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "<p>Esther was performed for the first time since July 30, 2017 (112 shows). DWD was unfinished. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Esther",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bittersweet Motel",
+          "transition": false
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "About to Run",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-29",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased No Men In No Man&#39;s Land in Back on the Train. My Friend My My Friend didn&#39;t contain the &quot;Myfe&quot; ending. Trey teased L.A. Woman and Fire (Ohio Players) in Character Zero. Mr. Completely contained Jumpin&#39; Jack Flash teases from Page, There is a Mountain teases from Trey and Page, and a Fire (Ohio Players) tease from Trey. Mr. Completely was teased in Crosseyed. I Always Wanted It This Way contained Mr. Completely and Crosseyed teases. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cool Amber and Mercury",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": true
+        },
+        {
+          "song": "How Many People Are You",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mr. Completely",
+          "transition": false
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Beneath a Sea of Stars Part 1",
+          "transition": false
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Shine a Light",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-08-31",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "<p>Forbin&#39;s and Mockingbird were performed for the first time since July 30, 2017 (114 shows). Trey teased In Memory of Elizabeth Reed in Stash. Axilla (Part II) was performed for the first time since December 31, 1995 (858 shows). Fish mentioned Lee &quot;Scratch&quot; Perry (who had recently passed away) in the Hood intro. Fee featured Trey on megaphone. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020. The new date was originally supposed to occur at Lake Tahoe Outdoor Arena at Harveys in Stateline, NV but was changed due to wildfires in the area.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Glide",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "If I Could",
+          "transition": true
+        },
+        {
+          "song": "I Never Needed You Like This Before",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Weigh",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Moonage Daydream",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "The Final Hurrah",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Axilla (Part II)",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fee",
+          "transition": true,
+          "footnote": "Trey on megaphone."
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-09-01",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Walk This Way in Mike&#39;s Song and Passing Through. American Woman was teased by Trey and Mike and quoted by Trey in Tweezer. Trey also teased The Lizards, Dave&#39;s Energy Guide, and Split Open and Melt in Tweezer. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020. The new date was originally supposed to occur at Lake Tahoe Outdoor Arena at Harveys in Stateline, NV but was changed due to wildfires in the area.</p>\r\n",
+    "tour_name": "2021 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Thread",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Passing Through",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Miss You",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-10-15",
+    "venue": "Golden 1 Center",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "This show featured the debut of And so to Bed which had been previously been released on <em> The White Tape</em> 35 years earlier. Trey quoted Psycho Killer in Sigma Oasis. Tube was unfinished and contained a Tears of the Clown tease from Trey. Brother was restarted after the first verse and was performed for the first time since December 30, 2017 (108 shows). Mike teased \"Charge!\" after Brother.",
+    "tour_name": "2021 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Final Hurrah",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "And So To Bed",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Brother",
+          "transition": true,
+          "footnote": "Restarted after the first verse."
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sand",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-10-24",
+    "venue": "The Forum",
+    "city": "Inglewood",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "<p>Moma Dance, Say It To Me S.A.N.T.O.S., Birds of a Feather, Chalk Dust Torture, and Mr. Completely were unfinished. Trey quoted You Enjoy Myself in Moma Dance. The Rover was teased in Simple. Waiting All Night was played over the drumbeat flowing out of Simple. Fee featured Trey on megaphone. L.A. Woman was performed for the first time since December 30, 2003 (493 shows). L.A. Woman, Say It To Me S.A.N.T.O.S., Chalk Dust Torture, Boogie On Reggae Woman, and Carini contained Tweezer teases. L.A. Woman was teased in Say It To Me S.A.N.T.O.S. and Tweezer Reprise. Trey teased Heartbreaker in the second Tweezer. Birds of a Feather contained a Dave&#39;s Energy Guide tease from Trey and a Waiting All Night tease from Mike. Chalk Dust Torture also included a Birds of a Feather tease from Trey. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "A Wave of Hope",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Waiting All Night",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "Trey on megaphone."
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "L.A. Woman",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Mr. Completely",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Grind",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-10-16",
+    "venue": "Chase Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "<p>Frankie Says was performed for the first time since August 8, 2015 (197 shows), contained Manteca teases from Trey, and ended with Bathtub Gin teases. Moma Dance contained a Monkey Man jam with quotes from Fish. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Shade",
+          "transition": false
+        },
+        {
+          "song": "Winterqueen",
+          "transition": false
+        },
+        {
+          "song": "Meat",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Frankie Says",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Carini",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-10-17",
+    "venue": "Chase Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "<p>Steam contained a Dave&#39;s Energy Guide tease. Chalk Dust Torture included a Wingsuit tease. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "Beauty of a Broken Heart",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "I Never Needed You Like This Before",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Evolve",
+          "transition": true
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": true
+        },
+        {
+          "song": "Wingsuit",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-10-19",
+    "venue": "Matthew Knight Arena",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured the Phish debut of I Never Left Home. Down with Disease was unfinished and contained a There is a Mountain tease. After Stash, Trey spoke about the two fans who had fallen at the previous show, expressed love and sorrow, and encouraged everyone to be safe. Trey teased Hey, Ho, Nobody Home during Plasma. Trey teased I Always Wanted It This Way in Also Sprach Zarathustra. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        },
+        {
+          "song": "Leaves",
+          "transition": false
+        },
+        {
+          "song": "I Never Left Home",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-10-20",
+    "venue": "Matthew Knight Arena",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "USA",
+    "setlist_notes": "<p>Mike teased Hatikvah in Timber (Jerry the Mule). Trey teased Divided Sky in the first Split Open and Melt. End of Session was performed for the first time since July 25, 2017 (127 shows). Page teased Lonely Trip in Golden Age. This was the rescheduled date from the show that had been postponed due to the coronavirus COVID-19 outbreak in 2020.</p>\r\n",
+    "tour_name": "2021 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mr. Completely",
+          "transition": true
+        },
+        {
+          "song": "Energy",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Casual Enlightenment",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        },
+        {
+          "song": "End of Session",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Ruby Waves",
+          "transition": false
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Say It To Me S.A.N.T.O.S.",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-10-22",
+    "venue": "Ak-Chin Pavilion",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "USA",
+    "setlist_notes": "<p>Mike teased Foam in Martian Monster. Trey teased Brother in Soul Planet. My Friend did not contain the &quot;Myfe&quot; ending. Ghost ended with a Julius jam. Trey teased Manteca and Third Stone From the Sun in Everything&#39;s Right.</p>\r\n",
+    "tour_name": "2021 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": false
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-10-23",
+    "venue": "North Island Credit Union Amphitheatre",
+    "city": "Chula Vista",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "<p>Trey teased Dave&#39;s Energy Guide before the first set. Fluffhead was unfinished. Trey and Page teased Hey, Ho, Nobody Home in NICU. Trey teased NICU in Tube, Rise/Come Together, Free, and Scents and Subtle Sounds. Llama was performed in an alternate arrangement.</p>\r\n",
+    "tour_name": "2021 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Fluffhead",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Bye Bye Foot",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": false,
+          "footnote": "Performed in an alternate arrangement."
+        },
+        {
+          "song": "Rise/Come Together",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Lonely Trip",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-10-26",
+    "venue": "Santa Barbara Bowl",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "<p>Pebbles and Marbles and Sample in a Jar were unfinished. Makisupa and Weekapaug contained quotes of Little Squirrel. This show featured the Phish debut of The Silver Light. Halley&#39;s Comet included an Oye Como Va jam. Blaze On&#39;s lyrics were changed to &quot;We&#39;ll be dancing at the Bowl.&quot; Trey teased Manteca in 46 Days. Weekapaug contained a Piper jam and a Crimes of the Mind tease from Trey.</p>\r\n",
+    "tour_name": "2021 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Pebbles and Marbles",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "The Silver Light",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Mull",
+          "transition": false
+        },
+        {
+          "song": "Set Your Soul Free",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Blaze On",
+          "transition": false,
+          "footnote": "Lyrics changed to \"We'll be dancing at the Bowl.\" "
+        },
+        {
+          "song": "Beneath a Sea of Stars Part 1",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "About to Run",
+          "transition": true
+        },
+        {
+          "song": "If I Could",
+          "transition": false
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fuck Your Face",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": false
+        },
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-10-28",
+    "venue": "MGM Grand Garden Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "<p>This show featured a setlist with all songs featuring a number in their name in descending order including the Phish debut of If 6 Was 9 and several bustouts: 1999 (last played July 26, 2017, or 131 shows), Five Years (last played October 31, 2016, or 148 shows), Two Versions of Me (last played November 27, 2009, or 436 shows), and NO2 (last played September 6, 2015, or 193 shows). Trey teased L.A. Woman in Also Sprach Zarathustra and Seven Below in First Tube. Page teased Frankenstein in 1999. In place of the usual number of days lived, Grind featured the band singing the setlist ended by noting that the songs added up to &ldquo;4,680 digits.&rdquo;</p>\r\n",
+    "tour_name": "2021 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "1999",
+          "transition": false
+        },
+        {
+          "song": "555",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Strawberry Letter 23",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "If 6 Was 9",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Five Years",
+          "transition": false
+        },
+        {
+          "song": "Two Versions of Me",
+          "transition": false
+        },
+        {
+          "song": "NO2",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Grind",
+          "transition": false,
+          "footnote": "Lyrics changed to reference the show."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-10-29",
+    "venue": "MGM Grand Garden Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Trey and Mike quoted Little Squirrel throughout the first set (after Oliviaâs Pool, and during Axilla and Weekapaug Groove), and during the final vocal chorus of Reba. Trey teased Martian Monster in Mikeâs Song and Who Knows in I Always Wanted It This Way. Reba contained a verse with an Ass Handed quote by Trey in the final vocal chorus. Trey teased Tweezer during Sand.",
+    "tour_name": "2021 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Olivia's Pool",
+          "transition": true
+        },
+        {
+          "song": "Axilla (Part II)",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Shade",
+          "transition": true
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ass Handed",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-10-30",
+    "venue": "MGM Grand Garden Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "The songs in this show were based on animals. Big Black Furry Creature From Mars and Harpua contained Little Squirrel quotes. Shaggy Dog was played for the first time since June 22, 2012 (332 shows). I Am The Walrus was played for the first time since July 29, 2017 (131 shows). and featured Little Squirrel and Shipwreck quotes. Runaway Jim was unfinished and included a Hey, Ho, Nobody Home tease from Trey. Harpua was performed for the first time since July 30, 2017 (130 shows) and featured Carini, Your Pet Cat, and If 6 Was 9 quotes as well as This Jesus Must Die scatting from Trey. Part of Harpua was spoken in French by Page and Mike.",
+    "tour_name": "2021 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Dogs",
+          "transition": false
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Turtle in the Clouds",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Wombat",
+          "transition": false
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Shaggy Dog",
+          "transition": true
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "I Am the Walrus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "Partially spoken in French by Page and Mike."
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-10-31",
+    "venue": "MGM Grand Garden Arena",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "For the second set, the band's \"musical costume\" was all debuted originals, performed as the invented band Sci-Fi Soldier (a 14-page comic book distributed upon entry detailed the group's adventure to save the planet). For that set, the band performed in elaborate costumes (helmets and all), with alternate instruments (Trey on a BCR Mockingbird), each playing within a flashing/glowing shape (two circles and two squares), after descending (in the form of holograms) from the ceiling in cylinders of colored light. Knuckle Bone Broth Avenue included extended choreography by Trey and Mike. During Get More Down, matching upright geometric shapes danced around behind the band, reducing to the two circles overlapped by Egg in a Hole, which featured pyrotechnics. Before Clear Your Mind, Trey introduced the band as from the year 4680 (the total of the October 28, 2021 songs as noted during that night's encore-ending Grind). During The 9th Cube, there were projections of donuts and turtles on a cube above the band. Fireworks rained down on the stage during The Inner Reaches of Outer. For I Am in Miami, Trey switched to an acoustic guitar and the band stood together at stage front with the four-mic a cappella setup. After the set, the band departed as holograms back up the colored tubes. Soul Planet contained Knuckle Bone Broth Avenue and Don't Doubt Me quotes. Mike quoted Thanksgiving in Death Don't Hurt Very Long. The start of Harry Hood included alternate lyrics (Holy Blankenstein).",
+    "tour_name": "2021 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Knuckle Bone Broth Avenue",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Get More Down",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Egg in a Hole",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Thanksgiving",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Clear Your Mind",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "The 9th Cube",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "The Inner Reaches of Outer",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Don't Doubt Me",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "The Unwinding",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Something Living Here",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "The Howling",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "I Am in Miami",
+          "transition": false,
+          "footnote": "Debut."
+        }
+      ],
+      "3": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Lonely Trip",
+          "transition": true
+        },
+        {
+          "song": "Soul Planet",
+          "transition": false
+        },
+        {
+          "song": "Death Don't Hurt Very Long",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Drift While You're Sleeping",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-12-31",
+    "venue": "Rock Lititz",
+    "city": "Lititz",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "This performance took place without an audience after the previously scheduled show at Madison Square Garden was canceled as a result of the Omicron variant of COVID-19 surge in New York City and was webcast as part of the <em>Dinner and a Movie</em> series. The show was advertised as taking place at The Ninth Cube. Time Turns Elastic was played for the first time since October 24, 2010 (390 shows ago). Ghost contained a 25 or 6 to 4 tease from Page and a tease of The Little Drummer Boy from Trey. Cavern's lyrics were changed to \"before you slip into the bedroom.\" Down with Disease was unfinished. Baby Lemonade was performed for the first time since March 11, 1992 (1,312 shows ago). Hold Your Head Up featured Fish on Marimba Lumina, Baby Lemonade quotes from Trey, and a quote of The Birds from Page. Page teased Auld Lang Syne at the end of Harry Hood.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Time Turns Elastic",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false,
+          "footnote": "Lyrics changed to \"before you slip into the bedroom.\""
+        }
+      ],
+      "2": [
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Miss You",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Frankie Says",
+          "transition": false
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Baby Lemonade",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true,
+          "footnote": "Fish on Marimba Lumina."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2021-12-31",
+    "venue": "Rock Lititz",
+    "city": "Lititz",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "This performance took place without an audience after the previously scheduled show at Madison Square Garden was canceled as a result of the Omicron variant of COVID-19 surge in New York City and was webcast as part of the <em>Dinner and a Movie</em> series. The show was advertised as taking place at The Ninth Cube. Time Turns Elastic was played for the first time since October 24, 2010 (390 shows ago). Ghost contained a 25 or 6 to 4 tease from Page and a tease of The Little Drummer Boy from Trey. Cavern's lyrics were changed to \"before you slip into the bedroom.\" Down with Disease was unfinished. Baby Lemonade was performed for the first time since March 11, 1992 (1,312 shows ago). Hold Your Head Up featured Fish on Marimba Lumina, Baby Lemonade quotes from Trey, and a quote of The Birds from Page. Page teased Auld Lang Syne at the end of Harry Hood.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Time Turns Elastic",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false,
+          "footnote": "Lyrics changed to \"before you slip into the bedroom.\""
+        }
+      ],
+      "2": [
+        {
+          "song": "Sigma Oasis",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Miss You",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Frankie Says",
+          "transition": false
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "A Life Beyond The Dream",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Baby Lemonade",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true,
+          "footnote": "Fish on Marimba Lumina."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

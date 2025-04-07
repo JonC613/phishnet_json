@@ -1,0 +1,2650 @@
+[
+  {
+    "showdate": "2017-01-13",
+    "venue": "BarcelÃ³ Maya Beach",
+    "city": "Riviera Maya, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "Mike teased Heartbreaker in Free. Tequila was teased and quoted during Twist.",
+    "tour_name": "2017 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-01-14",
+    "venue": "BarcelÃ³ Maya Beach",
+    "city": "Riviera Maya, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "Crosseyed was teased in Meatstick, Mercury, Light, and Rocky TopÂ and teased and quoted in Drowned.",
+    "tour_name": "2017 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "The Curtain With",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "The Line",
+          "transition": true
+        },
+        {
+          "song": "Waking Up Dead",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Winterqueen",
+          "transition": true
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Drowned",
+          "transition": true
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-01-15",
+    "venue": "BarcelÃ³ Maya Beach",
+    "city": "Riviera Maya, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "Trey teased Slipknot! in Tweezer. The Little Drummer Boy was teased in Ghost. DWD was unfinished. Â Possum, Carini,Â David Bowie, and Harry Hood containedÂ Shipwreck quotes.",
+    "tour_name": "2017 Mexico",
+    "sets": {
+      "1": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Nothing",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-01-12",
+    "venue": "BarcelÃ³ Maya Beach",
+    "city": "Riviera Maya, Quintana Roo",
+    "state": "",
+    "country": "Mexico",
+    "setlist_notes": "This was the soundcheck for Barcel&oacute; Maya Beach shows and may be incomplete.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-07-21",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>This show marked the beginning of Phish's Baker's Dozen run at Madison Square Garden and consisted of a Coconut donut theme. Coconut donuts were given to fans arriving at the venue and the show featured the Phish debuts ofÂ Shake Your Coconuts and Coconut. The lyrics of Shake Your Coconuts were changed to reference the Baker's Dozen. RebaÂ did not have whistling. Walls of the CaveÂ contained a Streets of CairoÂ tease by Trey. Mike teased Thread in Tweezer.</p>\r\n",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Shake Your Coconuts",
+          "transition": true,
+          "footnote": "Phish debut. Lyrics changed to reference the Baker's Dozen."
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Pigtail",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Moonage Daydream",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Coconut",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ],
+      "e": [
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-07-22",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was night two of Phish's Baker's Dozen run at Madison Square Garden and consisted of a Strawberry donut theme. Strawberry donuts were given to fans arriving at the venue and the show featured the Phish debuts ofÂ Strawberry Fields Forever and Strawberry Letter 23. Moma Dance was unfinished.Â Trey teased Pictures of Matchstick Men in the first DWD. I AlwaysÂ Wanted It This Way featured Trey on the Marimba Lumina.Â All of These Dreams was last played on October 26, 2010Â (251 shows). Mike teased Dave's Energy Guide in Split Open andÂ Melt.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Strawberry Fields Forever",
+          "transition": true,
+          "footnote": "Phish debut; a cappella."
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Strawberry Letter 23",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": false,
+          "footnote": "With Trey on Marimba Lumina."
+        },
+        {
+          "song": "All of These Dreams",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Shine a Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "My Sweet One",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-07-23",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was night threeÂ of Phish's Baker's Dozen run at Madison Square Garden and consisted of a red velvetÂ donut theme.Â Red velvetÂ donuts with cream cheese frosting wereÂ given to fans arriving at the venue and the show featured the Phish debut of Sunday Morning with Trey on drumsÂ and Fish on vocals. Fish came out on stage for Sunday MorningÂ wearing a stole andÂ mitre. HeÂ also lifted a censer with burning incense at one pointÂ and even sprinkled \"holy water\" on the crowd. The venue was draped in red lights for the \"velvet\" themed songs:Â Sunday Morning and Sweet Jane (both Velvet Underground covers) andÂ Wading in the Velvet Sea.Â Trey teased Streets of Cairo in Back on the Train and Super Bad in It's Ice. Wolfman's Brother was unfinished. Sweet Jane was played for the first time since June 29, 2012 (193 shows).",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sunday Morning",
+          "transition": true,
+          "footnote": "Phish debut. Trey on drums."
+        },
+        {
+          "song": "Axilla",
+          "transition": true
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "How Many People Are You",
+          "transition": true
+        },
+        {
+          "song": "Glide",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Miss You",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sweet Jane",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-07-25",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was night four of Phish's Baker's Dozen run at Madison Square Garden andÂ consisted of a jam-filled donut theme. Raspberry jam-filled donuts dipped in honey were given out to fans arriving at the venue and songs such as Sample in a Jar and Lawn Boy were jammed out longer than usual. Lawn Boy featured Page on keytar.Â My Friend My Friend did not contain the \"Myfe\" ending. Makisupa contained a Piano Man tease from Page and a Jamming quote from Trey. End of SessionÂ debuted atÂ this show.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": false,
+          "footnote": "Page on keytar."
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Thread",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "End of Session",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Tuesday",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-07-26",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was night fiveÂ of Phish's Baker's Dozen run at Madison Square Garden and consisted of a powdered donut theme.Â Powdered sugar donuts wereÂ given to fans arriving at the venue and the show featured the Phish debuts of White Winter Hymnal and Powderfinger. Wilson and My Soul wereÂ teased before Cars Trucks Buses.Â Pebbles and Marbles was played for the first time since August 3, 2014 (106 shows). 1999 was played for the first time since December 31, 1998 (524Â shows), its jam exceeded ten minutes, andÂ Fishman teased Mr. Completely in it.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "White Winter Hymnal",
+          "transition": true,
+          "footnote": "Phish debut; a cappella."
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "The Very Long Fuse",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Yarmouth Road",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Mr. Completely",
+          "transition": false
+        },
+        {
+          "song": "1999",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "No Quarter",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Powderfinger",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-07-28",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was night six of Phish's Baker's Dozen run at Madison Square Garden and consisted of a chocolate donut theme.Â Donuts with a dark chocolate glaze with chocolate cookie crumbÂ wereÂ given to fans arriving at the venueÂ and the show featured the PhishÂ debuts of Chocolate Rain andÂ You Sexy Thing. Chocolate Rain was performed <em>a cappella</em> and featured Page on a midi controller keyboard.Â Chalk Dust Torture was unfinished. Fee featured Trey on megaphone. Fee's lyrics wereÂ changed to \"have a chocolate donut and catch your breath.\"",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chocolate Rain",
+          "transition": true,
+          "footnote": "Phish debut; a cappella, with Page on a midi controller keyboard."
+        },
+        {
+          "song": "Ass Handed",
+          "transition": true
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Weigh",
+          "transition": false
+        },
+        {
+          "song": "Undermind",
+          "transition": false
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": true
+        },
+        {
+          "song": "The Dogs",
+          "transition": false
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Things People Do",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Have Mercy",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "You Sexy Thing",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "You Sexy Thing",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fee",
+          "transition": true,
+          "footnote": "\tTrey sang verses through megaphone. Lyrics changed to \"have a chocolate donut and catch your breath.\""
+        },
+        {
+          "song": "Space Oddity",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-07-29",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was night seven of Phish's Baker's Dozen run at Madison Square Garden and consisted of a cinnamon donut theme. Donuts with a cinnamon glaze wereÂ given to fans arriving at the venue. Approximately ten minutes before lights, a voice came over the PA, reproducing some of the phrases spoken at Woodstock over the PA concerning \"brown acid,\" only substituting \"donuts\" for acid: \". . .to get back to the warning that I received, you may take it with how many, however many grains of salt you wish, that the brown donuts that are circulating around usÂ are not specifically too good.Â It's suggested that you do stay from the brown donuts. Of course, it's your own trip, so be my guest, but please be advised that there is a warning on that one, ok? Do not eat the brown donuts. Lewis Pittman, Lewis Pittman, your brother is at the WaterWheel table.\" Â I Am the Walrus included Shipwreck, The Unsafe Bridge, The Birds,Â Your Pet Cat,Â Martian Monster, and Runnin' with the Devil quotes. Dirt and There is a MountainÂ wereÂ teased in Harry Hood. Cinnamon Girl was last performed on July 31, 1997Â (631 shows).",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": true
+        },
+        {
+          "song": "The Birds",
+          "transition": false
+        },
+        {
+          "song": "The Line",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": false
+        },
+        {
+          "song": "Train Song",
+          "transition": false
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "I Am the Walrus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Blaze On",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Cinnamon Girl",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-07-30",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was night eight of Phish's Baker's Dozen run at Madison Square Garden and consisted of a jimmiesÂ donut theme. Donuts with a rainbow jimmiesÂ wereÂ given to fans arriving at the venue. Page teased Long Tall Glasses in Home. Trey quoted The Squirming Coil and Glass Onion during Fly Famous Mockingbird. During Harpua, Trey and Mike sat on chairs at the front of the stage, the entire band discussedÂ cosmology, and eventually decidedÂ that the universe was in the shape of a donut. Trey mentioned donuts and teased Harpua in 2001. This show featured the Phish debut of The Wind Cries Mary.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Curtain With",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Waking Up Dead",
+          "transition": true
+        },
+        {
+          "song": "Esther",
+          "transition": true
+        },
+        {
+          "song": "Home",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false,
+          "footnote": "With donut references."
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "In The Good Old Summer Time",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Wind Cries Mary",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-08-01",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was night nine of Phish's Baker's Dozen run at Madison Square Garden and hadÂ a maple donut theme. Donuts with a maple cinnamon glaze wereÂ given to fans arriving at the venue. ThisÂ show featured the Phish debuts of O Canada and Maple Leaf Rag. O Canada wasÂ performed as an instrumental andÂ the Canadian flag in the venue was illuminated at the conclusion of the song. Maple Leaf Rag wasÂ performed soloÂ by Page. Swept Away and Steep were last played onÂ July 8, 2012Â (192 shows). 46 Days featured Trey on Marimba Lumina and Mike and Page on percussion. Trey quoted 46 Days in Piper.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "O Canada",
+          "transition": false,
+          "footnote": "Phish debut; instrumental."
+        },
+        {
+          "song": "Crowd Control",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Daniel Saw the Stone",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Maple Leaf Rag",
+          "transition": true,
+          "footnote": "Phish debut; performed solo by Page."
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Golden Age",
+          "transition": true
+        },
+        {
+          "song": "Leaves",
+          "transition": true
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false,
+          "footnote": "With Trey on Marimba Lumina and Mike and Page on percussion."
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rock 'n' Roll Suicide",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-08-02",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was night ten of Phish's Baker's Dozen run at Madison Square Garden and hadÂ a donut hole theme. Donut holesÂ with a peanut butter chocolate dustÂ wereÂ given to fans arriving at the venue. This show featured the Phish debutsÂ of Way Down in the Hole and O Holy Night. Mike teased Do You Feel Like We Do before Guyute.Â  Page teased Rhapsody in Blue at the end of Weekapaug Groove.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Way Down in the Hole",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Buried Alive",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Waiting All Night",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "O Holy Night",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Wingsuit",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-08-04",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was night eleven of Phish's Baker's Dozen run at Madison Square Garden and hadÂ a lemon donut theme. Donuts with a lemon poppy seed glaze wereÂ given to fans arriving at the venue. This show featured the Phish debuts of See That My Grave Is Kept Clean and Everything In Its Right Place. Mike teased <em>The Brady Bunch </em>Theme in BBFCFM.Â Dinner and a Movie was last played on July 21, 2013 (164Â shows).Â ScentsÂ did not have the intro. Everything In Its Right Place was quoted in What's the Use?, Scents, Caspian, Fluffhead,Â and before and duringÂ Frankenstein. No Men In No Man's Land was quoted in Scents.Â Frankenstein featured Page on keytar.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "See That My Grave Is Kept Clean",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Winterqueen",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Dem Bones",
+          "transition": true
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Everything In Its Right Place",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false,
+          "footnote": "No intro."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Frankenstein",
+          "transition": false,
+          "footnote": "Page on keytar."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-08-05",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was night twelve of Phish's Baker's Dozen run at Madison Square Garden and hadÂ a Boston CreamÂ donut theme. Donuts with a dark chocolate glaze and vanilla cream icingÂ wereÂ given to fans arriving at the venue. This show featured the debut of a medley of Cream and Boston songs, called Sunshine of Your Feeling. It consisted of teases and quotes of Sunshine of Your Love, More Than a Feeling, Tales of Brave Ulysses, and the Long Time portion of Boston's Foreplay/Long Time. The Long Time section of the medleyÂ contained White Room quotes as well as Sunshine of Your Love and More Than a Feeling teases.Â Sunshine of Your Love was also teased in Mule, Plasma, and Quinn. Trey teased Jean Pierre in Alaska. Frost was last played on July 17, 2013Â (168 shows).",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Soul Shakedown Party",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Fuck Your Face",
+          "transition": true
+        },
+        {
+          "song": "Sunshine of Your Feeling",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Frost",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Fire",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": false
+        },
+        {
+          "song": "Plasma",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Petrichor",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Joy",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-08-06",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was the thirteenth and final night of Phish's Baker's Dozen run at Madison Square Garden.Â Donuts with a pink glaze and rainbow sprinklesÂ wereÂ given to fans arriving at the venue. Sanity included quotes of Everything In Its Right Place and Saw it Again. This show featured the Phish debut of Most Events Aren't Planned. I Been Around was last performed July 27, 2014Â (119 shows). Izabella was last performed July 31, 1998 (576 shows). Simple contained Izabella teases and featured Page on theremin. YEM contained an Izabella tease andÂ The Lizards, White Winter Hymnal, and Everything In Its Right Place quotes in the vocal jam. Prior to the encore, a banner commemorating the Baker's Dozen run was raised to the ceiling of Madison Square Garden.Â On The Road Again was last performed Â August 31, 2013Â (155 shows). Mike and Fish performed the beginning of Weekapaug before Tweezer Reprise.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Ha Ha Ha",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Crazy Sometimes",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Sanity",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Most Events Aren't Planned",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "I Been Around",
+          "transition": true
+        },
+        {
+          "song": "Izabella",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Simple",
+          "transition": false,
+          "footnote": "With Page on theremin."
+        },
+        {
+          "song": "Rise/Come Together",
+          "transition": false
+        },
+        {
+          "song": "Starman",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "On the Road Again",
+          "transition": false
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-07-14",
+    "venue": "Huntington Bank Pavilion at Northerly Island",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "This show featured the Phish debuts of In The Good Old Summer Time and Everything&#39;s Right and the&nbsp;debuts of Leaves and Love Is What We Are. Wolfman&#39;s included a Dave&#39;s Energy Guide tease from Trey. Trey teased Manteca in Golden Age and the second Your Pet Cat. Harry Hood contained Is This Love, There is a Mountain, and What&#39;s The Use? teases.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "In The Good Old Summer Time",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": false
+        },
+        {
+          "song": "Leaves",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Shine a Light",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Love Is What We Are",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-07-15",
+    "venue": "Huntington Bank Pavilion at Northerly Island",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "This show featured the Phish debut of Corona. Fish teased Timber (Jerry) in Simple. Scents did not have the intro and included a Rise/Come Together tease.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Wingsuit",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Corona",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Winterqueen",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false,
+          "footnote": "No intro."
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-07-16",
+    "venue": "Huntington Bank Pavilion at Northerly Island",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "This show featured the debut of Thread. 2001 contained Martian Monster teases and a quoteÂ andÂ Get Up (I Feel Like Being a) Sex Machine quotes. Carini was teased at the end of Cavern.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "The Line",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Thread",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-07-18",
+    "venue": "Ervin J. Nutter Center, Wright State University",
+    "city": "Dayton",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "This show featured the Phish debutsÂ of Tuesday and Crazy Sometimes. DWD was unfinished. Trey quoted Waves at the end of Ghost and teased Oye Como Va in Wombat.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tuesday",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Crazy Sometimes",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Wombat",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-07-19",
+    "venue": "Petersen Events Center",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "This show featured the Phish debuts of Marissa and Rise/Come Together. Mr. Completely was played for the first time since July 15, 2003 (380 shows).",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Marissa",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Home",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Mr. Completely",
+          "transition": false
+        },
+        {
+          "song": "Mercury",
+          "transition": false
+        },
+        {
+          "song": "Rise/Come Together",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Things People Do",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-09-01",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Ghost contained NMINML teases and quotes.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "Breath and Burning",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-09-02",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Limb By Limb contained a We're Off to See the WizardÂ tease by Trey.Â ",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Martian Monster",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Crazy Sometimes",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Winterqueen",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-09-03",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "The Wedge contained a Stash tease. Down With Disease was unfinished. Trey teased Undermind in Possum. Page teased Blue Monk in Suzy.",
+    "tour_name": "2017 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Buffalo Bill",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Most Events Aren't Planned",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Leaves",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Rise/Come Together",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-12-28",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "2017 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Your Pet Cat",
+          "transition": false
+        },
+        {
+          "song": "Waking Up Dead",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "No Men In No Man's Land",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Everything's Right",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-12-29",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Trey teased Streets of Cairo in Martian Monster. Chalk Dust Torture was unfinished.",
+    "tour_name": "2017 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Blaze On",
+          "transition": true
+        },
+        {
+          "song": "555",
+          "transition": true
+        },
+        {
+          "song": "I Always Wanted It This Way",
+          "transition": false
+        },
+        {
+          "song": "Martian Monster",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-12-30",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Brother was last played June 17, 2012 (216Â shows). Down With Disease was unfinished.",
+    "tour_name": "2017 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Ass Handed",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Brother",
+          "transition": true
+        },
+        {
+          "song": "More",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished"
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2017-12-31",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show featured the Phish debut of Soul Planet. Trey teased the <em>Theme from S.W.A.T.</em> in Carini. During Soul Planet, the stage was transformed into a massive pirate ship with sails blown by fans, cannons blowing confetti, and a Phish 'Jolly Roger' flag. Fans were given bracelets that illuminated different colors depending on where seated during pirate ship sequence.Â All of the songs after Auld Lang Syne centered around a water theme. AÂ Song I Heard the Ocean Sing contained Shipwreck quotes. Moma included an Auld Lang Syne tease.",
+    "tour_name": "2017 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Fuego",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Soul Planet",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,4418 @@
+[
+  {
+    "showdate": "2011-01-01",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Reba did not have the whistling ending. Round Room was played for the first time since July 13, 2003 (140 shows). Twist contained Manteca quotes from Trey. Makisupa included the lyrics &quot;I went home late last night after doing the New Year&#39;s stunt, laid back on my couch and rolled myself a blunt&quot; and also featured a &quot;kick drum solo.&quot; Frankenstein featured Page on keytar.",
+    "tour_name": "2010/2011 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Round Room",
+          "transition": false
+        },
+        {
+          "song": "Walk Away",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "\"I went home late last night after doing the New Year's stunt, laid back on my couch and rolled myself a blunt\"  lyrics. \"Kick drum solo.\""
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fee",
+          "transition": true,
+          "footnote": "Trey sang verses through megaphone."
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false,
+          "footnote": "Page on keytar."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-05-27",
+    "venue": "Bethel Woods Center for the Arts",
+    "city": "Bethel",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Wolfman's contained a Streets of Cairo tease from Trey. Before Stash, Trey teased The Fish (Schindleria Praematurus) by Yes.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-05-28",
+    "venue": "Bethel Woods Center for the Arts",
+    "city": "Bethel",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Gin included a mash-up jam of <a href=\"http://phish.net/song/golden-age/history\">Golden Age</a> and Manteca and later closed with a Manteca quote from Trey. Disease was unfinished. BDTNL featured a DEG tease from Mike. Makisupa included lyrics referencing several band members' houses (and Trey's favorite show, <a href=\"http://en.wikipedia.org/wiki/House_(TV_series)\"><em>House</em></a>).",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Manteca",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "With lyrics referencing several band members' houses (and Trey's favorite show, House)."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-05-29",
+    "venue": "Bethel Woods Center for the Arts",
+    "city": "Bethel",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Ya Mar included Express Yourself (Charles Wright & the Watts 103rd Street Rhythm Band) teases from Mike.Â Antelope contained a Curtis Loew tease from Trey and Manteca teases from Trey and Page.Â A fan <a href=\"http://media.phish.net/front-page/248029_10150188914576290_6458611289_7380099_905704_n.jpg\">ran across the stage</a> during Tweezer Reprise.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-05-31",
+    "venue": "PNC Bank Arts Center",
+    "city": "Holmdel",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Trey dedicated Sand to &quot;Max.&quot; YEM contained a Yakety Sax (It&#39;s Ice) tease from Mike. Fire contained alternate lyrics &quot;move on over, let Cactus take over!&quot;",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "After Midnight",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-01",
+    "venue": "PNC Bank Arts Center",
+    "city": "Holmdel",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "This gig featured the Phish debut of Led Zeppelin&#39;s No Quarter. Trey subsequently teased No Quarter in both Ghost and Number Line. Carini was unfinished.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "No Quarter",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Carini",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-03",
+    "venue": "DTE Energy Music Theatre",
+    "city": "Clarkston",
+    "state": "MI",
+    "country": "USA",
+    "setlist_notes": "<p>During NICU, Trey wished Mike a happy birthday. NICU subsequently contained a Happy Birthday tease from Trey. Trey teased Dave's Energy Guide in Weekapaug. Happy Birthday was teased before and during Disease. Disease also featured a jam based on A Love Supreme and was unfinished. Also Sprach Zarathustra contained Get Up (I Feel Like Being a) Sex Machine and Super Bad teases from Trey.</p>\r\n",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true,
+          "footnote": "Happy birthday wish from Trey to Mike."
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-04",
+    "venue": "Blossom Music Center",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "This show marked the debut of Steam. Trey teased San-Ho-Zay in Kill Devil Falls.&nbsp;Antelope featured a Streets of Cairo tease from Trey and saying different band members&#39; names (including Toph) before the &quot;Esquandolas&quot; lyric. Sally included Manteca teases, Hood contained Have Mercy and Lizards teases, and Character Zero contained Smoke on the Water teases.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Fuck Your Face",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Rocket in My Pocket",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Different band members' names (Including Toph) mentioned before Esquandolas."
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Have Mercy",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-05",
+    "venue": "Riverbend Music Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "Reba did not contain the whistling ending. Trey sang the verses of Fee through a megaphone.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "Trey sang verses through megaphone."
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-08",
+    "venue": "Darien Lake Performing Arts Center",
+    "city": "Darien Center",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Weekapaug contained Golden Age teases. Also Sprach Zarathustra contained Golden Age, Happy Birthday and What&#39;s the Use? teases. In the soundcheck (which was played on Kevin Shapiro&#39;s From the Archives #15(b) show on 7/1/11 from <a href=\"http://www.superballix.com/\">SBIX</a>), Funky Bitch contained alternate lyrics, Dream On contained a brief Stairway to Heaven tease and &quot;Old Zealand&quot; alternate lyrics, and The Pendulum had Two Princes quotes.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Mellow Mood",
+          "transition": true
+        },
+        {
+          "song": "Buffalo Bill",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Ride Captain Ride",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-10",
+    "venue": "Susquehanna Bank Center",
+    "city": "Camden",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "The Theme from <em>Rocky</em> was teased before Rocky Top and Trey teased Pop Goes the Weasel before Down With Disease. Disease was unfinished.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Rocky Top",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-12",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist_notes": "Lonesome Cowboy Bill was played for the first time since July 30, 2003 (141 shows). &nbsp;Makisupa included lyrics referencing blunts and a moist bundt cake.&nbsp;",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "Lonesome Cowboy Bill",
+          "transition": true
+        },
+        {
+          "song": "Ha Ha Ha",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sanity",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "With lyrics referencing blunts and bundt cake."
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-11",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist_notes": "Daniel Saw The Stone was played for the first time since August 3, 2003 (137 shows).&nbsp;Reba did not contain the whistling ending. Antelope included an On Your Way Down teases from Page and Trey. Chalk Dust included a BOAF tease.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Daniel Saw the Stone",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Access Me",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Albuquerque",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-14",
+    "venue": "Verizon Wireless Amphitheatre at Encore Park",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "In Cities, &quot;Elvis&quot; was changed to &quot;Mary Johnson.&quot; Light Up Or Leave Me Alone and Disease were unfinished.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-15",
+    "venue": "Verizon Wireless Amphitheatre at Encore Park",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "Mound was unfinished and the set had to be stopped mid-stream due to a strong incoming thunderstorm. Prior to leaving the stage, Trey introduced his guitar tech, Brian Brown. Trey also repeatedly said \"Storm\" several times and then, apparently referring to a sign that a fan was holding, said \"we will play that song but not tonight because we don't know it. And that's the honest truth. One of these days.\" To open set two, Mound was started mid-song, more or less where the band had left off to close set one. Tweezer's lyrics were changed to reference the weather. Funky Bitch containedÂ Birdwatcher teases. Kung was performed <em>a cappella.</em>",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Paul and Silas",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Mound",
+          "transition": false,
+          "footnote": "Unfinished; song (and set) had to be stopped mid-stream due to a strong incoming  thunderstorm."
+        }
+      ],
+      "2": [
+        {
+          "song": "Mound",
+          "transition": false,
+          "footnote": "Started mid-song after the rain delay (set break)."
+        },
+        {
+          "song": "Tweezer",
+          "transition": false,
+          "footnote": "Lyrics changed to reference the weather."
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "The Birdwatcher",
+          "transition": false
+        },
+        {
+          "song": "Kung",
+          "transition": false,
+          "footnote": "A cappella."
+        }
+      ],
+      "e": [
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-17",
+    "venue": "Verizon Wireless Amphitheatre - Charlotte",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "In NICU, the lyric \"Play it, Leo!\" was replaced with \"Leo's House!\" Scent of a Mule contained a tease of The Tra La La Song (One Banana, Two Banana) from Page.Â Trey and Mike wore identical T-shirts in the first set. Trey said he wouldn't give away who was on their shirts, but said during the beginning of Mockingbird that it was \"the famous mockingbird!\" (The face on the shirt was actually local musician David Mayfield; Trey and Mike had apparently seen him the previous night). The shirts were again referenced during Icculus, with the image showing on the video screens and Trey saying it was written by the man on the screen. The Rock and Roll jam featured a tease from Mike of A Love Supreme. Reba did not contain the whistling ending. Bike was played for the first time since June 18, 2009 (100 shows). During his vacuum solo, Fish teased Over the Rainbow. After his solo, Fish forgot the words to Bike, prompting the band to play HYHU. In the soundcheck, Funky Bitch was briefly teased before Dog Log began.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": false,
+          "footnote": "\"Play it, Leo!\" lyric replaced with \"Leo's House!\""
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Icculus",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Bike",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-18",
+    "venue": "Time Warner Cable Music Pavilion at Walnut Creek ",
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "This was the first show since November 22, 1992 (846 shows) to open with two instrumental songs. Been Caught Stealing was played for the first time since December 28, 1998 (300 shows) and was preceded by Trey quoting Ring My Bell (changing the lyrics to \"ring his bell\" after Mike hit his fight bell). My Friend did not contain the \"Myfe\" ending.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Esther",
+          "transition": true
+        },
+        {
+          "song": "Been Caught Stealing",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-19",
+    "venue": "nTelos Pavilion",
+    "city": "Portsmouth",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "Harpua included a Happy Birthday tease from Trey and featured all of the band&#39;s fathers voicing the part of Jimmy&#39;s father. For the third Father&#39;s Day in a row, Brother was performed and featured all of the band&#39;s children on stage and subsequent introductions. The theme to <em>Leave it to Beaver</em> was teased by Mike prior to DWD. This show marked the Phish debut of Thunder Road, which was dedicated by Trey to Clarence Clemons (who had passed away a day earlier). Near the end of Sand, there was a lengthy pause before the band finished the song.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "With the band's fathers voicing the part of Jimmy's father."
+        },
+        {
+          "song": "Brother",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Thunder Road",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false,
+          "footnote": "Lengthy pause near the end before band finished song."
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-07",
+    "venue": "Comcast Center",
+    "city": "Mansfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "This show marked the Phish debut of Rhymes.&nbsp;Antelope contained Meatstick, Bug, and Divided Sky teases. Suzy also contained Meatstick teases. After Bug, the crowd chanted &quot;Let&#39;s Go Bruins&quot; prompting the band to play in rhythm with the crowd&#39;s clapping. During the &quot;Rye Rye Rocco&quot; segment of Antelope, Trey introduced Fish&nbsp;as &quot;Ladies and Gentlemen, on cymbal, Jon Fishman!&quot; after he had missed the band&#39;s unified stop in the song.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Instant Karma!",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Rhymes",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-07-01",
+    "venue": "Watkins Glen International",
+    "city": "Watkins Glen",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This was the first of the three-show <a href=\"http://www.superballix.com/\">SuperBall IX</a> festival. Life on Mars? was played for the first time since <a href=\"http://phish.net/setlists/?d=2003-02-15\">February 15, 2003</a>&nbsp;(175 shows). Simple contained Bug and Third Stone From the Sun teases.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Torn and Frayed",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Joy",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-07-02",
+    "venue": "Watkins Glen International",
+    "city": "Watkins Glen",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This was the second of the three-showÂ <a href=\"http://www.superballix.com/\">SuperBall IX</a>Â festival. This gig featured the Phish debuts of Susskind Hotel and Monkey Man. Camel Walk contained a Spanish Moon tease from Mike, Piper contained a Tweezer tease from Page, and Tweezer contained Scents and Subtle Sounds teases by Mike. Runaway Jim included introductions and trophy awards for the winners of the Runaway Jim 5K road race held earlier in the day. The first <a href=\"http://phish.net/song/secret-language-instructions/history\">Secret Language</a>Â since July 3, 2000 (213 shows)Â was a <em>Simpsons</em>Â signal after BOAF. Scents was played with the intro for the first time since August 2, 2003 (146 shows).Â The Storage Jam and Sleeping Monkey featured Page on theremin for the first time since August 11, 1997 (394 shows).",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Susskind Hotel",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Monkey Man",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ],
+      "2": [
+        {
+          "song": "Runaway Jim",
+          "transition": false,
+          "footnote": "Introductions of Runaway Jim 5K winners."
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": false
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "4": [
+        {
+          "song": "Storage Jam",
+          "transition": false,
+          "footnote": " Page on theremin."
+        },
+        {
+          "song": "Sleeping Monkey",
+          "transition": false,
+          "footnote": " Page on theremin."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-07-03",
+    "venue": "Watkins Glen International",
+    "city": "Watkins Glen",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was the third of the three-show Super Ball IX festival. The Curtain was played for the first time since September 9, 2000 (202 shows). The first Mockingbird narration since September 30, 2000 (188 shows) referenced the previous night's fourth set <a href=\"http://phish.net/song/storage-jam/history/?artist=1\">Storage Jam</a>Â and explained that all of SBIX was merely a mental projection of a reality that the band created in 1988 on their way to Colorado. Mike teased the theme from <em>The Twilight Zone</em> and the theme from <em>Leave it to Beaver</em> during BBFCFM, Wilson contained a Mind Left Body tease, and Reba contained Dave's Energy Guide teases. A Song I Heard the Ocean Sing and Disease were unfinished. The setbreak featured All-American themed music. This show featured the Phish debut of Big Balls.Â Before the encore, Trey thanked each of the crew, management and artists who helped make Super Ball IX happen. First Tube was accompanied by and followed by fireworks.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Soul Shakedown Party",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "The Curtain",
+          "transition": false
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": false
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": true,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Time Loves a Hero",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Big Balls",
+          "transition": false,
+          "footnote": "Phish debut"
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "No Quarter",
+          "transition": false
+        },
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": true
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-08-12",
+    "venue": "Polo Fields, Golden Gate Park",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "This show was part of the Outside Lands festival. Page teased Long Tall Glasses in Possum.",
+    "tour_name": "2011 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-08-05",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "Rock and Roll featured Trey teasing By-Tor & the Snow Dog andÂ Page on <a href=\"http://en.wikipedia.org/wiki/Theremin\">theremin</a>.",
+    "tour_name": "2011 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false,
+          "footnote": "Page on theremin."
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": false
+        },
+        {
+          "song": "Show of Life",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-08-06",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "Wolfman&#39;s contained <a href=\"http://phish.net/song/heartbreaker/history\">Heartbreaker</a> teases. The Antelope intro contained Reba whistling and Tweezer, Tweezer Reprise, Nellie Kane, Blister in the Sun, and Sand teases. The Antelope jam segment subsequently contained teases of Golden Age. Antelope&#39;s &quot;Marco Esquandolas&quot; lyric was changed to &quot;Mike-O Esquandolas.&quot; Suzy contained an I Feel the Earth Move tease from Mike.",
+    "tour_name": "2011 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Lyric changed to \"Mike-O Esquandolas.\""
+        }
+      ],
+      "e": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Sanity",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-08-08",
+    "venue": "Hollywood Bowl",
+    "city": "Hollywood",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "50 Ways to Leave Your Lover&nbsp;was a Phish debut and featured Fish&nbsp;on a drumkit in front of the band.",
+    "tour_name": "2011 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Peaches en Regalia",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "50 Ways to Leave Your Lover",
+          "transition": false,
+          "footnote": "Phish debut; Fish on drumkit in front of the band."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-08-09",
+    "venue": "Lake Tahoe Outdoor Arena at Harveys",
+    "city": "Stateline",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Light included Timber (Jerry) and Tweezer teases. Chalk Dust included teases of Dixie and&nbsp;Hedwig&#39;s Theme and was unfinished. Rocket Man was a Phish debut.&nbsp;The soundcheck&#39;s Puff the Magic Dragon was performed <em>a cappella</em> by Mike.",
+    "tour_name": "2011 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Mellow Mood",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Rocket Man",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-08-10",
+    "venue": "Lake Tahoe Outdoor Arena at Harveys",
+    "city": "Stateline",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Dogs Stole Things was played for the first time since <a href=\"http://phi.sh/030712\">July 12, 2003</a> (167 shows). The intro to Down with Disease featured a Pop Goes the Weasel tease and&nbsp;Also Sprach included Golden Age teases. Disease was unfinished.",
+    "tour_name": "2011 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Instant Karma!",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-08-15",
+    "venue": "UIC Pavilion, University of Illinois",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "This show marked the Phish debut of Babylon Baby. At the start of Alumni Blues, Trey said &quot;that green ball came up here just enough times&quot; in reference to a fan&#39;s ball with &quot;Alumni Blues&quot; on it. Undermind featured Page on theremin. The second set deliberately featured many songs relating to the elements Earth, Wind, Fire and Water.",
+    "tour_name": "2011 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Anything But Me",
+          "transition": true
+        },
+        {
+          "song": "Babylon Baby",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Undermind",
+          "transition": false,
+          "footnote": "Page on theremin."
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-08-16",
+    "venue": "UIC Pavilion, University of Illinois",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "During I Didn&#39;t Know, Trey and Mike held up t-shirts of Otis Redding for the &quot;Is this a picture of Otis Redding?&quot; lyric. Mexican Cousin contained a Time Loves a Hero tease from Mike. DWD contained a <em>Leave it to Beaver</em> theme tease from Mike and was unfinished. YEM contained Walk This Way teases and the vocal jam contained a Darth Vader quote.",
+    "tour_name": "2011 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "Ha Ha Ha",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Mexican Cousin",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Let It Loose",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "Darth Vader quote at end of vocal jam."
+        }
+      ],
+      "e": [
+        {
+          "song": "Heavy Things",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-08-17",
+    "venue": "UIC Pavilion, University of Illinois",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "This show featured the first Forbin&#39;s opener since November 3, 1989 (1,249 shows). Timber, Piper and Zero all contained Crosseyed teases and quotes. Tweezer contained Tweezer Reprise and the theme from <em>Close Encounters of the Third Kind </em>(aka Wild Signals) teases from Trey, and a DEG tease from Page. The Makisupa lyrics referenced Trey&#39;s favorite music (&quot;Dank Sinatra,&quot;&nbsp;&quot;Herbie Hancock,&quot;&nbsp;&quot;Nat King Bowl&#39;,&quot; Harry Chronic, Jr.,&quot; and &quot;Van Inhalin&#39;&quot;), as well as Page&#39;s House and Mike&#39;s House. Sleep was played for the first time since August 7, 2009 (105 shows). Character Zero contained a reference to Page&#39;s House. Antelope contained Crosseyed teases and a Fish&#39;s House reference. Funky Bitch and Tweezer Reprise also contained Crosseyed quotes.",
+    "tour_name": "2011 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Weigh",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "No Quarter",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Lyrics referenced Trey's favorite music (\"Dank Sinatra,\" \"Herby Hancock,\" \"Nat King Bowl\", \"Harry Chronic, Jr.,\" and \"Van Inhalin'\"), as well as Page's House and Mike's House."
+        },
+        {
+          "song": "Sleep",
+          "transition": false
+        },
+        {
+          "song": "Buffalo Bill",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false,
+          "footnote": "Page's House reference."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Fish's House reference."
+        }
+      ],
+      "e": [
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Show of Life",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-09-02",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "This show was brought to you by the letter \"S.\" Sparks was played for the first time since November 29, 1996 (465 shows). Sweet Adeline was played for the first time since August 1, 1999 (287 shows). Silent was played without the Horse for the first time since December 13, 1999 (251 shows).Â Sabotage was played for the first time since November 21, 1998 (320 shows). Scents did not have the intro. Sanity contained Running Away (Bob Marley) quotes from Fish.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Sweet Virginia",
+          "transition": true
+        },
+        {
+          "song": "Susskind Hotel",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Sparks",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Shine a Light",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Soul Shakedown Party",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false,
+          "footnote": "No intro."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Sanity",
+          "transition": true
+        },
+        {
+          "song": "Sweet Adeline",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sabotage",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-09-03",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Llama included a Streets of Cairo tease. Mike teased the <em>Brady Bunch</em> theme before Disease, which was unfinished. Tweezer included multiple teases of Green-Eyed Lady by Page in the composed intro section, and a tease of Golden Age by Fish in the jam segment. Light, Antelope, and Tweezer Reprise contained Disease teases from Trey. Light also contained Dirt teases from Mike. Trey said, &quot;We&#39;d like to play a song that begins with the letter &#39;S&#39;&quot; prior to Sleeping Monkey.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-09-04",
+    "venue": "Dick's Sporting Goods Park",
+    "city": "Commerce City",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "This show featured the first Maze opener since December 9, 1995 (536 shows), the first Come Together (albeit incomplete) since December 8, 1995 (539 shows), and the first Guy Forget since October 1, 2000 (199 shows). Back on the Train contained a brief Sneakin' Sally tease from Trey. Bathtub Gin contained Low Rider teases from Trey and Twist subsequently contained a brief Low Rider tease/jam. The Phish debut of Gillian Welch's The Way It Goes included a Streets of Cairo tease from Page. Tube featured an Oriental Riff tease by Trey. Towards the end of Chalk Dust, Trey made an \"Ssssssss\" sound, referring to Friday, September 2, 2011's \"S\" songtitled show. Piper featured Page on theremin. After Guy Forget, the end of Ghost contained a Guy Forget quote. Walls of the Cave featured Rock and Roll quotes from Page.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "The Way It Goes",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Come Together",
+          "transition": false,
+          "footnote": "Incomplete."
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false,
+          "footnote": "Page on theremin."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Guy Forget",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-06-30",
+    "venue": "Watkins Glen International",
+    "city": "Watkins Glen",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This was the soundcheck for the <a href=\"http://www.superballix.com/\">Super Ball IX</a> festival. The end of Sleep Again was repeated in order to teach Fish, who had apparently forgot the song's conclusion.Â Fish was yelling \"Maxine don't eat rocks!\" during the intro to My Soul.Â Georgy Girl (The Seekers) was teased before Ginseng.",
+    "tour_name": "2011 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Sleep Again",
+          "transition": true,
+          "footnote": "Ending repeated in order to teach Fish, who had apparently forgot the song's conclusion."
+        },
+        {
+          "song": "My Soul",
+          "transition": true,
+          "footnote": "\"Maxine don't eat rocks!\" chant from Fish."
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-05-26",
+    "venue": "Bethel Woods Center for the Arts",
+    "city": "Bethel",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>This performance was from the tech rehearsal for Phish's 2011 <a href=\"http://phish.net/venue/809\">Bethel Woods</a>Â run. This stunning version of <a href=\"http://phish.net/song/waves/history/?artist=1\">Waves</a>Â (with A Love Supreme themes) was first revealed on Kevin Shapiro's \"From the Archives\" #15 in the early morning of 7/1/11 on <a href=\"http://twitter.com/#!/bunnyradio\">The Bunny</a> @ <a href=\"http://www.superballix.com/\">SBIX</a>.</p>\r\n",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Waves",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-09-14",
+    "venue": "Champlain Valley Exposition",
+    "city": "Essex Junction",
+    "state": "VT",
+    "country": "USA",
+    "setlist_notes": "This special performance was a benefit for flood relief efforts in Vermont in the wake of Hurricane Irene. This show was&nbsp;preceded by an announcement from Vermont&nbsp;Governor Peter Shumlin, who thanked the crowd for their support and spoke about additional ways people could get involved in the flood relief effort. Carini was dedicated to Pete and Tara Carini. Carini and Disease were unfinished. In the soundcheck, Silent Night featured Page on theremin with Trey joking &quot;dude, I&#39;m tripping on Christmas!&quot; Peaches en Regalia was preceded by a Tom Sawyer tease and quote and was followed by a Cannonball tease.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-12-28",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show featured the first ever Free show opener. Tweezer contained aÂ Streets of Cairo teaseÂ from Trey. My Friend did not contain the \"Myfe\" ending. Rock and Roll contained Birds of a Feather teases and Hood contained a brief tease of Free from Trey at the end.",
+    "tour_name": "2011 NYE",
+    "sets": {
+      "1": [
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Glide",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Rocky Top",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-12-29",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Halley&#39;s Comet contained a Streets of Cairo tease from Trey. Character Zero contained a Jean Pierre (Miles Davis) tease from Trey and a Rhapsody in Blue tease from Page. The soundcheck&#39;s jam contained Smoke on the Water teases.",
+    "tour_name": "2011 NYE",
+    "sets": {
+      "1": [
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Lifeboy",
+          "transition": false
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Show of Life",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-12-30",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Number Line contained a reference to Fish's daughter Ella, whose birthday was on December 30th. The Bowie intro and Coil contained Silent teases.",
+    "tour_name": "2011 NYE",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true,
+          "footnote": "Reference to Fish's daughter Ella."
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2011-12-31",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Fluffhead contained an Auld Lang Syne tease from Trey. Light featured Page on theremin. Prior to Steam, a steam kettle and hot plate went off on stage, with Trey acting like he was attempting to put out the steam. Shortly after the song began, steam also came from the floor near the soundboard area. An amp (with the steam kettle on it), a keytar, a bass, a vacuum, and a few lights were then lifted off the stage. A woman in the front of the stage tossed a &ldquo;Steam&rdquo; sign into the front row, then rose with a barricade and security guard before eventually being lifted up over the band. Several other aerialists (clothed in various casual attire, equipped with black backpacks emitting smoke and lights on their backs) subsequently rose up from the crowd and ascended and descended several times. The first aerialist counted down to midnight, at which point balloons were released from the ceiling. The aerialists later returned with lights in their hands for Down with Disease, which also featured Trey and Mike being raised up and back down a few times before finally rising several feet on hydraulic lifts. Steam contained a Spooky tease from Trey and Disease was unfinished.",
+    "tour_name": "2011 NYE",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Light",
+          "transition": false,
+          "footnote": "Page on theremin."
+        },
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Cavern",
+          "transition": true
+        },
+        {
+          "song": "Steam",
+          "transition": false
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

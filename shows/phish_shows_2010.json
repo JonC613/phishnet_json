@@ -1,0 +1,5289 @@
+[
+  {
+    "showdate": "2010-03-15",
+    "venue": "The Waldorf Astoria",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Phish performed two Genesis tunes, Watcher of the Skies and No Reply at All, between which Trey gave what Phil Collins described as \"a convincing argument\" for inducting Genesis into the Rock and Roll Hall of Fame.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Watcher of the Skies",
+          "transition": true,
+          "footnote": "Phish Debut."
+        },
+        {
+          "song": "No Reply At All",
+          "transition": false,
+          "footnote": "Phish Debut."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-11",
+    "venue": "Toyota Park",
+    "city": "Bridgeview",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "After Possum, Trey congratulated the hometown Chicago Blackhawks&#39; victory over his beloved Philadelphia Flyers in the Stanley Cup Finals that ended two days before this show. Reba was performed without the whistling ending. Limb By Limb included an ending vocal jam. Trey teased San-Ho-Zay in Ghost.&nbsp;Antelope contained a Dave&#39;s Energy Guide tease by Trey in the intro section. Antelope subsequently contained a Fish&nbsp;drum solo. &quot;Jon Fishman&quot; was substituted for &quot;Marco Esquandolas&quot; and Antelope&#39;s lyrics were further changed with &quot;Been you to have any stick.&quot; This show featured the Phish debut of Show of Life.",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false,
+          "footnote": "Ending vocal jam."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true,
+          "footnote": "Fish drum solo. \"Jon Fishman\" substituted for \"Marco Esquandolas.\" Lyrics changed to \"Been you to have any stick.\""
+        },
+        {
+          "song": "Show of Life",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ],
+      "e": [
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-12",
+    "venue": "Blossom Music Center",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "Look Out Cleveland and Instant Karma! made their Phish debuts at this show.",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Look Out Cleveland",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Time Turns Elastic",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": true
+        },
+        {
+          "song": "Instant Karma!",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-13",
+    "venue": "Hersheypark Stadium",
+    "city": "Hershey",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bold As Love",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-15",
+    "venue": "nTelos Pavilion",
+    "city": "Portsmouth",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "This show marked the Phish debut of Cold Water (Tom Waits) and the debut of Idea. Tube was played in response to the crowd requesting it.",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Cold Water",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Idea",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-17",
+    "venue": "The Comcast Theatre",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist_notes": "Alaska contained a Streets of Cairo tease by Trey. Down With Disease was unfinished.",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Dinner and a Movie",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Esther",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Party Time",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Shine a Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-18",
+    "venue": "The Comcast Theatre",
+    "city": "Hartford",
+    "state": "CT",
+    "country": "USA",
+    "setlist_notes": "This show contained the debut of Summer of '89. Possum contained a Streets of Cairo tease by Trey and Reba did not have the whistling ending. Sleeping Monkey was played for a fan who was holding up a sign for the song during the previous show. Trey later said \"if the guy with the sign isn't here, everybody sing so he can hear it on the tape,\" leading to the crowd to sing part of the song. Trey said they were playing the second Tweezer Reprise because they didn't play one at Hershey Park.",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Summer of '89",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false,
+          "footnote": "Crowd sang part of the song."
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-19",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This gig featured the first Tweezer Reprise opener since November 9, 1995 (483 shows) and the debut of Halfway to the Moon. Tweezer Reprise was teased by Trey after Sample in a Jar and closed both this show and&nbsp;the previous night&#39;s show in Hartford as well, making this the first time since July 16, 1993 (691 shows), that two consecutive Phish shows had&nbsp;each closed with the same song (Free Bird closed both the July 15 and July 16, 1993 shows).",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tweezer Reprise",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Show of Life",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-20",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "In what is becoming a Father&#39;s Day tradition (see 6/21/09), the show-opening Brother featured the band members&#39; children jumping into a&nbsp;bathtub on stage, followed by Trey introducing each of them and wishing everyone a Happy Father&#39;s Day. Gotta Jibboo was preceded by a &quot;Charge!&quot; tease from Page and&nbsp;featured&nbsp;Tony Markellis on bass and Mike on a second guitar. In Antelope, &quot;Marco Esquandolas&quot; was changed to &quot;Mike-O Esquandolas,&quot; followed by a Mike solo. The end of Wilson contained a Dixie tease from Trey. In place of a traditional Makisupa keyword, Trey improvised verses that set up solos for Mike, then Fish, then Page. The subsequent Piper intro included repeated phrases from the Makisupa (&quot;Policeman,&quot; &quot;House,&quot; and &quot;Listen to Mike&quot;).&nbsp;Trey quoted Whole Lotta Love in the vocal jam of YEM. Page performed Frankenstein on keytar.",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Brother",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true,
+          "footnote": "Tony Markellis on bass and Mike on a second guitar."
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Sleep Again",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "\"Mike-O Esquandolas\" lyric; bass solo."
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": true
+        },
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Swept Away",
+          "transition": false
+        },
+        {
+          "song": "Steep",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true,
+          "footnote": "Improvised verses by Trey that led to solos by Mike, then Fish, then Page."
+        },
+        {
+          "song": "Piper",
+          "transition": false,
+          "footnote": "Intro contained phrases from the previous Makisupa."
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Frankenstein",
+          "transition": false,
+          "footnote": "Page on keytar."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-22",
+    "venue": "Comcast Center",
+    "city": "Mansfield",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "This show featured the Phish debut of Lit O Bit (Rita Clarke And The Naturals) and the debut of Dr. Gabel. In Antelope, &quot;Marco Esquandolas&quot; was changed to &quot;Leo Esquandolas,&quot; followed by a Page solo.",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Lit O Bit",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Dr. Gabel",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "\"Leo Esquandolas\" lyric; piano solo."
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-24",
+    "venue": "Susquehanna Bank Center",
+    "city": "Camden",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "During I Didn&#39;t Know, Trey mentioned his prediction from the 6/7/09 Camden show that the Flyers would win the Stanley Cup and announced that Fish would play a voodoo vacuum solo to guarantee that next year the Flyers <em>will </em>win the Cup. During the solo, some fans in the audience&nbsp;then began&nbsp;chanting &quot;Let&#39;s Go Flyers,&quot; prompting Fish to respond through the vacuum in time with the claps. Reba did not have the whistling ending. The Rover was a Phish debut. Disease was unfinished. At the start of the YEM vocal jam, some fans again chanted &quot;Let&#39;s Go Flyers.&quot;",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true,
+          "footnote": "\"Let's Go Flyers\" chant from some fans during vacuum solo with Fish responding through his vacuum."
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "The Rover",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Nothing",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-25",
+    "venue": "Susquehanna Bank Center",
+    "city": "Camden",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "This show featured the first Alumni Blues since July 24, 1999 (224 shows) and the first Letter to Jimmy Page since July 15, 1994 (590 shows). This show featured the Phish debut of Free Man in Paris (Joni Mitchell). Chalk Dust wasÂ unfinished. 2001 contained a Wanna Be Startin' Somethin' quote from Trey, the ensuing Billie Jean Jam contained a Thriller tease from Trey, and the second \"verse\" of 2001 contained still more Billie Jean teases, all on the first anniversary of Michael Jackson's death. Billie Jean was a Phish debut.",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": true
+        },
+        {
+          "song": "Free Man in Paris",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Summer of '89",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Time Turns Elastic",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Heavy Things",
+          "transition": false
+        },
+        {
+          "song": "Alaska",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Billie Jean",
+          "transition": false,
+          "jam": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Shine a Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-26",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist_notes": "Prior to the start of the first set, Mike teased Do You Feel Like We Do. This show featured the Phish debut of In the Aeroplane Over the Sea  (Neutral Milk Hotel). Suzy contained a Leigh Fordham reference from Fish. Tweezer featured a Watcher of the Skies tease from Mike. Wolfman's contained a vocal jam.",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Crowd Control",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "In the Aeroplane Over the Sea",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false,
+          "footnote": "Leigh Fordham reference from Fish."
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false,
+          "footnote": "Vocal jam."
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-27",
+    "venue": "Merriweather Post Pavilion",
+    "city": "Columbia",
+    "state": "MD",
+    "country": "USA",
+    "setlist_notes": "This show featured the first Walfredo since September 30, 2000 (131 shows). Antelope contained Brian and Robert teases, an It Was a Very Good year tease from Trey, and an alternate &quot;Michael Esquandolas&quot; lyric. Jumpin&#39; Jack Flash was a Phish debut. Piper, Ghost, Contact, YEM and Fire all contained Saw it Again quotes. Trey teased San-Ho-Zay in Ghost. YEM also contained Jumpin&#39; Jack Flash teases and, in the vocal jam, a Meatstick tease from Trey, quotes of Saw It Again and Surfin&#39; Bird (The Trashmen), and a Daniel Saw the Stone quote from Mike. The lyrics to Fire were changed to &quot;Let Jon Fishman take over.&quot;",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Walfredo",
+          "transition": true
+        },
+        {
+          "song": "Mellow Mood",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Ginseng Sullivan",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Lyrics changed to \"Michael Esquandolas.\""
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Jumpin' Jack Flash",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fire",
+          "transition": false,
+          "footnote": "Lyrics changed to \"Let Jon Fishman take over.\""
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-06-29",
+    "venue": "CMAC Performing Arts Center",
+    "city": "Canandaigua",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Reba did not have  the whistling ending. This show featured the Phish debut of I Am The Walrus. Weekapaug was unfinished.",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Connection",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Undermind",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "I Am the Walrus",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-07-01",
+    "venue": "Time Warner Cable Music Pavilion at Walnut Creek ",
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "This show featured the first Time Loves a Hero since December 31, 2002 (127 shows), the first Have Mercy since December 10, 1999 (191 shows), and the first Light Up Or Leave Me Alone since December 30, 1999 (183 shows), which was unfinished and subsequently teased in Suzy.",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Time Loves a Hero",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Have Mercy",
+          "transition": true
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-07-02",
+    "venue": "Verizon Wireless Amphitheatre - Charlotte",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "This show featured the first Fuck Your Face since April 29, 1987 (1,426Â shows). AC/DC Bag contained Buried Alive teases. YEM contained Fuck Your Face and Moving in Stereo (The Cars) teases. The YEM vocal jam included portions of Proud Mary and Get BackÂ interspersed with Dong Work for Yuda (Frank Zappa) and Slow Ride quotes.",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Mexican Cousin",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Fuck Your Face",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-07-03",
+    "venue": "Verizon Wireless Amphitheatre at Encore Park",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "Character Zero opened a show for the first time ever. McGrupp was played by request with Trey taking the sign from the crowd and holding it up before starting the song.&nbsp;Trey forgot the second verse to Sanity, asking &quot;What the heck&#39;s the second verse here?&quot; Trey teased Super Bad in Tweezer.&nbsp;In a possible foreshadowing of the song&#39;s Phish debut the next night, Hood&#39;s intro contained brief Killing in the Name teases from Fish.",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Character Zero",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Sanity",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-07-04",
+    "venue": "Verizon Wireless Amphitheatre at Encore Park",
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "Disease was unfinished. Harpua contained a tease of London Bridge Is Falling Down.&nbsp;This show marked the Phish debut of Killing in the Name (Rage Against the Machine).",
+    "tour_name": "2010 Early Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Colonel Forbin's Ascent",
+          "transition": false
+        },
+        {
+          "song": "Fly Famous Mockingbird",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Tela",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": false
+        },
+        {
+          "song": "Killing in the Name",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Harpua",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-08-05",
+    "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Prior to Down With Disease, Trey and Mike both teased Call to the Post and the <em>Leave It To Beaver</em> theme. Disease was subsequently unfinished. Before the encore, but after acknowledging a sign reading &quot;Stage Banter,&quot; Trey talked about a new guitar that Paul Languedoc had made for him, explaining that Paul had &quot;put aside this magic piece of wood to build me one last really special guitar,&quot; adding that he had been freaking out all night about how good the guitar was and pointing out that there was an ocelot on it. Trey told the crowd he wanted them to do a big cheer for Paul; Trey and Fish subsequently led the audience in a &quot;Languedoc&quot; chant.",
+    "tour_name": "2010 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-08-06",
+    "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "The YEM vocal jam contained an I Want to Take You Higher quote from Trey.",
+    "tour_name": "2010 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Show of Life",
+          "transition": true
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-08-07",
+    "venue": "William Randolph Hearst Greek Theatre, University of California, Berkeley ",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Reba did not have the whistling ending. Trey teased Streets of Cairo in 46 Days and Dreaming (Blondie) in Light.",
+    "tour_name": "2010 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Sleep Again",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-08-09",
+    "venue": "Telluride Town Park",
+    "city": "Telluride",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Boogie On Reggae Woman contained a Manteca tease from Page. This show featured the first Quinn the Eskimo since October 2, 1999 (211 shows).",
+    "tour_name": "2010 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": true
+        },
+        {
+          "song": "Summer of '89",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-08-10",
+    "venue": "Telluride Town Park",
+    "city": "Telluride",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Carini contained a quote from Fish of One of These Days (&quot;One of these days I&#39;m gonna cut you into little pieces&quot;) and, shortly thereafter, an Echoes tease from Page (the &quot;ping&quot; noise that begins Echoes).",
+    "tour_name": "2010 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "Let Me Lie",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Shine a Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-08-12",
+    "venue": "Verizon Wireless Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "Melt was unfinished. Trey sang the verses of Fee through a megaphone for the first time since February 25, 1997 (388 shows) and also used the megaphone during Kung. The lyrics to Fire were changed to \"Move over and let Cactus take over.\"",
+    "tour_name": "2010 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Time Turns Elastic",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Buffalo Bill",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "Trey sang verses through megaphone."
+        },
+        {
+          "song": "NO2",
+          "transition": false
+        },
+        {
+          "song": "Kung",
+          "transition": false,
+          "footnote": "Trey on megaphone."
+        },
+        {
+          "song": "Fire",
+          "transition": false,
+          "footnote": "Lyrics changed to \"Move over and let Cactus take over.\""
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-08-13",
+    "venue": "Verizon Wireless Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "Trey teased San-Ho-Zay at the end of Halley&#39;s.&nbsp;The segue from Meatstick into Mango contained a tease of Dave&#39;s Energy Guide from Page.",
+    "tour_name": "2010 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Train Song",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "The Ballad of Curtis Loew",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-08-14",
+    "venue": "Alpine Valley Music Theatre",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist_notes": "Reba did not have the whistling ending. The Marco Esquandolas lyric in Antelope was changed to Marco Benevento. Down with Disease contained a Little Faces (Oysterhead) tease from Page and was unfinished.&nbsp;This show was officially released as part of the&nbsp;<em>Alpine Valley&nbsp;</em>DVD.",
+    "tour_name": "2010 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Fuck Your Face",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Lyrics changed to Marco Benevento."
+        }
+      ],
+      "2": [
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-08-15",
+    "venue": "Alpine Valley Music Theatre",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist_notes": "Piper contained a <em>Close Encounters of the Third Kind</em>&nbsp;theme tease from Trey.&nbsp;This show was officially released as part of the&nbsp;<em>Alpine Valley&nbsp;</em>DVD.",
+    "tour_name": "2010 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Oh! Sweet Nuthin'",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-08-17",
+    "venue": "Nikon at Jones Beach Theater",
+    "city": "Wantagh",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Portions of Wilson were performed by Trey on a toy guitar during which Fish&nbsp;teased the beginning drumbeats of Rock and Roll (Led Zeppelin). Reba did not have the whistling ending.",
+    "tour_name": "2010 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": true,
+          "footnote": "Portions played by Trey on toy guitar."
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Lengthwise",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-08-18",
+    "venue": "Nikon at Jones Beach Theater",
+    "city": "Wantagh",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "The Marco Esquandolas lyric in Antelope was changed to Mike-O Esquandolas, and was followed by a short bass solo by Mike. Light contained a tease of Seven Below from Fish.&nbsp;The soundcheck began with You Can Get It If You Really Want (Jimmy Cliff), which included quotes from Trey of You Can&#39;t Always Get What You Want. &nbsp;Rock On (David Essex) was briefly played after Hey Joe.",
+    "tour_name": "2010 Late Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-05-13",
+    "venue": "NBC Television Studios, Studio 6B",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Phish (introduced by Keith Richards!) were the musical guests on <em>Late Night with Jimmy Fallon</em>&nbsp;as part of a week of artists performing <em>Exile On Main St</em>&nbsp;songs on the show in celebration of The Rolling Stones' re-release of the album. Phish stuck around after the conclusion of the show and played Kill Devil Falls, which was not included in that evening's broadcast, but was subsequently aired as part of the 6/9/10 <em>Fallon</em>&nbsp;show.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Loving Cup",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-08",
+    "venue": "Zilker Park",
+    "city": "Austin",
+    "state": "TX",
+    "country": "USA",
+    "setlist_notes": "This show marked Phish&rsquo;s first appearance at the Austin City Limits Music Festival. Hood was unfinished.",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-10",
+    "venue": "1stBank Center",
+    "city": "Broomfield",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Ghost featured a Bowie tease from Fish. Trey sang the verses of Fee through a megaphone. Before Fee, Trey waved the megaphone around. He also waved it around during Fee&#39;s coda and used it to create feedback during the first Makisupa. Makisupa included the lyrics &quot;Woke up this morning alien on my face, woke up in the afternoon and I turned up the bass&quot;&nbsp;and a subsequent bass solo from Mike. This show featured the debut of My Problem Right There.",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Horn",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "Trey sang verses through megaphone."
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true,
+          "footnote": "\"Woke up this morning alien on my face, woke up in the afternoon and I turned up the bass\" lyrics. Bass solo from Mike."
+        },
+        {
+          "song": "My Problem Right There",
+          "transition": false,
+          "footnote": "Debut. "
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-11",
+    "venue": "1stBank Center",
+    "city": "Broomfield",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Reba did not have the whistling ending. What Things Seem made its Phish debut. Antelope included a call-and-response between Trey (\"Marco!\")&nbsp;and the audience (\"Polo!\").",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "What Things Seem",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Golden Age",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-12",
+    "venue": "1stBank Center",
+    "city": "Broomfield",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Carini&#39;s lyrics were changed to reference a suspected outbreak of Bubonic plague in the Broomfield area. The <a href=\"http://news.yahoo.com/s/ap/lt_chile_mine_collapse\">first of the trapped miners in Chile emerged</a> during the setbreak, and the second during Theme -&gt; Free &gt; Joy. After Meatstick&#39;s&nbsp;conclusion, the audience continued the song and dance for several choruses.",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Time Turns Elastic",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": true
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false,
+          "footnote": "Lyrics changed to reference the Bubonic plague."
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Summer of '89",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Meatstick",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-15",
+    "venue": "North Charleston Coliseum",
+    "city": "North Charleston",
+    "state": "SC",
+    "country": "USA",
+    "setlist_notes": "Bill Bailey featured Page&rsquo;s dad, Dr. Jack McConnell, on vocals and tap shoes. Antelope&#39;s Marco Esquandolas lyric was changed to &quot;Mike-O.&quot; Disease was&nbsp;unfinished.",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Bill Bailey, Won't You Please Come Home?",
+          "transition": true,
+          "footnote": "Dr. Jack McConnell on vocals and tap shoes."
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Joy",
+          "transition": true
+        },
+        {
+          "song": "Buffalo Bill",
+          "transition": true
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "\"Mike-O\" substituted for \"Marco Esquandolas.\""
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false
+        },
+        {
+          "song": "My Problem Right There",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Mexican Cousin",
+          "transition": true
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-16",
+    "venue": "North Charleston Coliseum",
+    "city": "North Charleston",
+    "state": "SC",
+    "country": "USA",
+    "setlist_notes": "The YEM vocal jam contained Guy Forget quotes.",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true
+        },
+        {
+          "song": "Uncle Pen",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Show of Life",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "I Been Around",
+          "transition": true
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-19",
+    "venue": "Augusta Civic Center",
+    "city": "Augusta",
+    "state": "ME",
+    "country": "USA",
+    "setlist_notes": "Mike&#39;s Song contained a Fuck Your Face tease. Fast Enough for You started with Fish&nbsp;playing the drumbeat to I Am Hydrogen. Reba contained a Manteca quote from Fish and did not have the whistling ending. &nbsp;",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Torn and Frayed",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Nellie Kane",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Fuck Your Face",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Fuck Your Face",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": false
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "A Day in the Life",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-20",
+    "venue": "Utica Memorial Auditorium",
+    "city": "Utica",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Wolfman&#39;s included a vocal jam, as well as a Streets of Cairo tease from Trey. The &quot;dry ice factory&quot; line in Cities was changed to &quot;Genesee factory.&quot; Bowie featured Guyute teases throughout the intro, as well as several sections of Wilson jamming with Guyute lyrics during the song proper. Wilson, Saw it Again and Antelope all included Guyute teases from Trey, and Page also teased Guyute at the very end of Antelope (This show is referred to by many fans as &quot;Guyutica&quot;). The Antelope intro also contained Wilson and Nellie Kane teases from Mike. Wilson also had its lyric changed to &quot;I must inquire Guyute&quot; and Trey teased Guyute instead of saying &quot;Marco Esquandolas&quot; in Antelope. Piper contained Birds of a Feather teases. This show was officially released as <em>Live In Utica.</em>",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false,
+          "footnote": "Vocal jam."
+        },
+        {
+          "song": "Cities",
+          "transition": false,
+          "footnote": "Alternate \"Genesee Factory\" lyric."
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Wilson",
+          "transition": false,
+          "footnote": "Lyric changed to \"I must inquire Guyute.\""
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Trey teased Guyute instead of saying \"Marco Esquandolas.\""
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Tela",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        },
+        {
+          "song": "Have Mercy",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-22",
+    "venue": "Dunkin' Donuts Center",
+    "city": "Providence",
+    "state": "RI",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "My Problem Right There",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Sanity",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-23",
+    "venue": "Mullins Center, University of Massachusetts",
+    "city": "Amherst",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "During Party Time, Trey wished &quot;Kevin&quot; a happy birthday (Kevin is the owner of Higher Ground in Burlington). Tweezer Reprise featured band members singing the refrain to Meatstick in place of the Tweezer Reprise lyrics. Prior to Down With Disease, Mike teased the <em>Leave It To Beaver</em> theme. The end of Disease contained a Curtain tease from Mike. Disease was&nbsp;unfinished and My Friend did not contain the &quot;Myfe&quot; ending. Piper contained a Maze tease and YEM included Wilson teases.",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Meatstick",
+          "transition": true
+        },
+        {
+          "song": "Party Time",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Kill Devil Falls",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Sparkle",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Love You",
+          "transition": false
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false,
+          "footnote": "Meatstick lyrics instead of Tweezer Reprise lyrics."
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Halfway to the Moon",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Shine a Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-24",
+    "venue": "Mullins Center, University of Massachusetts",
+    "city": "Amherst",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "Ride Captain Ride was played for the first time since December 10, 1999 (216 shows). Stash contained a brief Dave's Energy Guide tease from Trey. Trey sang verses of Fee through a megaphone.",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Ride Captain Ride",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false,
+          "footnote": "Trey sang verses through megaphone."
+        },
+        {
+          "song": "Time Turns Elastic",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Alaska",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Brother",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-29",
+    "venue": "Boardwalk Hall",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Moma Dance was&nbsp;unfinished.",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": true
+        },
+        {
+          "song": "My Soul",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Light Up Or Leave Me Alone",
+          "transition": true
+        },
+        {
+          "song": "Sugar Shack",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Fluffhead",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-30",
+    "venue": "Boardwalk Hall",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Whole Lotta Love was incomplete (one verse only) and was played for the first time since March 1, 1991 (1,037 shows). Wolfman's contained a vocal jam. Ha Ha Ha, Gin, Possum, Tweezer, and Tweezer Reprise all contained Whole Lotta Love teases and the Bowie intro contained a Whole Lotta Love quote from Trey. Squirming Coil contained The Rain Song and Thank You teases from Page and Possum also contained a Sneakin' Sally tease. The incomplete versions of Heartbreaker, Thank You, and Stairway to Heaven were all Phish debuts. Ramble On was played for the first time since August 12, 1998 (307 shows). After Stairway to Heaven, Trey joked, \"Happy Halloween! See you all next year.\" Mike teased The Lemon Song before Halley's. Appropriately, Whole Lotta Love was also the post-show music. From the soundcheck, Ramble On and the second and third versions of Whole Lotta Love were incomplete. Destiny Unbound was played by only Mike and Fish, started out as being sung to the drumbeat of Time Loves A Hero and included a Live and Let Die quote from Mike.",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Guelah Papyrus",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Whole Lotta Love",
+          "transition": false,
+          "footnote": "One verse only."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Ha Ha Ha",
+          "transition": true
+        },
+        {
+          "song": "Walk Away",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false,
+          "footnote": "Vocal jam."
+        },
+        {
+          "song": "Undermind",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Heartbreaker",
+          "transition": false,
+          "footnote": "Phish debut; Incomplete."
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Ramble On",
+          "transition": false
+        },
+        {
+          "song": "Thank You",
+          "transition": false,
+          "footnote": "Phish debut; Incomplete."
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Stairway to Heaven",
+          "transition": true,
+          "footnote": "Phish debut; Incomplete."
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Show of Life",
+          "transition": true
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-31",
+    "venue": "Boardwalk Hall",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Page performed Frankenstein on keytar. Ghost included a San-Ho-Zay tease from Trey. Spooky was performed for the first time since April 14, 1993 (754 shows). The second set \"musical costume\" was Little Feat'sÂ <em>Waiting for Columbus</em>. Join the Band (the first track ofÂ <em>Waiting for Columbus</em>)<em>Â </em>was played over the P.A. before the start of the second set. Subsequently, Phish was introduced by Kevin Statesir (founder of Higher Ground) as \"Little Feat\" before Fat Man in the Bathtub. In the tradition of some of Phish's previous crowd experiments in the early '90s, flyers explaining a new Secret Language prank were included in the Phishbills that were passed out to fans as they walked into the show. The prank, designed to confuse those who would later listen to the recording, consisted of an announcer introducing Phish (as Little Feat). When the announcer would say a letter of the band FEAT (\"Give me an F!\"), the crowd would respond with letters corresponding to PHISH (\"P-H!\"). All of the songs in the second set other than Time Loves a Hero were Phish debuts. All of the songs in the second set, other than Don't Bogart That Joint and Willin', featured Giovanni Hidalgo on percussion. A five piece horn section consisting of Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet joined the band for Old Folks Boogie, Time Loves a Hero, Day or Night, Mercenary Territory, Spanish Moon, Dixie Chicken, Rocket in My Pocket and Feats Don't Fail Me Now. Willin' featured Page on bass, Mike on piano, Trey on drums and Fish on vocals. Prior to the piano solo at the beginning of Willin', Fish remarked, \"That's supposed to be Bill Payne on the keyboard.\" Don't Bogart That Joint was performed <em>a cappella</em>. Trey introduced the guest musicians at the start of Feats Don't Fail Me Now and Page teased \"Charge!\" during the introductions. At the conclusion of the second set, the entire band marched the perimeter of the floor. Disease was unfinished, was initially botched, and had to be restarted, prompting Fish to declare, \"This one's off <em>our </em>album.\" Julius featured Giovanni Hidalgo and the <em>Waiting for Columbus</em>Â horn section.",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Frankenstein",
+          "transition": true,
+          "footnote": "Page on keytar."
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Spooky",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Fat Man in the Bathtub",
+          "transition": true,
+          "footnote": "Phish debut; Giovanni Hidalgo on percussion."
+        },
+        {
+          "song": "All That You Dream",
+          "transition": true,
+          "footnote": "Phish debut; Giovanni Hidalgo on percussion."
+        },
+        {
+          "song": "Oh Atlanta",
+          "transition": true,
+          "footnote": "Phish debut; Giovanni Hidalgo on percussion."
+        },
+        {
+          "song": "Old Folks Boogie",
+          "transition": true,
+          "footnote": "Phish debut; Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet."
+        },
+        {
+          "song": "Time Loves a Hero",
+          "transition": false,
+          "footnote": "Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet."
+        },
+        {
+          "song": "Day or Night",
+          "transition": true,
+          "footnote": "Phish debut; Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet."
+        },
+        {
+          "song": "Mercenary Territory",
+          "transition": true,
+          "footnote": "Phish debut; Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet."
+        },
+        {
+          "song": "Spanish Moon",
+          "transition": true,
+          "footnote": "Phish debut; Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet."
+        },
+        {
+          "song": "Dixie Chicken",
+          "transition": false,
+          "footnote": "Phish debut; Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet."
+        },
+        {
+          "song": "Tripe Face Boogie",
+          "transition": true,
+          "footnote": "Phish debut; Giovanni Hidalgo on percussion."
+        },
+        {
+          "song": "Rocket in My Pocket",
+          "transition": true,
+          "footnote": "Phish debut; Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet."
+        },
+        {
+          "song": "Willin'",
+          "transition": true,
+          "footnote": "Phish debut; Page on bass, Mike on piano, Trey on drums and Fish on vocals."
+        },
+        {
+          "song": "Don't Bogart That Joint",
+          "transition": true,
+          "footnote": "Phish debut; A cappella."
+        },
+        {
+          "song": "A Apolitical Blues",
+          "transition": true,
+          "footnote": "Phish debut; Giovanni Hidalgo on percussion."
+        },
+        {
+          "song": "Sailin' Shoes",
+          "transition": true,
+          "footnote": "Phish debut; Giovanni Hidalgo on percussion."
+        },
+        {
+          "song": "Feats Don't Fail Me Now",
+          "transition": false,
+          "footnote": "Phish debut; Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet."
+        }
+      ],
+      "3": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Julius",
+          "transition": false,
+          "footnote": "Giovanni Hidalgo on percussion, Aaron Johnson on trombone, Stuart Bogie on saxophone, Ian Hendrickson-Smith on saxophone, Michael Leonhart on trumpet, and Eric Biondo on trumpet."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-10-26",
+    "venue": "Verizon Wireless Arena",
+    "city": "Manchester",
+    "state": "NH",
+    "country": "USA",
+    "setlist_notes": "After Midnight was played for the first time since December 31, 1999 (208 shows). In Alumni, Trey added \"from Goddard College\" after the final \"'cause I got a degree\" lyric. Makisupa included the lyrics \"Woke up this morning with a policeman at my door all I could do was shrug, and go back in my bedroom and smoke another nug.\" This show featured the Phish debut of Night Nurse; original artist Gregory Isaacs passed away the night before, October 25, 2010. Weekapaug was heavily teased by Trey in Mango before the segue into Weekapaug itself. Weekapaug subsequently contained a Can't You Hear Me Knocking jam, which featured lyrics from Ghost and Night Nurse, and was unfinished.",
+    "tour_name": "2010 Fall Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "After Midnight",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": false
+        },
+        {
+          "song": "Letter to Jimmy Page",
+          "transition": false
+        },
+        {
+          "song": "Alumni Blues",
+          "transition": true,
+          "footnote": "\"From Goddard College\" added to lyrics."
+        },
+        {
+          "song": "Mellow Mood",
+          "transition": true
+        },
+        {
+          "song": "Access Me",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "All of These Dreams",
+          "transition": true
+        },
+        {
+          "song": "The Curtain With",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "A Song I Heard the Ocean Sing",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "\"Woke up this morning with a policeman at my door all I could do was shrug, and go back in my bedroom and smoke another nug\" lyrics."
+        },
+        {
+          "song": "Night Nurse",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Llama",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Show of Life",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-12-27",
+    "venue": "DCU Center",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "The end of Cavern was changed to \"take care of your boots.\"",
+    "tour_name": "2010/2011 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Funky Bitch",
+          "transition": true
+        },
+        {
+          "song": "Cool It Down",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "What Things Seem",
+          "transition": true
+        },
+        {
+          "song": "Roses Are Free",
+          "transition": false
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Mound",
+          "transition": true
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Farmhouse",
+          "transition": true
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Twenty Years Later",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false,
+          "footnote": "Lyric changed to \"take care of your boots.\""
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-12-28",
+    "venue": "DCU Center",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "She Caught the Katy was last performed on July 21, 1998 (325 shows). Trey used a device that played Sarah Palin quotes during Alaska and after the debut of Pigtail. This show also featured the Phish debut of Birdwatcher. Â Back on the Train featured a Streets of Cairo tease from Trey and Hood contained a Spanish Harlem tease from Page.",
+    "tour_name": "2010/2011 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Kill Devil Falls",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": true
+        },
+        {
+          "song": "Alaska",
+          "transition": true,
+          "footnote": "Trey used a device that played Sarah Palin quotes."
+        },
+        {
+          "song": "She Caught the Katy and Left Me a Mule to Ride",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Pigtail",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Stealing Time From the Faulty Plan",
+          "transition": true
+        },
+        {
+          "song": "The Birdwatcher",
+          "transition": false,
+          "footnote": "Phish debut."
+        }
+      ],
+      "2": [
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "The Wedge",
+          "transition": false
+        },
+        {
+          "song": "Frankie Says",
+          "transition": false
+        },
+        {
+          "song": "Albuquerque",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Shine a Light",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-12-30",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show was the first Phish performance to be webcast viaÂ <a href=\"http://www.livephish.com/phish/Hampton-2013-Webcast.asp\">LivePhish</a>.Â The PAÂ cut out during Camel Walk. My Friend did not contain the \"Myfe\" ending.Â ",
+    "tour_name": "2010/2011 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": false
+        },
+        {
+          "song": "Quinn the Eskimo (The Mighty Quinn)",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true,
+          "footnote": "P.A. cut out."
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Fat Man in the Bathtub",
+          "transition": true
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Light",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": false,
+          "footnote": "No \"Myfe\" ending."
+        },
+        {
+          "song": "Axilla",
+          "transition": true
+        },
+        {
+          "song": "Fluffhead",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2010-12-31",
+    "venue": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This show featured the Phish debut of Burn That Bridge. Ocelot, NICU and First Tube contained Auld Lang Syne teases. Beauty of My Dreams was played for the first time since July 22, 2003 (133 shows). Disease was unfinished. Manteca was played for the first time since October 30, 1998 (303 shows) and the ensuing YEM vocal jam contained Manteca quotes. Before midnight, several groups of multiethnic dancers appeared on stage and sang the Meatstick lyrics in their respective languages. The band joined the dancers and thenÂ stealthily disappeared from the stage, only to reappear at the other side of the arena in the giant hotdog from past NYE shows ('94 and '99). As a result, portions of the Meatstick were pre-recorded. Auld Lang Syne was sung with the Meatstick singers while Trey playedÂ guitar.Â Appropriately, the post-show music was Captain Beefheart's <a href=\"http://phish.net/song/tropical-hot-dog-night/history\">Tropical Hot Dog Night</a>.",
+    "tour_name": "2010/2011 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Burn That Bridge",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Weigh",
+          "transition": false
+        },
+        {
+          "song": "Ocelot",
+          "transition": true
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Gone",
+          "transition": true
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Sand",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Ghost",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Manteca",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Meatstick",
+          "transition": true,
+          "footnote": "Portions pre-recorded; Lyrics sung in multiple languages."
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": true,
+          "footnote": "Sung with Meatstick singers while Trey played guitar."
+        },
+        {
+          "song": "After Midnight",
+          "transition": true
+        },
+        {
+          "song": "Backwards Down the Number Line",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Grind",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

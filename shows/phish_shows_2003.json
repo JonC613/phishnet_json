@@ -1,0 +1,4250 @@
+[
+  {
+    "showdate": "2003-01-02",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "Gin included San-Ho-Zay teases. Trey referenced the New Yearâs Eve Tom Hanks prank by again âintroducingâ Hanks, this time prior to Itâs Ice. Round Room, Mexican Cousin, and 46 Days (complete with a Canât You Hear Me Knocking tease) all debuted. Thunderhead made its Phish debut  during this show as well. Antelope included a tease of the <em>James Bond</em> theme from Page.Â ",
+    "tour_name": "2002/2003 Inverted NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Round Room",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "The Horse",
+          "transition": false
+        },
+        {
+          "song": "Silent in the Morning",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "46 Days",
+          "transition": false,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Thunderhead",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Mexican Cousin",
+          "transition": false,
+          "footnote": "Debut."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-01-03",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "This show featured the debut of All of These Dreams and the Phish debut of Pebbles and Marbles. Trey restarted YEM after a sloppy attempt at the composed beginning section. Trey teased San-Ho-Zay in YEM. One portion of the YEM vocal jam was based on the name âGeorge Takeiâ (the actor who played Mr. Sulu on <em>Star Trek</em>) and another was based on the melody to Tweezer Reprise. Trey teased Can't You Hear Me Knocking in Birds of a Feather. Lyrics in Makisupa referenced âfatty,â âWaffle House,â and âHooters.â The end of Possum included bizarre on-stage antics with Page playing Treyâs guitar from his seat, Trey playing Mikeâs bass, and Mike using the âBâ and âAhâ cymbals normally reserved for Cracklinâ Rosie. This improvisational Contact continued the joke of mock introductions, as Trey introduced âAl Gore.â",
+    "tour_name": "2002/2003 Inverted NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Tumblin' Down",
+          "transition": true,
+          "footnote": "With Mike on guitar and Carl âGeerzâ Gerhard on trumpet."
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Outer Space",
+          "transition": false,
+          "footnote": "With Mike on guitar and Carl âGeerzâ Gerhard on trumpet."
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "Restarted. One portion of the vocal jam was based on the name \"George Takei.\""
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true,
+          "footnote": "Keywords referenced \"fatty,\" \"Waffle House,\" and \"Hooters.\""
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true
+        },
+        {
+          "song": "All of These Dreams",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Possum",
+          "transition": false,
+          "footnote": "Instrument switching."
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-01-04",
+    "venue": "Hampton Coliseum",
+    "city": "Hampton",
+    "state": "VA",
+    "country": "USA",
+    "setlist_notes": "Anything But Me and Friday both debuted. Ya Mar contained a Stash teaase from Trey. Weekapaug was unfinished. During 2001, Trey thanked the fans and talked about how fortunate the band was to be able to share the reunion with them. Trey, Mike and Page each took an individual &ldquo;big rock ending&rdquo; vamp before the band ended the song together.",
+    "tour_name": "2002/2003 Inverted NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Anything But Me",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false,
+          "footnote": "Trey, Mike, and Page each took an individual \"big rock ending\" vamp before the band ended the song together."
+        }
+      ],
+      "e": [
+        {
+          "song": "Friday",
+          "transition": false,
+          "footnote": "Debut."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-02-14",
+    "venue": "Great Western Forum",
+    "city": "Inglewood",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "The Cover of 'Rolling Stone' made its Phish debut at this show, presumably as a nod to their actual appearance on the cover of the March 6, 2003 issue of that very magazine. Gin included Entrance of the Gladiators,Â Woman from Tokyo, and San-Ho-Zay teases. Trey also teased San-Ho-Zay in Walls of the Cave.Â A fan jumped on-stage and grabbed Treyâs microphone during AC/DC Bag before being dragged off-stage.",
+    "tour_name": "2003 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Sweet One",
+          "transition": true
+        },
+        {
+          "song": "The Cover of 'Rolling Stone'",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Possum",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "All of These Dreams",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "The Oh Kee Pa Ceremony",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-02-15",
+    "venue": "Thomas & Mack Center",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Trey teased San-Ho-Zay in Wolfman's Brother and Ghost. Reba did not have the whistling ending. Life on Mars? was played for the first time since March 2, 1997 (255 shows). Antelope included Stash teases and a 2001 tease. Fans hung a large white banner over a section of the venue balcony proclaiming that it had been â871 Days Since Last Ghostâ; the same banner appeared the next night indicating â1 Days Since Last Ghost.â Hood included a âsilentâ jam.",
+    "tour_name": "2003 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Stranger Than Fiction",
+          "transition": true,
+          "footnote": "Stranger Than Fiction"
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "She Sends Me",
+          "transition": true,
+          "footnote": "She Sends Me"
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Crab Eyes",
+          "transition": true,
+          "footnote": "Crab Eyes"
+        },
+        {
+          "song": "Life on Mars?",
+          "transition": true
+        },
+        {
+          "song": "Happy Hour Hero",
+          "transition": false,
+          "footnote": "Happy Hour Hero"
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Seat of My Pants",
+          "transition": true,
+          "footnote": "Seat of My Pants"
+        },
+        {
+          "song": "It's Ice",
+          "transition": false
+        },
+        {
+          "song": "Mexico",
+          "transition": false,
+          "footnote": "Mexico"
+        },
+        {
+          "song": "Frankie Says",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Southbound",
+          "transition": true,
+          "footnote": "With Mike and Dickey Betts."
+        },
+        {
+          "song": "In Memory of Elizabeth Reed",
+          "transition": true,
+          "footnote": "With Mike and Dickey Betts."
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Timmy Tucker",
+          "transition": false,
+          "footnote": "Timmy Tucker"
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        },
+        {
+          "song": "Meat",
+          "transition": false,
+          "footnote": "Meat"
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Kyle's Song",
+          "transition": false,
+          "footnote": "Kyle's Song"
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Head",
+          "transition": false,
+          "footnote": "Head"
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false,
+          "footnote": "\"Silent\" jam."
+        }
+      ],
+      "e": [
+        {
+          "song": "Head Reprise",
+          "transition": true,
+          "footnote": "Head Reprise"
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Sweet Emotion",
+          "transition": false,
+          "footnote": "Sweet Emotion"
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-02-16",
+    "venue": "Thomas & Mack Center",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "USA",
+    "setlist_notes": "Golden Lady was played for the first time since October 20, 1994 (461 shows). Trey chided FishÂ at the start of the second set, claiming that he didnât know how to play Disease. Trey teased DEG in Seven Below. The jam out of Piper included an In-A-Gadda-Da-Vida tease from Page and a Rift tease before moving briefly through the ending segment of Disease (in the key of Piper, no less) before segueing into Makisupa.",
+    "tour_name": "2003 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "David Bowie",
+          "transition": false
+        },
+        {
+          "song": "Catapult",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Round Room",
+          "transition": true
+        },
+        {
+          "song": "Golden Lady",
+          "transition": false
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        },
+        {
+          "song": "Anything But Me",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Friday",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-02-18",
+    "venue": "Pepsi Center",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "setlist_notes": "Twist and&nbsp;Walls of the Cave included San-Ho-Zay teases from Trey.&nbsp;Moma Dance contained DEG teases from Trey and was unfinished. The YEM vocal jam included a tease of the William Tell Overture. The Phish debut of The Lion Sleeps Tonight was performed <em>a cappella</em>.",
+    "tour_name": "2003 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Brian and Robert",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "The Moma Dance",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Thunderhead",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "The Lion Sleeps Tonight",
+          "transition": false,
+          "footnote": "Phish debut; a cappella."
+        }
+      ],
+      "e": [
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Mexican Cousin",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-02-20",
+    "venue": "Allstate Arena",
+    "city": "Rosemont",
+    "state": "IL",
+    "country": "USA",
+    "setlist_notes": "Gotta Jibboo included a&nbsp;San-Ho-Zay tease from Trey.",
+    "tour_name": "2003 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Golgi Apparatus",
+          "transition": true
+        },
+        {
+          "song": "Anything But Me",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-02-21",
+    "venue": "U.S. Bank Arena",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "Lifeboy was played for the first time since November 25, 1998 (135 shows). During I Didnât Know, Trey introduced FishÂ as âHenrietta, the worldâs finest vacuum player.â I Didn't Know also included some dancing antics from Trey, Page, and Mike while FishÂ took his vacuum solo. 2001 included teases of Jesu, Joy of Manâs Desiring, Simple Gifts, and Stash from Trey.",
+    "tour_name": "2003 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Lifeboy",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "All of These Dreams",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-02-22",
+    "venue": "U.S. Bank Arena",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "USA",
+    "setlist_notes": "Piper contained a DEG tease. For the first known time, Weekapaug was played without Mikeâs Song (possibly to bring closure to the Mikeâs Song a night earlier). Gin included a Mr. Completely tease. Trey teased San-Ho-Zay in Suzy Greenberg.",
+    "tour_name": "2003 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Friday",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-02-24",
+    "venue": "Continental Airlines Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "The last three songs of the first set were Phish concert debuts that B.B. King on guitar and vocals.",
+    "tour_name": "2003 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Corinna",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Everyday I Have the Blues",
+          "transition": true,
+          "footnote": "Phish debut; B.B. King on guitar and vocals."
+        },
+        {
+          "song": "The Thrill is Gone",
+          "transition": true,
+          "footnote": "Phish debut; B.B. King on guitar and vocals."
+        },
+        {
+          "song": "Rock Me Baby",
+          "transition": false,
+          "footnote": "Phish debut; B.B. King on guitar and vocals."
+        }
+      ],
+      "2": [
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "All of These Dreams",
+          "transition": true
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Farmhouse",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-02-25",
+    "venue": "First Union Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "Talk was played for the first time since August 6, 1998 (169 shows). Theme was unfinished.",
+    "tour_name": "2003 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Talk",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Frankie Says",
+          "transition": true
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Thunderhead",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-02-26",
+    "venue": "Worcester Centrum Centre",
+    "city": "Worcester",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "YEM was preceded by a Call to the Post tease from Trey. The YEM vocal jam included Trey singing pieces of Clone (which would be played in its entirety after the vocal jam). This show marked the Phish debuts of Clone, Drifting, Blue Skies, and Final Flight (all of which had previously been played by various band member side projects). Maze included a tease from Page of Summertime (Gershwin). The lyrics to Makisupa referenced the fire at the bandâs hotel in Cincinnati a week earlier. Trey expanded Pageâs nickname to âLeo Kottkeâ in Ya Mar. Ya Mar also included a Stash tease. Golgi included a Frankenstein tease.",
+    "tour_name": "2003 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Clone",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Drifting",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Blue Skies",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Final Flight",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Maze",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Low Rider",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Lyrics referenced the fire at the band's hotel in Cincinnati a week earlier."
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-02-28",
+    "venue": "Nassau Veterans Memorial Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "<p>Phish broke out two long-shelved tunes: the first Destiny Unbound since November 15, 1991 (800 shows) and the first Soul Shakedown Party since February 20, 1997 (272 shows). Trey teased Mr. Completely in Bathtub Gin. Back on the Train and Tweezer contained San-Ho-Zay teases from Trey.Â Tweezer also included a Cars Trucks Buses tease from Page and a Do You Feel Like We Do tease. Trey teased The Horse prior to Round Room. This show was officially released on CD asÂ <em>Live Phish 02.28.03.</em></p>\r\n",
+    "tour_name": "2003 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Destiny Unbound",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Sleep",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": true
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Soul Shakedown Party",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Round Room",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "Mexican Cousin",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-03-01",
+    "venue": "Greensboro Coliseum",
+    "city": "Greensboro",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "Trey teased San-Ho-Zay in Chalk Dust. Instead of emerging from behind the piano with his own microphone for Lawn Boy, Page came front stage and used Treyâs microphone and stand. The move prompted a raucous response from the crowd. Trey teased Oye Como Va and Another One Bites the Dust during YEM. Carolina was played for the first time since November 18, 1998 (146 shows). The YEM vocal jam included a Daniel Saw the Stone tease. Proud Mary was performed <em>a cappella</em> (including renderings of the musical breaks) to conclude the vocal jam. Only one other version of Proud Mary is known â a full-band version at the first ever Phish show on December 2, 1983 (1,379Â shows).",
+    "tour_name": "2003 Winter Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": true
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Carolina",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        },
+        {
+          "song": "Proud Mary",
+          "transition": false,
+          "footnote": "a cappella."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-06-11",
+    "venue": "Continental Airlines Arena",
+    "city": "East Rutherford",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Phish&nbsp;performed the national anthem&nbsp;before Game 4 of the 2003 NBA Finals between the San Antonio Spurs and the New Jersey Nets.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-06",
+    "venue": "Cricket Pavilion",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "USA",
+    "setlist_notes": "This was a tech rehearsal for the summer tour. Video snippets of Scents and Subtle Sounds, I Am Hydrogen, and Sanity were posted on phish.com. This setlist is incomplete.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": true
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": true
+        },
+        {
+          "song": "Sanity",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-07",
+    "venue": "Cricket Pavilion",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "USA",
+    "setlist_notes": "This show featured the Phish debut of Spices and the debut Scents and Subtle Sounds.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": true
+        },
+        {
+          "song": "Spices",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Anything But Me",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "The Man Who Stepped Into Yesterday",
+          "transition": false
+        },
+        {
+          "song": "Avenu Malkenu",
+          "transition": false
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-08",
+    "venue": "Coors Amphitheatre",
+    "city": "Chula Vista",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Limb By Limb contained a DEG tease from Trey. Disease was unfinished. This show featured the Phish debuts of Secret Smile and Discern. Hood included a Magilla tease from Page.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "My Sweet One",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": true
+        },
+        {
+          "song": "Frankie Says",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": true,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Secret Smile",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Discern",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-09",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "You Enjoy Myself and Twist were unfinished. Chalk Dust concluded with a rave-up akin to the ending of The Mango Song.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Jumpin' Jack Flash",
+          "transition": false,
+          "footnote": "With Mike."
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true,
+          "footnote": "Concluded with a rave-up akin to the ending of The Mango Song."
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-10",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "USA",
+    "setlist_notes": "Reba did not have the whistling ending. Free began differently than usual, as the band omitted the usual guitar-driven intro.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Spices",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Friday",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false,
+          "footnote": "Began differently than usual, as the band omitted the usual guitar-driven intro."
+        },
+        {
+          "song": "Seven Below",
+          "transition": true
+        },
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": true
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-12",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "This show marked the debut of Mock Song and Two Versions of Me, and the Phish debut of Army of One. Tweezer included a Free tease.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "Mexican Cousin",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Mock Song",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Army of One",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Maze",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Two Versions of Me",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Dogs Stole Things",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Frankenstein",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-13",
+    "venue": "Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "country": "USA",
+    "setlist_notes": "Round Room included a Dixie tease. Mike played electric bagpipes on portions of Halley&rsquo;s and Guyute. Seven Below included a Third Stone from the Sun tease and the Hood intro included a Seven Below tease.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": true
+        },
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": true
+        },
+        {
+          "song": "Dog Faced Boy",
+          "transition": true
+        },
+        {
+          "song": "Round Room",
+          "transition": true
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false,
+          "footnote": "Mike on electric bagpipes."
+        },
+        {
+          "song": "Guyute",
+          "transition": true,
+          "footnote": "Mike on electric bagpipes."
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Jesus Just Left Chicago",
+          "transition": true
+        },
+        {
+          "song": "Seven Below",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "First Tube",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-15",
+    "venue": "USANA Amphitheatre",
+    "city": "West Valley City",
+    "state": "UT",
+    "country": "USA",
+    "setlist_notes": "<p>Fans who arrived early enough to hear the soundcheck from outside the venue caught a 30-plus-minute version of Scents and Subtle Sounds. Scents was later released as a track on iTunes. Video footage of the soundcheck was posted on phish.com. This show marked the Phish debut of Mr. Completely and the debut of Spread it &lsquo;Round. The first Mr. Completely contained a tease of Life on Mars (Dexter Wansel).&nbsp;This abbreviated version of Buried Alive was performed at a much faster tempo than usual and in a different key. Trey teased San-Ho-Zay and Mr. Completely in Walls of the Cave.&nbsp;This show was officially released on CD as&nbsp;<em>Live Phish 07.15.03.</em></p>\r\n",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": true
+        },
+        {
+          "song": "Two Versions of Me",
+          "transition": true
+        },
+        {
+          "song": "Secret Smile",
+          "transition": true
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mr. Completely",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Low Rider",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": false
+        },
+        {
+          "song": "Buried Alive",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": false
+        },
+        {
+          "song": "Ha Ha Ha",
+          "transition": false
+        },
+        {
+          "song": "Big Black Furry Creature from Mars",
+          "transition": false
+        },
+        {
+          "song": "Mr. Completely",
+          "transition": false
+        },
+        {
+          "song": "Spread It 'Round",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-17",
+    "venue": "Verizon Wireless Amphitheater Kansas City",
+    "city": "Bonner Springs",
+    "state": "KS",
+    "country": "USA",
+    "setlist_notes": "The lyrics to Makisupa referenced a member of Phish&rsquo;s security team, Jim Tobin, being arrested, as well as the name of Phish&rsquo;s chief of security, John Langenstein. Makisupa also included a Dust in the Wind tease, prompting Trey to challenge the audience to name the song that was teased and call Mike&rsquo;s hotline to win &ldquo;some kind of crazy prize, like a date with Fish&nbsp;or something.&rdquo; Trey forgot the lyrics to Cavern, and after stumbling a bit, asked Page to take over. Cavern also included an AC/DC Bag tease. Contact contained a Dixie tease from Trey.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true,
+          "footnote": "Lyrics referenced a member of Phish's security team, Jim Tobin, being arrested, as well as the name of Phish's chief of security, John Langenstein."
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Anything But Me",
+          "transition": false
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Waves",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-18",
+    "venue": "Alpine Valley Music Theatre",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist_notes": "Trey announced &ldquo;Dan&rdquo; as the winner of the contest from the night before, as Dan was the first to call Mike&rsquo;s hotline to name Dust in the Wind as the song that was teased. Trey announced the prize was a private vacuum solo from Fish&nbsp;to Dan. As homage to the movie <em>Old School </em>(which also featured Dust in the Wind), Trey encouraged the crowd to &ldquo;earmuff&rdquo; it while Dan received his prize. To bring the rest of the crowd in on the joke, Phish subsequently debuted an abbreviated version of Dust in the Wind. The song began as a solo vacuum piece but Trey jumped in on vocals to assist the struggling Fish. Trey teased Come On (Part One) before DWD.&nbsp;DWD&nbsp;contained San-Ho-Zay and Psycho Killer teases and was unfinished. Catapult was sung over the jam that emerged from DWD. Charcter Zero also contained a San-Ho-Zay tease.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Axilla",
+          "transition": false
+        },
+        {
+          "song": "Rift",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": true
+        },
+        {
+          "song": "Roggae",
+          "transition": true
+        },
+        {
+          "song": "Discern",
+          "transition": true
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": false
+        },
+        {
+          "song": "Dust in the Wind",
+          "transition": false,
+          "footnote": "Phish debut; abbreviated version."
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": true
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Catapult",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "Secret Smile",
+          "transition": true
+        },
+        {
+          "song": "Two Versions of Me",
+          "transition": true
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-19",
+    "venue": "Alpine Valley Music Theatre",
+    "city": "East Troy",
+    "state": "WI",
+    "country": "USA",
+    "setlist_notes": "Reba did not have the whistling ending. Wilson included an extended jam segment. NICU, Ya Mar, and Rocky Top were played in succession for the first time ever â which would be quite an obscure item to report, except that all three songs found Trey exhorting Page to âPlay it, Leo!â Trey subsequently announced the songs as the âLeo Trio.â Ya Mar also included a lyrical change to reference Mikeâs Segway. Trey teased San-Ho-Zay in Julius. Piper contained a tease of Tweezer Reprise. Rock and Roll and Seven Below were unfinished.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "Wilson",
+          "transition": true,
+          "footnote": "Extended jam segment."
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": true
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Driver",
+          "transition": true
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true,
+          "footnote": "Lyrical change to reference Mike's Segway."
+        },
+        {
+          "song": "Rocky Top",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Rock and Roll",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Seven Below",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-21",
+    "venue": "Verizon Wireless Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "Trey teased The Chase part of Fluffhead after Runaway Jim. Weekapaug included a Shock the Monkey tease and concluded with a rave-up ending akin to the ending of The Mango Song. Limb By Limb contained a DEG tease from Trey.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Meat",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "The Old Home Place",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false,
+          "footnote": "Concluded with a rave-up ending akin to the ending of Mango Song."
+        }
+      ],
+      "2": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": true
+        },
+        {
+          "song": "46 Days",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Loving Cup",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-22",
+    "venue": "Verizon Wireless Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Punch You in the Eye",
+          "transition": false
+        },
+        {
+          "song": "Beauty of My Dreams",
+          "transition": true
+        },
+        {
+          "song": "Gumbo",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Carini",
+          "transition": false
+        },
+        {
+          "song": "Magilla",
+          "transition": true
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Split Open and Melt",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Friday",
+          "transition": true
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-23",
+    "venue": "Verizon Wireless Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "USA",
+    "setlist_notes": "Sneakin&#39; Sally did not contain a vocal jam. Disease &nbsp;was preceded by a Buffalo Bill tease, contained a Can&#39;t You Hear Me Knocking tease,&nbsp;and was unfinished. The lyrics to Makisupa referenced writing a letter to Max Creek. Makisupa also included a Dream Police quote. Antelope was dedicated to &ldquo;our friend Greg&rdquo; (presumably well-known fan Antelope Greg) for some &ldquo;shit he&rsquo;s got to deal with after this tour.&rdquo; Trey encouraged Greg to not &ldquo;let it get you down.&rdquo;",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Rift",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Sneakin' Sally Through the Alley",
+          "transition": true,
+          "footnote": "No vocal jam."
+        },
+        {
+          "song": "Billy Breathes",
+          "transition": true
+        },
+        {
+          "song": "Seven Below",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "The Squirming Coil",
+          "transition": true
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false,
+          "footnote": "Keyword referenced writing a letter to Max Creek."
+        },
+        {
+          "song": "Buffalo Bill",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": true
+        },
+        {
+          "song": "Thunderhead",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-25",
+    "venue": "Verizon Wireless Amphitheatre - Charlotte",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "<p>Kung (first since September 29, 1999, or 108 shows) was sung over the jam connecting Drowned and Twist. Fish quoted Manteca in Hood. Bowie included a full-band Tweezer tease.</p>\r\n",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Funky Bitch",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Two Versions of Me",
+          "transition": true
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Back on the Train",
+          "transition": false
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Drowned",
+          "transition": false
+        },
+        {
+          "song": "Kung",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Heavy Things",
+          "transition": true
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Star-Spangled Banner",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-26",
+    "venue": "HiFi Buys Amphitheatre",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "USA",
+    "setlist_notes": "Piper included a Can&rsquo;t You Hear Me Knocking tease. NICU included a bass solo from Mike (complete with Trey yelling, &ldquo;Play it, Cactus!&rdquo;) instead of Page&rsquo;s usual organ solo. YEM included a lyrical change to reference &ldquo;IT&rdquo; and concluded with a Happy Birthday tease for Chris Kuroda.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Turn On Your Love Light",
+          "transition": false,
+          "footnote": "With Mike."
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Tumblin' Down",
+          "transition": false,
+          "footnote": "With Mike."
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Turn On Your Love Light",
+          "transition": false,
+          "footnote": "With Mike."
+        },
+        {
+          "song": "It's Ice",
+          "transition": true
+        },
+        {
+          "song": "My Mind's Got a Mind of its Own",
+          "transition": false
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Mexican Cousin",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "NICU",
+          "transition": false,
+          "footnote": "Bass solo instead of Page's usual organ solo."
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "Lyrical change to reference \"IT.\""
+        }
+      ],
+      "e": [
+        {
+          "song": "Wading in the Velvet Sea",
+          "transition": false
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-27",
+    "venue": "ALLTEL Pavilion",
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "USA",
+    "setlist_notes": "Seven Below included a Mozambique tease. After Seven Below, Trey &ldquo;welcomed&rdquo; Mike back to the stage (followed by a &ldquo;Charge!&rdquo; tease, with Mike&rsquo;s name inserted). Trey teased Simple in Prince Caspian.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Discern",
+          "transition": true
+        },
+        {
+          "song": "Anything But Me",
+          "transition": true
+        },
+        {
+          "song": "Llama",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Halley's Comet",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": true
+        },
+        {
+          "song": "Tube",
+          "transition": false
+        },
+        {
+          "song": "Prince Caspian",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Fire",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-29",
+    "venue": "Post-Gazette Pavilion at Star Lake",
+    "city": "Burgettstown",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "Daniel was played for the first time since February 23, 1997 (287 shows). Trey teased San-Ho-Zay in Cool It Down. Scent of a Mule included a tease of Wouldnât It Be Loverly (from <em>My Fair Lady</em>). Harpua was played for the first time since November 2, 1998 (173 shows). The Harpua narration concerned Jimmy searching for âITâ and, eventually, joining a rock band and finding âITâ on the road. The Phish debut of Fooled Around and Fell in Love was preceded by a HYHU tease. In the soundcheck, Seven Below was teased in the Jam and Blue Bayou was quoted in Bittersweet Motel.Â This show was officially released on CD asÂ <em>Live Phish 07.29.03.</em>",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Daniel Saw the Stone",
+          "transition": false
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true
+        },
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Cool It Down",
+          "transition": true
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Fee",
+          "transition": false
+        },
+        {
+          "song": "Timber (Jerry the Mule)",
+          "transition": false
+        },
+        {
+          "song": "When the Circus Comes",
+          "transition": false
+        },
+        {
+          "song": "McGrupp and the Watchful Hosemasters",
+          "transition": true
+        },
+        {
+          "song": "Golgi Apparatus",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Crosseyed and Painless",
+          "transition": false
+        },
+        {
+          "song": "Thunderhead",
+          "transition": true
+        },
+        {
+          "song": "Brother",
+          "transition": true
+        },
+        {
+          "song": "Harpua",
+          "transition": false,
+          "footnote": "Narration concerned Jimmy searching for \"IT\" and, eventually, joining a rock band and finding \"IT\" on the road."
+        },
+        {
+          "song": "Bittersweet Motel",
+          "transition": false
+        },
+        {
+          "song": "Harpua",
+          "transition": false
+        },
+        {
+          "song": "Fooled Around and Fell in Love",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Harpua",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Farmhouse",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-30",
+    "venue": "Tweeter Center at the Waterfront",
+    "city": "Camden",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "Lonesome Cowboy Bill was played for the first time since October 31, 1998 (175 shows). This show marked the Phish debut of You Ainât Goinâ Nowhere. On Your Way Down was played for the first time since October 2, 1999 (110 shows). FEFY included a Bathtub Gin tease from Page.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "My Friend, My Friend",
+          "transition": true
+        },
+        {
+          "song": "Lonesome Cowboy Bill",
+          "transition": true
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": true
+        },
+        {
+          "song": "You Ain't Goin' Nowhere",
+          "transition": true,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Spock's Brain",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "On Your Way Down",
+          "transition": true
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": true
+        },
+        {
+          "song": "Bug",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Secret Smile",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-07-31",
+    "venue": "Tweeter Center at the Waterfront",
+    "city": "Camden",
+    "state": "NJ",
+    "country": "USA",
+    "setlist_notes": "<p>Weekapaug included an In-A-Gadda-Da-Vida tease. The tease may have been homage to Iron Butterfly guitarist Erik Braunn, who passed away two days before. Trey teased Fire (Ohio Players) in Hood.</p>\r\n",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": true
+        },
+        {
+          "song": "The Sloth",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Possum",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        },
+        {
+          "song": "Friday",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-08-01",
+    "venue": "Loring Commerce Centre",
+    "city": "Limestone",
+    "state": "ME",
+    "country": "USA",
+    "setlist_notes": "This Friday night soundcheck for the IT festival was simulcast via &ldquo;The Bunny,&rdquo; the official festival radio station.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Skin It Back",
+          "transition": true
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-08-02",
+    "venue": "Loring Commerce Centre",
+    "city": "Limestone",
+    "state": "ME",
+    "country": "USA",
+    "setlist_notes": "This was the first show of the IT festival. Ya Mar, DWD, and Seven Below were unfinished. Birds was followed by a âMeatstickâ chant from the crowd, prompting Trey to note that the band would âlike to honorâ the request. After a long pause, Trey commented, âWeâre taking our sweet time up here becauseâ¦we have no place to go for two days.â DWD contained a San-Ho-Zay tease from Trey and multiple Scents and Subtle Sounds teases.Â NICU ended with a bass solo from Mike at Treyâs request (âPlay it, Cactus!â). Seven Below contained an On Your Way Down tease,Â Scents and Subtle Sounds included Seven Below teases. Before Dog Log, Trey remarked that the band couldnât figure out what to play, and noted how, on this tour, the band made a conscious effort to not think about what songs they were going to play next. The fourth set âTower Jamâ found Phish playing on top the old air traffic control tower near the concert field. The set consisted of roughly an hourâs worth of unscripted jam material, with no notable teases or jams present. While Phish jammed, Chris Kuroda illuminated the towerâs interior and exterior with a light show and dancers suspended by wires around the side of the tower performed on the structure.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "AC/DC Bag",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Reba",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Meatstick",
+          "transition": true
+        },
+        {
+          "song": "Two Versions of Me",
+          "transition": true
+        },
+        {
+          "song": "Vultures",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Down with Disease",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "NICU",
+          "transition": false
+        },
+        {
+          "song": "Brother",
+          "transition": true
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Discern",
+          "transition": true
+        },
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "David Bowie",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Scents and Subtle Sounds",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": false
+        },
+        {
+          "song": "Spread It 'Round",
+          "transition": false
+        },
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Dog Log",
+          "transition": false
+        },
+        {
+          "song": "The Mango Song",
+          "transition": false
+        }
+      ],
+      "4": [
+        {
+          "song": "Tower Jam",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-08-03",
+    "venue": "Loring Commerce Centre",
+    "city": "Limestone",
+    "state": "ME",
+    "country": "USA",
+    "setlist_notes": "This was the second show of the IT festival. Chalk Dust contained DEG teases from Mike. The ending of Chalk Dust was performed at near double-time. Trey omitted a verse in Wilson. Afterwards, he announced that it was the âshortest version everâ and dedicated it to Phish archivist Kevin Shapiro. Trey then humorously announced that the band would next play the âlongest Bittersweet Motelâ (traditionally one of the shortest songs in the Phish canon) while Page teased \"Charge!\"Â The crowd responded with a passionate âFluffheadâ chant, but Trey responded: âMike says noâ (prompting laughs from the other band members). Appropriately, Trey launched into Mikeâs Song but Mike had the last laugh: during the Mikeâs Song intro, Mike sang his âHendgeâ lyric that had been omitted from Wilson. YEM contained the event-appropriate lyrical change âBoy, Man, God, IT,â a Frankenstein tease from Mike, and a vocal quote of Daniel Saw the Stone. The band vamped on the theme to <em>Chariots of Fire</em> (a Phish debut) while Trey introduced the top finishers in the Runaway Jim 5K race. During Antelope, Trey thanked the staff, road crew, caterers (âpart of the reason weâre playing so well is because we have the best food this tour that weâve ever hadâ), and fans. He concluded by encouraging everyone to drive safely and noted tongue-in-cheek that next yearâs âIT 2â would have a traffic-free entrance. Antelope also included Under Pressure and Itâs Ice teases.",
+    "tour_name": "2003 Summer Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Daniel Saw the Stone",
+          "transition": false
+        },
+        {
+          "song": "Saw It Again",
+          "transition": true
+        },
+        {
+          "song": "Punch You in the Eye",
+          "transition": true
+        },
+        {
+          "song": "Army of One",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true,
+          "footnote": "Ending performed at near double-time."
+        },
+        {
+          "song": "Wilson",
+          "transition": true,
+          "footnote": "Trey omitted a verse."
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false,
+          "footnote": "\"Hendge\" lyric from Mike."
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Mellow Mood",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Mountains in the Mist",
+          "transition": true
+        },
+        {
+          "song": "Pebbles and Marbles",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": false,
+          "footnote": "Lyrical change: \"Boy, Man, God, IT.\""
+        },
+        {
+          "song": "Chariots of Fire",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "46 Days",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        },
+        {
+          "song": "The Lizards",
+          "transition": true
+        },
+        {
+          "song": "Secret Smile",
+          "transition": false
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-11-28",
+    "venue": "Nassau Veterans Memorial Coliseum",
+    "city": "Uniondale",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Disease was unfinished. This show included the debut of Crowd Control. Trey introduced Mike to sing âhis song.â Crimes of the Mind (first since July 10, 1994, or 507 shows) featured the Dude of Life on vocals. During the song, the Dude congratulated Phish on their 20 years together, and wished them success for 20 more.",
+    "tour_name": "2003 20th Anniversary Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": true
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "What's the Use?",
+          "transition": false
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "First Tube",
+          "transition": true
+        },
+        {
+          "song": "Frankie Says",
+          "transition": false
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Waves",
+          "transition": false
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": false
+        },
+        {
+          "song": "Down with Disease",
+          "transition": true,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Walls of the Cave",
+          "transition": true
+        },
+        {
+          "song": "Two Versions of Me",
+          "transition": true
+        },
+        {
+          "song": "Crowd Control",
+          "transition": true,
+          "footnote": "Debut."
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Crimes of the Mind",
+          "transition": false,
+          "footnote": "The Dude of Life on vocals."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-11-29",
+    "venue": "Wachovia Spectrum",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "USA",
+    "setlist_notes": "Trey teased San-Ho-Zay in Seven Below, Julius, and Twist. The lyrics to Makisupa referenced waking up âin Hempstead.â Later in Makisupa, Trey commented on the upcoming 20th anniversary of the band, and noted Makisupa as the first original Phish song ever played. Trey also commented on his long-standing friendship with Tom Marshall and said that Tom had written Makisupa when he was a child. Trey brought Tom out on stage and noted that he thought Makisupa was written in 1969, leading Tom to note that we âhave a 60âs song.â Prior to Tom singing on Buffalo Bill, Trey noted: âTom is now going to sing you a song about a boss, a log, and a piece of rope.â",
+    "tour_name": "2003 20th Anniversary Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false
+        },
+        {
+          "song": "Cars Trucks Buses",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Dirt",
+          "transition": false
+        },
+        {
+          "song": "Seven Below",
+          "transition": true
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Fast Enough for You",
+          "transition": false
+        },
+        {
+          "song": "Julius",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Taste",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true,
+          "footnote": "Keyword referenced waking up in \"Hempstead.\""
+        },
+        {
+          "song": "Buffalo Bill",
+          "transition": false,
+          "footnote": "Tom Marshall on vocals."
+        },
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Strange Design",
+          "transition": false
+        },
+        {
+          "song": "Character Zero",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Friday",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-12-01",
+    "venue": "Pepsi Arena",
+    "city": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "Tweezer was preceded by a Dixie tease. Camel Walk through Fire featured Jeff Holdsworth on guitar. This was Jeffâs first known performance with his former Phish brethren since May 17, 1986 (1,348Â shows). Camel Walk, Possum, and Long Cool Woman (first since October 30, 1998, or 182 shows) also featured Jeff on lead vocals. Antelope featured Tom Marshall on vocals.",
+    "tour_name": "2003 20th Anniversary Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Chalk Dust Torture",
+          "transition": true
+        },
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "Thunderhead",
+          "transition": false
+        },
+        {
+          "song": "Sparkle",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": false
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "Camel Walk",
+          "transition": true,
+          "footnote": "Jeff Holdsworth on guitar and vocals."
+        },
+        {
+          "song": "Possum",
+          "transition": true,
+          "footnote": "Jeff Holdsworth on guitar and vocals."
+        },
+        {
+          "song": "Long Cool Woman in a Black Dress",
+          "transition": false,
+          "footnote": "Jeff Holdsworth on guitar and vocals."
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false,
+          "footnote": "Jeff Holdsworth on guitar and Tom Marshall on vocals."
+        }
+      ],
+      "e": [
+        {
+          "song": "Fire",
+          "transition": false,
+          "footnote": "Jeff Holdsworth on guitar."
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-12-02",
+    "venue": "FleetCenter",
+    "city": "Boston",
+    "state": "MA",
+    "country": "USA",
+    "setlist_notes": "This gig commemorated the 20th anniversary of the first Phish show. In the audience, a section of seats were roped off to make way for a music stand. The music stand held a three-ring binder that contained lyrics from the Phish canon, but it did not play an active role in the performance. Ya Mar contained teases of The Tra La La Song (One Banana, Two Banana). At the end of Disease, a video screen descended behind the stage. As the house lights remained down, a 25+ minute video was played featuring retrospective highlights from throughout Phish&rsquo;s career. Before the second set, Mike brought out a tray of desserts and shared them with fans in front of the stage. Highway to Hell was briefly teased by Trey before Rock and Roll. Weekapaug was unfinished. Tweezer Reprise included lyrics (sung by Trey) from Mike&rsquo;s Song. Appropriately, the post-show house music was the Beatles&rsquo; song Sgt. Pepper&rsquo;s Lonely Heart&rsquo;s Club Band (which begins with the lyric, &ldquo;It was twenty years ago today&hellip;&rdquo;).",
+    "tour_name": "2003 20th Anniversary Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Harry Hood",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": true
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": true
+        },
+        {
+          "song": "Ya Mar",
+          "transition": true
+        },
+        {
+          "song": "Horn",
+          "transition": false
+        },
+        {
+          "song": "Piper",
+          "transition": false
+        },
+        {
+          "song": "Anything But Me",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false,
+          "footnote": "Mike's Song lyrics sung by Trey."
+        },
+        {
+          "song": "Frankenstein",
+          "transition": false
+        },
+        {
+          "song": "Kung",
+          "transition": false
+        },
+        {
+          "song": "Frankenstein",
+          "transition": true
+        },
+        {
+          "song": "All of These Dreams",
+          "transition": true
+        },
+        {
+          "song": "The Wedge",
+          "transition": true
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Cities",
+          "transition": false
+        },
+        {
+          "song": "Maze",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Bug",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-12-28",
+    "venue": "American Airlines Arena",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "setlist_notes": "Frankie Says was unfinished and included an extended jam segment. Fish&nbsp;forgot the words to Love You and scatted one verse, then sang, in near-perfect time: &ldquo;I can&rsquo;t remember the words now / I can&rsquo;t remember the words / And it really doesn&rsquo;t matter &lsquo;cause I can&rsquo;t sing either / So who gives a fuck, it&rsquo;s time for the vacuum cleaner.&rdquo; During the closing HYHU, Fish&nbsp;introduced the band, and himself as &ldquo;Henrietta.&rdquo; Suzy included an extended jam segment after the first chorus. Trey seemed to end the song after the second chorus while the rest of the band continued to play. The jam after Suzy contained a Lizards tease from Trey.",
+    "tour_name": "2003 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "David Bowie",
+          "transition": true
+        },
+        {
+          "song": "Sample in a Jar",
+          "transition": true
+        },
+        {
+          "song": "Tweezer",
+          "transition": false
+        },
+        {
+          "song": "Bouncing Around the Room",
+          "transition": true
+        },
+        {
+          "song": "AC/DC Bag",
+          "transition": false
+        },
+        {
+          "song": "Frankie Says",
+          "transition": false,
+          "footnote": "Unfinished; extended jam segment."
+        },
+        {
+          "song": "Llama",
+          "transition": true
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": false
+        },
+        {
+          "song": "Love You",
+          "transition": false,
+          "footnote": "Altered lyrics due to Fish forgetting the words."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Tweezer Reprise",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Gotta Jibboo",
+          "transition": true
+        },
+        {
+          "song": "Suzy Greenberg",
+          "transition": false,
+          "footnote": "Extended jam segment after first chorus."
+        },
+        {
+          "song": "Jam",
+          "transition": false
+        },
+        {
+          "song": "Theme From the Bottom",
+          "transition": true
+        },
+        {
+          "song": "Water in the Sky",
+          "transition": true
+        },
+        {
+          "song": "Friday",
+          "transition": false
+        },
+        {
+          "song": "Harry Hood",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Sleeping Monkey",
+          "transition": false
+        },
+        {
+          "song": "Loving Cup",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-12-29",
+    "venue": "American Airlines Arena",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "setlist_notes": "Piper was preceded by an&nbsp;On Broadway tease. Wolfman&#39;s included Apostrophe teases by Trey. Twist contained a Dinah-Moe Humm quote from Trey. Free included a guitar and bass duet jam. A lengthy audience ovation followed Free.",
+    "tour_name": "2003 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Piper",
+          "transition": true
+        },
+        {
+          "song": "War Pigs",
+          "transition": true,
+          "footnote": "With Mike."
+        },
+        {
+          "song": "Foam",
+          "transition": true
+        },
+        {
+          "song": "Deep Elem Blues",
+          "transition": false,
+          "footnote": "With Mike."
+        },
+        {
+          "song": "Anything But Me",
+          "transition": true
+        },
+        {
+          "song": "Limb By Limb",
+          "transition": true
+        },
+        {
+          "song": "Wolfman's Brother",
+          "transition": true
+        },
+        {
+          "song": "Poor Heart",
+          "transition": false
+        },
+        {
+          "song": "Cavern",
+          "transition": false
+        }
+      ],
+      "2": [
+        {
+          "song": "Rock and Roll",
+          "transition": false
+        },
+        {
+          "song": "Twist",
+          "transition": false
+        },
+        {
+          "song": "Boogie On Reggae Woman",
+          "transition": false
+        },
+        {
+          "song": "Ghost",
+          "transition": false
+        },
+        {
+          "song": "Free",
+          "transition": true,
+          "footnote": "Guitar and bass duet jam."
+        },
+        {
+          "song": "Divided Sky",
+          "transition": true
+        },
+        {
+          "song": "Good Times Bad Times",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Waste",
+          "transition": false
+        }
+      ],
+      "e2": [
+        {
+          "song": "The Squirming Coil",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-12-30",
+    "venue": "American Airlines Arena",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "setlist_notes": "<p>Wilson contained War Pigs teases from Mike and was unfinished. The song may have been played as an opener in memoriam of actor Earl Hindman, best known as âWilsonâ from the television series <em>Home Improvement</em>, who passed away earlier in the day. NICU contained Shafty teases from Mike. Weigh was played for the first time since August 2, 1998 (202 shows). Gin included Show Biz Kids teases. 2001 included a P. Funk (Wants to Get Funked Up) jam containing some brief lyrics, as well as Gin,Â Auld Lang Syne, and The Little Drummer Boy teases. Tube was unfinished. L.A. Woman was a Phish debut; Birds included L.A. Woman teases. During Makisupa, Trey noted that they were going to play Touch Me, but decided not to because Fish couldn't remember the words and they didn't know how have a horn section. To make it up to the crowd for letting them down, Trey brought out George Clinton and Parliament/Funkadelic (also known as The P. Funk All-Stars). Trey commentedÂ âand thatâs even<em> better</em> than Touch Me!â Page teased Touch Me while Trey was talking. The ensuing P. Funk Jam moved through pieces of several classic Parliament/Funkadelic tunes including Butt-a-Butt, Give Up the Funk (Tear the Roof Off the Sucker), P. Funk (Wants to Get Funked Up), and One Nation Under A Groove. Get Low (Lil Jon and the Eastside Boyz) was also part of the medley. By the end of the jam, FishÂ was alone on stage playing vacuum. Fish then exited, leaving the stage empty. Phish returned alone to finish Makisupa; to prove that P. Funk was better than FishÂ singing Touch Me, Makisupa closed with FishÂ singing the first line of Touch Me <em>a cappella.</em> During the last chorus of Contact, Trey sang lines like âL.A. Womanâ and âMake my funk the P. Funkâ in place of his usual harmonies.</p>\r\n",
+    "tour_name": "2003 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Cholly (Funk Getting Ready to Roll)",
+          "transition": true,
+          "footnote": "Cholly (Funk Getting Ready to Roll)"
+        },
+        {
+          "song": "Sand",
+          "transition": false
+        },
+        {
+          "song": "Funkentelechy",
+          "transition": true,
+          "footnote": "Funkentelechy"
+        },
+        {
+          "song": "Shafty",
+          "transition": false
+        },
+        {
+          "song": "Bop Gun",
+          "transition": true,
+          "footnote": "Bop Gun"
+        },
+        {
+          "song": "NICU",
+          "transition": true
+        },
+        {
+          "song": "Undisco Kidd",
+          "transition": true,
+          "footnote": "Undisco Kidd"
+        },
+        {
+          "song": "Weigh",
+          "transition": true
+        },
+        {
+          "song": "Cosmic Slop",
+          "transition": true,
+          "footnote": "Cosmic Slop"
+        },
+        {
+          "song": "Cities",
+          "transition": true
+        },
+        {
+          "song": "Aquaboogie",
+          "transition": true,
+          "footnote": "Aquaboogie"
+        },
+        {
+          "song": "Strange Design",
+          "transition": false
+        },
+        {
+          "song": "Booty",
+          "transition": false,
+          "footnote": "Booty"
+        },
+        {
+          "song": "Scent of a Mule",
+          "transition": true
+        },
+        {
+          "song": "Hard as Steel",
+          "transition": true,
+          "footnote": "Hard as Steel"
+        },
+        {
+          "song": "Bathtub Gin",
+          "transition": false
+        },
+        {
+          "song": "Stroke",
+          "transition": true,
+          "footnote": "Stroke"
+        },
+        {
+          "song": "Also Sprach Zarathustra",
+          "transition": false
+        },
+        {
+          "song": "Speed Dreaminâ",
+          "transition": false,
+          "footnote": "Speed Dreaminâ"
+        },
+        {
+          "song": "Bounce to This",
+          "transition": true,
+          "footnote": "Bounce to This"
+        },
+        {
+          "song": "Never Gonna Tell It",
+          "transition": true,
+          "footnote": "Never Gonna Tell It"
+        },
+        {
+          "song": "Maggot Brain",
+          "transition": true,
+          "footnote": "Maggot Brain"
+        },
+        {
+          "song": "Cholly (Funk Getting Ready to Roll)",
+          "transition": true,
+          "footnote": "Cholly (Funk Getting Ready to Roll)"
+        },
+        {
+          "song": "Flashlight",
+          "transition": true,
+          "footnote": "Flashlight"
+        },
+        {
+          "song": "Knee Deep",
+          "transition": false,
+          "footnote": "Knee Deep"
+        }
+      ],
+      "2": [
+        {
+          "song": "Tube",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "L.A. Woman",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Birds of a Feather",
+          "transition": false
+        },
+        {
+          "song": "L.A. Woman",
+          "transition": false
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": false
+        },
+        {
+          "song": "P-Funk Medley",
+          "transition": true,
+          "footnote": "George Clinton and Parliament/Funkadelic; Medley included Butt-a-Butt, Get Low, Give Up the Funk (Tear the Roof Off the Sucker), P. Funk (Wants to Get Funked Up), and One Nation Under a Groove. Fish on vacuum."
+        },
+        {
+          "song": "Makisupa Policeman",
+          "transition": true
+        },
+        {
+          "song": "Down with Disease",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Contact",
+          "transition": true
+        },
+        {
+          "song": "While My Guitar Gently Weeps",
+          "transition": false
+        }
+      ]
+    }
+  },
+  {
+    "showdate": "2003-12-31",
+    "venue": "American Airlines Arena",
+    "city": "Miami",
+    "state": "FL",
+    "country": "USA",
+    "setlist_notes": "The brief conclusions of Wilson and Tube completed the versions from the previous evening. Weekapaug included Jungle Boogie lyrics and a Divided Sky tease; Weekapaug, YEM, First Tube, and Chalk Dust also included Auld Lang Syne teases. Seven Below was unfinished. The house music played over the P.A. during the second setbreak consisted solely of songs that referenced &ldquo;cars&rdquo; in their titles. As midnight neared during Jungle Boogie (a Phish debut), Fish&rsquo;s drum kit was wheeled to the side of the stage. An Austin Cooper Mini automobile was lowered to the stage from above. The Miami Palmetto Senior High Band and cheerleading squad emerged from the car one-by-one, giving the impression that they were all in the car together. In reality, the car had touched down over a trap door in the stage and the guests came out from underneath. Also emerging were dancers similar to the bunny-women present at the IT Festival. The marching band joined in on the jam that emerged from Jungle Boogie. With the stage covered with marching band members and dancers (some even on top of Page&rsquo;s baby grand piano), an emcee (dressed in an Eddie George, Tennessee Titans, #27 football jersey) counted the clock down to midnight. A massive balloon drop followed. Phish then led the marching band through an instrumental version of Iron Man (also a Phish debut). Reba did not have the whistling ending. For his &ldquo;first song of 2004,&rdquo; in honor of the Miami Heat, Fish&nbsp;performed the Phish debut of Feel the Heat, which contained Fame quotes from Trey and Fish.&nbsp;HYHU contained more references to &ldquo;Henrietta&rsquo;s Heat&rdquo; as Fish&nbsp;took laps around the stage. Frankenstein was preceded by a Fluffhead tease.",
+    "tour_name": "2003 NYE Run",
+    "sets": {
+      "1": [
+        {
+          "song": "Wilson",
+          "transition": false,
+          "footnote": "Completed the version from the previous evening."
+        },
+        {
+          "song": "Mike's Song",
+          "transition": false
+        },
+        {
+          "song": "I Am Hydrogen",
+          "transition": false
+        },
+        {
+          "song": "Weekapaug Groove",
+          "transition": true
+        },
+        {
+          "song": "The Moma Dance",
+          "transition": false
+        },
+        {
+          "song": "Guyute",
+          "transition": true
+        },
+        {
+          "song": "You Enjoy Myself",
+          "transition": true
+        },
+        {
+          "song": "First Tube",
+          "transition": false
+        },
+        {
+          "song": "Tube",
+          "transition": false,
+          "footnote": "Completed the version from the previous evening."
+        }
+      ],
+      "2": [
+        {
+          "song": "Stash",
+          "transition": true
+        },
+        {
+          "song": "Seven Below",
+          "transition": false,
+          "footnote": "Unfinished."
+        },
+        {
+          "song": "Lawn Boy",
+          "transition": true
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        },
+        {
+          "song": "Slave to the Traffic Light",
+          "transition": false
+        },
+        {
+          "song": "Chalk Dust Torture",
+          "transition": false
+        }
+      ],
+      "3": [
+        {
+          "song": "Jungle Boogie",
+          "transition": false,
+          "footnote": "Phish debut. Miami Palmetto Senior High Band and cheerleading squad."
+        },
+        {
+          "song": "Auld Lang Syne",
+          "transition": false
+        },
+        {
+          "song": "Iron Man",
+          "transition": false,
+          "footnote": "Phish debut; instrumental."
+        },
+        {
+          "song": "Runaway Jim",
+          "transition": false
+        },
+        {
+          "song": "Simple",
+          "transition": false
+        },
+        {
+          "song": "Reba",
+          "transition": true,
+          "footnote": "No whistling."
+        },
+        {
+          "song": "I Didn't Know",
+          "transition": false
+        },
+        {
+          "song": "Feel the Heat",
+          "transition": false,
+          "footnote": "Phish debut."
+        },
+        {
+          "song": "Hold Your Head Up",
+          "transition": true
+        },
+        {
+          "song": "Run Like an Antelope",
+          "transition": false
+        }
+      ],
+      "e": [
+        {
+          "song": "Frankenstein",
+          "transition": false
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "showdate": "2008-09-06",
+    "venue": "Midtown Loft and Terrace",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "setlist_notes": "This impromptu reunion took place at Brad Sands&rsquo;s wedding reception. This was the only known performance by Phish during the &ldquo;<a href=\"http://www.phish.net/faq/breakup.html\">break-up</a>&rdquo;.",
+    "tour_name": "Not Part of a Tour",
+    "sets": {
+      "1": [
+        {
+          "song": "Suzy Greenberg",
+          "transition": true
+        },
+        {
+          "song": "Julius",
+          "transition": true
+        },
+        {
+          "song": "Waste",
+          "transition": false
+        }
+      ]
+    }
+  }
+]
